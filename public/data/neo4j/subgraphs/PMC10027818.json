@@ -1,0 +1,725 @@
+{
+  "pmcid": "PMC10027818",
+  "nodes": [
+    {
+      "fullLabel": "PMC10027818",
+      "id": "PMC10027818",
+      "label": "PMC10027818",
+      "properties": {
+        "pmcid": "PMC10027818",
+        "first_seen": "2025-10-05T07:29:12.096756",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:12.373966"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "BRIC experiments analyzed were conducted under dark growth conditions (experimental condition)",
+      "id": "CUSTOM:deb01444",
+      "label": "BRIC experiments ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.375896",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "BRIC experiments analyzed were conducted under dark growth conditions (experimental condition)",
+        "last_seen": "2025-10-05T07:29:12.375896",
+        "obo_id": "CUSTOM:deb01444"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Meta-study spaceflight experiments were limited to young seedlings of Arabidopsis (limitation of dataset)",
+      "id": "CUSTOM:86c4aaf8",
+      "label": "Meta-study spacef...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.369605",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Meta-study spaceflight experiments were limited to young seedlings of Arabidopsis (limitation of dataset)",
+        "last_seen": "2025-10-05T07:29:12.369605",
+        "obo_id": "CUSTOM:86c4aaf8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Conserved roles for HSP101 and COR78 suggest a fundamental disruption of the ROS and/or antioxidant systems related to the plastid may accompany plant growth in space",
+      "id": "CUSTOM:c33d2370",
+      "label": "Conserved roles f...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.363380",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Conserved roles for HSP101 and COR78 suggest a fundamental disruption of the ROS and/or antioxidant systems related to the plastid may accompany plant growth in space",
+        "last_seen": "2025-10-05T07:29:12.363380",
+        "obo_id": "CUSTOM:c33d2370"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "BRIC-focused analysis indicates the plastid is a likely shared response site across many spaceflight experiments",
+      "id": "CUSTOM:d87adf65",
+      "label": "BRIC-focused anal...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.356354",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "BRIC-focused analysis indicates the plastid is a likely shared response site across many spaceflight experiments",
+        "last_seen": "2025-10-05T07:29:12.356354",
+        "obo_id": "CUSTOM:d87adf65"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "When technological and environmental/hardware factors are controlled, comparisons across spaceflight-related Arabidopsis experiments reveal alterations in general responses to environmental stresses, photosynthesis, and elements of primary and secondary metabolism",
+      "id": "CUSTOM:21e9b86c",
+      "label": "When technologica...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.349239",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "When technological and environmental/hardware factors are controlled, comparisons across spaceflight-related Arabidopsis experiments reveal alterations in general responses to environmental stresses, photosynthesis, and elements of primary and secondary metabolism",
+        "last_seen": "2025-10-05T07:29:12.349239",
+        "obo_id": "CUSTOM:21e9b86c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Environmental conditions and hardware-related constraints in experimental design produce smaller but important differences that can confound interpretation of spaceflight versus ground control comparisons",
+      "id": "CUSTOM:81fb9bb1",
+      "label": "Environmental con...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.342899",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Environmental conditions and hardware-related constraints in experimental design produce smaller but important differences that can confound interpretation of spaceflight versus ground control comparisons",
+        "last_seen": "2025-10-05T07:29:12.342899",
+        "obo_id": "CUSTOM:81fb9bb1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Differences in transcriptome monitoring technologies (RNA-seq versus microarray) can impose greater variation on results than the biological treatment (spaceflight versus ground control)",
+      "id": "CUSTOM:06073fb6",
+      "label": "Differences in tr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.335950",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Differences in transcriptome monitoring technologies (RNA-seq versus microarray) can impose greater variation on results than the biological treatment (spaceflight versus ground control)",
+        "last_seen": "2025-10-05T07:29:12.335950",
+        "obo_id": "CUSTOM:06073fb6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "COR78 expression is co-regulated with elements of the plastid antioxidant system and is closely linked to levels of H2O2 processing by the plant",
+      "id": "CUSTOM:fa6e4293",
+      "label": "COR78 expression ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.328289",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "COR78 expression is co-regulated with elements of the plastid antioxidant system and is closely linked to levels of H2O2 processing by the plant",
+        "last_seen": "2025-10-05T07:29:12.328289",
+        "obo_id": "CUSTOM:fa6e4293"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "COR78 expression is regulated through ROS-responsive transcriptional cascades (H2O2-responsive modulation through the DREB2A transcription factor) linked to heat shock response elements",
+      "id": "CUSTOM:2ac418c2",
+      "label": "COR78 expression ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.321290",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "COR78 expression is regulated through ROS-responsive transcriptional cascades (H2O2-responsive modulation through the DREB2A transcription factor) linked to heat shock response elements",
+        "last_seen": "2025-10-05T07:29:12.321290",
+        "obo_id": "CUSTOM:2ac418c2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "COR78 expression is highly inducible in response to a range of abiotic factors (wounding, salt, osmotic stress, drought, hypobaric environments) that trigger ROS signaling and oxidative stress",
+      "id": "CUSTOM:cc31ad0c",
+      "label": "COR78 expression ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.314456",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "COR78 expression is highly inducible in response to a range of abiotic factors (wounding, salt, osmotic stress, drought, hypobaric environments) that trigger ROS signaling and oxidative stress",
+        "last_seen": "2025-10-05T07:29:12.314456",
+        "obo_id": "CUSTOM:cc31ad0c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "COR78 is part of a conserved transcriptional response of Arabidopsis on orbit in the BRIC hardware",
+      "id": "CUSTOM:5fd84fa3",
+      "label": "COR78 is part of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.307504",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "COR78 is part of a conserved transcriptional response of Arabidopsis on orbit in the BRIC hardware",
+        "last_seen": "2025-10-05T07:29:12.307504",
+        "obo_id": "CUSTOM:5fd84fa3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Light-driven reactions of photosynthetic electron transport are not responsible for observed spaceflight-related plastid effects in BRIC experiments conducted under dark growth",
+      "id": "CUSTOM:3b5433d0",
+      "label": "Light-driven reac...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.301682",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Light-driven reactions of photosynthetic electron transport are not responsible for observed spaceflight-related plastid effects in BRIC experiments conducted under dark growth",
+        "last_seen": "2025-10-05T07:29:12.301682",
+        "obo_id": "CUSTOM:3b5433d0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Large number of plastid genes responding to spaceflight",
+      "id": "CUSTOM:92f8149c",
+      "label": "Large number of p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.295259",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Large number of plastid genes responding to spaceflight",
+        "last_seen": "2025-10-05T07:29:12.295259",
+        "obo_id": "CUSTOM:92f8149c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Similarity between gene expression patterns altered by oxidative damage from the high light stress response on Earth and spaceflight-associated differentially expressed genes (DEGs) identified in seedlings from BRIC experiments",
+      "id": "CUSTOM:c8b0233c",
+      "label": "Similarity betwee...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.288408",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Similarity between gene expression patterns altered by oxidative damage from the high light stress response on Earth and spaceflight-associated differentially expressed genes (DEGs) identified in seedlings from BRIC experiments",
+        "last_seen": "2025-10-05T07:29:12.288408",
+        "obo_id": "CUSTOM:c8b0233c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "need for experiments examining function of specific genes in response to spaceflight stressors",
+      "id": "CUSTOM:9cd778a1",
+      "label": "need for experime...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.282351",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "need for experiments examining function of specific genes in response to spaceflight stressors",
+        "last_seen": "2025-10-05T07:29:12.282351",
+        "obo_id": "CUSTOM:9cd778a1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "need for analyses to determine causes of altered redox activities in plastids of space-flown plants",
+      "id": "CUSTOM:8591e189",
+      "label": "need for analyses...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.276711",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "need for analyses to determine causes of altered redox activities in plastids of space-flown plants",
+        "last_seen": "2025-10-05T07:29:12.276711",
+        "obo_id": "CUSTOM:8591e189"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "need for studies on variable light regimes affecting space-grown plant productivity and physiology",
+      "id": "CUSTOM:41791dd7",
+      "label": "need for studies ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.271498",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "need for studies on variable light regimes affecting space-grown plant productivity and physiology",
+        "last_seen": "2025-10-05T07:29:12.271498",
+        "obo_id": "CUSTOM:41791dd7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "statistical/analytical power of comparative omics analyses when focusing on a few hardware options",
+      "id": "CUSTOM:fd93daef",
+      "label": "statistical/analy...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.265927",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "statistical/analytical power of comparative omics analyses when focusing on a few hardware options",
+        "last_seen": "2025-10-05T07:29:12.265927",
+        "obo_id": "CUSTOM:fd93daef"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "power of inferences drawn from the Matrix (expected to grow with continual updates)",
+      "id": "CUSTOM:96a0ae9e",
+      "label": "power of inferenc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.260427",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "power of inferences drawn from the Matrix (expected to grow with continual updates)",
+        "last_seen": "2025-10-05T07:29:12.260427",
+        "obo_id": "CUSTOM:96a0ae9e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "programmatic access to metadata via GeneLab API",
+      "id": "CUSTOM:809bcea9",
+      "label": "programmatic acce...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.254717",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "programmatic access to metadata via GeneLab API",
+        "last_seen": "2025-10-05T07:29:12.254717",
+        "obo_id": "CUSTOM:809bcea9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "standardized metadata formats available in GeneLab data repository",
+      "id": "CUSTOM:a8cdbb26",
+      "label": "standardized meta...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.248867",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "standardized metadata formats available in GeneLab data repository",
+        "last_seen": "2025-10-05T07:29:12.248867",
+        "obo_id": "CUSTOM:a8cdbb26"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "manual curation of metadata import into the Matrix",
+      "id": "CUSTOM:f03a394b",
+      "label": "manual curation o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.243336",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "manual curation of metadata import into the Matrix",
+        "last_seen": "2025-10-05T07:29:12.243336",
+        "obo_id": "CUSTOM:f03a394b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "lack of omics research for plants at mature and reproductive developmental stages",
+      "id": "CUSTOM:73170d9b",
+      "label": "lack of omics res...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.237642",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "lack of omics research for plants at mature and reproductive developmental stages",
+        "last_seen": "2025-10-05T07:29:12.237642",
+        "obo_id": "CUSTOM:73170d9b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "use of young seedlings as experimental subjects",
+      "id": "CUSTOM:1b8f521e",
+      "label": "use of young seed...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.231359",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "use of young seedlings as experimental subjects",
+        "last_seen": "2025-10-05T07:29:12.231359",
+        "obo_id": "CUSTOM:1b8f521e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Enriched biological processes across clusters include responses to environmental stresses (light, cold, bacteria), photosynthesis, primary metabolism and secondary metabolism",
+      "id": "CUSTOM:c812cbef",
+      "label": "Enriched biologic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.215334",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Enriched biological processes across clusters include responses to environmental stresses (light, cold, bacteria), photosynthesis, primary metabolism and secondary metabolism",
+        "last_seen": "2025-10-05T07:29:12.215334",
+        "obo_id": "CUSTOM:c812cbef"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Clade I in both microarray and RNA seq analyses shares the most common significantly differentially expressed genes",
+      "id": "CUSTOM:91f88a01",
+      "label": "Clade I in both m...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.209520",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Clade I in both microarray and RNA seq analyses shares the most common significantly differentially expressed genes",
+        "last_seen": "2025-10-05T07:29:12.209520",
+        "obo_id": "CUSTOM:91f88a01"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "No individual differentially expressed gene (DEG) common to all experiments in the Matrix",
+      "id": "CUSTOM:12f326a0",
+      "label": "No individual dif...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.204141",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "No individual differentially expressed gene (DEG) common to all experiments in the Matrix",
+        "last_seen": "2025-10-05T07:29:12.204141",
+        "obo_id": "CUSTOM:12f326a0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Number of WGCNA clusters identified in RNA seq versus microarray datasets",
+      "id": "CUSTOM:25b41a2a",
+      "label": "Number of WGCNA c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.198073",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Number of WGCNA clusters identified in RNA seq versus microarray datasets",
+        "last_seen": "2025-10-05T07:29:12.198073",
+        "obo_id": "CUSTOM:25b41a2a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Radiation treatment ranks as the most highly correlated metadata factor with transcriptomic patterns (ranking followed by genotype, tissue/developmental stage, flight hardware, altered gravity)",
+      "id": "CUSTOM:51f913b9",
+      "label": "Radiation treatme...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.189101",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Radiation treatment ranks as the most highly correlated metadata factor with transcriptomic patterns (ranking followed by genotype, tissue/developmental stage, flight hardware, altered gravity)",
+        "last_seen": "2025-10-05T07:29:12.189101",
+        "obo_id": "CUSTOM:51f913b9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Spaceflight studies are more similar to other spaceflight studies than to ground analog studies (pairwise similarity score)",
+      "id": "CUSTOM:99abe3eb",
+      "label": "Spaceflight studi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.169392",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Spaceflight studies are more similar to other spaceflight studies than to ground analog studies (pairwise similarity score)",
+        "last_seen": "2025-10-05T07:29:12.169392",
+        "obo_id": "CUSTOM:99abe3eb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Impact of lighting environment on separation of transcriptome datasets (lesser effect than assay type)",
+      "id": "CUSTOM:f64c5b47",
+      "label": "Impact of lightin...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.137012",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Impact of lighting environment on separation of transcriptome datasets (lesser effect than assay type)",
+        "last_seen": "2025-10-05T07:29:12.137012",
+        "obo_id": "CUSTOM:f64c5b47"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Variance in transcriptome datasets explained by principal component 1 (PC1) separating microarray versus RNA seq analyses",
+      "id": "CUSTOM:6ac48a51",
+      "label": "Variance in trans...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.117689",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Variance in transcriptome datasets explained by principal component 1 (PC1) separating microarray versus RNA seq analyses",
+        "last_seen": "2025-10-05T07:29:12.117689",
+        "obo_id": "CUSTOM:6ac48a51"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3550",
+      "source": "PMC10027818",
+      "target": "CUSTOM:deb01444",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3548",
+      "source": "PMC10027818",
+      "target": "CUSTOM:86c4aaf8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3546",
+      "source": "PMC10027818",
+      "target": "CUSTOM:c33d2370",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3544",
+      "source": "PMC10027818",
+      "target": "CUSTOM:d87adf65",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3542",
+      "source": "PMC10027818",
+      "target": "CUSTOM:21e9b86c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3540",
+      "source": "PMC10027818",
+      "target": "CUSTOM:81fb9bb1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3538",
+      "source": "PMC10027818",
+      "target": "CUSTOM:06073fb6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3536",
+      "source": "PMC10027818",
+      "target": "CUSTOM:fa6e4293",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3534",
+      "source": "PMC10027818",
+      "target": "CUSTOM:2ac418c2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3532",
+      "source": "PMC10027818",
+      "target": "CUSTOM:cc31ad0c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3530",
+      "source": "PMC10027818",
+      "target": "CUSTOM:5fd84fa3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3528",
+      "source": "PMC10027818",
+      "target": "CUSTOM:3b5433d0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3526",
+      "source": "PMC10027818",
+      "target": "CUSTOM:92f8149c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3524",
+      "source": "PMC10027818",
+      "target": "CUSTOM:c8b0233c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3522",
+      "source": "PMC10027818",
+      "target": "CUSTOM:9cd778a1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3520",
+      "source": "PMC10027818",
+      "target": "CUSTOM:8591e189",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3518",
+      "source": "PMC10027818",
+      "target": "CUSTOM:41791dd7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3516",
+      "source": "PMC10027818",
+      "target": "CUSTOM:fd93daef",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3514",
+      "source": "PMC10027818",
+      "target": "CUSTOM:96a0ae9e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3512",
+      "source": "PMC10027818",
+      "target": "CUSTOM:809bcea9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3510",
+      "source": "PMC10027818",
+      "target": "CUSTOM:a8cdbb26",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3508",
+      "source": "PMC10027818",
+      "target": "CUSTOM:f03a394b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3506",
+      "source": "PMC10027818",
+      "target": "CUSTOM:73170d9b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3504",
+      "source": "PMC10027818",
+      "target": "CUSTOM:1b8f521e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3502",
+      "source": "PMC10027818",
+      "target": "CUSTOM:c812cbef",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3500",
+      "source": "PMC10027818",
+      "target": "CUSTOM:91f88a01",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3498",
+      "source": "PMC10027818",
+      "target": "CUSTOM:12f326a0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3496",
+      "source": "PMC10027818",
+      "target": "CUSTOM:25b41a2a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3494",
+      "source": "PMC10027818",
+      "target": "CUSTOM:51f913b9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3492",
+      "source": "PMC10027818",
+      "target": "CUSTOM:99abe3eb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3490",
+      "source": "PMC10027818",
+      "target": "CUSTOM:f64c5b47",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3488",
+      "source": "PMC10027818",
+      "target": "CUSTOM:6ac48a51",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 33,
+  "num_edges": 32
+}

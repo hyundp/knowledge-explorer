@@ -1,0 +1,25 @@
+{
+  "pmcid": "PMC5805884",
+  "title": "Draft Genome Sequences of Acinetobacter and Bacillus Strains Isolated from Spacecraft Associated Surfaces",
+  "authors": [
+    "Arman Seuylemezian",
+    "Parag Vaishampayan",
+    "Kerry Cooper",
+    "Kasthuri Venkateswaran"
+  ],
+  "year": "2018",
+  "journal": "Genome Announcements",
+  "doi": "10.1128/genomeA.01554 17",
+  "sections": {
+    "abstract": "We report here the draft genome sequences of four strains isolated from spacecraft associated surfaces exhibiting increased resistance to stressors such as UV radiation and exposure to H2O2. The draft genomes of strains 1P01SCT, FO 92T, 50v1, and 2P01AA had sizes of 5,500,894bp, 4,699,376bp, 3,174,402bp, and 4,328,804bp, respectively.",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:07:37.644776",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5805884/"
+  }
+}

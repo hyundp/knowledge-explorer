@@ -1,0 +1,241 @@
+{
+  "pmcid": "PMC5821596",
+  "nodes": [
+    {
+      "fullLabel": "PMC5821596",
+      "id": "PMC5821596",
+      "label": "PMC5821596",
+      "properties": {
+        "pmcid": "PMC5821596",
+        "first_seen": "2025-10-05T07:29:15.459220",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:15.523172"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "sampling tissue differed between BRIC 16 Cyt and the other BRIC 16 studies",
+      "id": "CUSTOM:a127b67e",
+      "label": "sampling tissue d...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.525817",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "sampling tissue differed between BRIC 16 Cyt and the other BRIC 16 studies",
+        "last_seen": "2025-10-05T07:29:15.525817",
+        "obo_id": "CUSTOM:a127b67e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "differences among BRIC 16 data sets attributed mainly to data analytics",
+      "id": "CUSTOM:fe1b6138",
+      "label": "differences among...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.518059",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "differences among BRIC 16 data sets attributed mainly to data analytics",
+        "last_seen": "2025-10-05T07:29:15.518059",
+        "obo_id": "CUSTOM:fe1b6138"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "microarray data showed similarities and differences among the three BRIC 16 studies",
+      "id": "CUSTOM:d485b1b0",
+      "label": "microarray data s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.509698",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "microarray data showed similarities and differences among the three BRIC 16 studies",
+        "last_seen": "2025-10-05T07:29:15.509698",
+        "obo_id": "CUSTOM:d485b1b0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cell wall structure altered in spaceflight",
+      "id": "CUSTOM:8bb49bf3",
+      "label": "cell wall structu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.501631",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cell wall structure altered in spaceflight",
+        "last_seen": "2025-10-05T07:29:15.501631",
+        "obo_id": "CUSTOM:8bb49bf3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "stress response pathways altered in spaceflight",
+      "id": "CUSTOM:dcf8d8ce",
+      "label": "stress response p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.494906",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "stress response pathways altered in spaceflight",
+        "last_seen": "2025-10-05T07:29:15.494906",
+        "obo_id": "CUSTOM:dcf8d8ce"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "genes related to stress responses, cell expansion, cellular defense, and cell polarity differentially regulated",
+      "id": "CUSTOM:6669b1a1",
+      "label": "genes related to ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.487767",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "genes related to stress responses, cell expansion, cellular defense, and cell polarity differentially regulated",
+        "last_seen": "2025-10-05T07:29:15.487767",
+        "obo_id": "CUSTOM:6669b1a1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cell polarity reported in spaceflight studies",
+      "id": "CUSTOM:e12f77b0",
+      "label": "cell polarity rep...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.480707",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cell polarity reported in spaceflight studies",
+        "last_seen": "2025-10-05T07:29:15.480707",
+        "obo_id": "CUSTOM:e12f77b0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cellular defense reported in spaceflight studies",
+      "id": "CUSTOM:20121a6b",
+      "label": "cellular defense ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.474413",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cellular defense reported in spaceflight studies",
+        "last_seen": "2025-10-05T07:29:15.474413",
+        "obo_id": "CUSTOM:20121a6b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cell expansion reported in spaceflight studies",
+      "id": "CUSTOM:3e86a2c3",
+      "label": "cell expansion re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.468425",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cell expansion reported in spaceflight studies",
+        "last_seen": "2025-10-05T07:29:15.468425",
+        "obo_id": "CUSTOM:3e86a2c3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "stress responses reported in spaceflight studies",
+      "id": "CUSTOM:344cb5b1",
+      "label": "stress responses ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.461605",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "stress responses reported in spaceflight studies",
+        "last_seen": "2025-10-05T07:29:15.461605",
+        "obo_id": "CUSTOM:344cb5b1"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4288",
+      "source": "PMC5821596",
+      "target": "CUSTOM:a127b67e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4286",
+      "source": "PMC5821596",
+      "target": "CUSTOM:fe1b6138",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4284",
+      "source": "PMC5821596",
+      "target": "CUSTOM:d485b1b0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4282",
+      "source": "PMC5821596",
+      "target": "CUSTOM:8bb49bf3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4280",
+      "source": "PMC5821596",
+      "target": "CUSTOM:dcf8d8ce",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4278",
+      "source": "PMC5821596",
+      "target": "CUSTOM:6669b1a1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4276",
+      "source": "PMC5821596",
+      "target": "CUSTOM:e12f77b0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4274",
+      "source": "PMC5821596",
+      "target": "CUSTOM:20121a6b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4272",
+      "source": "PMC5821596",
+      "target": "CUSTOM:3e86a2c3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4270",
+      "source": "PMC5821596",
+      "target": "CUSTOM:344cb5b1",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 11,
+  "num_edges": 10
+}

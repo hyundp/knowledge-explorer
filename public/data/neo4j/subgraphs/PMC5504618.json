@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC5504618",
+  "nodes": [
+    {
+      "fullLabel": "PMC5504618",
+      "id": "PMC5504618",
+      "label": "PMC5504618",
+      "properties": {
+        "pmcid": "PMC5504618",
+        "first_seen": "2025-10-05T07:29:03.610706",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.644767"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Overall fungal diversity during human presence",
+      "id": "CUSTOM:fd9f2813",
+      "label": "Overall fungal di...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.646633",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Overall fungal diversity during human presence",
+        "last_seen": "2025-10-05T07:29:03.646633",
+        "obo_id": "CUSTOM:fd9f2813"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Culturability of species detected by molecular approach",
+      "id": "CUSTOM:95092e69",
+      "label": "Culturability of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.641026",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Culturability of species detected by molecular approach",
+        "last_seen": "2025-10-05T07:29:03.641026",
+        "obo_id": "CUSTOM:95092e69"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Dominance of Epicoccum nigrum among cultivable isolates",
+      "id": "CUSTOM:1fbb0c12",
+      "label": "Dominance of Epic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.633926",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Dominance of Epicoccum nigrum among cultivable isolates",
+        "last_seen": "2025-10-05T07:29:03.633926",
+        "obo_id": "CUSTOM:1fbb0c12"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cultivable fungi counts",
+      "id": "CUSTOM:4f0482f2",
+      "label": "Cultivable fungi ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.629082",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cultivable fungi counts",
+        "last_seen": "2025-10-05T07:29:03.629082",
+        "obo_id": "CUSTOM:4f0482f2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Increased abundance (genus level) of Epiccocum, Alternaria, Pleosporales, Davidiella, and Cryptococcus over the occupation time",
+      "id": "CUSTOM:a26f3702",
+      "label": "Increased abundan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.624478",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Increased abundance (genus level) of Epiccocum, Alternaria, Pleosporales, Davidiella, and Cryptococcus over the occupation time",
+        "last_seen": "2025-10-05T07:29:03.624478",
+        "obo_id": "CUSTOM:a26f3702"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Differences in fungal community profiles",
+      "id": "CUSTOM:97629e23",
+      "label": "Differences in fu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.618343",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Differences in fungal community profiles",
+        "last_seen": "2025-10-05T07:29:03.618343",
+        "obo_id": "CUSTOM:97629e23"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Accumulation of viable mycobiome during the experiment duration",
+      "id": "CUSTOM:58a7f03f",
+      "label": "Accumulation of v...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.612541",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Accumulation of viable mycobiome during the experiment duration",
+        "last_seen": "2025-10-05T07:29:03.612541",
+        "obo_id": "CUSTOM:58a7f03f"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "996",
+      "source": "PMC5504618",
+      "target": "CUSTOM:fd9f2813",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "994",
+      "source": "PMC5504618",
+      "target": "CUSTOM:95092e69",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "992",
+      "source": "PMC5504618",
+      "target": "CUSTOM:1fbb0c12",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "990",
+      "source": "PMC5504618",
+      "target": "CUSTOM:4f0482f2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "988",
+      "source": "PMC5504618",
+      "target": "CUSTOM:a26f3702",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "986",
+      "source": "PMC5504618",
+      "target": "CUSTOM:97629e23",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "984",
+      "source": "PMC5504618",
+      "target": "CUSTOM:58a7f03f",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

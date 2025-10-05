@@ -1,0 +1,42 @@
+{
+  "pmcid": "PMC10261121",
+  "title": "Future space experiment platforms for astrobiology and astrochemistry research",
+  "authors": [
+    "Andreas Elsaesser",
+    "David J Burr",
+    "Paul Mabey",
+    "Riccardo Giovanni Urso",
+    "Daniela Billi",
+    "Charles Cockell",
+    "Herv Cottin",
+    "Adrienne Kish",
+    "Natalie Leys",
+    "Jack J W A van Loon",
+    "Eva Mateo Marti",
+    "Christine Moissl Eichinger",
+    "Silvano Onofri",
+    "Richard C Quinn",
+    "Elke Rabbow",
+    "Petra Rettberg",
+    "Rosa de la Torre Noetzel",
+    "Klaus Slenzka",
+    "Antonio J Ricco",
+    "Jean Pierre de Vera",
+    "Frances Westall"
+  ],
+  "year": "2023",
+  "journal": "NPJ Microgravity",
+  "doi": "10.1038/s41526 023 00292 1",
+  "sections": {
+    "abstract": "Space experiments are a technically challenging but a scientifically important part of astrobiology and astrochemistry research. The International Space Station (ISS) is an excellent example of a highly successful and long lasting research platform for experiments in space, that has provided a wealth of scientific data over the last two decades. However, future space platforms present new opportunities to conduct experiments with the potential to address key topics in astrobiology and astrochemistry. In this perspective, the European Space Agency (ESA) Topical Team Astrobiology and Astrochemistry (with feedback from the wider scientific community) identifies a number of key topics and summarizes the 2021 \"ESA SciSpacE Science Community White Paper\" for astrobiology and astrochemistry. We highlight recommendations for the development and implementation of future experiments, discuss types of in situ measurements, experimental parameters, exposure scenarios and orbits, and identify knowledge gaps and how to advance scientific utilization of future space exposure platforms that are either currently under development or in an advanced planning stage. In addition to the ISS, these platforms include CubeSats and SmallSats, as well as larger platforms such as the Lunar Orbital Gateway. We also provide an outlook for in situ experiments on the Moon and Mars, and welcome new possibilities to support the search for exoplanets and potential biosignatures within and beyond our solar system.\n\nSubject terms:Environmental sciences, Microbiology, Techniques and instrumentation, Evolution, Biogeochemistry",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:08:24.742474",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10261121/"
+  }
+}

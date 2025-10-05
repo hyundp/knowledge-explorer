@@ -1,0 +1,241 @@
+{
+  "pmcid": "PMC10020673",
+  "nodes": [
+    {
+      "fullLabel": "PMC10020673",
+      "id": "PMC10020673",
+      "label": "PMC10020673",
+      "properties": {
+        "pmcid": "PMC10020673",
+        "first_seen": "2025-10-05T07:29:05.129260",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.191350"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Organisms used in NASA biofilm control studies have been limited to isolates from the WPA",
+      "id": "CUSTOM:16f28406",
+      "label": "Organisms used in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.193027",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Organisms used in NASA biofilm control studies have been limited to isolates from the WPA",
+        "last_seen": "2025-10-05T07:29:05.193027",
+        "obo_id": "CUSTOM:16f28406"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "UPA isolates display a greater range of genetic and phenotypic properties compared to isolates from the WPA",
+      "id": "CUSTOM:a95d6120",
+      "label": "UPA isolates disp...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.187822",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "UPA isolates display a greater range of genetic and phenotypic properties compared to isolates from the WPA",
+        "last_seen": "2025-10-05T07:29:05.187822",
+        "obo_id": "CUSTOM:a95d6120"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Hoses (flex lines) are novel areas for fungal-bacterial biofilm growth",
+      "id": "CUSTOM:6bc4d4d0",
+      "label": "Hoses (flex lines...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.182761",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Hoses (flex lines) are novel areas for fungal-bacterial biofilm growth",
+        "last_seen": "2025-10-05T07:29:05.182761",
+        "obo_id": "CUSTOM:6bc4d4d0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Flex lines and other areas within the UPA are candidate areas to investigate horizontal gene transfer",
+      "id": "CUSTOM:2855b1b3",
+      "label": "Flex lines and ot...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.177606",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Flex lines and other areas within the UPA are candidate areas to investigate horizontal gene transfer",
+        "last_seen": "2025-10-05T07:29:05.177606",
+        "obo_id": "CUSTOM:2855b1b3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Acquisition of resistance gene clusters distinguishes the flex lines as a unique ecological niche compared to WPA and terrestrial environments",
+      "id": "CUSTOM:6f0a8f0a",
+      "label": "Acquisition of re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.173011",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Acquisition of resistance gene clusters distinguishes the flex lines as a unique ecological niche compared to WPA and terrestrial environments",
+        "last_seen": "2025-10-05T07:29:05.173011",
+        "obo_id": "CUSTOM:6f0a8f0a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of a chromate resistance-associated gene cluster in UPA P. fungorum isolates that is absent from current NCBI references",
+      "id": "CUSTOM:8acdbbc4",
+      "label": "Presence of a chr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.168144",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of a chromate resistance-associated gene cluster in UPA P. fungorum isolates that is absent from current NCBI references",
+        "last_seen": "2025-10-05T07:29:05.168144",
+        "obo_id": "CUSTOM:8acdbbc4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of multiple chromate resistance and transporter protein gene clusters in B. contaminans isolates",
+      "id": "CUSTOM:20bafefc",
+      "label": "Presence of multi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.163276",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of multiple chromate resistance and transporter protein gene clusters in B. contaminans isolates",
+        "last_seen": "2025-10-05T07:29:05.163276",
+        "obo_id": "CUSTOM:20bafefc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Concentrated levels of chromium encountered in the UPA95 flex line",
+      "id": "CUSTOM:9e1cdc89",
+      "label": "Concentrated leve...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.139561",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Concentrated levels of chromium encountered in the UPA95 flex line",
+        "last_seen": "2025-10-05T07:29:05.139561",
+        "obo_id": "CUSTOM:9e1cdc89"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Microbial diversity in UPA95 flex line",
+      "id": "CUSTOM:2ff697ec",
+      "label": "Microbial diversi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.135051",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microbial diversity in UPA95 flex line",
+        "last_seen": "2025-10-05T07:29:05.135051",
+        "obo_id": "CUSTOM:2ff697ec"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Isolation of multiple microbial species from the UPA115 flex line",
+      "id": "CUSTOM:88af6c36",
+      "label": "Isolation of mult...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.130875",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Isolation of multiple microbial species from the UPA115 flex line",
+        "last_seen": "2025-10-05T07:29:05.130875",
+        "obo_id": "CUSTOM:88af6c36"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1516",
+      "source": "PMC10020673",
+      "target": "CUSTOM:16f28406",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1514",
+      "source": "PMC10020673",
+      "target": "CUSTOM:a95d6120",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1512",
+      "source": "PMC10020673",
+      "target": "CUSTOM:6bc4d4d0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1510",
+      "source": "PMC10020673",
+      "target": "CUSTOM:2855b1b3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1508",
+      "source": "PMC10020673",
+      "target": "CUSTOM:6f0a8f0a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1506",
+      "source": "PMC10020673",
+      "target": "CUSTOM:8acdbbc4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1504",
+      "source": "PMC10020673",
+      "target": "CUSTOM:20bafefc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1502",
+      "source": "PMC10020673",
+      "target": "CUSTOM:9e1cdc89",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1500",
+      "source": "PMC10020673",
+      "target": "CUSTOM:2ff697ec",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1498",
+      "source": "PMC10020673",
+      "target": "CUSTOM:88af6c36",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 11,
+  "num_edges": 10
+}

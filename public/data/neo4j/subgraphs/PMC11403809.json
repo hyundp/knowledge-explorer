@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC11403809",
+  "nodes": [
+    {
+      "fullLabel": "PMC11403809",
+      "id": "PMC11403809",
+      "label": "PMC11403809",
+      "properties": {
+        "pmcid": "PMC11403809",
+        "first_seen": "2025-10-05T07:29:04.924992",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.966840"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "accessibility and reproducibility of OSDR data (via leveraging AI) and efficiency of data ingestion and interpretation",
+      "id": "CUSTOM:23063ac4",
+      "label": "accessibility and...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.968590",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "accessibility and reproducibility of OSDR data (via leveraging AI) and efficiency of data ingestion and interpretation",
+        "last_seen": "2025-10-05T07:29:04.968590",
+        "obo_id": "CUSTOM:23063ac4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "OSDR data holdings (rapid expansion through collaborations)",
+      "id": "CUSTOM:4c8f81e3",
+      "label": "OSDR data holding...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.962334",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "OSDR data holdings (rapid expansion through collaborations)",
+        "last_seen": "2025-10-05T07:29:04.962334",
+        "obo_id": "CUSTOM:4c8f81e3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "maturity of open science in space biology as marked by the merger",
+      "id": "CUSTOM:3d6ade2b",
+      "label": "maturity of open ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.957609",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "maturity of open science in space biology as marked by the merger",
+        "last_seen": "2025-10-05T07:29:04.957609",
+        "obo_id": "CUSTOM:3d6ade2b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "OSDR AWG being a thriving collaborative community that uses OSDR data and metadata to make new discoveries in space biology and health",
+      "id": "CUSTOM:8e7c3e8a",
+      "label": "OSDR AWG being a ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.952539",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "OSDR AWG being a thriving collaborative community that uses OSDR data and metadata to make new discoveries in space biology and health",
+        "last_seen": "2025-10-05T07:29:04.952539",
+        "obo_id": "CUSTOM:8e7c3e8a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "scientific output from OSDR after integration (synergistic effect)",
+      "id": "CUSTOM:3ab0bea4",
+      "label": "scientific output...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.947463",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "scientific output from OSDR after integration (synergistic effect)",
+        "last_seen": "2025-10-05T07:29:04.947463",
+        "obo_id": "CUSTOM:3ab0bea4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "integration of 2 critical databases in OSDR",
+      "id": "CUSTOM:185363cf",
+      "label": "integration of 2 ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.940819",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "integration of 2 critical databases in OSDR",
+        "last_seen": "2025-10-05T07:29:04.940819",
+        "obo_id": "CUSTOM:185363cf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NASA leadership role in enabling large communities of scientists to participate in spaceflight discovery via an open science program",
+      "id": "CUSTOM:05d711bc",
+      "label": "NASA leadership r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.936042",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NASA leadership role in enabling large communities of scientists to participate in spaceflight discovery via an open science program",
+        "last_seen": "2025-10-05T07:29:04.936042",
+        "obo_id": "CUSTOM:05d711bc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "science being interdisciplinary, inclusive, and maximally transparent",
+      "id": "CUSTOM:f8e50708",
+      "label": "science being int...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.931534",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "science being interdisciplinary, inclusive, and maximally transparent",
+        "last_seen": "2025-10-05T07:29:04.931534",
+        "obo_id": "CUSTOM:f8e50708"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "importance of reliable data reuse",
+      "id": "CUSTOM:99392d12",
+      "label": "importance of rel...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.926680",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "importance of reliable data reuse",
+        "last_seen": "2025-10-05T07:29:04.926680",
+        "obo_id": "CUSTOM:99392d12"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1450",
+      "source": "PMC11403809",
+      "target": "CUSTOM:23063ac4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1448",
+      "source": "PMC11403809",
+      "target": "CUSTOM:4c8f81e3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1446",
+      "source": "PMC11403809",
+      "target": "CUSTOM:3d6ade2b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1444",
+      "source": "PMC11403809",
+      "target": "CUSTOM:8e7c3e8a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1442",
+      "source": "PMC11403809",
+      "target": "CUSTOM:3ab0bea4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1440",
+      "source": "PMC11403809",
+      "target": "CUSTOM:185363cf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1438",
+      "source": "PMC11403809",
+      "target": "CUSTOM:05d711bc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1436",
+      "source": "PMC11403809",
+      "target": "CUSTOM:f8e50708",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1434",
+      "source": "PMC11403809",
+      "target": "CUSTOM:99392d12",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

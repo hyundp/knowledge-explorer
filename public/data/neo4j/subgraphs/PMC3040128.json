@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC3040128",
+  "nodes": [
+    {
+      "fullLabel": "PMC3040128",
+      "id": "PMC3040128",
+      "label": "PMC3040128",
+      "properties": {
+        "pmcid": "PMC3040128",
+        "first_seen": "2025-10-05T07:29:14.769829",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:14.807345"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Functional redundancy between AtRabD2b and AtRabD2c",
+      "id": "CUSTOM:7240d37f",
+      "label": "Functional redund...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.809515",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Functional redundancy between AtRabD2b and AtRabD2c",
+        "last_seen": "2025-10-05T07:29:14.809515",
+        "obo_id": "CUSTOM:7240d37f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Involvement of AtRabD2b and AtRabD2c in tip growth of pollen tubes",
+      "id": "CUSTOM:7782c7b3",
+      "label": "Involvement of At...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.802323",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Involvement of AtRabD2b and AtRabD2c in tip growth of pollen tubes",
+        "last_seen": "2025-10-05T07:29:14.802323",
+        "obo_id": "CUSTOM:7782c7b3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "High expression of AtRabD2b and AtRabD2c in pollen",
+      "id": "CUSTOM:20ed6c26",
+      "label": "High expression o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.794300",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "High expression of AtRabD2b and AtRabD2c in pollen",
+        "last_seen": "2025-10-05T07:29:14.794300",
+        "obo_id": "CUSTOM:20ed6c26"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression patterns of AtRabD2b and AtRabD2c are similar but not identical",
+      "id": "CUSTOM:0c69af64",
+      "label": "Expression patter...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.784933",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression patterns of AtRabD2b and AtRabD2c are similar but not identical",
+        "last_seen": "2025-10-05T07:29:14.784933",
+        "obo_id": "CUSTOM:0c69af64"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Localization to the Golgi (AtRabD2b and AtRabD2c are Golgi residents)",
+      "id": "CUSTOM:cbdfc9f1",
+      "label": "Localization to t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.773430",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Localization to the Golgi (AtRabD2b and AtRabD2c are Golgi residents)",
+        "last_seen": "2025-10-05T07:29:14.773430",
+        "obo_id": "CUSTOM:cbdfc9f1"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4130",
+      "source": "PMC3040128",
+      "target": "CUSTOM:7240d37f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4128",
+      "source": "PMC3040128",
+      "target": "CUSTOM:7782c7b3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4126",
+      "source": "PMC3040128",
+      "target": "CUSTOM:20ed6c26",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4124",
+      "source": "PMC3040128",
+      "target": "CUSTOM:0c69af64",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4122",
+      "source": "PMC3040128",
+      "target": "CUSTOM:cbdfc9f1",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

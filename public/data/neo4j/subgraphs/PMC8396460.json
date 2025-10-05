@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC8396460",
+  "nodes": [
+    {
+      "fullLabel": "PMC8396460",
+      "id": "PMC8396460",
+      "label": "PMC8396460",
+      "properties": {
+        "pmcid": "PMC8396460",
+        "first_seen": "2025-10-05T07:29:11.229215",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:11.250770"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "cardiac dysfunction (potential contribution from altered gene expression and oxidative stress)",
+      "id": "CUSTOM:dfb161f6",
+      "label": "cardiac dysfuncti...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.252765",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cardiac dysfunction (potential contribution from altered gene expression and oxidative stress)",
+        "last_seen": "2025-10-05T07:29:11.252765",
+        "obo_id": "CUSTOM:dfb161f6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "excess reactive oxygen species (ROS) generation during spaceflight",
+      "id": "CUSTOM:ad85f678",
+      "label": "excess reactive o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.247049",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "excess reactive oxygen species (ROS) generation during spaceflight",
+        "last_seen": "2025-10-05T07:29:11.247049",
+        "obo_id": "CUSTOM:ad85f678"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cardiac expression of genes related to oxidative stress (Nfe2l2, Nox1, Ptgs2)",
+      "id": "CUSTOM:03c679af",
+      "label": "cardiac expressio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.241351",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cardiac expression of genes related to oxidative stress (Nfe2l2, Nox1, Ptgs2)",
+        "last_seen": "2025-10-05T07:29:11.241351",
+        "obo_id": "CUSTOM:03c679af"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cardiac expression of genes related to inflammation (Tnf)",
+      "id": "CUSTOM:194cf095",
+      "label": "cardiac expressio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.236054",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cardiac expression of genes related to inflammation (Tnf)",
+        "last_seen": "2025-10-05T07:29:11.236054",
+        "obo_id": "CUSTOM:194cf095"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cardiac expression of genes related to cell cycle/growth (Cdkn1a/p21, Cdk1, Myc)",
+      "id": "CUSTOM:b84b0ea3",
+      "label": "cardiac expressio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.231074",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cardiac expression of genes related to cell cycle/growth (Cdkn1a/p21, Cdk1, Myc)",
+        "last_seen": "2025-10-05T07:29:11.231074",
+        "obo_id": "CUSTOM:b84b0ea3"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3260",
+      "source": "PMC8396460",
+      "target": "CUSTOM:dfb161f6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3258",
+      "source": "PMC8396460",
+      "target": "CUSTOM:ad85f678",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3256",
+      "source": "PMC8396460",
+      "target": "CUSTOM:03c679af",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3254",
+      "source": "PMC8396460",
+      "target": "CUSTOM:194cf095",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3252",
+      "source": "PMC8396460",
+      "target": "CUSTOM:b84b0ea3",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

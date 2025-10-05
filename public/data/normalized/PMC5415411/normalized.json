@@ -1,0 +1,25 @@
+{
+  "pmcid": "PMC5415411",
+  "title": "Maintaining the Factory: The Roles of the Unfolded Protein Response in Cellular Homeostasis in Plants",
+  "authors": [
+    "Evan Angelos",
+    "Cristina Ruberti",
+    "Sang Jin Kim",
+    "Federica Brandizzi"
+  ],
+  "year": "2017",
+  "journal": "The Plant journal : for cell and molecular biology",
+  "doi": "10.1111/tpj.13449",
+  "sections": {
+    "abstract": "Much like a factory, the endoplasmic reticulum assembles simple cellular building blocks into complex molecular machines known as proteins. In order to protect the delicate protein folding process and ensure the proper cellular delivery of protein products under environmental stresses, eukaryotes have evolved a set of signaling mechanisms known as the unfolded protein response (UPR) to increase the folding capacity of the endoplasmic reticulum. This process is particularly important in plants, because their sessile nature commands adaptation for survival rather than escape from stress. As such, plants make special use of the UPR, and evidence indicates that the master regulators and downstream effectors of the UPR have distinct roles in mediating cellular processes that affect organism growth and development as well as stress responses. In this review we outline recent developments in this field that support a strong relevance of the UPR to many areas of plant life.\n\nKeywords:Unfolded protein response, ER stress, IRE1, bZIP60, bZIP28,Arabidopsis thaliana",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "The molecular products assembled inside the ER have an ever expanding relevance to plants under environmental stress. Although many open questions still plague the study of the UPR in plants, including the identity of the molecular mechanisms for the activation and de activation of the master regulator IRE1, the general relevance of the UPR maintaining ER homeostasis is clear. The ERQC and UPR maintain the folding capacity of the ER, and in doing so, enable a wide range of downstream processes from proper heat stress adaptation to defense against pathogens. Specifically, the downstream effectors of the UPR have been implicated in transcriptional and post transcriptional regulation of both ER homeostatic genes, and developmental processes. However, new oddities arising in research focusing upstream and downstream of the UPR offer ever expanding possibilities where the UPR may play a defining role in plant physiology. UPR activation in response to plastid metabolic dysfunction, and oxidative stress implicates the potential for the UPR to respond in many different signal transduction cascades that utilize reactive oxygen species as a secondary messenger. Further inquiry exploring the canonical UPR, in non canonical and tissue specific contexts may help elucidate hidden functions and better integrate our understanding of UPR functionality in plant life."
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:00:46.023250",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5415411/"
+  }
+}

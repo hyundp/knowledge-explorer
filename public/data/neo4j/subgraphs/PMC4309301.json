@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC4309301",
+  "nodes": [
+    {
+      "fullLabel": "PMC4309301",
+      "id": "PMC4309301",
+      "label": "PMC4309301",
+      "properties": {
+        "pmcid": "PMC4309301",
+        "first_seen": "2025-10-05T07:29:01.763836",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.791094"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "protocols facilitate integration of tissue harvest logistics for optimal histology and retention of high quality RNA and protein recovery from animal tissues on long term space flight experiments",
+      "id": "CUSTOM:55b07d0f",
+      "label": "protocols facilit...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.792688",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "protocols facilitate integration of tissue harvest logistics for optimal histology and retention of high quality RNA and protein recovery from animal tissues on long term space flight experiments",
+        "last_seen": "2025-10-05T07:29:01.792688",
+        "obo_id": "CUSTOM:55b07d0f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "postharvest processing methods enable replacement of Bouin's with 70% ethanol for safe shipping within USA and replacement of 70% ethanol with PBS to enable international shipping",
+      "id": "CUSTOM:f3a2ce6e",
+      "label": "postharvest proce...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.787836",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "postharvest processing methods enable replacement of Bouin's with 70% ethanol for safe shipping within USA and replacement of 70% ethanol with PBS to enable international shipping",
+        "last_seen": "2025-10-05T07:29:01.787836",
+        "obo_id": "CUSTOM:f3a2ce6e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "male and female mouse reproductive tissues were stable and gave high quality RNA and protein after storage",
+      "id": "CUSTOM:4037c77b",
+      "label": "male and female m...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.784244",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "male and female mouse reproductive tissues were stable and gave high quality RNA and protein after storage",
+        "last_seen": "2025-10-05T07:29:01.784244",
+        "obo_id": "CUSTOM:4037c77b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "degradation of histological quality is reduced by stepwise replacement protocol compared to a single-step change",
+      "id": "CUSTOM:351d20f7",
+      "label": "degradation of hi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.780527",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "degradation of histological quality is reduced by stepwise replacement protocol compared to a single-step change",
+        "last_seen": "2025-10-05T07:29:01.780527",
+        "obo_id": "CUSTOM:351d20f7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "reconstitution into 70% ethanol retains excellent histology",
+      "id": "CUSTOM:2c184d72",
+      "label": "reconstitution in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.776714",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "reconstitution into 70% ethanol retains excellent histology",
+        "last_seen": "2025-10-05T07:29:01.776714",
+        "obo_id": "CUSTOM:2c184d72"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "method for fixative removal and transfer of tissues into aqueous media enables safe shipping",
+      "id": "CUSTOM:c9038976",
+      "label": "method for fixati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.772568",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "method for fixative removal and transfer of tissues into aqueous media enables safe shipping",
+        "last_seen": "2025-10-05T07:29:01.772568",
+        "obo_id": "CUSTOM:c9038976"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "tissue-specific optimal fixation time windows differ between species",
+      "id": "CUSTOM:689f0e1b",
+      "label": "tissue-specific o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.768899",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "tissue-specific optimal fixation time windows differ between species",
+        "last_seen": "2025-10-05T07:29:01.768899",
+        "obo_id": "CUSTOM:689f0e1b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "histological quality, sperm motility, and RNA quality not compromised when harvesting within optimal time frames",
+      "id": "CUSTOM:eb7e482d",
+      "label": "histological qual...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.765200",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "histological quality, sperm motility, and RNA quality not compromised when harvesting within optimal time frames",
+        "last_seen": "2025-10-05T07:29:01.765200",
+        "obo_id": "CUSTOM:eb7e482d"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "362",
+      "source": "PMC4309301",
+      "target": "CUSTOM:55b07d0f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "360",
+      "source": "PMC4309301",
+      "target": "CUSTOM:f3a2ce6e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "358",
+      "source": "PMC4309301",
+      "target": "CUSTOM:4037c77b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "356",
+      "source": "PMC4309301",
+      "target": "CUSTOM:351d20f7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "354",
+      "source": "PMC4309301",
+      "target": "CUSTOM:2c184d72",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "352",
+      "source": "PMC4309301",
+      "target": "CUSTOM:c9038976",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "350",
+      "source": "PMC4309301",
+      "target": "CUSTOM:689f0e1b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "348",
+      "source": "PMC4309301",
+      "target": "CUSTOM:eb7e482d",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

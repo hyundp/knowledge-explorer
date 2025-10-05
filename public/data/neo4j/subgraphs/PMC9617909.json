@@ -1,0 +1,307 @@
+{
+  "pmcid": "PMC9617909",
+  "nodes": [
+    {
+      "fullLabel": "PMC9617909",
+      "id": "PMC9617909",
+      "label": "PMC9617909",
+      "properties": {
+        "pmcid": "PMC9617909",
+        "first_seen": "2025-10-05T07:29:03.996115",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.050033"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Overall effect of HGMF on gene transcription (general statement)",
+      "id": "CUSTOM:1071255e",
+      "label": "Overall effect of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.051502",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Overall effect of HGMF on gene transcription (general statement)",
+        "last_seen": "2025-10-05T07:29:04.051502",
+        "obo_id": "CUSTOM:1071255e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Amyloplast size and mass adjustment (metabolic control of amyloplast size)",
+      "id": "CUSTOM:eed257cb",
+      "label": "Amyloplast size a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.047334",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Amyloplast size and mass adjustment (metabolic control of amyloplast size)",
+        "last_seen": "2025-10-05T07:29:04.047334",
+        "obo_id": "CUSTOM:eed257cb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Magnetic fields contribution to lipid metabolism changes",
+      "id": "CUSTOM:eef6d6aa",
+      "label": "Magnetic fields c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.042703",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Magnetic fields contribution to lipid metabolism changes",
+        "last_seen": "2025-10-05T07:29:04.042703",
+        "obo_id": "CUSTOM:eef6d6aa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "TAGL transcription in presence of magnetic fields (clinorotated samples)",
+      "id": "CUSTOM:798f0897",
+      "label": "TAGL transcriptio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.038284",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "TAGL transcription in presence of magnetic fields (clinorotated samples)",
+        "last_seen": "2025-10-05T07:29:04.038284",
+        "obo_id": "CUSTOM:798f0897"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "UBq1, Tub1, ADH1, HXK, PFK, SUS, PIN1 transcription",
+      "id": "CUSTOM:85e46d62",
+      "label": "UBq1, Tub1, ADH1,...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.033155",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "UBq1, Tub1, ADH1, HXK, PFK, SUS, PIN1 transcription",
+        "last_seen": "2025-10-05T07:29:04.033155",
+        "obo_id": "CUSTOM:85e46d62"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "GLK transcription",
+      "id": "CUSTOM:a05fb65d",
+      "label": "GLK transcription",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.028706",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "GLK transcription",
+        "last_seen": "2025-10-05T07:29:04.028706",
+        "obo_id": "CUSTOM:a05fb65d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Root curvature response to HGMF (number of roots that curved)",
+      "id": "CUSTOM:f97d79f2",
+      "label": "Root curvature re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.024631",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Root curvature response to HGMF (number of roots that curved)",
+        "last_seen": "2025-10-05T07:29:04.024631",
+        "obo_id": "CUSTOM:f97d79f2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "IAA5 and PIN7 transcriptional response to HGMF",
+      "id": "CUSTOM:8a003aef",
+      "label": "IAA5 and PIN7 tra...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.020136",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "IAA5 and PIN7 transcriptional response to HGMF",
+        "last_seen": "2025-10-05T07:29:04.020136",
+        "obo_id": "CUSTOM:8a003aef"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "G6PDH5 (treatment differences between space flight and clinorotation)",
+      "id": "CUSTOM:0c2d0af3",
+      "label": "G6PDH5 (treatment...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.015760",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "G6PDH5 (treatment differences between space flight and clinorotation)",
+        "last_seen": "2025-10-05T07:29:04.015760",
+        "obo_id": "CUSTOM:0c2d0af3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "COX transcription (response to HGMF)",
+      "id": "CUSTOM:6ce760e4",
+      "label": "COX transcription...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.011939",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "COX transcription (response to HGMF)",
+        "last_seen": "2025-10-05T07:29:04.011939",
+        "obo_id": "CUSTOM:6ce760e4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "COX transcription (space flight vs static growth conditions)",
+      "id": "CUSTOM:6c2e0f89",
+      "label": "COX transcription...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.007035",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "COX transcription (space flight vs static growth conditions)",
+        "last_seen": "2025-10-05T07:29:04.007035",
+        "obo_id": "CUSTOM:6c2e0f89"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "AMY1 transcription",
+      "id": "CUSTOM:59e8045f",
+      "label": "AMY1 transcription",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.002207",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "AMY1 transcription",
+        "last_seen": "2025-10-05T07:29:04.002207",
+        "obo_id": "CUSTOM:59e8045f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ACT7 activation",
+      "id": "CUSTOM:dcd4c506",
+      "label": "ACT7 activation",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.997933",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ACT7 activation",
+        "last_seen": "2025-10-05T07:29:03.997933",
+        "obo_id": "CUSTOM:dcd4c506"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1150",
+      "source": "PMC9617909",
+      "target": "CUSTOM:1071255e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1148",
+      "source": "PMC9617909",
+      "target": "CUSTOM:eed257cb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1146",
+      "source": "PMC9617909",
+      "target": "CUSTOM:eef6d6aa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1144",
+      "source": "PMC9617909",
+      "target": "CUSTOM:798f0897",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1142",
+      "source": "PMC9617909",
+      "target": "CUSTOM:85e46d62",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1140",
+      "source": "PMC9617909",
+      "target": "CUSTOM:a05fb65d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1138",
+      "source": "PMC9617909",
+      "target": "CUSTOM:f97d79f2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1136",
+      "source": "PMC9617909",
+      "target": "CUSTOM:8a003aef",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1134",
+      "source": "PMC9617909",
+      "target": "CUSTOM:0c2d0af3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1132",
+      "source": "PMC9617909",
+      "target": "CUSTOM:6ce760e4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1130",
+      "source": "PMC9617909",
+      "target": "CUSTOM:6c2e0f89",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1128",
+      "source": "PMC9617909",
+      "target": "CUSTOM:59e8045f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1126",
+      "source": "PMC9617909",
+      "target": "CUSTOM:dcd4c506",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 14,
+  "num_edges": 13
+}

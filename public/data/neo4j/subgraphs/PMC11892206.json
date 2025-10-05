@@ -1,0 +1,43 @@
+{
+  "pmcid": "PMC11892206",
+  "nodes": [
+    {
+      "fullLabel": "PMC11892206",
+      "id": "PMC11892206",
+      "label": "PMC11892206",
+      "properties": {
+        "pmcid": "PMC11892206",
+        "first_seen": "2025-10-05T07:29:16.212709",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:16.212709"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "chronicity of inflammation in the heart following vaccination in the spaceflight environment (transient vs chronic)",
+      "id": "CUSTOM:4e6f8285",
+      "label": "chronicity of inf...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.215073",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "chronicity of inflammation in the heart following vaccination in the spaceflight environment (transient vs chronic)",
+        "last_seen": "2025-10-05T07:29:16.215073",
+        "obo_id": "CUSTOM:4e6f8285"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4448",
+      "source": "PMC11892206",
+      "target": "CUSTOM:4e6f8285",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 2,
+  "num_edges": 1
+}

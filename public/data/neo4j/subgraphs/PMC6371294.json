@@ -1,0 +1,285 @@
+{
+  "pmcid": "PMC6371294",
+  "nodes": [
+    {
+      "fullLabel": "PMC6371294",
+      "id": "PMC6371294",
+      "label": "PMC6371294",
+      "properties": {
+        "pmcid": "PMC6371294",
+        "first_seen": "2025-10-05T07:29:14.495795",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:14.598672"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "support for data integration functions (like multi source data querying and retrieval) by findability and interoperability principles",
+      "id": "CUSTOM:8323cc1e",
+      "label": "support for data ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.601868",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "support for data integration functions (like multi source data querying and retrieval) by findability and interoperability principles",
+        "last_seen": "2025-10-05T07:29:14.601868",
+        "obo_id": "CUSTOM:8323cc1e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "implementation of FAIR principles F2, I1, I2, and R1.3 across biomedical data systems",
+      "id": "CUSTOM:e665f1ff",
+      "label": "implementation of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.591138",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "implementation of FAIR principles F2, I1, I2, and R1.3 across biomedical data systems",
+        "last_seen": "2025-10-05T07:29:14.591138",
+        "obo_id": "CUSTOM:e665f1ff"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "resource requirement to maintain schema mappings over time",
+      "id": "CUSTOM:0c6e4160",
+      "label": "resource requirem...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.580360",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "resource requirement to maintain schema mappings over time",
+        "last_seen": "2025-10-05T07:29:14.580360",
+        "obo_id": "CUSTOM:0c6e4160"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "resource and domain expertise required to create manual semantic schema mappings",
+      "id": "CUSTOM:d70661fa",
+      "label": "resource and doma...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.572078",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "resource and domain expertise required to create manual semantic schema mappings",
+        "last_seen": "2025-10-05T07:29:14.572078",
+        "obo_id": "CUSTOM:d70661fa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "existence of maps between metadata schemas for the data sources",
+      "id": "CUSTOM:9294e549",
+      "label": "existence of maps...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.565775",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "existence of maps between metadata schemas for the data sources",
+        "last_seen": "2025-10-05T07:29:14.565775",
+        "obo_id": "CUSTOM:9294e549"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "availability of metadata schemas in a formal semantic language format (such as RDF or OWL) in GEO, MG RAST, and PRIDE",
+      "id": "CUSTOM:89dce203",
+      "label": "availability of m...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.556038",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "availability of metadata schemas in a formal semantic language format (such as RDF or OWL) in GEO, MG RAST, and PRIDE",
+        "last_seen": "2025-10-05T07:29:14.556038",
+        "obo_id": "CUSTOM:89dce203"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mapping of each record's metadata using a single schema for display in the GLDS",
+      "id": "CUSTOM:05b0fa07",
+      "label": "mapping of each r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.545690",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mapping of each record's metadata using a single schema for display in the GLDS",
+        "last_seen": "2025-10-05T07:29:14.545690",
+        "obo_id": "CUSTOM:05b0fa07"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "number of records returned by the RESTful search API from four data sources (GLDS, GEO, PRIDE, and MG RAST)",
+      "id": "CUSTOM:dc65fe55",
+      "label": "number of records...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.535655",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "number of records returned by the RESTful search API from four data sources (GLDS, GEO, PRIDE, and MG RAST)",
+        "last_seen": "2025-10-05T07:29:14.535655",
+        "obo_id": "CUSTOM:dc65fe55"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "citation rate of shared data when reused",
+      "id": "CUSTOM:a11da908",
+      "label": "citation rate of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.525530",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "citation rate of shared data when reused",
+        "last_seen": "2025-10-05T07:29:14.525530",
+        "obo_id": "CUSTOM:a11da908"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "presence of the concept of zero or very low gravity experimental conditions across biomedical vocabularies",
+      "id": "CUSTOM:fddf89a6",
+      "label": "presence of the c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.516011",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "presence of the concept of zero or very low gravity experimental conditions across biomedical vocabularies",
+        "last_seen": "2025-10-05T07:29:14.516011",
+        "obo_id": "CUSTOM:fddf89a6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "leveraging FAIR vocabularies for metadata",
+      "id": "CUSTOM:f8d4054d",
+      "label": "leveraging FAIR v...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.506112",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "leveraging FAIR vocabularies for metadata",
+        "last_seen": "2025-10-05T07:29:14.506112",
+        "obo_id": "CUSTOM:f8d4054d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "use of a metadata representation language with sufficient semantics",
+      "id": "CUSTOM:cf2e9bb1",
+      "label": "use of a metadata...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.497972",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "use of a metadata representation language with sufficient semantics",
+        "last_seen": "2025-10-05T07:29:14.497972",
+        "obo_id": "CUSTOM:cf2e9bb1"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4094",
+      "source": "PMC6371294",
+      "target": "CUSTOM:8323cc1e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4092",
+      "source": "PMC6371294",
+      "target": "CUSTOM:e665f1ff",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4090",
+      "source": "PMC6371294",
+      "target": "CUSTOM:0c6e4160",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4088",
+      "source": "PMC6371294",
+      "target": "CUSTOM:d70661fa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4086",
+      "source": "PMC6371294",
+      "target": "CUSTOM:9294e549",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4084",
+      "source": "PMC6371294",
+      "target": "CUSTOM:89dce203",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4082",
+      "source": "PMC6371294",
+      "target": "CUSTOM:05b0fa07",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4080",
+      "source": "PMC6371294",
+      "target": "CUSTOM:dc65fe55",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4078",
+      "source": "PMC6371294",
+      "target": "CUSTOM:a11da908",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4076",
+      "source": "PMC6371294",
+      "target": "CUSTOM:fddf89a6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4074",
+      "source": "PMC6371294",
+      "target": "CUSTOM:f8d4054d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4072",
+      "source": "PMC6371294",
+      "target": "CUSTOM:cf2e9bb1",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 13,
+  "num_edges": 12
+}

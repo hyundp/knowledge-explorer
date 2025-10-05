@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC8879990",
+  "nodes": [
+    {
+      "fullLabel": "PMC8879990",
+      "id": "PMC8879990",
+      "label": "PMC8879990",
+      "properties": {
+        "pmcid": "PMC8879990",
+        "first_seen": "2025-10-05T07:29:06.852381",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.888738"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Seed-type dependence of radiation impacts",
+      "id": "CUSTOM:e148aa5c",
+      "label": "Seed-type depende...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.890749",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Seed-type dependence of radiation impacts",
+        "last_seen": "2025-10-05T07:29:06.890749",
+        "obo_id": "CUSTOM:e148aa5c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Radiation sensitivity of hydrated versus dry seeds",
+      "id": "CUSTOM:a2abe82d",
+      "label": "Radiation sensiti...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.884348",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Radiation sensitivity of hydrated versus dry seeds",
+        "last_seen": "2025-10-05T07:29:06.884348",
+        "obo_id": "CUSTOM:a2abe82d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Effect magnitude of simulated SPE on hydrated seeds (relative to heavier/higher LET particles)",
+      "id": "CUSTOM:84a1746e",
+      "label": "Effect magnitude ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.878395",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effect magnitude of simulated SPE on hydrated seeds (relative to heavier/higher LET particles)",
+        "last_seen": "2025-10-05T07:29:06.878395",
+        "obo_id": "CUSTOM:84a1746e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Effect magnitude of simulated GCR on dry seeds (relative to heavier/higher LET particles)",
+      "id": "CUSTOM:6cc1b449",
+      "label": "Effect magnitude ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.872571",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effect magnitude of simulated GCR on dry seeds (relative to heavier/higher LET particles)",
+        "last_seen": "2025-10-05T07:29:06.872571",
+        "obo_id": "CUSTOM:6cc1b449"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Damage severity",
+      "id": "CUSTOM:e4621d6e",
+      "label": "Damage severity",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.866221",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Damage severity",
+        "last_seen": "2025-10-05T07:29:06.866221",
+        "obo_id": "CUSTOM:e4621d6e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Outcome measures dependence on radiation parameters",
+      "id": "CUSTOM:3c62b7e8",
+      "label": "Outcome measures ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.860453",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Outcome measures dependence on radiation parameters",
+        "last_seen": "2025-10-05T07:29:06.860453",
+        "obo_id": "CUSTOM:3c62b7e8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Impact on seeds",
+      "id": "CUSTOM:b3c219e6",
+      "label": "Impact on seeds",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.854334",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Impact on seeds",
+        "last_seen": "2025-10-05T07:29:06.854334",
+        "obo_id": "CUSTOM:b3c219e6"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2056",
+      "source": "PMC8879990",
+      "target": "CUSTOM:e148aa5c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2054",
+      "source": "PMC8879990",
+      "target": "CUSTOM:a2abe82d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2052",
+      "source": "PMC8879990",
+      "target": "CUSTOM:84a1746e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2050",
+      "source": "PMC8879990",
+      "target": "CUSTOM:6cc1b449",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2048",
+      "source": "PMC8879990",
+      "target": "CUSTOM:e4621d6e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2046",
+      "source": "PMC8879990",
+      "target": "CUSTOM:3c62b7e8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2044",
+      "source": "PMC8879990",
+      "target": "CUSTOM:b3c219e6",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

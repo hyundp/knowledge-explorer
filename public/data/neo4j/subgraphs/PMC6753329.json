@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC6753329",
+  "nodes": [
+    {
+      "fullLabel": "PMC6753329",
+      "id": "PMC6753329",
+      "label": "PMC6753329",
+      "properties": {
+        "pmcid": "PMC6753329",
+        "first_seen": "2025-10-05T07:29:05.515593",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.533500"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "components of the HPA axis impacted by social environment during HU",
+      "id": "CUSTOM:261db15d",
+      "label": "components of the...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.535446",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "components of the HPA axis impacted by social environment during HU",
+        "last_seen": "2025-10-05T07:29:05.535446",
+        "obo_id": "CUSTOM:261db15d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "components of the immune system impacted by social environment during HU",
+      "id": "CUSTOM:0fa611ed",
+      "label": "components of the...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.529631",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "components of the immune system impacted by social environment during HU",
+        "last_seen": "2025-10-05T07:29:05.529631",
+        "obo_id": "CUSTOM:0fa611ed"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "deficits in bone microarchitecture",
+      "id": "CUSTOM:33e0c933",
+      "label": "deficits in bone ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.522668",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "deficits in bone microarchitecture",
+        "last_seen": "2025-10-05T07:29:05.522668",
+        "obo_id": "CUSTOM:33e0c933"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "deficits in muscle",
+      "id": "CUSTOM:a7552a21",
+      "label": "deficits in muscle",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.517617",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "deficits in muscle",
+        "last_seen": "2025-10-05T07:29:05.517617",
+        "obo_id": "CUSTOM:a7552a21"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1614",
+      "source": "PMC6753329",
+      "target": "CUSTOM:261db15d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1612",
+      "source": "PMC6753329",
+      "target": "CUSTOM:0fa611ed",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1610",
+      "source": "PMC6753329",
+      "target": "CUSTOM:33e0c933",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1608",
+      "source": "PMC6753329",
+      "target": "CUSTOM:a7552a21",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

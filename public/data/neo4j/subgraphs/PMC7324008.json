@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC7324008",
+  "nodes": [
+    {
+      "fullLabel": "PMC7324008",
+      "id": "PMC7324008",
+      "label": "PMC7324008",
+      "properties": {
+        "pmcid": "PMC7324008",
+        "first_seen": "2025-10-05T07:29:15.417374",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:15.452921"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Production speed and yield of oligodendrocytes (OLs) exhibiting initial myelinating features (compared to 1G)",
+      "id": "CUSTOM:d218c96a",
+      "label": "Production speed ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.455146",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Production speed and yield of oligodendrocytes (OLs) exhibiting initial myelinating features (compared to 1G)",
+        "last_seen": "2025-10-05T07:29:15.455146",
+        "obo_id": "CUSTOM:d218c96a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Deleterious effects on oligodendrocytes (OLs)",
+      "id": "CUSTOM:2ae453af",
+      "label": "Deleterious effec...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.448343",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Deleterious effects on oligodendrocytes (OLs)",
+        "last_seen": "2025-10-05T07:29:15.448343",
+        "obo_id": "CUSTOM:2ae453af"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Number of cell processes necessary for progression to the pre-myelinating stage",
+      "id": "CUSTOM:363540b7",
+      "label": "Number of cell pr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.441328",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Number of cell processes necessary for progression to the pre-myelinating stage",
+        "last_seen": "2025-10-05T07:29:15.441328",
+        "obo_id": "CUSTOM:363540b7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Functional potential of oligodendrocytes (OLs)",
+      "id": "CUSTOM:a5919dbe",
+      "label": "Functional potent...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.434849",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Functional potential of oligodendrocytes (OLs)",
+        "last_seen": "2025-10-05T07:29:15.434849",
+        "obo_id": "CUSTOM:a5919dbe"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Lipid metabolism in oligodendrocytes (OLs) / lipid levels",
+      "id": "CUSTOM:428d7ed7",
+      "label": "Lipid metabolism ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.427639",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Lipid metabolism in oligodendrocytes (OLs) / lipid levels",
+        "last_seen": "2025-10-05T07:29:15.427639",
+        "obo_id": "CUSTOM:428d7ed7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Changes in energetics pathway of oligodendrocyte (OL) metabolism",
+      "id": "CUSTOM:142fb92d",
+      "label": "Changes in energe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.420366",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Changes in energetics pathway of oligodendrocyte (OL) metabolism",
+        "last_seen": "2025-10-05T07:29:15.420366",
+        "obo_id": "CUSTOM:142fb92d"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4268",
+      "source": "PMC7324008",
+      "target": "CUSTOM:d218c96a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4266",
+      "source": "PMC7324008",
+      "target": "CUSTOM:2ae453af",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4264",
+      "source": "PMC7324008",
+      "target": "CUSTOM:363540b7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4262",
+      "source": "PMC7324008",
+      "target": "CUSTOM:a5919dbe",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4260",
+      "source": "PMC7324008",
+      "target": "CUSTOM:428d7ed7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4258",
+      "source": "PMC7324008",
+      "target": "CUSTOM:142fb92d",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

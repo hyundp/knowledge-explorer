@@ -1,0 +1,351 @@
+{
+  "pmcid": "PMC6321533",
+  "nodes": [
+    {
+      "fullLabel": "PMC6321533",
+      "id": "PMC6321533",
+      "label": "PMC6321533",
+      "properties": {
+        "pmcid": "PMC6321533",
+        "first_seen": "2025-10-05T07:29:05.010376",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.124095"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Cdkn1a gene expression",
+      "id": "CUSTOM:8d08145d",
+      "label": "Cdkn1a gene expre...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.126025",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cdkn1a gene expression",
+        "last_seen": "2025-10-05T07:29:05.126025",
+        "obo_id": "CUSTOM:8d08145d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Other CYP genes expression (over 20 genes)",
+      "id": "CUSTOM:3a128cd4",
+      "label": "Other CYP genes e...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.120586",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Other CYP genes expression (over 20 genes)",
+        "last_seen": "2025-10-05T07:29:05.120586",
+        "obo_id": "CUSTOM:3a128cd4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "CYP4A1 gene expression",
+      "id": "CUSTOM:21b2fb62",
+      "label": "CYP4A1 gene expre...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.116068",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CYP4A1 gene expression",
+        "last_seen": "2025-10-05T07:29:05.116068",
+        "obo_id": "CUSTOM:21b2fb62"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Overexpression of genes involved in negative regulation of protein kinase",
+      "id": "CUSTOM:3231f7bf",
+      "label": "Overexpression of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.111010",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Overexpression of genes involved in negative regulation of protein kinase",
+        "last_seen": "2025-10-05T07:29:05.111010",
+        "obo_id": "CUSTOM:3231f7bf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Overexpression of genes involved in fat cell differentiation",
+      "id": "CUSTOM:c4cd095e",
+      "label": "Overexpression of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.105862",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Overexpression of genes involved in fat cell differentiation",
+        "last_seen": "2025-10-05T07:29:05.105862",
+        "obo_id": "CUSTOM:c4cd095e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Overexpression of genes involved in apoptosis and cell death",
+      "id": "CUSTOM:3059d21a",
+      "label": "Overexpression of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.098958",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Overexpression of genes involved in apoptosis and cell death",
+        "last_seen": "2025-10-05T07:29:05.098958",
+        "obo_id": "CUSTOM:3059d21a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Overexpression of genes involved in cellular responses to peptides, hormones, and nitrogen/organonitrogen compounds",
+      "id": "CUSTOM:a799ac32",
+      "label": "Overexpression of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.093743",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Overexpression of genes involved in cellular responses to peptides, hormones, and nitrogen/organonitrogen compounds",
+        "last_seen": "2025-10-05T07:29:05.093743",
+        "obo_id": "CUSTOM:a799ac32"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of both tissue-specific and shared responses to the stress of spaceflight",
+      "id": "CUSTOM:36bc2a5b",
+      "label": "Presence of both ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.089199",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of both tissue-specific and shared responses to the stress of spaceflight",
+        "last_seen": "2025-10-05T07:29:05.089199",
+        "obo_id": "CUSTOM:36bc2a5b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Overall similarity of gene response between liver and kidney to spaceflight",
+      "id": "CUSTOM:e3c3aabf",
+      "label": "Overall similarit...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.084873",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Overall similarity of gene response between liver and kidney to spaceflight",
+        "last_seen": "2025-10-05T07:29:05.084873",
+        "obo_id": "CUSTOM:e3c3aabf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Overexpression of genes in both liver and kidney in specific functional areas",
+      "id": "CUSTOM:f2b1db3b",
+      "label": "Overexpression of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.080691",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Overexpression of genes in both liver and kidney in specific functional areas",
+        "last_seen": "2025-10-05T07:29:05.080691",
+        "obo_id": "CUSTOM:f2b1db3b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "GO pathways upregulated in kidney and downregulated in liver (opposite regulation)",
+      "id": "CUSTOM:c9ff945e",
+      "label": "GO pathways upreg...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.075631",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "GO pathways upregulated in kidney and downregulated in liver (opposite regulation)",
+        "last_seen": "2025-10-05T07:29:05.075631",
+        "obo_id": "CUSTOM:c9ff945e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "GO pathways upregulated in liver and downregulated in kidney (opposite regulation)",
+      "id": "CUSTOM:d7d2eb3c",
+      "label": "GO pathways upreg...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.067363",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "GO pathways upregulated in liver and downregulated in kidney (opposite regulation)",
+        "last_seen": "2025-10-05T07:29:05.067363",
+        "obo_id": "CUSTOM:d7d2eb3c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Concordant GO pathway enrichment in liver and kidney in response to spaceflight",
+      "id": "CUSTOM:0e6f3a6c",
+      "label": "Concordant GO pat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.043918",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Concordant GO pathway enrichment in liver and kidney in response to spaceflight",
+        "last_seen": "2025-10-05T07:29:05.043918",
+        "obo_id": "CUSTOM:0e6f3a6c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Other CYP genes expression",
+      "id": "CUSTOM:51add52a",
+      "label": "Other CYP genes e...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.018215",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Other CYP genes expression",
+        "last_seen": "2025-10-05T07:29:05.018215",
+        "obo_id": "CUSTOM:51add52a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "CYP4A1 gene expression in liver",
+      "id": "CUSTOM:bb52e220",
+      "label": "CYP4A1 gene expre...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.011961",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CYP4A1 gene expression in liver",
+        "last_seen": "2025-10-05T07:29:05.011961",
+        "obo_id": "CUSTOM:bb52e220"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1496",
+      "source": "PMC6321533",
+      "target": "CUSTOM:8d08145d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1494",
+      "source": "PMC6321533",
+      "target": "CUSTOM:3a128cd4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1492",
+      "source": "PMC6321533",
+      "target": "CUSTOM:21b2fb62",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1490",
+      "source": "PMC6321533",
+      "target": "CUSTOM:3231f7bf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1488",
+      "source": "PMC6321533",
+      "target": "CUSTOM:c4cd095e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1486",
+      "source": "PMC6321533",
+      "target": "CUSTOM:3059d21a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1484",
+      "source": "PMC6321533",
+      "target": "CUSTOM:a799ac32",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1482",
+      "source": "PMC6321533",
+      "target": "CUSTOM:36bc2a5b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1480",
+      "source": "PMC6321533",
+      "target": "CUSTOM:e3c3aabf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1478",
+      "source": "PMC6321533",
+      "target": "CUSTOM:f2b1db3b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1476",
+      "source": "PMC6321533",
+      "target": "CUSTOM:c9ff945e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1474",
+      "source": "PMC6321533",
+      "target": "CUSTOM:d7d2eb3c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1472",
+      "source": "PMC6321533",
+      "target": "CUSTOM:0e6f3a6c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1470",
+      "source": "PMC6321533",
+      "target": "CUSTOM:51add52a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1468",
+      "source": "PMC6321533",
+      "target": "CUSTOM:bb52e220",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 16,
+  "num_edges": 15
+}

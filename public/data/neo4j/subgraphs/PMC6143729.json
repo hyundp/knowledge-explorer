@@ -1,0 +1,439 @@
+{
+  "pmcid": "PMC6143729",
+  "nodes": [
+    {
+      "fullLabel": "PMC6143729",
+      "id": "PMC6143729",
+      "label": "PMC6143729",
+      "properties": {
+        "pmcid": "PMC6143729",
+        "first_seen": "2025-10-05T07:29:02.671387",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.761608"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "low shear modeled microgravity induces oxidative stress response in bacteria (literature)",
+      "id": "CUSTOM:e0eeaa3d",
+      "label": "low shear modeled...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.763646",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "low shear modeled microgravity induces oxidative stress response in bacteria (literature)",
+        "last_seen": "2025-10-05T07:29:02.763646",
+        "obo_id": "CUSTOM:e0eeaa3d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "increased susceptibility to ionizing radiation in S. cerevisiae strains lacking cytosolic catalase (literature)",
+      "id": "CUSTOM:1b3f24dd",
+      "label": "increased suscept...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.758071",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "increased susceptibility to ionizing radiation in S. cerevisiae strains lacking cytosolic catalase (literature)",
+        "last_seen": "2025-10-05T07:29:02.758071",
+        "obo_id": "CUSTOM:1b3f24dd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "spaceflight induces expression of oxidative stress resistance genes in microbes, animals, and astronauts (literature)",
+      "id": "CUSTOM:17f5d5e2",
+      "label": "spaceflight induc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.754210",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "spaceflight induces expression of oxidative stress resistance genes in microbes, animals, and astronauts (literature)",
+        "last_seen": "2025-10-05T07:29:02.754210",
+        "obo_id": "CUSTOM:17f5d5e2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "melanized fungal cells increased growth rates following exposure to ionizing radiation",
+      "id": "CUSTOM:4d003b9e",
+      "label": "melanized fungal ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.749681",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "melanized fungal cells increased growth rates following exposure to ionizing radiation",
+        "last_seen": "2025-10-05T07:29:02.749681",
+        "obo_id": "CUSTOM:4d003b9e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "melanin exposure to ionizing radiation alters electronic properties",
+      "id": "CUSTOM:c9a1dbe9",
+      "label": "melanin exposure ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.745263",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "melanin exposure to ionizing radiation alters electronic properties",
+        "last_seen": "2025-10-05T07:29:02.745263",
+        "obo_id": "CUSTOM:c9a1dbe9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "melanized fungi resistance to ionizing radiation (literature)",
+      "id": "CUSTOM:34458ac6",
+      "label": "melanized fungi r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.740648",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "melanized fungi resistance to ionizing radiation (literature)",
+        "last_seen": "2025-10-05T07:29:02.740648",
+        "obo_id": "CUSTOM:34458ac6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "higher melanin content compared to Earth counterparts",
+      "id": "CUSTOM:2269536a",
+      "label": "higher melanin co...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.735688",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "higher melanin content compared to Earth counterparts",
+        "last_seen": "2025-10-05T07:29:02.735688",
+        "obo_id": "CUSTOM:2269536a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "distinctness of ISS strain in growth and conidiation",
+      "id": "CUSTOM:5431067c",
+      "label": "distinctness of I...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.730507",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "distinctness of ISS strain in growth and conidiation",
+        "last_seen": "2025-10-05T07:29:02.730507",
+        "obo_id": "CUSTOM:5431067c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "oxidative stress response proteins (general)",
+      "id": "CUSTOM:18a907c3",
+      "label": "oxidative stress ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.725832",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "oxidative stress response proteins (general)",
+        "last_seen": "2025-10-05T07:29:02.725832",
+        "obo_id": "CUSTOM:18a907c3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "abundance of kinases that mediate responses to oxidative stress",
+      "id": "CUSTOM:1c5702ec",
+      "label": "abundance of kina...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.721176",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "abundance of kinases that mediate responses to oxidative stress",
+        "last_seen": "2025-10-05T07:29:02.721176",
+        "obo_id": "CUSTOM:1c5702ec"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "catalase abundance (H2O2-degrading enzyme)",
+      "id": "CUSTOM:2bd7ca10",
+      "label": "catalase abundanc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.715351",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "catalase abundance (H2O2-degrading enzyme)",
+        "last_seen": "2025-10-05T07:29:02.715351",
+        "obo_id": "CUSTOM:2bd7ca10"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "glycoside hydrolase AamA abundance",
+      "id": "CUSTOM:cfe7bd39",
+      "label": "glycoside hydrola...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.710848",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "glycoside hydrolase AamA abundance",
+        "last_seen": "2025-10-05T07:29:02.710848",
+        "obo_id": "CUSTOM:cfe7bd39"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "starvation-induced nutrient acquisition enzyme abundance",
+      "id": "CUSTOM:c1d23de8",
+      "label": "starvation-induce...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.706434",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "starvation-induced nutrient acquisition enzyme abundance",
+        "last_seen": "2025-10-05T07:29:02.706434",
+        "obo_id": "CUSTOM:c1d23de8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "carbon starvation hallmarks",
+      "id": "CUSTOM:6cac53fe",
+      "label": "carbon starvation...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.702067",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "carbon starvation hallmarks",
+        "last_seen": "2025-10-05T07:29:02.702067",
+        "obo_id": "CUSTOM:6cac53fe"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "melanin production in A. niger from high-radiation environment (Evolution Canyon south-facing slope vs north-facing slope)",
+      "id": "CUSTOM:b317ed2b",
+      "label": "melanin productio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.696693",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "melanin production in A. niger from high-radiation environment (Evolution Canyon south-facing slope vs north-facing slope)",
+        "last_seen": "2025-10-05T07:29:02.696693",
+        "obo_id": "CUSTOM:b317ed2b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "colony pigmentation distribution (proxy for melanin production)",
+      "id": "CUSTOM:0ba0483d",
+      "label": "colony pigmentati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.690069",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "colony pigmentation distribution (proxy for melanin production)",
+        "last_seen": "2025-10-05T07:29:02.690069",
+        "obo_id": "CUSTOM:0ba0483d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "growth rate",
+      "id": "CUSTOM:6d6f1903",
+      "label": "growth rate",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.684797",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "growth rate",
+        "last_seen": "2025-10-05T07:29:02.684797",
+        "obo_id": "CUSTOM:6d6f1903"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "AlbA protein abundance",
+      "id": "CUSTOM:e7fb5ba0",
+      "label": "AlbA protein abun...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.680043",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "AlbA protein abundance",
+        "last_seen": "2025-10-05T07:29:02.680043",
+        "obo_id": "CUSTOM:e7fb5ba0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "genome within the genetic variation of other A. niger strains",
+      "id": "CUSTOM:f4324278",
+      "label": "genome within the...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.673791",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "genome within the genetic variation of other A. niger strains",
+        "last_seen": "2025-10-05T07:29:02.673791",
+        "obo_id": "CUSTOM:f4324278"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "712",
+      "source": "PMC6143729",
+      "target": "CUSTOM:e0eeaa3d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "710",
+      "source": "PMC6143729",
+      "target": "CUSTOM:1b3f24dd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "708",
+      "source": "PMC6143729",
+      "target": "CUSTOM:17f5d5e2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "706",
+      "source": "PMC6143729",
+      "target": "CUSTOM:4d003b9e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "704",
+      "source": "PMC6143729",
+      "target": "CUSTOM:c9a1dbe9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "702",
+      "source": "PMC6143729",
+      "target": "CUSTOM:34458ac6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "700",
+      "source": "PMC6143729",
+      "target": "CUSTOM:2269536a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "698",
+      "source": "PMC6143729",
+      "target": "CUSTOM:5431067c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "696",
+      "source": "PMC6143729",
+      "target": "CUSTOM:18a907c3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "694",
+      "source": "PMC6143729",
+      "target": "CUSTOM:1c5702ec",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "692",
+      "source": "PMC6143729",
+      "target": "CUSTOM:2bd7ca10",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "690",
+      "source": "PMC6143729",
+      "target": "CUSTOM:cfe7bd39",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "688",
+      "source": "PMC6143729",
+      "target": "CUSTOM:c1d23de8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "686",
+      "source": "PMC6143729",
+      "target": "CUSTOM:6cac53fe",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "684",
+      "source": "PMC6143729",
+      "target": "CUSTOM:b317ed2b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "682",
+      "source": "PMC6143729",
+      "target": "CUSTOM:0ba0483d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "680",
+      "source": "PMC6143729",
+      "target": "CUSTOM:6d6f1903",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "678",
+      "source": "PMC6143729",
+      "target": "CUSTOM:e7fb5ba0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "676",
+      "source": "PMC6143729",
+      "target": "CUSTOM:f4324278",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 20,
+  "num_edges": 19
+}

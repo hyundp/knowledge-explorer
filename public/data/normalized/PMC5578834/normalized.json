@@ -1,0 +1,25 @@
+{
+  "pmcid": "PMC5578834",
+  "title": "Draft Genome Sequence of Solibacillus kalamii, Isolated from an Air Filter Aboard the International Space Station",
+  "authors": [
+    "Arman Seuylemezian",
+    "Nitin K Singh",
+    "Parag Vaishampayan",
+    "Kasthuri Venkateswaran"
+  ],
+  "year": "2017",
+  "journal": "Genome Announcements",
+  "doi": "10.1128/genomeA.00696 17",
+  "sections": {
+    "abstract": "We report here the draft genome ofSolibacillus kalamiiISSFR 015, isolated from a high energy particulate arrestance filter aboard the International Space Station. The draft genome sequence of this strain contains 3,809,180bp with an estimated G+C content of 38.61%.",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:07:39.833711",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5578834/"
+  }
+}

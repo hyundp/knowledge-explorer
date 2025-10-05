@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC4110898",
+  "nodes": [
+    {
+      "fullLabel": "PMC4110898",
+      "id": "PMC4110898",
+      "label": "PMC4110898",
+      "properties": {
+        "pmcid": "PMC4110898",
+        "first_seen": "2025-10-05T07:29:02.812456",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.820500"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "tissue mineral density",
+      "id": "CUSTOM:7e47bcc5",
+      "label": "tissue mineral de...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.821960",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "tissue mineral density",
+        "last_seen": "2025-10-05T07:29:02.821960",
+        "obo_id": "CUSTOM:7e47bcc5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cross sectional thickness",
+      "id": "CUSTOM:62e3af7b",
+      "label": "cross sectional t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.818107",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cross sectional thickness",
+        "last_seen": "2025-10-05T07:29:02.818107",
+        "obo_id": "CUSTOM:62e3af7b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "bone volume",
+      "id": "CUSTOM:b162cbe9",
+      "label": "bone volume",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.814051",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "bone volume",
+        "last_seen": "2025-10-05T07:29:02.814051",
+        "obo_id": "CUSTOM:b162cbe9"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "740",
+      "source": "PMC4110898",
+      "target": "CUSTOM:7e47bcc5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "738",
+      "source": "PMC4110898",
+      "target": "CUSTOM:62e3af7b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "736",
+      "source": "PMC4110898",
+      "target": "CUSTOM:b162cbe9",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

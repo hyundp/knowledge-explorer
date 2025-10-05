@@ -1,0 +1,28 @@
+{
+  "pmcid": "PMC7314936",
+  "title": "Hardware Validation of the Advanced Plant Habitat on ISS: Canopy Photosynthesis in Reduced Gravity",
+  "authors": [
+    "Oscar Monje",
+    "Jeffrey T Richards",
+    "John A Carver",
+    "Dinah I Dimapilis",
+    "Howard G Levine",
+    "Nicole F Dufour",
+    "Bryan G Onate"
+  ],
+  "year": "2020",
+  "journal": "Frontiers in Plant Science",
+  "doi": "10.3389/fpls.2020.00673",
+  "sections": {
+    "abstract": "The Advanced Plant Habitat (APH) is the largest research plant growth facility deployed on the International Space Station (ISS). APH is a fully enclosed, closed loop plant life support system with an environmentally controlled growth chamber designed for conducting both fundamental and applied plant research during experiments extending as long as 135 days. APH was delivered to the ISS in parts aboard two commercial resupply missions: OA 7 in April 2017 and SpaceX 11 in June 2017, and was assembled and installed in the Japanese Experiment Module Kibo in November 2018. We report here on a 7 week long hardware validation test that utilized a root module planted with bothArabidopsis(cv. Col 0) and wheat (cv. Apogee) plants. The validation test examined the APH's ability to control light intensity, spectral quality, humidity, CO2concentration, photoperiod, temperature, and root zone moisture using commanding from ground facilities at the Kennedy Space Center (KSC). The test also demonstrated the execution of programmed experiment profiles that scheduled: (1) changes in environmental combinations (e.g., a daily photoperiod at constant relative humidity), (2) predetermined photographic events using the three APH cameras [overhead, sideview, and sideview near infrared (NIR)], and (3) execution of experimental sequences during the life cycle of a crop (e.g., measure photosynthetic CO2drawdown experiments).Arabidopsisand wheat were grown in microgravity to demonstrate crew procedures, planting protocols and watering schemes within APH. The ability of APH to contain plant debris was assessed during the harvest of matureArabidopsisplants. Wheat provided a large evaporative load that tested root zone moisture control and the recovery of transpired water by condensation. The wheat canopy was also used to validate the ability of APH to measure gas exchange of plants from non invasive gas exchange measurements (i.e., canopy photosynthesis and respiration). These features were evaluated by executing experiment profiles that utilized the CO2drawdown technique to measure daily rates of canopy photosynthesis and dark period CO2increase for respiration. This hardware validation test confirmed that APH can measure fundamental plant responses to spaceflight conditions.\n\nKeywords:Apogee Wheat,Arabidopsis, canopy photosynthesis, controlled environment agriculture, elevated CO2, ISS spaceflight environment, NASA APH, microgravity",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "The APH Facility was installed, assembled and its ability for conducting fundamental plant research on ISS was evaluated and demonstrated. Wheat andArabidopsisplant canopies were successfully grown from seed and harvested after 6 weeks and after 33 days of growth on ISS, respectively. No pre flight testing was performed on the ground, thus design team recommended settings were used throughout the operation of the APH during the validation test. The planting, germination, and watering protocols for the two species were demonstrated on ISS. The ability to growArabidopsisstems, flowers and siliques was accomplished in 6 weeks and the APH's ability to contain debris during harvest was demonstrated during harvest of the matureArabidopsisplants. Environmental and non destructive plant growth data was collected and used to validate the ability of APH to measure photosynthesis, respiration and CQY of a plant canopy during spaceflight."
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:03:52.955765",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314936/"
+  }
+}

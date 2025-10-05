@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC12040010",
+  "nodes": [
+    {
+      "fullLabel": "PMC12040010",
+      "id": "PMC12040010",
+      "label": "PMC12040010",
+      "properties": {
+        "pmcid": "PMC12040010",
+        "first_seen": "2025-10-05T07:29:07.633761",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:07.679721"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Recommendation that subsequent treatment should be guided by susceptibility testing",
+      "id": "CUSTOM:2a3087ef",
+      "label": "Recommendation th...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.681974",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Recommendation that subsequent treatment should be guided by susceptibility testing",
+        "last_seen": "2025-10-05T07:29:07.681974",
+        "obo_id": "CUSTOM:2a3087ef"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Recommendation that amphotericin B (AmB)–based treatment should be the first choice for these infections",
+      "id": "CUSTOM:cb8e7ca6",
+      "label": "Recommendation th...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.675240",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Recommendation that amphotericin B (AmB)–based treatment should be the first choice for these infections",
+        "last_seen": "2025-10-05T07:29:07.675240",
+        "obo_id": "CUSTOM:cb8e7ca6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Requirement of rRNA sequence analysis for identification of fungal pathogens with shared phenotypic similarities",
+      "id": "CUSTOM:b20c2281",
+      "label": "Requirement of rR...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.668376",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Requirement of rRNA sequence analysis for identification of fungal pathogens with shared phenotypic similarities",
+        "last_seen": "2025-10-05T07:29:07.668376",
+        "obo_id": "CUSTOM:b20c2281"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Headache frequency in CNS infections of C albidus and related species (most frequent symptom)",
+      "id": "CUSTOM:fb7f999b",
+      "label": "Headache frequenc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.661403",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Headache frequency in CNS infections of C albidus and related species (most frequent symptom)",
+        "last_seen": "2025-10-05T07:29:07.661403",
+        "obo_id": "CUSTOM:fb7f999b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Leukemia and cancer as risk factors for CNS infections caused by C albidus and related species",
+      "id": "CUSTOM:92e0c424",
+      "label": "Leukemia and canc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.655320",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Leukemia and cancer as risk factors for CNS infections caused by C albidus and related species",
+        "last_seen": "2025-10-05T07:29:07.655320",
+        "obo_id": "CUSTOM:92e0c424"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Safety of liposomal amphotericin B dosing based on ideal bodyweight in obese patients with C albidus meningitis",
+      "id": "CUSTOM:09144c92",
+      "label": "Safety of liposom...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.647997",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Safety of liposomal amphotericin B dosing based on ideal bodyweight in obese patients with C albidus meningitis",
+        "last_seen": "2025-10-05T07:29:07.647997",
+        "obo_id": "CUSTOM:09144c92"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Efficacy of liposomal amphotericin B dosing based on ideal bodyweight in obese patients with C albidus meningitis",
+      "id": "CUSTOM:bac2712a",
+      "label": "Efficacy of lipos...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.641491",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Efficacy of liposomal amphotericin B dosing based on ideal bodyweight in obese patients with C albidus meningitis",
+        "last_seen": "2025-10-05T07:29:07.641491",
+        "obo_id": "CUSTOM:bac2712a"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2304",
+      "source": "PMC12040010",
+      "target": "CUSTOM:2a3087ef",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2302",
+      "source": "PMC12040010",
+      "target": "CUSTOM:cb8e7ca6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2300",
+      "source": "PMC12040010",
+      "target": "CUSTOM:b20c2281",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2298",
+      "source": "PMC12040010",
+      "target": "CUSTOM:fb7f999b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2296",
+      "source": "PMC12040010",
+      "target": "CUSTOM:92e0c424",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2294",
+      "source": "PMC12040010",
+      "target": "CUSTOM:09144c92",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2292",
+      "source": "PMC12040010",
+      "target": "CUSTOM:bac2712a",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

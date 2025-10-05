@@ -1,0 +1,285 @@
+{
+  "pmcid": "PMC6240453",
+  "nodes": [
+    {
+      "fullLabel": "PMC6240453",
+      "id": "PMC6240453",
+      "label": "PMC6240453",
+      "properties": {
+        "pmcid": "PMC6240453",
+        "first_seen": "2025-10-05T07:29:09.749768",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:09.826012"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "ability to conduct gene expression analyses from single root tips of young seedlings",
+      "id": "CUSTOM:04bd2a3c",
+      "label": "ability to conduc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.828295",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ability to conduct gene expression analyses from single root tips of young seedlings",
+        "last_seen": "2025-10-05T07:29:09.828295",
+        "obo_id": "CUSTOM:04bd2a3c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "environmentally induced patterns of gene expression associated with tissue handling",
+      "id": "CUSTOM:97a71168",
+      "label": "environmentally i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.820638",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "environmentally induced patterns of gene expression associated with tissue handling",
+        "last_seen": "2025-10-05T07:29:09.820638",
+        "obo_id": "CUSTOM:97a71168"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "detection of genes enriched in two root zones and revelation of distinct gene expression patterns unique to each zone",
+      "id": "CUSTOM:2e07d174",
+      "label": "detection of gene...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.814051",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "detection of genes enriched in two root zones and revelation of distinct gene expression patterns unique to each zone",
+        "last_seen": "2025-10-05T07:29:09.814051",
+        "obo_id": "CUSTOM:2e07d174"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "detection of low-expressing or rarely expressed spaceflight-relevant genes",
+      "id": "CUSTOM:4b6c43b5",
+      "label": "detection of low-...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.807047",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "detection of low-expressing or rarely expressed spaceflight-relevant genes",
+        "last_seen": "2025-10-05T07:29:09.807047",
+        "obo_id": "CUSTOM:4b6c43b5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "detection of highly differentially expressed spaceflight-relevant genes",
+      "id": "CUSTOM:eb8f11cb",
+      "label": "detection of high...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.799905",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "detection of highly differentially expressed spaceflight-relevant genes",
+        "last_seen": "2025-10-05T07:29:09.799905",
+        "obo_id": "CUSTOM:eb8f11cb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "TARs with significantly altered expression between two zones",
+      "id": "CUSTOM:1f89da79",
+      "label": "TARs with signifi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.793050",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "TARs with significantly altered expression between two zones",
+        "last_seen": "2025-10-05T07:29:09.793050",
+        "obo_id": "CUSTOM:1f89da79"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "putative transcriptionally active regions (TARs) not present in TAIR database",
+      "id": "CUSTOM:2d1c4410",
+      "label": "putative transcri...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.786403",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "putative transcriptionally active regions (TARs) not present in TAIR database",
+        "last_seen": "2025-10-05T07:29:09.786403",
+        "obo_id": "CUSTOM:2d1c4410"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "detection of differentially expressed genes not detected by microarray and identification of specific isoforms",
+      "id": "CUSTOM:d788f9ca",
+      "label": "detection of diff...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.779878",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "detection of differentially expressed genes not detected by microarray and identification of specific isoforms",
+        "last_seen": "2025-10-05T07:29:09.779878",
+        "obo_id": "CUSTOM:d788f9ca"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "detection of unannotated genomic regions/transcripts",
+      "id": "CUSTOM:be8ebc30",
+      "label": "detection of unan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.773469",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "detection of unannotated genomic regions/transcripts",
+        "last_seen": "2025-10-05T07:29:09.773469",
+        "obo_id": "CUSTOM:be8ebc30"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "fold change measurements (microarray)",
+      "id": "CUSTOM:1d52b550",
+      "label": "fold change measu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.766728",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "fold change measurements (microarray)",
+        "last_seen": "2025-10-05T07:29:09.766728",
+        "obo_id": "CUSTOM:1d52b550"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "estimated gene expression levels",
+      "id": "CUSTOM:33e192cb",
+      "label": "estimated gene ex...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.760042",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "estimated gene expression levels",
+        "last_seen": "2025-10-05T07:29:09.760042",
+        "obo_id": "CUSTOM:33e192cb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "identification of differentially expressed genes",
+      "id": "CUSTOM:f6ae0ff9",
+      "label": "identification of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.752508",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "identification of differentially expressed genes",
+        "last_seen": "2025-10-05T07:29:09.752508",
+        "obo_id": "CUSTOM:f6ae0ff9"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2916",
+      "source": "PMC6240453",
+      "target": "CUSTOM:04bd2a3c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2914",
+      "source": "PMC6240453",
+      "target": "CUSTOM:97a71168",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2912",
+      "source": "PMC6240453",
+      "target": "CUSTOM:2e07d174",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2910",
+      "source": "PMC6240453",
+      "target": "CUSTOM:4b6c43b5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2908",
+      "source": "PMC6240453",
+      "target": "CUSTOM:eb8f11cb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2906",
+      "source": "PMC6240453",
+      "target": "CUSTOM:1f89da79",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2904",
+      "source": "PMC6240453",
+      "target": "CUSTOM:2d1c4410",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2902",
+      "source": "PMC6240453",
+      "target": "CUSTOM:d788f9ca",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2900",
+      "source": "PMC6240453",
+      "target": "CUSTOM:be8ebc30",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2898",
+      "source": "PMC6240453",
+      "target": "CUSTOM:1d52b550",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2896",
+      "source": "PMC6240453",
+      "target": "CUSTOM:33e192cb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2894",
+      "source": "PMC6240453",
+      "target": "CUSTOM:f6ae0ff9",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 13,
+  "num_edges": 12
+}

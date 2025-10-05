@@ -1,0 +1,461 @@
+{
+  "pmcid": "PMC3593973",
+  "nodes": [
+    {
+      "fullLabel": "PMC3593973",
+      "id": "PMC3593973",
+      "label": "PMC3593973",
+      "properties": {
+        "pmcid": "PMC3593973",
+        "first_seen": "2025-10-05T07:29:01.844203",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.930946"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Hydrophobicity and steric shape of the identified residue, complemented by the periplasmic loop, define channel mechanosensitivity and kinetics in both Sa and Eco MscL",
+      "id": "CUSTOM:703572a8",
+      "label": "Hydrophobicity an...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.932345",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Hydrophobicity and steric shape of the identified residue, complemented by the periplasmic loop, define channel mechanosensitivity and kinetics in both Sa and Eco MscL",
+        "last_seen": "2025-10-05T07:29:01.932345",
+        "obo_id": "CUSTOM:703572a8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "A single amino acid serves as a 'clasp knife spring' for resistance and stability of channel opening and closing",
+      "id": "CUSTOM:8d9dccca",
+      "label": "A single amino ac...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.927903",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "A single amino acid serves as a 'clasp knife spring' for resistance and stability of channel opening and closing",
+        "last_seen": "2025-10-05T07:29:01.927903",
+        "obo_id": "CUSTOM:8d9dccca"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Hydrophobicity of the spring element at the TM1 periplasmic lipid interface is important in both channel kinetics and mechanosensation but acts via different mechanisms",
+      "id": "CUSTOM:4387cd4b",
+      "label": "Hydrophobicity of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.923096",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Hydrophobicity of the spring element at the TM1 periplasmic lipid interface is important in both channel kinetics and mechanosensation but acts via different mechanisms",
+        "last_seen": "2025-10-05T07:29:01.923096",
+        "obo_id": "CUSTOM:4387cd4b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "There is no correlation between mechanosensitivity and open dwell time for the various substitutions",
+      "id": "CUSTOM:51791343",
+      "label": "There is no corre...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.918610",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "There is no correlation between mechanosensitivity and open dwell time for the various substitutions",
+        "last_seen": "2025-10-05T07:29:01.918610",
+        "obo_id": "CUSTOM:51791343"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Aromatic amino acids fit the hydropathy correlation for mechanosensation but not for open dwell time",
+      "id": "CUSTOM:ce8dcb0b",
+      "label": "Aromatic amino ac...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.912046",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Aromatic amino acids fit the hydropathy correlation for mechanosensation but not for open dwell time",
+        "last_seen": "2025-10-05T07:29:01.912046",
+        "obo_id": "CUSTOM:ce8dcb0b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Increasing hydrophilicity decreases the energy barrier for opening and destabilizes the open state (opposite effect of hydrophobicity)",
+      "id": "CUSTOM:9c3ee50e",
+      "label": "Increasing hydrop...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.907440",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Increasing hydrophilicity decreases the energy barrier for opening and destabilizes the open state (opposite effect of hydrophobicity)",
+        "last_seen": "2025-10-05T07:29:01.907440",
+        "obo_id": "CUSTOM:9c3ee50e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Once open state is achieved, increasing hydrophobicity stabilizes the open state",
+      "id": "CUSTOM:df342169",
+      "label": "Once open state i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.902113",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Once open state is achieved, increasing hydrophobicity stabilizes the open state",
+        "last_seen": "2025-10-05T07:29:01.902113",
+        "obo_id": "CUSTOM:df342169"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Increasing hydrophobicity increases the energy barrier required to achieve an open state",
+      "id": "CUSTOM:88a8a19f",
+      "label": "Increasing hydrop...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.897787",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Increasing hydrophobicity increases the energy barrier required to achieve an open state",
+        "last_seen": "2025-10-05T07:29:01.897787",
+        "obo_id": "CUSTOM:88a8a19f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "More hydrophobic substitutions decrease mechanosensitivity",
+      "id": "CUSTOM:f0722da7",
+      "label": "More hydrophobic ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.893637",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "More hydrophobic substitutions decrease mechanosensitivity",
+        "last_seen": "2025-10-05T07:29:01.893637",
+        "obo_id": "CUSTOM:f0722da7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Streamlined hydrophobic residues are more efficient in increasing open times than bulkier aromatic residues (presumably due to steric hindrance of aromatics)",
+      "id": "CUSTOM:266b04f8",
+      "label": "Streamlined hydro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.889652",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Streamlined hydrophobic residues are more efficient in increasing open times than bulkier aromatic residues (presumably due to steric hindrance of aromatics)",
+        "last_seen": "2025-10-05T07:29:01.889652",
+        "obo_id": "CUSTOM:266b04f8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Hydrophobic residues led to longer open times",
+      "id": "CUSTOM:77eb9835",
+      "label": "Hydrophobic resid...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.884601",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Hydrophobic residues led to longer open times",
+        "last_seen": "2025-10-05T07:29:01.884601",
+        "obo_id": "CUSTOM:77eb9835"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Molecular dynamics simulation suggests membrane thinning induces a kink within the TM1/periplasmic loop interface around Eco I49 causing outward motion of the periplasmic loop during gating",
+      "id": "CUSTOM:b00df55d",
+      "label": "Molecular dynamic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.879756",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Molecular dynamics simulation suggests membrane thinning induces a kink within the TM1/periplasmic loop interface around Eco I49 causing outward motion of the periplasmic loop during gating",
+        "last_seen": "2025-10-05T07:29:01.879756",
+        "obo_id": "CUSTOM:b00df55d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Mutation at Sa F47 can modify the energy barrier for gating and make transitions between closed->open and open->closed drastically different",
+      "id": "CUSTOM:c9729270",
+      "label": "Mutation at Sa F4...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.875152",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mutation at Sa F47 can modify the energy barrier for gating and make transitions between closed->open and open->closed drastically different",
+        "last_seen": "2025-10-05T07:29:01.875152",
+        "obo_id": "CUSTOM:c9729270"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Sa MscL F47L mutant shows severe hysteresis and delay in both opening and closing",
+      "id": "CUSTOM:1dfa8634",
+      "label": "Sa MscL F47L muta...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.869322",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Sa MscL F47L mutant shows severe hysteresis and delay in both opening and closing",
+        "last_seen": "2025-10-05T07:29:01.869322",
+        "obo_id": "CUSTOM:1dfa8634"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Single residue at lipid interface (I49 in Eco, F47 in Sa) has profound effects on channel kinetics",
+      "id": "CUSTOM:e5ddc3c2",
+      "label": "Single residue at...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.865036",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Single residue at lipid interface (I49 in Eco, F47 in Sa) has profound effects on channel kinetics",
+        "last_seen": "2025-10-05T07:29:01.865036",
+        "obo_id": "CUSTOM:e5ddc3c2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Engineered combination of Eco TM1/periplasmic lipid interface and Sa periplasmic loop produces channels with a stabilized open state and extremely long open dwell times",
+      "id": "CUSTOM:4945e05d",
+      "label": "Engineered combin...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.859353",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Engineered combination of Eco TM1/periplasmic lipid interface and Sa periplasmic loop produces channels with a stabilized open state and extremely long open dwell times",
+        "last_seen": "2025-10-05T07:29:01.859353",
+        "obo_id": "CUSTOM:4945e05d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "TM1/periplasmic lipid interface from Sa MscL generates short open dwell times",
+      "id": "CUSTOM:4493ff87",
+      "label": "TM1/periplasmic l...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.855805",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "TM1/periplasmic lipid interface from Sa MscL generates short open dwell times",
+        "last_seen": "2025-10-05T07:29:01.855805",
+        "obo_id": "CUSTOM:4493ff87"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "TM1/periplasmic lipid interface from Eco MscL effects long open dwell times",
+      "id": "CUSTOM:53b87bad",
+      "label": "TM1/periplasmic l...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.852584",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "TM1/periplasmic lipid interface from Eco MscL effects long open dwell times",
+        "last_seen": "2025-10-05T07:29:01.852584",
+        "obo_id": "CUSTOM:53b87bad"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Periplasmic loop of Sa MscL defines long channel openings",
+      "id": "CUSTOM:ec9da6d2",
+      "label": "Periplasmic loop ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.848901",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Periplasmic loop of Sa MscL defines long channel openings",
+        "last_seen": "2025-10-05T07:29:01.848901",
+        "obo_id": "CUSTOM:ec9da6d2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Periplasmic loop of Eco MscL confers short channel openings",
+      "id": "CUSTOM:5c4f908d",
+      "label": "Periplasmic loop ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.845632",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Periplasmic loop of Eco MscL confers short channel openings",
+        "last_seen": "2025-10-05T07:29:01.845632",
+        "obo_id": "CUSTOM:5c4f908d"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "406",
+      "source": "PMC3593973",
+      "target": "CUSTOM:703572a8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "404",
+      "source": "PMC3593973",
+      "target": "CUSTOM:8d9dccca",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "402",
+      "source": "PMC3593973",
+      "target": "CUSTOM:4387cd4b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "400",
+      "source": "PMC3593973",
+      "target": "CUSTOM:51791343",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "398",
+      "source": "PMC3593973",
+      "target": "CUSTOM:ce8dcb0b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "396",
+      "source": "PMC3593973",
+      "target": "CUSTOM:9c3ee50e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "394",
+      "source": "PMC3593973",
+      "target": "CUSTOM:df342169",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "392",
+      "source": "PMC3593973",
+      "target": "CUSTOM:88a8a19f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "390",
+      "source": "PMC3593973",
+      "target": "CUSTOM:f0722da7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "388",
+      "source": "PMC3593973",
+      "target": "CUSTOM:266b04f8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "386",
+      "source": "PMC3593973",
+      "target": "CUSTOM:77eb9835",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "384",
+      "source": "PMC3593973",
+      "target": "CUSTOM:b00df55d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "382",
+      "source": "PMC3593973",
+      "target": "CUSTOM:c9729270",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "380",
+      "source": "PMC3593973",
+      "target": "CUSTOM:1dfa8634",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "378",
+      "source": "PMC3593973",
+      "target": "CUSTOM:e5ddc3c2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "376",
+      "source": "PMC3593973",
+      "target": "CUSTOM:4945e05d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "374",
+      "source": "PMC3593973",
+      "target": "CUSTOM:4493ff87",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "372",
+      "source": "PMC3593973",
+      "target": "CUSTOM:53b87bad",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "370",
+      "source": "PMC3593973",
+      "target": "CUSTOM:ec9da6d2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "368",
+      "source": "PMC3593973",
+      "target": "CUSTOM:5c4f908d",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 21,
+  "num_edges": 20
+}

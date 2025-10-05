@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC7677455",
+  "nodes": [
+    {
+      "fullLabel": "PMC7677455",
+      "id": "PMC7677455",
+      "label": "PMC7677455",
+      "properties": {
+        "pmcid": "PMC7677455",
+        "first_seen": "2025-10-05T07:29:06.937500",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.948589"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Effectiveness of maintenance protocols in cleaning CRV surfaces at controlling contaminating microbial population during cargo transfer to the ISS via the CRV route",
+      "id": "CUSTOM:dfb77706",
+      "label": "Effectiveness of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.950364",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effectiveness of maintenance protocols in cleaning CRV surfaces at controlling contaminating microbial population during cargo transfer to the ISS via the CRV route",
+        "last_seen": "2025-10-05T07:29:06.950364",
+        "obo_id": "CUSTOM:dfb77706"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Representation of CRV microbiomes within the ISS environmental microbiome",
+      "id": "CUSTOM:bcae6ef9",
+      "label": "Representation of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.945119",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Representation of CRV microbiomes within the ISS environmental microbiome",
+        "last_seen": "2025-10-05T07:29:06.945119",
+        "obo_id": "CUSTOM:bcae6ef9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Difference in metagenome sequences between CRV microbiome and ISS microbiome",
+      "id": "CUSTOM:d730066c",
+      "label": "Difference in met...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.939534",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Difference in metagenome sequences between CRV microbiome and ISS microbiome",
+        "last_seen": "2025-10-05T07:29:06.939534",
+        "obo_id": "CUSTOM:d730066c"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2076",
+      "source": "PMC7677455",
+      "target": "CUSTOM:dfb77706",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2074",
+      "source": "PMC7677455",
+      "target": "CUSTOM:bcae6ef9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2072",
+      "source": "PMC7677455",
+      "target": "CUSTOM:d730066c",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC10772081",
+  "nodes": [
+    {
+      "fullLabel": "PMC10772081",
+      "id": "PMC10772081",
+      "label": "PMC10772081",
+      "properties": {
+        "pmcid": "PMC10772081",
+        "first_seen": "2025-10-05T07:29:03.900696",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.937084"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Prevalent host responses were captured and gaps of knowledge that could be addressed with future research were highlighted",
+      "id": "CUSTOM:59d72a30",
+      "label": "Prevalent host re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.938590",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Prevalent host responses were captured and gaps of knowledge that could be addressed with future research were highlighted",
+        "last_seen": "2025-10-05T07:29:03.938590",
+        "obo_id": "CUSTOM:59d72a30"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Relevant biochemical targets with potential for mitigating COVID 19 in the human host have been identified/touched on",
+      "id": "CUSTOM:b45e66ff",
+      "label": "Relevant biochemi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.933717",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Relevant biochemical targets with potential for mitigating COVID 19 in the human host have been identified/touched on",
+        "last_seen": "2025-10-05T07:29:03.933717",
+        "obo_id": "CUSTOM:b45e66ff"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Systemic milieu: viral factors transported through the circulation and physiological responses across the body",
+      "id": "CUSTOM:e1c53795",
+      "label": "Systemic milieu: ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.929236",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Systemic milieu: viral factors transported through the circulation and physiological responses across the body",
+        "last_seen": "2025-10-05T07:29:03.929236",
+        "obo_id": "CUSTOM:e1c53795"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Airway milieu: viral factors from inhalation and responses to these factors occur in the lungs",
+      "id": "CUSTOM:5a07ab99",
+      "label": "Airway milieu: vi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.924309",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Airway milieu: viral factors from inhalation and responses to these factors occur in the lungs",
+        "last_seen": "2025-10-05T07:29:03.924309",
+        "obo_id": "CUSTOM:5a07ab99"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Multi-faceted and multiplex physiological adaptations result from SARS CoV 2 infection, including different cells, tissues, and organs that respond to viral infection",
+      "id": "CUSTOM:5140bfc4",
+      "label": "Multi-faceted and...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.920180",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Multi-faceted and multiplex physiological adaptations result from SARS CoV 2 infection, including different cells, tissues, and organs that respond to viral infection",
+        "last_seen": "2025-10-05T07:29:03.920180",
+        "obo_id": "CUSTOM:5140bfc4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Viral insults and cellular adaptations differ depending on context from cellular to organ systems",
+      "id": "CUSTOM:ab83fc57",
+      "label": "Viral insults and...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.916583",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Viral insults and cellular adaptations differ depending on context from cellular to organ systems",
+        "last_seen": "2025-10-05T07:29:03.916583",
+        "obo_id": "CUSTOM:ab83fc57"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "COVID 19 is a pleiotropic, complex, and dynamic condition",
+      "id": "CUSTOM:3324ff90",
+      "label": "COVID 19 is a ple...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.911643",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "COVID 19 is a pleiotropic, complex, and dynamic condition",
+        "last_seen": "2025-10-05T07:29:03.911643",
+        "obo_id": "CUSTOM:3324ff90"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Viral effects on physiology including whole body metabolism pathways, circulating biological components (e.g., RNA, cytokine, hormones, etc.), and affected organ systems and their physiological adaptations consequent to SARS CoV 2 infection",
+      "id": "CUSTOM:edff66d9",
+      "label": "Viral effects on ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.906946",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Viral effects on physiology including whole body metabolism pathways, circulating biological components (e.g., RNA, cytokine, hormones, etc.), and affected organ systems and their physiological adaptations consequent to SARS CoV 2 infection",
+        "last_seen": "2025-10-05T07:29:03.906946",
+        "obo_id": "CUSTOM:edff66d9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Significant worldwide impacts caused by SARS CoV 2 and its resultant acute and chronic diseases, COVID 19 and PASC",
+      "id": "CUSTOM:5f7d933b",
+      "label": "Significant world...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.902109",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Significant worldwide impacts caused by SARS CoV 2 and its resultant acute and chronic diseases, COVID 19 and PASC",
+        "last_seen": "2025-10-05T07:29:03.902109",
+        "obo_id": "CUSTOM:5f7d933b"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1096",
+      "source": "PMC10772081",
+      "target": "CUSTOM:59d72a30",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1094",
+      "source": "PMC10772081",
+      "target": "CUSTOM:b45e66ff",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1092",
+      "source": "PMC10772081",
+      "target": "CUSTOM:e1c53795",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1090",
+      "source": "PMC10772081",
+      "target": "CUSTOM:5a07ab99",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1088",
+      "source": "PMC10772081",
+      "target": "CUSTOM:5140bfc4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1086",
+      "source": "PMC10772081",
+      "target": "CUSTOM:ab83fc57",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1084",
+      "source": "PMC10772081",
+      "target": "CUSTOM:3324ff90",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1082",
+      "source": "PMC10772081",
+      "target": "CUSTOM:edff66d9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1080",
+      "source": "PMC10772081",
+      "target": "CUSTOM:5f7d933b",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

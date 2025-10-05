@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC8886715",
+  "nodes": [
+    {
+      "fullLabel": "PMC8886715",
+      "id": "PMC8886715",
+      "label": "PMC8886715",
+      "properties": {
+        "pmcid": "PMC8886715",
+        "first_seen": "2025-10-05T07:29:03.135324",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.162586"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Inhibition efficiency of dual-peptide (LL 37 and HNP1) conjugated GQDs compared to single-peptide conjugated GQDs, peptides alone, or GQDs alone",
+      "id": "CUSTOM:bbe3eeb1",
+      "label": "Inhibition effici...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.164564",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Inhibition efficiency of dual-peptide (LL 37 and HNP1) conjugated GQDs compared to single-peptide conjugated GQDs, peptides alone, or GQDs alone",
+        "last_seen": "2025-10-05T07:29:03.164564",
+        "obo_id": "CUSTOM:bbe3eeb1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Complete inhibition of entry of delta variant SARS CoV 2 pseudovirions into host cells by LL 37 and HNP1 peptide conjugated GQDs in HEK293T human ACE2 cell line",
+      "id": "CUSTOM:9c0f141b",
+      "label": "Complete inhibiti...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.158749",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Complete inhibition of entry of delta variant SARS CoV 2 pseudovirions into host cells by LL 37 and HNP1 peptide conjugated GQDs in HEK293T human ACE2 cell line",
+        "last_seen": "2025-10-05T07:29:03.158749",
+        "obo_id": "CUSTOM:9c0f141b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Binding affinity of delta (B.1.617.2) spike RBD compared to alpha, beta, and gamma variant spike RBDs",
+      "id": "CUSTOM:0686bf33",
+      "label": "Binding affinity ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.153899",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Binding affinity of delta (B.1.617.2) spike RBD compared to alpha, beta, and gamma variant spike RBDs",
+        "last_seen": "2025-10-05T07:29:03.153899",
+        "obo_id": "CUSTOM:0686bf33"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Effective binding affinity between HNP1 and LL 37 peptide conjugated GQDs and delta variant spike protein is comparable with ACE2-spike protein binding affinity",
+      "id": "CUSTOM:d6d0b51c",
+      "label": "Effective binding...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.148085",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effective binding affinity between HNP1 and LL 37 peptide conjugated GQDs and delta variant spike protein is comparable with ACE2-spike protein binding affinity",
+        "last_seen": "2025-10-05T07:29:03.148085",
+        "obo_id": "CUSTOM:d6d0b51c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Use of peptide-attached GQD-based fluorescence quenching to determine binding affinity of the delta variant (B.1.617.2) spike protein",
+      "id": "CUSTOM:b4377011",
+      "label": "Use of peptide-at...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.142772",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Use of peptide-attached GQD-based fluorescence quenching to determine binding affinity of the delta variant (B.1.617.2) spike protein",
+        "last_seen": "2025-10-05T07:29:03.142772",
+        "obo_id": "CUSTOM:b4377011"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Prevention of delta variant virus entry into host cells by HNP1 and LL 37 peptide conjugated GQDs via blocking spike protein RBD binding with ACE2",
+      "id": "CUSTOM:3d53c066",
+      "label": "Prevention of del...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.137278",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Prevention of delta variant virus entry into host cells by HNP1 and LL 37 peptide conjugated GQDs via blocking spike protein RBD binding with ACE2",
+        "last_seen": "2025-10-05T07:29:03.137278",
+        "obo_id": "CUSTOM:3d53c066"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "842",
+      "source": "PMC8886715",
+      "target": "CUSTOM:bbe3eeb1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "840",
+      "source": "PMC8886715",
+      "target": "CUSTOM:9c0f141b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "838",
+      "source": "PMC8886715",
+      "target": "CUSTOM:0686bf33",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "836",
+      "source": "PMC8886715",
+      "target": "CUSTOM:d6d0b51c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "834",
+      "source": "PMC8886715",
+      "target": "CUSTOM:b4377011",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "832",
+      "source": "PMC8886715",
+      "target": "CUSTOM:3d53c066",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

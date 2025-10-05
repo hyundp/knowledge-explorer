@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC9856674",
+  "nodes": [
+    {
+      "fullLabel": "PMC9856674",
+      "id": "PMC9856674",
+      "label": "PMC9856674",
+      "properties": {
+        "pmcid": "PMC9856674",
+        "first_seen": "2025-10-05T07:29:04.107807",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.134252"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "integration with results from a previous study conducted at the ISS",
+      "id": "CUSTOM:35931ad8",
+      "label": "integration with ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.135698",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "integration with results from a previous study conducted at the ISS",
+        "last_seen": "2025-10-05T07:29:04.135698",
+        "obo_id": "CUSTOM:35931ad8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "worms acclimated to liquid cultivation before the experiment",
+      "id": "CUSTOM:d5337625",
+      "label": "worms acclimated ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.131233",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "worms acclimated to liquid cultivation before the experiment",
+        "last_seen": "2025-10-05T07:29:04.131233",
+        "obo_id": "CUSTOM:d5337625"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "batch effects from space conditions (controlled)",
+      "id": "CUSTOM:e3e886c4",
+      "label": "batch effects fro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.127093",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "batch effects from space conditions (controlled)",
+        "last_seen": "2025-10-05T07:29:04.127093",
+        "obo_id": "CUSTOM:e3e886c4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "response of different ceramide profiles to simulated microgravity",
+      "id": "CUSTOM:6dc45905",
+      "label": "response of diffe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.123039",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "response of different ceramide profiles to simulated microgravity",
+        "last_seen": "2025-10-05T07:29:04.123039",
+        "obo_id": "CUSTOM:6dc45905"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "putative regulators of sustained transcriptomic responses",
+      "id": "CUSTOM:7e443591",
+      "label": "putative regulato...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.118932",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "putative regulators of sustained transcriptomic responses",
+        "last_seen": "2025-10-05T07:29:04.118932",
+        "obo_id": "CUSTOM:7e443591"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "sustained transcriptomic responses after return to ground",
+      "id": "CUSTOM:e8c7d84d",
+      "label": "sustained transcr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.113942",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "sustained transcriptomic responses after return to ground",
+        "last_seen": "2025-10-05T07:29:04.113942",
+        "obo_id": "CUSTOM:e8c7d84d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "transcriptomic response to microgravity",
+      "id": "CUSTOM:1c3d6f2a",
+      "label": "transcriptomic re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.109377",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "transcriptomic response to microgravity",
+        "last_seen": "2025-10-05T07:29:04.109377",
+        "obo_id": "CUSTOM:1c3d6f2a"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1174",
+      "source": "PMC9856674",
+      "target": "CUSTOM:35931ad8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1172",
+      "source": "PMC9856674",
+      "target": "CUSTOM:d5337625",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1170",
+      "source": "PMC9856674",
+      "target": "CUSTOM:e3e886c4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1168",
+      "source": "PMC9856674",
+      "target": "CUSTOM:6dc45905",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1166",
+      "source": "PMC9856674",
+      "target": "CUSTOM:7e443591",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1164",
+      "source": "PMC9856674",
+      "target": "CUSTOM:e8c7d84d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1162",
+      "source": "PMC9856674",
+      "target": "CUSTOM:1c3d6f2a",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

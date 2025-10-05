@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC8234954",
+  "nodes": [
+    {
+      "fullLabel": "PMC8234954",
+      "id": "PMC8234954",
+      "label": "PMC8234954",
+      "properties": {
+        "pmcid": "PMC8234954",
+        "first_seen": "2025-10-05T07:29:14.067048",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:14.081684"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "DDR processes are regulated chiefly by ATR/ATM genes in very high HZE and gammaR radiation dose environment",
+      "id": "CUSTOM:93eddb8e",
+      "label": "DDR processes are...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.083824",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "DDR processes are regulated chiefly by ATR/ATM genes in very high HZE and gammaR radiation dose environment",
+        "last_seen": "2025-10-05T07:29:14.083824",
+        "obo_id": "CUSTOM:93eddb8e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ATR/ATM radiation induced genes interact with many downstream genes in a low radiation dose environment",
+      "id": "CUSTOM:85ae8d3e",
+      "label": "ATR/ATM radiation...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.076615",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ATR/ATM radiation induced genes interact with many downstream genes in a low radiation dose environment",
+        "last_seen": "2025-10-05T07:29:14.076615",
+        "obo_id": "CUSTOM:85ae8d3e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "DDR processes are intermixed with the regulation of critical functions necessary for the plant to adapt to the spaceflight environment",
+      "id": "CUSTOM:e4dd8208",
+      "label": "DDR processes are...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.069205",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "DDR processes are intermixed with the regulation of critical functions necessary for the plant to adapt to the spaceflight environment",
+        "last_seen": "2025-10-05T07:29:14.069205",
+        "obo_id": "CUSTOM:e4dd8208"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3980",
+      "source": "PMC8234954",
+      "target": "CUSTOM:93eddb8e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3978",
+      "source": "PMC8234954",
+      "target": "CUSTOM:85ae8d3e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3976",
+      "source": "PMC8234954",
+      "target": "CUSTOM:e4dd8208",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

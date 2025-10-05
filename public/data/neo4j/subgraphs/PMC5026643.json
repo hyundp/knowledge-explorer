@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC5026643",
+  "nodes": [
+    {
+      "fullLabel": "PMC5026643",
+      "id": "PMC5026643",
+      "label": "PMC5026643",
+      "properties": {
+        "pmcid": "PMC5026643",
+        "first_seen": "2025-10-05T07:26:41.366113",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.026826"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Citrate synthase activity in plantaris muscle in response to lifelong wheel running",
+      "id": "CUSTOM:e6f238f8",
+      "label": "Citrate synthase ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.028916",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Citrate synthase activity in plantaris muscle in response to lifelong wheel running",
+        "last_seen": "2025-10-05T07:29:01.028916",
+        "obo_id": "CUSTOM:e6f238f8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "HSP70 protein levels with moderate (40%) caloric restriction",
+      "id": "CUSTOM:0c5ac6cd",
+      "label": "HSP70 protein lev...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.023097",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "HSP70 protein levels with moderate (40%) caloric restriction",
+        "last_seen": "2025-10-05T07:29:01.023097",
+        "obo_id": "CUSTOM:0c5ac6cd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Apoptotic DNA fragmentation with mild caloric restriction and voluntary wheel running exercise",
+      "id": "CUSTOM:7aebbe31",
+      "label": "Apoptotic DNA fra...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.016596",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Apoptotic DNA fragmentation with mild caloric restriction and voluntary wheel running exercise",
+        "last_seen": "2025-10-05T07:29:01.016596",
+        "obo_id": "CUSTOM:7aebbe31"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "HSF1 and HSP90 protein levels with caloric restriction and exercise",
+      "id": "CUSTOM:a7fde6db",
+      "label": "HSF1 and HSP90 pr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.994634",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "HSF1 and HSP90 protein levels with caloric restriction and exercise",
+        "last_seen": "2025-10-05T07:29:00.994634",
+        "obo_id": "CUSTOM:a7fde6db"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "HSP70 protein levels in old group with mild caloric restriction or long term exercise with caloric restriction",
+      "id": "CUSTOM:6a1f9a23",
+      "label": "HSP70 protein lev...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.990533",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "HSP70 protein levels in old group with mild caloric restriction or long term exercise with caloric restriction",
+        "last_seen": "2025-10-05T07:29:00.990533",
+        "obo_id": "CUSTOM:6a1f9a23"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Phosphorylation of HSP27 at Ser82",
+      "id": "CUSTOM:6c9ba630",
+      "label": "Phosphorylation o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.986573",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Phosphorylation of HSP27 at Ser82",
+        "last_seen": "2025-10-05T07:29:00.986573",
+        "obo_id": "CUSTOM:6c9ba630"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "HSP27 protein levels in skeletal muscle",
+      "id": "CUSTOM:c94a60d8",
+      "label": "HSP27 protein lev...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.981645",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "HSP27 protein levels in skeletal muscle",
+        "last_seen": "2025-10-05T07:29:00.981645",
+        "obo_id": "CUSTOM:c94a60d8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "AIF protein contents in cytosolic and nucleosome fractions",
+      "id": "CUSTOM:c9988da7",
+      "label": "AIF protein conte...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.964687",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "AIF protein contents in cytosolic and nucleosome fractions",
+        "last_seen": "2025-10-05T07:29:00.964687",
+        "obo_id": "CUSTOM:c9988da7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Nuclear EndoG levels with aging (age-induced change)",
+      "id": "CUSTOM:0cbc86d6",
+      "label": "Nuclear EndoG lev...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.960344",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Nuclear EndoG levels with aging (age-induced change)",
+        "last_seen": "2025-10-05T07:29:00.960344",
+        "obo_id": "CUSTOM:0cbc86d6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Nuclear translocation/accumulation of EndoG in skeletal muscle nuclei",
+      "id": "CUSTOM:923de3a4",
+      "label": "Nuclear transloca...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.955760",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Nuclear translocation/accumulation of EndoG in skeletal muscle nuclei",
+        "last_seen": "2025-10-05T07:29:00.955760",
+        "obo_id": "CUSTOM:923de3a4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Myofiber cross-sectional area (myofiber atrophy) with age",
+      "id": "CUSTOM:b40254ef",
+      "label": "Myofiber cross-se...",
+      "properties": {
+        "first_seen": "2025-10-05T07:26:41.381149",
+        "source_count": 2,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Myofiber cross-sectional area (myofiber atrophy) with age",
+        "last_seen": "2025-10-05T07:29:01.011630",
+        "obo_id": "CUSTOM:b40254ef"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "112",
+      "source": "PMC5026643",
+      "target": "CUSTOM:e6f238f8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "110",
+      "source": "PMC5026643",
+      "target": "CUSTOM:0c5ac6cd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "108",
+      "source": "PMC5026643",
+      "target": "CUSTOM:7aebbe31",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "106",
+      "source": "PMC5026643",
+      "target": "CUSTOM:a7fde6db",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "104",
+      "source": "PMC5026643",
+      "target": "CUSTOM:6a1f9a23",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "102",
+      "source": "PMC5026643",
+      "target": "CUSTOM:6c9ba630",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "100",
+      "source": "PMC5026643",
+      "target": "CUSTOM:c94a60d8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "98",
+      "source": "PMC5026643",
+      "target": "CUSTOM:c9988da7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "96",
+      "source": "PMC5026643",
+      "target": "CUSTOM:0cbc86d6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "94",
+      "source": "PMC5026643",
+      "target": "CUSTOM:923de3a4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2",
+      "source": "PMC5026643",
+      "target": "CUSTOM:b40254ef",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

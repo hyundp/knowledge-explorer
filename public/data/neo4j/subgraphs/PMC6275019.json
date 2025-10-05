@@ -1,0 +1,351 @@
+{
+  "pmcid": "PMC6275019",
+  "nodes": [
+    {
+      "fullLabel": "PMC6275019",
+      "id": "PMC6275019",
+      "label": "PMC6275019",
+      "properties": {
+        "pmcid": "PMC6275019",
+        "first_seen": "2025-10-05T07:29:04.336472",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.430589"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "bone formation in vivo following cAMP/PKA pathway activation in human mesenchymal stem cells in vitro",
+      "id": "CUSTOM:88ea1565",
+      "label": "bone formation in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.432918",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "bone formation in vivo following cAMP/PKA pathway activation in human mesenchymal stem cells in vitro",
+        "last_seen": "2025-10-05T07:29:04.432918",
+        "obo_id": "CUSTOM:88ea1565"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "intracellular cAMP levels following beta adrenergic receptor stimulation",
+      "id": "CUSTOM:a33639f9",
+      "label": "intracellular cAM...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.426053",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "intracellular cAMP levels following beta adrenergic receptor stimulation",
+        "last_seen": "2025-10-05T07:29:04.426053",
+        "obo_id": "CUSTOM:a33639f9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "reproduction of effects observed in real space microgravity including leukocyte proliferation, cytokine production, and leukocyte subset distribution",
+      "id": "CUSTOM:38f0f8d5",
+      "label": "reproduction of e...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.420856",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "reproduction of effects observed in real space microgravity including leukocyte proliferation, cytokine production, and leukocyte subset distribution",
+        "last_seen": "2025-10-05T07:29:04.420856",
+        "obo_id": "CUSTOM:38f0f8d5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cancer cell growth",
+      "id": "CUSTOM:e9d14f02",
+      "label": "cancer cell growth",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.416235",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cancer cell growth",
+        "last_seen": "2025-10-05T07:29:04.416235",
+        "obo_id": "CUSTOM:e9d14f02"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NF-κB expression and downstream genes VEGF, EGFR, and COX-2 expression",
+      "id": "CUSTOM:1ff8caaa",
+      "label": "NF-κB expression ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.410288",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NF-κB expression and downstream genes VEGF, EGFR, and COX-2 expression",
+        "last_seen": "2025-10-05T07:29:04.410288",
+        "obo_id": "CUSTOM:1ff8caaa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "antitumor effects of radiotherapy in gastric cancer (potentiation)",
+      "id": "CUSTOM:d8580adb",
+      "label": "antitumor effects...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.406300",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "antitumor effects of radiotherapy in gastric cancer (potentiation)",
+        "last_seen": "2025-10-05T07:29:04.406300",
+        "obo_id": "CUSTOM:d8580adb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "metastasis-free, disease-free, and overall survival",
+      "id": "CUSTOM:a925e7bf",
+      "label": "metastasis-free, ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.401362",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "metastasis-free, disease-free, and overall survival",
+        "last_seen": "2025-10-05T07:29:04.401362",
+        "obo_id": "CUSTOM:a925e7bf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "DNA damage response in quiescent human primary lymphocytes is affected by synergistic effects of radiation, microgravity and adrenergic receptor stimulation",
+      "id": "CUSTOM:60fdfa13",
+      "label": "DNA damage respon...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.370618",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "DNA damage response in quiescent human primary lymphocytes is affected by synergistic effects of radiation, microgravity and adrenergic receptor stimulation",
+        "last_seen": "2025-10-05T07:29:04.370618",
+        "obo_id": "CUSTOM:60fdfa13"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adrenergic activation plays an important role in neuronal plasticity and memory",
+      "id": "CUSTOM:d3e6f027",
+      "label": "adrenergic activa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.364600",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adrenergic activation plays an important role in neuronal plasticity and memory",
+        "last_seen": "2025-10-05T07:29:04.364600",
+        "obo_id": "CUSTOM:d3e6f027"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adrenergic activation plays an important role in neuronal activity in primary motor cortex",
+      "id": "CUSTOM:d0a63413",
+      "label": "adrenergic activa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.360207",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adrenergic activation plays an important role in neuronal activity in primary motor cortex",
+        "last_seen": "2025-10-05T07:29:04.360207",
+        "obo_id": "CUSTOM:d0a63413"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adrenergic activation plays an important role in the cardiovascular system",
+      "id": "CUSTOM:bcdcd0d6",
+      "label": "adrenergic activa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.355855",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adrenergic activation plays an important role in the cardiovascular system",
+        "last_seen": "2025-10-05T07:29:04.355855",
+        "obo_id": "CUSTOM:bcdcd0d6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adrenergic activation plays an important role in muscle hypertrophy and atrophy",
+      "id": "CUSTOM:ffdccaa7",
+      "label": "adrenergic activa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.351311",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adrenergic activation plays an important role in muscle hypertrophy and atrophy",
+        "last_seen": "2025-10-05T07:29:04.351311",
+        "obo_id": "CUSTOM:ffdccaa7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adrenergic activation plays an important role in bone homeostasis",
+      "id": "CUSTOM:4c8a0d93",
+      "label": "adrenergic activa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.346757",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adrenergic activation plays an important role in bone homeostasis",
+        "last_seen": "2025-10-05T07:29:04.346757",
+        "obo_id": "CUSTOM:4c8a0d93"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adrenergic activation plays an important role in immune regulation",
+      "id": "CUSTOM:92c5bda4",
+      "label": "adrenergic activa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.342592",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adrenergic activation plays an important role in immune regulation",
+        "last_seen": "2025-10-05T07:29:04.342592",
+        "obo_id": "CUSTOM:92c5bda4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "release of neuroendocrine hormones (catecholamines) and activation of adrenergic pathways",
+      "id": "CUSTOM:338ef939",
+      "label": "release of neuroe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.338066",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "release of neuroendocrine hormones (catecholamines) and activation of adrenergic pathways",
+        "last_seen": "2025-10-05T07:29:04.338066",
+        "obo_id": "CUSTOM:338ef939"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1272",
+      "source": "PMC6275019",
+      "target": "CUSTOM:88ea1565",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1270",
+      "source": "PMC6275019",
+      "target": "CUSTOM:a33639f9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1268",
+      "source": "PMC6275019",
+      "target": "CUSTOM:38f0f8d5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1266",
+      "source": "PMC6275019",
+      "target": "CUSTOM:e9d14f02",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1264",
+      "source": "PMC6275019",
+      "target": "CUSTOM:1ff8caaa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1262",
+      "source": "PMC6275019",
+      "target": "CUSTOM:d8580adb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1260",
+      "source": "PMC6275019",
+      "target": "CUSTOM:a925e7bf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1258",
+      "source": "PMC6275019",
+      "target": "CUSTOM:60fdfa13",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1256",
+      "source": "PMC6275019",
+      "target": "CUSTOM:d3e6f027",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1254",
+      "source": "PMC6275019",
+      "target": "CUSTOM:d0a63413",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1252",
+      "source": "PMC6275019",
+      "target": "CUSTOM:bcdcd0d6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1250",
+      "source": "PMC6275019",
+      "target": "CUSTOM:ffdccaa7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1248",
+      "source": "PMC6275019",
+      "target": "CUSTOM:4c8a0d93",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1246",
+      "source": "PMC6275019",
+      "target": "CUSTOM:92c5bda4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1244",
+      "source": "PMC6275019",
+      "target": "CUSTOM:338ef939",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 16,
+  "num_edges": 15
+}

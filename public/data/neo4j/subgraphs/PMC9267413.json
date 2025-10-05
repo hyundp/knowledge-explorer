@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC9267413",
+  "nodes": [
+    {
+      "fullLabel": "PMC9267413",
+      "id": "PMC9267413",
+      "label": "PMC9267413",
+      "properties": {
+        "pmcid": "PMC9267413",
+        "first_seen": "2025-10-05T07:29:13.958169",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:13.989793"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Suitability of gonads as tissues to study for determining space radiation related exposures",
+      "id": "CUSTOM:6b9c1e8b",
+      "label": "Suitability of go...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.991809",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Suitability of gonads as tissues to study for determining space radiation related exposures",
+        "last_seen": "2025-10-05T07:29:13.991809",
+        "obo_id": "CUSTOM:6b9c1e8b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Radiation sensitivity of male and female gonads compared to other body tissues",
+      "id": "CUSTOM:3485ef62",
+      "label": "Radiation sensiti...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.985447",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Radiation sensitivity of male and female gonads compared to other body tissues",
+        "last_seen": "2025-10-05T07:29:13.985447",
+        "obo_id": "CUSTOM:3485ef62"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Need for increased focus on the influence of flight length on risks related to gynecological cancers",
+      "id": "CUSTOM:7ac932c6",
+      "label": "Need for increase...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.979006",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Need for increased focus on the influence of flight length on risks related to gynecological cancers",
+        "last_seen": "2025-10-05T07:29:13.979006",
+        "obo_id": "CUSTOM:7ac932c6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Duration of exposures to microgravity and space radiation for females on upcoming Artemis missions",
+      "id": "CUSTOM:77abefc2",
+      "label": "Duration of expos...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.973024",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Duration of exposures to microgravity and space radiation for females on upcoming Artemis missions",
+        "last_seen": "2025-10-05T07:29:13.973024",
+        "obo_id": "CUSTOM:77abefc2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Number of female astronauts exposed to long duration, low dose rate, and proton and heavy ion radiation sufficient to reliably determine impact on the female reproductive system",
+      "id": "CUSTOM:9adc0704",
+      "label": "Number of female ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.966584",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Number of female astronauts exposed to long duration, low dose rate, and proton and heavy ion radiation sufficient to reliably determine impact on the female reproductive system",
+        "last_seen": "2025-10-05T07:29:13.966584",
+        "obo_id": "CUSTOM:9adc0704"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Knowledge about the impact of space radiation and microgravity on gynecologic cancer",
+      "id": "CUSTOM:9bb6d163",
+      "label": "Knowledge about t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.960186",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Knowledge about the impact of space radiation and microgravity on gynecologic cancer",
+        "last_seen": "2025-10-05T07:29:13.960186",
+        "obo_id": "CUSTOM:9bb6d163"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3954",
+      "source": "PMC9267413",
+      "target": "CUSTOM:6b9c1e8b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3952",
+      "source": "PMC9267413",
+      "target": "CUSTOM:3485ef62",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3950",
+      "source": "PMC9267413",
+      "target": "CUSTOM:7ac932c6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3948",
+      "source": "PMC9267413",
+      "target": "CUSTOM:77abefc2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3946",
+      "source": "PMC9267413",
+      "target": "CUSTOM:9adc0704",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3944",
+      "source": "PMC9267413",
+      "target": "CUSTOM:9bb6d163",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

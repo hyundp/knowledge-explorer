@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC3564669",
+  "nodes": [
+    {
+      "fullLabel": "PMC3564669",
+      "id": "PMC3564669",
+      "label": "PMC3564669",
+      "properties": {
+        "pmcid": "PMC3564669",
+        "first_seen": "2025-10-05T07:29:13.532687",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:13.577740"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "requirement of bone marrow adipose tissue for development of cortical or cancellous osteopenia following ovx",
+      "id": "CUSTOM:6124129e",
+      "label": "requirement of bo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.579894",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "requirement of bone marrow adipose tissue for development of cortical or cancellous osteopenia following ovx",
+        "last_seen": "2025-10-05T07:29:13.579894",
+        "obo_id": "CUSTOM:6124129e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "difference in ovx-induced bone architecture changes between WT and kitW/Wv mice",
+      "id": "CUSTOM:d1601ccb",
+      "label": "difference in ovx...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.573251",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "difference in ovx-induced bone architecture changes between WT and kitW/Wv mice",
+        "last_seen": "2025-10-05T07:29:13.573251",
+        "obo_id": "CUSTOM:d1601ccb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "bone turnover",
+      "id": "CUSTOM:8f92e6fd",
+      "label": "bone turnover",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.566123",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "bone turnover",
+        "last_seen": "2025-10-05T07:29:13.566123",
+        "obo_id": "CUSTOM:8f92e6fd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "induction of marrow adipocytes by ovx",
+      "id": "CUSTOM:2d103443",
+      "label": "induction of marr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.559789",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "induction of marrow adipocytes by ovx",
+        "last_seen": "2025-10-05T07:29:13.559789",
+        "obo_id": "CUSTOM:2d103443"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "bone marrow adipocytes absent",
+      "id": "CUSTOM:1eb4a147",
+      "label": "bone marrow adipo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.553204",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "bone marrow adipocytes absent",
+        "last_seen": "2025-10-05T07:29:13.553204",
+        "obo_id": "CUSTOM:1eb4a147"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "bone marrow adiposity",
+      "id": "CUSTOM:af940831",
+      "label": "bone marrow adipo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.546570",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "bone marrow adiposity",
+        "last_seen": "2025-10-05T07:29:13.546570",
+        "obo_id": "CUSTOM:af940831"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cancellous bone mass",
+      "id": "CUSTOM:934627d4",
+      "label": "cancellous bone mass",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.540790",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cancellous bone mass",
+        "last_seen": "2025-10-05T07:29:13.540790",
+        "obo_id": "CUSTOM:934627d4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cortical bone mass",
+      "id": "CUSTOM:27f0112c",
+      "label": "cortical bone mass",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.534702",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cortical bone mass",
+        "last_seen": "2025-10-05T07:29:13.534702",
+        "obo_id": "CUSTOM:27f0112c"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3844",
+      "source": "PMC3564669",
+      "target": "CUSTOM:6124129e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3842",
+      "source": "PMC3564669",
+      "target": "CUSTOM:d1601ccb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3840",
+      "source": "PMC3564669",
+      "target": "CUSTOM:8f92e6fd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3838",
+      "source": "PMC3564669",
+      "target": "CUSTOM:2d103443",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3836",
+      "source": "PMC3564669",
+      "target": "CUSTOM:1eb4a147",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3834",
+      "source": "PMC3564669",
+      "target": "CUSTOM:af940831",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3832",
+      "source": "PMC3564669",
+      "target": "CUSTOM:934627d4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3830",
+      "source": "PMC3564669",
+      "target": "CUSTOM:27f0112c",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

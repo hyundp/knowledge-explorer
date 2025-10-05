@@ -1,0 +1,31 @@
+{
+  "pmcid": "PMC11094041",
+  "title": "Inspiration4 data access through the NASA Open Science Data Repository",
+  "authors": [
+    "Lauren M Sanders",
+    "Kirill A Grigorev",
+    "Ryan T Scott",
+    "Amanda M Saravia Butler",
+    "San huei Lai Polo",
+    "Rachel Gilbert",
+    "Eliah G Overbey",
+    "JangKeun Kim",
+    "Christopher E Mason",
+    "Sylvain V Costes"
+  ],
+  "year": "2024",
+  "journal": "NPJ Microgravity",
+  "doi": "10.1038/s41526 024 00393 5",
+  "sections": {
+    "abstract": "The increasing accessibility of commercial and private space travel necessitates a profound understanding of its impact on human health. The NASA Open Science Data Repository (OSDR) provides transparent and FAIR access to biological studies, notably the SpaceX Inspiration4 (I4) mission, which amassed extensive data from civilian astronauts. This dataset encompasses omics and clinical assays, facilitating comprehensive research on space induced biological responses. These data allow for multi modal, longitudinal assessments, bridging the gap between human and model organism studies. Crucially, community driven data standards established by NASA's OSDR Analysis Working Groups empower artificial intelligence and machine learning to glean invaluable insights, guiding future mission planning and health risk mitigation. This article presents a concise guide to access and analyze I4 data in OSDR, including programmatic access through GLOpenAPI. This pioneering effort establishes a precedent for post mission health monitoring programs within space agencies, propelling research in the burgeoning field of commercial space travel's impact on human physiology.\n\nSubject terms:Computational biology and bioinformatics, Biological techniques",
+    "methods": "In the realm of scientific inquiry involving I4 data, it is imperative to note that publicly accessible information pertains solely to processed data, given that raw data pertaining to individual human subjects, encompassing genetic sequence data among other facets, necessitate an application procedure that mandates approval from an ethical oversight board for access. The protocol for controlled data access has been meticulously devised, drawing inspiration from established guidelines within the Database of Genotypes and Phenotypes (dbGAP) and incorporating best practices derived from the United Kingdom Biobank. This comprehensive framework encompasses an expansive array of data and sample categories, as illustrated in Fig.1.\n\nI4 mission data are separated into 10 OSD studies based on sample/tissue type as shown above. For each OSD, the associated omics and non omics data are listed under the GLDS ID (light gray) and LSDS ID (dark gray), respectively. The time points samples were collected for each OSD are color coded in the I4 mission timeline at the top. L Launch, F Flight, R Return, d Days.\n\nThese data are captured across eight studies, delineated by tissue and sample type, and includes omics assays such as direct RNA sequencing (RNA seq), single nuclei ATAC seq and RNA seq, metagenomics/metatranscriptomics, spatial transcriptomics, and proteomics to comprehensive metabolic and immune panels. Moreover, clinical assays for blood profiling, such as complete blood count (CBC) and metabolic panels, are also included in the data resource.\n\nAll subjects were consented at an informed consent briefing (ICB) at SpaceX (Hawthorne, CA), and samples were collected and processed under the approval of the Institutional Review Board (IRB) at Weill Cornell Medicine, under Protocol 21 05023569. All crew members have consented for data and sample sharing.\n\nFurther information on research design is available in theNature Research Reporting Summarylinked to this article.",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:01:19.848008",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11094041/"
+  }
+}

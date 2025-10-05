@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC3258067",
+  "nodes": [
+    {
+      "fullLabel": "PMC3258067",
+      "id": "PMC3258067",
+      "label": "PMC3258067",
+      "properties": {
+        "pmcid": "PMC3258067",
+        "first_seen": "2025-10-05T07:29:06.230406",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.247405"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Differences in curvature after vertical and horizontal clinorotation",
+      "id": "CUSTOM:53e57970",
+      "label": "Differences in cu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.249233",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Differences in curvature after vertical and horizontal clinorotation",
+        "last_seen": "2025-10-05T07:29:06.249233",
+        "obo_id": "CUSTOM:53e57970"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Saturation of the gravitropic signal after reorientation",
+      "id": "CUSTOM:577c74f1",
+      "label": "Saturation of the...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.243634",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Saturation of the gravitropic signal after reorientation",
+        "last_seen": "2025-10-05T07:29:06.243634",
+        "obo_id": "CUSTOM:577c74f1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Persistence of the gravity signal",
+      "id": "CUSTOM:66d7d562",
+      "label": "Persistence of th...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.237310",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Persistence of the gravity signal",
+        "last_seen": "2025-10-05T07:29:06.237310",
+        "obo_id": "CUSTOM:66d7d562"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Interference with the graviresponse mechanism in roots",
+      "id": "CUSTOM:0a2500f0",
+      "label": "Interference with...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.232291",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Interference with the graviresponse mechanism in roots",
+        "last_seen": "2025-10-05T07:29:06.232291",
+        "obo_id": "CUSTOM:0a2500f0"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1854",
+      "source": "PMC3258067",
+      "target": "CUSTOM:53e57970",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1852",
+      "source": "PMC3258067",
+      "target": "CUSTOM:577c74f1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1850",
+      "source": "PMC3258067",
+      "target": "CUSTOM:66d7d562",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1848",
+      "source": "PMC3258067",
+      "target": "CUSTOM:0a2500f0",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

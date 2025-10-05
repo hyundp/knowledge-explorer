@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC8217198",
+  "nodes": [
+    {
+      "fullLabel": "PMC8217198",
+      "id": "PMC8217198",
+      "label": "PMC8217198",
+      "properties": {
+        "pmcid": "PMC8217198",
+        "first_seen": "2025-10-05T07:29:02.353884",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.367589"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "PMD formation and repair may represent a novel mechanosensation pathway in bone and a target for modifying skeletal adaptation signaling in osteocytes (potential strategy to improve bone mechanosensitivity with aging)",
+      "id": "CUSTOM:d170f773",
+      "label": "PMD formation and...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.369128",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "PMD formation and repair may represent a novel mechanosensation pathway in bone and a target for modifying skeletal adaptation signaling in osteocytes (potential strategy to improve bone mechanosensitivity with aging)",
+        "last_seen": "2025-10-05T07:29:02.369128",
+        "obo_id": "CUSTOM:d170f773"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Responses downstream of PMD in bone cells are consistent with PMD responses reported in other mechanosensitive tissues",
+      "id": "CUSTOM:ca72c69b",
+      "label": "Responses downstr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.365012",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Responses downstream of PMD in bone cells are consistent with PMD responses reported in other mechanosensitive tissues",
+        "last_seen": "2025-10-05T07:29:02.365012",
+        "obo_id": "CUSTOM:ca72c69b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Bone tissue develops and responds to PMD with mechanical loading",
+      "id": "CUSTOM:9f4dbfc4",
+      "label": "Bone tissue devel...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.360497",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Bone tissue develops and responds to PMD with mechanical loading",
+        "last_seen": "2025-10-05T07:29:02.360497",
+        "obo_id": "CUSTOM:9f4dbfc4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "PMD act as a key mechanosensation mechanism enabling mechanosensitive cells to detect and respond to mechanical loading",
+      "id": "CUSTOM:94115154",
+      "label": "PMD act as a key ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.355385",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "PMD act as a key mechanosensation mechanism enabling mechanosensitive cells to detect and respond to mechanical loading",
+        "last_seen": "2025-10-05T07:29:02.355385",
+        "obo_id": "CUSTOM:94115154"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "562",
+      "source": "PMC8217198",
+      "target": "CUSTOM:d170f773",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "560",
+      "source": "PMC8217198",
+      "target": "CUSTOM:ca72c69b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "558",
+      "source": "PMC8217198",
+      "target": "CUSTOM:9f4dbfc4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "556",
+      "source": "PMC8217198",
+      "target": "CUSTOM:94115154",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

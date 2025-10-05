@@ -1,0 +1,285 @@
+{
+  "pmcid": "PMC8716943",
+  "nodes": [
+    {
+      "fullLabel": "PMC8716943",
+      "id": "PMC8716943",
+      "label": "PMC8716943",
+      "properties": {
+        "pmcid": "PMC8716943",
+        "first_seen": "2025-10-05T07:29:11.144776",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:11.223979"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Actin has multiple roles in root gravitropism: direct sensing of gravity, controlling propagation of the hormone signal, and likely regulating subsequent cell elongation",
+      "id": "CUSTOM:79e4bb45",
+      "label": "Actin has multipl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.225695",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Actin has multiple roles in root gravitropism: direct sensing of gravity, controlling propagation of the hormone signal, and likely regulating subsequent cell elongation",
+        "last_seen": "2025-10-05T07:29:11.225695",
+        "obo_id": "CUSTOM:79e4bb45"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Hormonal regulation of primary root growth occurs mainly through coordination between auxin and cytokinin signaling and contributes to generation of developmental regions with specific actin organization",
+      "id": "CUSTOM:2fbe11eb",
+      "label": "Hormonal regulati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.220636",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Hormonal regulation of primary root growth occurs mainly through coordination between auxin and cytokinin signaling and contributes to generation of developmental regions with specific actin organization",
+        "last_seen": "2025-10-05T07:29:11.220636",
+        "obo_id": "CUSTOM:2fbe11eb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Single or double mutants of actin binding proteins often do not show detrimental effects on root growth",
+      "id": "CUSTOM:0064e4d8",
+      "label": "Single or double ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.215199",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Single or double mutants of actin binding proteins often do not show detrimental effects on root growth",
+        "last_seen": "2025-10-05T07:29:11.215199",
+        "obo_id": "CUSTOM:0064e4d8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Overexpression of actin binding proteins often leads to detrimental effects on root growth",
+      "id": "CUSTOM:f33bfe06",
+      "label": "Overexpression of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.209481",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Overexpression of actin binding proteins often leads to detrimental effects on root growth",
+        "last_seen": "2025-10-05T07:29:11.209481",
+        "obo_id": "CUSTOM:f33bfe06"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Little data available on phenotypic effects of actin binding protein perturbation in root growth due to genetic redundancy",
+      "id": "CUSTOM:749696d6",
+      "label": "Little data avail...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.203922",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Little data available on phenotypic effects of actin binding protein perturbation in root growth due to genetic redundancy",
+        "last_seen": "2025-10-05T07:29:11.203922",
+        "obo_id": "CUSTOM:749696d6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Lack of evidence on the role of actin binding proteins in regulating the actin network with regard to growth and development of the root meristem",
+      "id": "CUSTOM:bb93128b",
+      "label": "Lack of evidence ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.196911",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Lack of evidence on the role of actin binding proteins in regulating the actin network with regard to growth and development of the root meristem",
+        "last_seen": "2025-10-05T07:29:11.196911",
+        "obo_id": "CUSTOM:bb93128b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Causal links reported between actin, vacuolar morphology, and cell elongation (evidence incomplete)",
+      "id": "CUSTOM:57b31b06",
+      "label": "Causal links repo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.191054",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Causal links reported between actin, vacuolar morphology, and cell elongation (evidence incomplete)",
+        "last_seen": "2025-10-05T07:29:11.191054",
+        "obo_id": "CUSTOM:57b31b06"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Changes in actin organization affect cell growth in different ways",
+      "id": "CUSTOM:494d7df8",
+      "label": "Changes in actin ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.172246",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Changes in actin organization affect cell growth in different ways",
+        "last_seen": "2025-10-05T07:29:11.172246",
+        "obo_id": "CUSTOM:494d7df8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Root growth defects resulting from failure to achieve bundled/longitudinal actin arrangement",
+      "id": "CUSTOM:f8c35208",
+      "label": "Root growth defec...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.166655",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Root growth defects resulting from failure to achieve bundled/longitudinal actin arrangement",
+        "last_seen": "2025-10-05T07:29:11.166655",
+        "obo_id": "CUSTOM:f8c35208"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Bundled and longitudinally oriented actin filaments are a hallmark of cell elongation",
+      "id": "CUSTOM:36f6ef9f",
+      "label": "Bundled and longi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.161434",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Bundled and longitudinally oriented actin filaments are a hallmark of cell elongation",
+        "last_seen": "2025-10-05T07:29:11.161434",
+        "obo_id": "CUSTOM:36f6ef9f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Actin organization is developmentally regulated in the growing root tip",
+      "id": "CUSTOM:439acc1c",
+      "label": "Actin organizatio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.155581",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Actin organization is developmentally regulated in the growing root tip",
+        "last_seen": "2025-10-05T07:29:11.155581",
+        "obo_id": "CUSTOM:439acc1c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Actin network is essential for root growth by regulating cell elongation and division",
+      "id": "CUSTOM:b2adc94e",
+      "label": "Actin network is ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.147546",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Actin network is essential for root growth by regulating cell elongation and division",
+        "last_seen": "2025-10-05T07:29:11.147546",
+        "obo_id": "CUSTOM:b2adc94e"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3250",
+      "source": "PMC8716943",
+      "target": "CUSTOM:79e4bb45",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3248",
+      "source": "PMC8716943",
+      "target": "CUSTOM:2fbe11eb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3246",
+      "source": "PMC8716943",
+      "target": "CUSTOM:0064e4d8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3244",
+      "source": "PMC8716943",
+      "target": "CUSTOM:f33bfe06",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3242",
+      "source": "PMC8716943",
+      "target": "CUSTOM:749696d6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3240",
+      "source": "PMC8716943",
+      "target": "CUSTOM:bb93128b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3238",
+      "source": "PMC8716943",
+      "target": "CUSTOM:57b31b06",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3236",
+      "source": "PMC8716943",
+      "target": "CUSTOM:494d7df8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3234",
+      "source": "PMC8716943",
+      "target": "CUSTOM:f8c35208",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3232",
+      "source": "PMC8716943",
+      "target": "CUSTOM:36f6ef9f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3230",
+      "source": "PMC8716943",
+      "target": "CUSTOM:439acc1c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3228",
+      "source": "PMC8716943",
+      "target": "CUSTOM:b2adc94e",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 13,
+  "num_edges": 12
+}

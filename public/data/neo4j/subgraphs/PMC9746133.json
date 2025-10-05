@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC9746133",
+  "nodes": [
+    {
+      "fullLabel": "PMC9746133",
+      "id": "PMC9746133",
+      "label": "PMC9746133",
+      "properties": {
+        "pmcid": "PMC9746133",
+        "first_seen": "2025-10-05T07:29:10.999126",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:11.067286"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "revelation of novel cellular architectures and discovery of new domains of biology",
+      "id": "CUSTOM:71b1d45a",
+      "label": "revelation of nov...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.069207",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "revelation of novel cellular architectures and discovery of new domains of biology",
+        "last_seen": "2025-10-05T07:29:11.069207",
+        "obo_id": "CUSTOM:71b1d45a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "depth and richness of data leading to spatially intact single cell profiles",
+      "id": "CUSTOM:33ac4f3d",
+      "label": "depth and richnes...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.063605",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "depth and richness of data leading to spatially intact single cell profiles",
+        "last_seen": "2025-10-05T07:29:11.063605",
+        "obo_id": "CUSTOM:33ac4f3d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "availability/adoption of spatial omics technologies across labs",
+      "id": "CUSTOM:02510fa3",
+      "label": "availability/adop...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.057421",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "availability/adoption of spatial omics technologies across labs",
+        "last_seen": "2025-10-05T07:29:11.057421",
+        "obo_id": "CUSTOM:02510fa3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "costs of spatial omics technologies",
+      "id": "CUSTOM:82816209",
+      "label": "costs of spatial ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.050840",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "costs of spatial omics technologies",
+        "last_seen": "2025-10-05T07:29:11.050840",
+        "obo_id": "CUSTOM:82816209"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "number of unique gene targets detectable",
+      "id": "CUSTOM:35a35909",
+      "label": "number of unique ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.041441",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "number of unique gene targets detectable",
+        "last_seen": "2025-10-05T07:29:11.041441",
+        "obo_id": "CUSTOM:35a35909"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "breadth and resolution of in situ experiments",
+      "id": "CUSTOM:2caf2da1",
+      "label": "breadth and resol...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.012750",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "breadth and resolution of in situ experiments",
+        "last_seen": "2025-10-05T07:29:11.012750",
+        "obo_id": "CUSTOM:2caf2da1"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3206",
+      "source": "PMC9746133",
+      "target": "CUSTOM:71b1d45a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3204",
+      "source": "PMC9746133",
+      "target": "CUSTOM:33ac4f3d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3202",
+      "source": "PMC9746133",
+      "target": "CUSTOM:02510fa3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3200",
+      "source": "PMC9746133",
+      "target": "CUSTOM:82816209",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3198",
+      "source": "PMC9746133",
+      "target": "CUSTOM:35a35909",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3196",
+      "source": "PMC9746133",
+      "target": "CUSTOM:2caf2da1",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC7828077",
+  "nodes": [
+    {
+      "fullLabel": "PMC7828077",
+      "id": "PMC7828077",
+      "label": "PMC7828077",
+      "properties": {
+        "pmcid": "PMC7828077",
+        "first_seen": "2025-10-05T07:29:05.196578",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.237592"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "extension of biological significance from transcriptomics to higher-level phenotypes (symptoms and side effects) using SPOKE",
+      "id": "CUSTOM:089d344f",
+      "label": "extension of biol...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.239286",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "extension of biological significance from transcriptomics to higher-level phenotypes (symptoms and side effects) using SPOKE",
+        "last_seen": "2025-10-05T07:29:05.239286",
+        "obo_id": "CUSTOM:089d344f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "existence of paths connecting input gene sets to top node sets in SPOKE",
+      "id": "CUSTOM:0ce2f4a2",
+      "label": "existence of path...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.234094",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "existence of paths connecting input gene sets to top node sets in SPOKE",
+        "last_seen": "2025-10-05T07:29:05.234094",
+        "obo_id": "CUSTOM:0ce2f4a2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "enrichment of top nodes for phenotypes and physiological changes known to be impacted by spaceflight",
+      "id": "CUSTOM:5c64db2e",
+      "label": "enrichment of top...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.228182",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "enrichment of top nodes for phenotypes and physiological changes known to be impacted by spaceflight",
+        "last_seen": "2025-10-05T07:29:05.228182",
+        "obo_id": "CUSTOM:5c64db2e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "differences in gene expression between samples",
+      "id": "CUSTOM:b09d9c71",
+      "label": "differences in ge...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.198404",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "differences in gene expression between samples",
+        "last_seen": "2025-10-05T07:29:05.198404",
+        "obo_id": "CUSTOM:b09d9c71"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1524",
+      "source": "PMC7828077",
+      "target": "CUSTOM:089d344f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1522",
+      "source": "PMC7828077",
+      "target": "CUSTOM:0ce2f4a2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1520",
+      "source": "PMC7828077",
+      "target": "CUSTOM:5c64db2e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1518",
+      "source": "PMC7828077",
+      "target": "CUSTOM:b09d9c71",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

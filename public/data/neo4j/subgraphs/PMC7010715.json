@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC7010715",
+  "nodes": [
+    {
+      "fullLabel": "PMC7010715",
+      "id": "PMC7010715",
+      "label": "PMC7010715",
+      "properties": {
+        "pmcid": "PMC7010715",
+        "first_seen": "2025-10-05T07:29:04.058701",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.103074"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Global F actin dynamics (correlation/difference measurement) at 60 s",
+      "id": "CUSTOM:9c2adad5",
+      "label": "Global F actin dy...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.104860",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Global F actin dynamics (correlation/difference measurement) at 60 s",
+        "last_seen": "2025-10-05T07:29:04.104860",
+        "obo_id": "CUSTOM:9c2adad5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Global F actin dynamics (correlation/difference measurement) at 40 s",
+      "id": "CUSTOM:9a2627b3",
+      "label": "Global F actin dy...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.098915",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Global F actin dynamics (correlation/difference measurement) at 40 s",
+        "last_seen": "2025-10-05T07:29:04.098915",
+        "obo_id": "CUSTOM:9a2627b3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Global F actin dynamics (correlation/difference measurement) at 20 s",
+      "id": "CUSTOM:280d531f",
+      "label": "Global F actin dy...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.092137",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Global F actin dynamics (correlation/difference measurement) at 20 s",
+        "last_seen": "2025-10-05T07:29:04.092137",
+        "obo_id": "CUSTOM:280d531f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "F actin dynamics (global)",
+      "id": "CUSTOM:7e565eab",
+      "label": "F actin dynamics ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.060622",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "F actin dynamics (global)",
+        "last_seen": "2025-10-05T07:29:04.060622",
+        "obo_id": "CUSTOM:7e565eab"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1160",
+      "source": "PMC7010715",
+      "target": "CUSTOM:9c2adad5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1158",
+      "source": "PMC7010715",
+      "target": "CUSTOM:9a2627b3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1156",
+      "source": "PMC7010715",
+      "target": "CUSTOM:280d531f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1154",
+      "source": "PMC7010715",
+      "target": "CUSTOM:7e565eab",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

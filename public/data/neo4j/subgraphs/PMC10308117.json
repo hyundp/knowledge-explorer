@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC10308117",
+  "nodes": [
+    {
+      "fullLabel": "PMC10308117",
+      "id": "PMC10308117",
+      "label": "PMC10308117",
+      "properties": {
+        "pmcid": "PMC10308117",
+        "first_seen": "2025-10-05T07:29:06.894434",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.931601"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Candidate for testing as a member of plant growth promoting consortia for future plant experiments in outer space",
+      "id": "CUSTOM:bdf9f246",
+      "label": "Candidate for tes...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.933814",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Candidate for testing as a member of plant growth promoting consortia for future plant experiments in outer space",
+        "last_seen": "2025-10-05T07:29:06.933814",
+        "obo_id": "CUSTOM:bdf9f246"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability to survive in ISS built environment extreme conditions (radiation exposure, desiccation, low nutrient availability, microgravity)",
+      "id": "CUSTOM:b36d52ca",
+      "label": "Ability to surviv...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.927081",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability to survive in ISS built environment extreme conditions (radiation exposure, desiccation, low nutrient availability, microgravity)",
+        "last_seen": "2025-10-05T07:29:06.927081",
+        "obo_id": "CUSTOM:b36d52ca"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Likely introduced to the ISS as a plant commensal (not a human commensal) during plant growth experiments",
+      "id": "CUSTOM:939283d7",
+      "label": "Likely introduced...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.919524",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Likely introduced to the ISS as a plant commensal (not a human commensal) during plant growth experiments",
+        "last_seen": "2025-10-05T07:29:06.919524",
+        "obo_id": "CUSTOM:939283d7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Likely mutualistic associations with plant roots or other tissue",
+      "id": "CUSTOM:e88be762",
+      "label": "Likely mutualisti...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.914196",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Likely mutualistic associations with plant roots or other tissue",
+        "last_seen": "2025-10-05T07:29:06.914196",
+        "obo_id": "CUSTOM:e88be762"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Closely related Cohnella species originate from plant/rhizosphere environment",
+      "id": "CUSTOM:a2b57d2c",
+      "label": "Closely related C...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.908650",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Closely related Cohnella species originate from plant/rhizosphere environment",
+        "last_seen": "2025-10-05T07:29:06.908650",
+        "obo_id": "CUSTOM:a2b57d2c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Predicted functional characteristics for C. hashimotonis and the C. ginsengisoliclade",
+      "id": "CUSTOM:ae7de90a",
+      "label": "Predicted functio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.903270",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Predicted functional characteristics for C. hashimotonis and the C. ginsengisoliclade",
+        "last_seen": "2025-10-05T07:29:06.903270",
+        "obo_id": "CUSTOM:ae7de90a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Novel species proposed and named C. hashimotonis",
+      "id": "CUSTOM:bffa3649",
+      "label": "Novel species pro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.896613",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Novel species proposed and named C. hashimotonis",
+        "last_seen": "2025-10-05T07:29:06.896613",
+        "obo_id": "CUSTOM:bffa3649"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2070",
+      "source": "PMC10308117",
+      "target": "CUSTOM:bdf9f246",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2068",
+      "source": "PMC10308117",
+      "target": "CUSTOM:b36d52ca",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2066",
+      "source": "PMC10308117",
+      "target": "CUSTOM:939283d7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2064",
+      "source": "PMC10308117",
+      "target": "CUSTOM:e88be762",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2062",
+      "source": "PMC10308117",
+      "target": "CUSTOM:a2b57d2c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2060",
+      "source": "PMC10308117",
+      "target": "CUSTOM:ae7de90a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2058",
+      "source": "PMC10308117",
+      "target": "CUSTOM:bffa3649",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

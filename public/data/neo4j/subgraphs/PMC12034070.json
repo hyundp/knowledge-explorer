@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC12034070",
+  "nodes": [
+    {
+      "fullLabel": "PMC12034070",
+      "id": "PMC12034070",
+      "label": "PMC12034070",
+      "properties": {
+        "pmcid": "PMC12034070",
+        "first_seen": "2025-10-05T07:29:10.411553",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:10.426924"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "muscular hypertrophy as a foundational performance precursor",
+      "id": "CUSTOM:8de53de2",
+      "label": "muscular hypertro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.428594",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "muscular hypertrophy as a foundational performance precursor",
+        "last_seen": "2025-10-05T07:29:10.428594",
+        "obo_id": "CUSTOM:8de53de2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "BFRT applicability across continuum of human performance",
+      "id": "CUSTOM:4cb88d2f",
+      "label": "BFRT applicabilit...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.423436",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "BFRT applicability across continuum of human performance",
+        "last_seen": "2025-10-05T07:29:10.423436",
+        "obo_id": "CUSTOM:4cb88d2f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "individual resilience",
+      "id": "CUSTOM:61c49448",
+      "label": "individual resili...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.418515",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "individual resilience",
+        "last_seen": "2025-10-05T07:29:10.418515",
+        "obo_id": "CUSTOM:61c49448"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "muscle growth / muscular hypertrophy",
+      "id": "CUSTOM:b64789f0",
+      "label": "muscle growth / m...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.413309",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "muscle growth / muscular hypertrophy",
+        "last_seen": "2025-10-05T07:29:10.413309",
+        "obo_id": "CUSTOM:b64789f0"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3070",
+      "source": "PMC12034070",
+      "target": "CUSTOM:8de53de2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3068",
+      "source": "PMC12034070",
+      "target": "CUSTOM:4cb88d2f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3066",
+      "source": "PMC12034070",
+      "target": "CUSTOM:61c49448",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3064",
+      "source": "PMC12034070",
+      "target": "CUSTOM:b64789f0",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

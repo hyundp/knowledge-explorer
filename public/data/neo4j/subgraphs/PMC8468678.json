@@ -1,0 +1,43 @@
+{
+  "pmcid": "PMC8468678",
+  "nodes": [
+    {
+      "fullLabel": "PMC8468678",
+      "id": "PMC8468678",
+      "label": "PMC8468678",
+      "properties": {
+        "pmcid": "PMC8468678",
+        "first_seen": "2025-10-05T07:29:06.846549",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.846549"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "horizontal gene transfer (HGT)",
+      "id": "CUSTOM:73ad92d1",
+      "label": "horizontal gene t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.848680",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "horizontal gene transfer (HGT)",
+        "last_seen": "2025-10-05T07:29:06.848680",
+        "obo_id": "CUSTOM:73ad92d1"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2042",
+      "source": "PMC8468678",
+      "target": "CUSTOM:73ad92d1",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 2,
+  "num_edges": 1
+}

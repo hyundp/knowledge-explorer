@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC4095884",
+  "nodes": [
+    {
+      "fullLabel": "PMC4095884",
+      "id": "PMC4095884",
+      "label": "PMC4095884",
+      "properties": {
+        "pmcid": "PMC4095884",
+        "first_seen": "2025-10-05T07:29:06.524976",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.534669"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "deficiency of the SG complex may contribute to pathology in some forms of muscular dystrophy",
+      "id": "CUSTOM:4e54c9e8",
+      "label": "deficiency of the...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.536245",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "deficiency of the SG complex may contribute to pathology in some forms of muscular dystrophy",
+        "last_seen": "2025-10-05T07:29:06.536245",
+        "obo_id": "CUSTOM:4e54c9e8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "gamma SG is required for the inactivation of p70S6K following its activation in response to mechanical stimulation",
+      "id": "CUSTOM:1817af2f",
+      "label": "gamma SG is requi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.531453",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "gamma SG is required for the inactivation of p70S6K following its activation in response to mechanical stimulation",
+        "last_seen": "2025-10-05T07:29:06.531453",
+        "obo_id": "CUSTOM:1817af2f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "p70S6K is part of a SG-dependent mechanosensitive signaling pathway",
+      "id": "CUSTOM:fee2067c",
+      "label": "p70S6K is part of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.526683",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "p70S6K is part of a SG-dependent mechanosensitive signaling pathway",
+        "last_seen": "2025-10-05T07:29:06.526683",
+        "obo_id": "CUSTOM:fee2067c"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1934",
+      "source": "PMC4095884",
+      "target": "CUSTOM:4e54c9e8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1932",
+      "source": "PMC4095884",
+      "target": "CUSTOM:1817af2f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1930",
+      "source": "PMC4095884",
+      "target": "CUSTOM:fee2067c",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

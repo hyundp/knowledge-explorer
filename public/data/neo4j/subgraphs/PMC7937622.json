@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC7937622",
+  "nodes": [
+    {
+      "fullLabel": "PMC7937622",
+      "id": "PMC7937622",
+      "label": "PMC7937622",
+      "properties": {
+        "pmcid": "PMC7937622",
+        "first_seen": "2025-10-05T07:29:15.843622",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:15.887844"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Planetary protection surface bioburden limit for robotic lander systems (category IVa)",
+      "id": "CUSTOM:799654ac",
+      "label": "Planetary protect...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.889937",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Planetary protection surface bioburden limit for robotic lander systems (category IVa)",
+        "last_seen": "2025-10-05T07:29:15.889937",
+        "obo_id": "CUSTOM:799654ac"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Likelihood of pigmented fungal spores to survive as forward contaminants on Mars",
+      "id": "CUSTOM:737bfa0b",
+      "label": "Likelihood of pig...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.883400",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Likelihood of pigmented fungal spores to survive as forward contaminants on Mars",
+        "last_seen": "2025-10-05T07:29:15.883400",
+        "obo_id": "CUSTOM:737bfa0b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Viability (survival) of highly pigmented Aspergillus niger spores under UV exposure",
+      "id": "CUSTOM:af003725",
+      "label": "Viability (surviv...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.876646",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Viability (survival) of highly pigmented Aspergillus niger spores under UV exposure",
+        "last_seen": "2025-10-05T07:29:15.876646",
+        "obo_id": "CUSTOM:af003725"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Viability (survival) of S. shabanensis and S. capitis subsp. capitis",
+      "id": "CUSTOM:34c23969",
+      "label": "Viability (surviv...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.859833",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Viability (survival) of S. shabanensis and S. capitis subsp. capitis",
+        "last_seen": "2025-10-05T07:29:15.859833",
+        "obo_id": "CUSTOM:34c23969"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cross contamination among test microorganisms",
+      "id": "CUSTOM:1f648892",
+      "label": "Cross contaminati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.853064",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cross contamination among test microorganisms",
+        "last_seen": "2025-10-05T07:29:15.853064",
+        "obo_id": "CUSTOM:1f648892"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Access to a wide ranging Mars analog environment with natural ionizing and non ionizing radiation using MARSBOx",
+      "id": "CUSTOM:f03de09c",
+      "label": "Access to a wide ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.845975",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Access to a wide ranging Mars analog environment with natural ionizing and non ionizing radiation using MARSBOx",
+        "last_seen": "2025-10-05T07:29:15.845975",
+        "obo_id": "CUSTOM:f03de09c"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4370",
+      "source": "PMC7937622",
+      "target": "CUSTOM:799654ac",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4368",
+      "source": "PMC7937622",
+      "target": "CUSTOM:737bfa0b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4366",
+      "source": "PMC7937622",
+      "target": "CUSTOM:af003725",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4364",
+      "source": "PMC7937622",
+      "target": "CUSTOM:34c23969",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4362",
+      "source": "PMC7937622",
+      "target": "CUSTOM:1f648892",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4360",
+      "source": "PMC7937622",
+      "target": "CUSTOM:f03de09c",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC3982735",
+  "nodes": [
+    {
+      "fullLabel": "PMC3982735",
+      "id": "PMC3982735",
+      "label": "PMC3982735",
+      "properties": {
+        "pmcid": "PMC3982735",
+        "first_seen": "2025-10-05T07:29:03.098212",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.131112"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Flavonols suppress ROS levels in guard cells and modulate the dynamics of stomatal aperture",
+      "id": "CUSTOM:82f0d773",
+      "label": "Flavonols suppres...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.132604",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Flavonols suppress ROS levels in guard cells and modulate the dynamics of stomatal aperture",
+        "last_seen": "2025-10-05T07:29:03.132604",
+        "obo_id": "CUSTOM:82f0d773"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Rate of stomatal closure decreases following elevated ethylene",
+      "id": "CUSTOM:3865dc76",
+      "label": "Rate of stomatal ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.128236",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Rate of stomatal closure decreases following elevated ethylene",
+        "last_seen": "2025-10-05T07:29:03.128236",
+        "obo_id": "CUSTOM:3865dc76"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ROS levels in guard cells decrease following elevated ethylene",
+      "id": "CUSTOM:f46fcd4c",
+      "label": "ROS levels in gua...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.122903",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ROS levels in guard cells decrease following elevated ethylene",
+        "last_seen": "2025-10-05T07:29:03.122903",
+        "obo_id": "CUSTOM:f46fcd4c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Elevated ethylene increases flavonol accumulation in guard cells",
+      "id": "CUSTOM:184fb8ba",
+      "label": "Elevated ethylene...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.117410",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Elevated ethylene increases flavonol accumulation in guard cells",
+        "last_seen": "2025-10-05T07:29:03.117410",
+        "obo_id": "CUSTOM:184fb8ba"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Flavonol levels in guard cells are regulated by ethylene",
+      "id": "CUSTOM:d30b4131",
+      "label": "Flavonol levels i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.111835",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Flavonol levels in guard cells are regulated by ethylene",
+        "last_seen": "2025-10-05T07:29:03.111835",
+        "obo_id": "CUSTOM:d30b4131"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Flavonol concentrations are inversely proportional to ROS levels",
+      "id": "CUSTOM:136b4ebc",
+      "label": "Flavonol concentr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.105088",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Flavonol concentrations are inversely proportional to ROS levels",
+        "last_seen": "2025-10-05T07:29:03.105088",
+        "obo_id": "CUSTOM:136b4ebc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Flavonol and ROS accumulation in guard cells",
+      "id": "CUSTOM:0ebdf92f",
+      "label": "Flavonol and ROS ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.100384",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Flavonol and ROS accumulation in guard cells",
+        "last_seen": "2025-10-05T07:29:03.100384",
+        "obo_id": "CUSTOM:0ebdf92f"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "830",
+      "source": "PMC3982735",
+      "target": "CUSTOM:82f0d773",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "828",
+      "source": "PMC3982735",
+      "target": "CUSTOM:3865dc76",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "826",
+      "source": "PMC3982735",
+      "target": "CUSTOM:f46fcd4c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "824",
+      "source": "PMC3982735",
+      "target": "CUSTOM:184fb8ba",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "822",
+      "source": "PMC3982735",
+      "target": "CUSTOM:d30b4131",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "820",
+      "source": "PMC3982735",
+      "target": "CUSTOM:136b4ebc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "818",
+      "source": "PMC3982735",
+      "target": "CUSTOM:0ebdf92f",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

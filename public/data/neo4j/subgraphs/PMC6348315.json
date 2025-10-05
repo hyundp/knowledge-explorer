@@ -1,0 +1,395 @@
+{
+  "pmcid": "PMC6348315",
+  "nodes": [
+    {
+      "fullLabel": "PMC6348315",
+      "id": "PMC6348315",
+      "label": "PMC6348315",
+      "properties": {
+        "pmcid": "PMC6348315",
+        "first_seen": "2025-10-05T07:29:09.832825",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:09.949488"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "CONSTANS Like family contains members that function beyond clock and timing roles, including ROS signalling",
+      "id": "CUSTOM:dbbab224",
+      "label": "CONSTANS Like fam...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.952156",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CONSTANS Like family contains members that function beyond clock and timing roles, including ROS signalling",
+        "last_seen": "2025-10-05T07:29:09.952156",
+        "obo_id": "CUSTOM:dbbab224"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Maintenance of ROS homeostasis plays an important role as plants physiologically adapt to spaceflight",
+      "id": "CUSTOM:239db15f",
+      "label": "Maintenance of RO...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.944492",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Maintenance of ROS homeostasis plays an important role as plants physiologically adapt to spaceflight",
+        "last_seen": "2025-10-05T07:29:09.944492",
+        "obo_id": "CUSTOM:239db15f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "WS and Col 0 differ in induction of OMG1 in spaceflight",
+      "id": "CUSTOM:c001146c",
+      "label": "WS and Col 0 diff...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.937780",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "WS and Col 0 differ in induction of OMG1 in spaceflight",
+        "last_seen": "2025-10-05T07:29:09.937780",
+        "obo_id": "CUSTOM:c001146c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "The response to spaceflight is genotype specific",
+      "id": "CUSTOM:db5c8f36",
+      "label": "The response to s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.931053",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "The response to spaceflight is genotype specific",
+        "last_seen": "2025-10-05T07:29:09.931053",
+        "obo_id": "CUSTOM:db5c8f36"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Spaceflight experiments are useful platforms to discover novel gene functions and provide fundamental insights into terrestrial plant biology",
+      "id": "CUSTOM:c9ac2044",
+      "label": "Spaceflight exper...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.924619",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Spaceflight experiments are useful platforms to discover novel gene functions and provide fundamental insights into terrestrial plant biology",
+        "last_seen": "2025-10-05T07:29:09.924619",
+        "obo_id": "CUSTOM:c9ac2044"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "OMG1 is important to the physiological adaptation of Arabidopsis ecotype WS to spaceflight",
+      "id": "CUSTOM:a8d760d0",
+      "label": "OMG1 is important...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.917048",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "OMG1 is important to the physiological adaptation of Arabidopsis ecotype WS to spaceflight",
+        "last_seen": "2025-10-05T07:29:09.917048",
+        "obo_id": "CUSTOM:a8d760d0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "OMG1 is a CCT domain transcriptional regulator of ROS homeostasis",
+      "id": "CUSTOM:4e3ec4dc",
+      "label": "OMG1 is a CCT dom...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.909606",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "OMG1 is a CCT domain transcriptional regulator of ROS homeostasis",
+        "last_seen": "2025-10-05T07:29:09.909606",
+        "obo_id": "CUSTOM:4e3ec4dc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "OMG1 has a conserved CCT domain that encodes a nuclear localization signal",
+      "id": "CUSTOM:f1132afc",
+      "label": "OMG1 has a conser...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.902211",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "OMG1 has a conserved CCT domain that encodes a nuclear localization signal",
+        "last_seen": "2025-10-05T07:29:09.902211",
+        "obo_id": "CUSTOM:f1132afc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "35S::eGFP alone displays uniform expression throughout leaf pavement cells (vacuoles, nucleus and membrane)",
+      "id": "CUSTOM:938fe874",
+      "label": "35S::eGFP alone d...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.893869",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "35S::eGFP alone displays uniform expression throughout leaf pavement cells (vacuoles, nucleus and membrane)",
+        "last_seen": "2025-10-05T07:29:09.893869",
+        "obo_id": "CUSTOM:938fe874"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Transient expression of 35S::OMG1 eGFP fusion protein localizes OMG1 specifically to the nucleus",
+      "id": "CUSTOM:99e252d6",
+      "label": "Transient express...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.887089",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Transient expression of 35S::OMG1 eGFP fusion protein localizes OMG1 specifically to the nucleus",
+        "last_seen": "2025-10-05T07:29:09.887089",
+        "obo_id": "CUSTOM:99e252d6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Sequences within the OMG1 clade show similar substitutions at conserved Zn binding residues, implicating that functional B box2 may require only a single Zn ion",
+      "id": "CUSTOM:9120626b",
+      "label": "Sequences within ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.879398",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Sequences within the OMG1 clade show similar substitutions at conserved Zn binding residues, implicating that functional B box2 may require only a single Zn ion",
+        "last_seen": "2025-10-05T07:29:09.879398",
+        "obo_id": "CUSTOM:9120626b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Radical substitutions at key residues (C49S, E52Q, C67I and H73L) in the second Zn binding pocket disrupt potential Zn binding",
+      "id": "CUSTOM:1b051f17",
+      "label": "Radical substitut...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.871937",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Radical substitutions at key residues (C49S, E52Q, C67I and H73L) in the second Zn binding pocket disrupt potential Zn binding",
+        "last_seen": "2025-10-05T07:29:09.871937",
+        "obo_id": "CUSTOM:1b051f17"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Four conserved cysteine residues are positioned to interact with a zinc ion in Arabidopsis OMG1",
+      "id": "CUSTOM:98e199f7",
+      "label": "Four conserved cy...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.864813",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Four conserved cysteine residues are positioned to interact with a zinc ion in Arabidopsis OMG1",
+        "last_seen": "2025-10-05T07:29:09.864813",
+        "obo_id": "CUSTOM:98e199f7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "B box2 domain of OMG1 is predicted to bind at least one zinc ion",
+      "id": "CUSTOM:9335b16c",
+      "label": "B box2 domain of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.856726",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "B box2 domain of OMG1 is predicted to bind at least one zinc ion",
+        "last_seen": "2025-10-05T07:29:09.856726",
+        "obo_id": "CUSTOM:9335b16c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Brassica sequences share a similar B box1 deletion",
+      "id": "CUSTOM:ad3cf08a",
+      "label": "Brassica sequence...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.849559",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Brassica sequences share a similar B box1 deletion",
+        "last_seen": "2025-10-05T07:29:09.849559",
+        "obo_id": "CUSTOM:ad3cf08a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Sequences within the OMG1 clade are grouped into Brassicas and monocots",
+      "id": "CUSTOM:9a1fdc11",
+      "label": "Sequences within ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.841819",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Sequences within the OMG1 clade are grouped into Brassicas and monocots",
+        "last_seen": "2025-10-05T07:29:09.841819",
+        "obo_id": "CUSTOM:9a1fdc11"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "OMG1 resulted from a gene duplication of COL11 12",
+      "id": "CUSTOM:a3fb7e02",
+      "label": "OMG1 resulted fro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.835144",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "OMG1 resulted from a gene duplication of COL11 12",
+        "last_seen": "2025-10-05T07:29:09.835144",
+        "obo_id": "CUSTOM:a3fb7e02"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2950",
+      "source": "PMC6348315",
+      "target": "CUSTOM:dbbab224",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2948",
+      "source": "PMC6348315",
+      "target": "CUSTOM:239db15f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2946",
+      "source": "PMC6348315",
+      "target": "CUSTOM:c001146c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2944",
+      "source": "PMC6348315",
+      "target": "CUSTOM:db5c8f36",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2942",
+      "source": "PMC6348315",
+      "target": "CUSTOM:c9ac2044",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2940",
+      "source": "PMC6348315",
+      "target": "CUSTOM:a8d760d0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2938",
+      "source": "PMC6348315",
+      "target": "CUSTOM:4e3ec4dc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2936",
+      "source": "PMC6348315",
+      "target": "CUSTOM:f1132afc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2934",
+      "source": "PMC6348315",
+      "target": "CUSTOM:938fe874",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2932",
+      "source": "PMC6348315",
+      "target": "CUSTOM:99e252d6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2930",
+      "source": "PMC6348315",
+      "target": "CUSTOM:9120626b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2928",
+      "source": "PMC6348315",
+      "target": "CUSTOM:1b051f17",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2926",
+      "source": "PMC6348315",
+      "target": "CUSTOM:98e199f7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2924",
+      "source": "PMC6348315",
+      "target": "CUSTOM:9335b16c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2922",
+      "source": "PMC6348315",
+      "target": "CUSTOM:ad3cf08a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2920",
+      "source": "PMC6348315",
+      "target": "CUSTOM:9a1fdc11",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2918",
+      "source": "PMC6348315",
+      "target": "CUSTOM:a3fb7e02",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 18,
+  "num_edges": 17
+}

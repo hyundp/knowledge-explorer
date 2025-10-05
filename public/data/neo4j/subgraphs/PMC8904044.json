@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC8904044",
+  "nodes": [
+    {
+      "fullLabel": "PMC8904044",
+      "id": "PMC8904044",
+      "label": "PMC8904044",
+      "properties": {
+        "pmcid": "PMC8904044",
+        "first_seen": "2025-10-05T07:29:01.980755",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.008336"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "metabolic burden due to autoinduction of NTD production",
+      "id": "CUSTOM:4992677d",
+      "label": "metabolic burden ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.009711",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "metabolic burden due to autoinduction of NTD production",
+        "last_seen": "2025-10-05T07:29:02.009711",
+        "obo_id": "CUSTOM:4992677d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "exponential growth rate as a proxy for relative fitness",
+      "id": "CUSTOM:85ece8a8",
+      "label": "exponential growt...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.005664",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "exponential growth rate as a proxy for relative fitness",
+        "last_seen": "2025-10-05T07:29:02.005664",
+        "obo_id": "CUSTOM:85ece8a8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ability of compensatory mutations in rpoB to restore/recover fitness defects",
+      "id": "CUSTOM:13391c63",
+      "label": "ability of compen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.001824",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ability of compensatory mutations in rpoB to restore/recover fitness defects",
+        "last_seen": "2025-10-05T07:29:02.001824",
+        "obo_id": "CUSTOM:13391c63"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "fitness of the A478D+I528V double mutant relative to the A478D single mutant",
+      "id": "CUSTOM:6521e87b",
+      "label": "fitness of the A4...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.998127",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "fitness of the A478D+I528V double mutant relative to the A478D single mutant",
+        "last_seen": "2025-10-05T07:29:01.998127",
+        "obo_id": "CUSTOM:6521e87b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "relative fitness of the evolved strain WN1663 and population sweep by WN1663",
+      "id": "CUSTOM:b1a1d375",
+      "label": "relative fitness ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.994334",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "relative fitness of the evolved strain WN1663 and population sweep by WN1663",
+        "last_seen": "2025-10-05T07:29:01.994334",
+        "obo_id": "CUSTOM:b1a1d375"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "relative fitness of the H482N rpoB variant relative to wild type",
+      "id": "CUSTOM:eada0e6d",
+      "label": "relative fitness ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.990704",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "relative fitness of the H482N rpoB variant relative to wild type",
+        "last_seen": "2025-10-05T07:29:01.990704",
+        "obo_id": "CUSTOM:eada0e6d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "exponential growth rate of three RifR rpoB variants relative to wild type",
+      "id": "CUSTOM:58d48661",
+      "label": "exponential growt...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.986848",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "exponential growth rate of three RifR rpoB variants relative to wild type",
+        "last_seen": "2025-10-05T07:29:01.986848",
+        "obo_id": "CUSTOM:58d48661"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "relative fitness of the rpoB S487L allele",
+      "id": "CUSTOM:0a612c5e",
+      "label": "relative fitness ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.982816",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "relative fitness of the rpoB S487L allele",
+        "last_seen": "2025-10-05T07:29:01.982816",
+        "obo_id": "CUSTOM:0a612c5e"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "446",
+      "source": "PMC8904044",
+      "target": "CUSTOM:4992677d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "444",
+      "source": "PMC8904044",
+      "target": "CUSTOM:85ece8a8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "442",
+      "source": "PMC8904044",
+      "target": "CUSTOM:13391c63",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "440",
+      "source": "PMC8904044",
+      "target": "CUSTOM:6521e87b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "438",
+      "source": "PMC8904044",
+      "target": "CUSTOM:b1a1d375",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "436",
+      "source": "PMC8904044",
+      "target": "CUSTOM:eada0e6d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "434",
+      "source": "PMC8904044",
+      "target": "CUSTOM:58d48661",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "432",
+      "source": "PMC8904044",
+      "target": "CUSTOM:0a612c5e",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

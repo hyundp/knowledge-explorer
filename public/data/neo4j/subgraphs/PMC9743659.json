@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC9743659",
+  "nodes": [
+    {
+      "fullLabel": "PMC9743659",
+      "id": "PMC9743659",
+      "label": "PMC9743659",
+      "properties": {
+        "pmcid": "PMC9743659",
+        "first_seen": "2025-10-05T07:29:15.725556",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:15.762673"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Selective pressure on A. pittii exerted by the ISS environment",
+      "id": "CUSTOM:370aa252",
+      "label": "Selective pressur...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.764979",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Selective pressure on A. pittii exerted by the ISS environment",
+        "last_seen": "2025-10-05T07:29:15.764979",
+        "obo_id": "CUSTOM:370aa252"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Highly variable sequences of interest (MSR enzymes)",
+      "id": "CUSTOM:bb17e35b",
+      "label": "Highly variable s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.758695",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Highly variable sequences of interest (MSR enzymes)",
+        "last_seen": "2025-10-05T07:29:15.758695",
+        "obo_id": "CUSTOM:bb17e35b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Acquisition of further stress-associated protein coding genes",
+      "id": "CUSTOM:82aa33ed",
+      "label": "Acquisition of fu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.752318",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Acquisition of further stress-associated protein coding genes",
+        "last_seen": "2025-10-05T07:29:15.752318",
+        "obo_id": "CUSTOM:82aa33ed"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Mutational frequencies",
+      "id": "CUSTOM:49368ec3",
+      "label": "Mutational freque...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.746279",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mutational frequencies",
+        "last_seen": "2025-10-05T07:29:15.746279",
+        "obo_id": "CUSTOM:49368ec3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ecological succession of A. pittii aboard the ISS",
+      "id": "CUSTOM:6e41caf7",
+      "label": "Ecological succes...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.739619",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ecological succession of A. pittii aboard the ISS",
+        "last_seen": "2025-10-05T07:29:15.739619",
+        "obo_id": "CUSTOM:6e41caf7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Augmented antimicrobial resistance",
+      "id": "CUSTOM:9b72c226",
+      "label": "Augmented antimic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.733552",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Augmented antimicrobial resistance",
+        "last_seen": "2025-10-05T07:29:15.733552",
+        "obo_id": "CUSTOM:9b72c226"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Adaptation to the extreme environment of the ISS through mechanisms that enhance survival",
+      "id": "CUSTOM:baf2a69c",
+      "label": "Adaptation to the...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.727532",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Adaptation to the extreme environment of the ISS through mechanisms that enhance survival",
+        "last_seen": "2025-10-05T07:29:15.727532",
+        "obo_id": "CUSTOM:baf2a69c"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4338",
+      "source": "PMC9743659",
+      "target": "CUSTOM:370aa252",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4336",
+      "source": "PMC9743659",
+      "target": "CUSTOM:bb17e35b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4334",
+      "source": "PMC9743659",
+      "target": "CUSTOM:82aa33ed",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4332",
+      "source": "PMC9743659",
+      "target": "CUSTOM:49368ec3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4330",
+      "source": "PMC9743659",
+      "target": "CUSTOM:6e41caf7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4328",
+      "source": "PMC9743659",
+      "target": "CUSTOM:9b72c226",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4326",
+      "source": "PMC9743659",
+      "target": "CUSTOM:baf2a69c",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

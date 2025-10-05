@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC3337602",
+  "nodes": [
+    {
+      "fullLabel": "PMC3337602",
+      "id": "PMC3337602",
+      "label": "PMC3337602",
+      "properties": {
+        "pmcid": "PMC3337602",
+        "first_seen": "2025-10-05T07:29:02.463205",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.505898"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "structural changes in the murine skeleton (translational expectation to humans)",
+      "id": "CUSTOM:1f66fa7f",
+      "label": "structural change...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.507327",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "structural changes in the murine skeleton (translational expectation to humans)",
+        "last_seen": "2025-10-05T07:29:02.507327",
+        "obo_id": "CUSTOM:1f66fa7f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "osteoprogenitor damage (acute and persistent)",
+      "id": "CUSTOM:1914dbb3",
+      "label": "osteoprogenitor d...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.503717",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "osteoprogenitor damage (acute and persistent)",
+        "last_seen": "2025-10-05T07:29:02.503717",
+        "obo_id": "CUSTOM:1914dbb3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "bone marrow derived osteoblast progenitors and osteoclast precursors (effects)",
+      "id": "CUSTOM:67bc0077",
+      "label": "bone marrow deriv...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.499742",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "bone marrow derived osteoblast progenitors and osteoclast precursors (effects)",
+        "last_seen": "2025-10-05T07:29:02.499742",
+        "obo_id": "CUSTOM:67bc0077"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "BV/TV (bone volume fraction)",
+      "id": "CUSTOM:8cf3d1c6",
+      "label": "BV/TV (bone volum...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.495591",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "BV/TV (bone volume fraction)",
+        "last_seen": "2025-10-05T07:29:02.495591",
+        "obo_id": "CUSTOM:8cf3d1c6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "changes in the trabecular microarchitecture",
+      "id": "CUSTOM:eb2acd6f",
+      "label": "changes in the tr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.491641",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "changes in the trabecular microarchitecture",
+        "last_seen": "2025-10-05T07:29:02.491641",
+        "obo_id": "CUSTOM:eb2acd6f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "changes in the trabecular microarchitecture",
+      "id": "CUSTOM:c0250179",
+      "label": "changes in the tr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.487199",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "changes in the trabecular microarchitecture",
+        "last_seen": "2025-10-05T07:29:02.487199",
+        "obo_id": "CUSTOM:c0250179"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "614",
+      "source": "PMC3337602",
+      "target": "CUSTOM:1f66fa7f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "612",
+      "source": "PMC3337602",
+      "target": "CUSTOM:1914dbb3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "610",
+      "source": "PMC3337602",
+      "target": "CUSTOM:67bc0077",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "608",
+      "source": "PMC3337602",
+      "target": "CUSTOM:8cf3d1c6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "606",
+      "source": "PMC3337602",
+      "target": "CUSTOM:eb2acd6f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "604",
+      "source": "PMC3337602",
+      "target": "CUSTOM:c0250179",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

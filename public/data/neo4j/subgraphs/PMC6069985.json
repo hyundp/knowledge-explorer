@@ -1,0 +1,307 @@
+{
+  "pmcid": "PMC6069985",
+  "nodes": [
+    {
+      "fullLabel": "PMC6069985",
+      "id": "PMC6069985",
+      "label": "PMC6069985",
+      "properties": {
+        "pmcid": "PMC6069985",
+        "first_seen": "2025-10-05T07:29:05.538758",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.607055"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Transcriptomic and phenotypic responses to abrupt environmental changes",
+      "id": "CUSTOM:b6cd32dc",
+      "label": "Transcriptomic an...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.608833",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Transcriptomic and phenotypic responses to abrupt environmental changes",
+        "last_seen": "2025-10-05T07:29:05.608833",
+        "obo_id": "CUSTOM:b6cd32dc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Overall effect on worms (response to culture conditions)",
+      "id": "CUSTOM:b6d2fd0a",
+      "label": "Overall effect on...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.603636",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Overall effect on worms (response to culture conditions)",
+        "last_seen": "2025-10-05T07:29:05.603636",
+        "obo_id": "CUSTOM:b6d2fd0a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Placing the animals in axenic media alters a variety of biological processes (profound consequences)",
+      "id": "CUSTOM:dd8119bb",
+      "label": "Placing the anima...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.598134",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Placing the animals in axenic media alters a variety of biological processes (profound consequences)",
+        "last_seen": "2025-10-05T07:29:05.598134",
+        "obo_id": "CUSTOM:dd8119bb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "AB1-specific expression of innate immune response genes indicating expression is more readily available in AB1 than N2",
+      "id": "CUSTOM:adb71150",
+      "label": "AB1-specific expr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.592805",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "AB1-specific expression of innate immune response genes indicating expression is more readily available in AB1 than N2",
+        "last_seen": "2025-10-05T07:29:05.592805",
+        "obo_id": "CUSTOM:adb71150"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Enrichment in innate immune response genes expressed exclusively in AB1 strain on OP50 NGM",
+      "id": "CUSTOM:6ebdcb9b",
+      "label": "Enrichment in inn...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.587262",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Enrichment in innate immune response genes expressed exclusively in AB1 strain on OP50 NGM",
+        "last_seen": "2025-10-05T07:29:05.587262",
+        "obo_id": "CUSTOM:6ebdcb9b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Considerable differences in RNA expressions between N2 and AB1 strains cultured in same growth conditions",
+      "id": "CUSTOM:6811d18d",
+      "label": "Considerable diff...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.582161",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Considerable differences in RNA expressions between N2 and AB1 strains cultured in same growth conditions",
+        "last_seen": "2025-10-05T07:29:05.582161",
+        "obo_id": "CUSTOM:6811d18d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Numerous ncRNA molecules observed despite poly(A) selection in RNA-seq; many ncRNAs had expression levels higher than housekeeping gene pmp-3",
+      "id": "CUSTOM:ed3090d6",
+      "label": "Numerous ncRNA mo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.576722",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Numerous ncRNA molecules observed despite poly(A) selection in RNA-seq; many ncRNAs had expression levels higher than housekeeping gene pmp-3",
+        "last_seen": "2025-10-05T07:29:05.576722",
+        "obo_id": "CUSTOM:ed3090d6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence and condition-specific expression of ncRNAs suggesting regulatory functions in adaptive responses",
+      "id": "CUSTOM:4fdd5414",
+      "label": "Presence and cond...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.571226",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence and condition-specific expression of ncRNAs suggesting regulatory functions in adaptive responses",
+        "last_seen": "2025-10-05T07:29:05.571226",
+        "obo_id": "CUSTOM:4fdd5414"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Proportion of predicted genes in C. elegans annotation lacking direct experimental cDNA or EST evidence",
+      "id": "CUSTOM:9f82a8ef",
+      "label": "Proportion of pre...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.565623",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Proportion of predicted genes in C. elegans annotation lacking direct experimental cDNA or EST evidence",
+        "last_seen": "2025-10-05T07:29:05.565623",
+        "obo_id": "CUSTOM:9f82a8ef"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Condition-specific expression of genes provoked by different environments; some genes lacked previous EST or cDNA evidence",
+      "id": "CUSTOM:67f4dc6b",
+      "label": "Condition-specifi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.558769",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Condition-specific expression of genes provoked by different environments; some genes lacked previous EST or cDNA evidence",
+        "last_seen": "2025-10-05T07:29:05.558769",
+        "obo_id": "CUSTOM:67f4dc6b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Differential expression of body morphology related genes and phenotypical changes in body morphology in CeHR-grown N2 strain (not AB1)",
+      "id": "CUSTOM:a6bd1262",
+      "label": "Differential expr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.552950",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Differential expression of body morphology related genes and phenotypical changes in body morphology in CeHR-grown N2 strain (not AB1)",
+        "last_seen": "2025-10-05T07:29:05.552950",
+        "obo_id": "CUSTOM:a6bd1262"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Strain-specific transcriptional characteristics correlated with observed phenotypes",
+      "id": "CUSTOM:13b54cbf",
+      "label": "Strain-specific t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.546725",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Strain-specific transcriptional characteristics correlated with observed phenotypes",
+        "last_seen": "2025-10-05T07:29:05.546725",
+        "obo_id": "CUSTOM:13b54cbf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Alterations in transcriptional responses in C. elegans model due to environment changes",
+      "id": "CUSTOM:379df921",
+      "label": "Alterations in tr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.540615",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Alterations in transcriptional responses in C. elegans model due to environment changes",
+        "last_seen": "2025-10-05T07:29:05.540615",
+        "obo_id": "CUSTOM:379df921"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1640",
+      "source": "PMC6069985",
+      "target": "CUSTOM:b6cd32dc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1638",
+      "source": "PMC6069985",
+      "target": "CUSTOM:b6d2fd0a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1636",
+      "source": "PMC6069985",
+      "target": "CUSTOM:dd8119bb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1634",
+      "source": "PMC6069985",
+      "target": "CUSTOM:adb71150",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1632",
+      "source": "PMC6069985",
+      "target": "CUSTOM:6ebdcb9b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1630",
+      "source": "PMC6069985",
+      "target": "CUSTOM:6811d18d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1628",
+      "source": "PMC6069985",
+      "target": "CUSTOM:ed3090d6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1626",
+      "source": "PMC6069985",
+      "target": "CUSTOM:4fdd5414",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1624",
+      "source": "PMC6069985",
+      "target": "CUSTOM:9f82a8ef",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1622",
+      "source": "PMC6069985",
+      "target": "CUSTOM:67f4dc6b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1620",
+      "source": "PMC6069985",
+      "target": "CUSTOM:a6bd1262",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1618",
+      "source": "PMC6069985",
+      "target": "CUSTOM:13b54cbf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1616",
+      "source": "PMC6069985",
+      "target": "CUSTOM:379df921",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 14,
+  "num_edges": 13
+}

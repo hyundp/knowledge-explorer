@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC9241228",
+  "nodes": [
+    {
+      "fullLabel": "PMC9241228",
+      "id": "PMC9241228",
+      "label": "PMC9241228",
+      "properties": {
+        "pmcid": "PMC9241228",
+        "first_seen": "2025-10-05T07:29:06.594030",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.620012"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Data from the study may inform policies to ensure an ISS surface microbiome that promotes astronaut health and spacecraft integrity",
+      "id": "CUSTOM:1a4ad706",
+      "label": "Data from the stu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.621881",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Data from the study may inform policies to ensure an ISS surface microbiome that promotes astronaut health and spacecraft integrity",
+        "last_seen": "2025-10-05T07:29:06.621881",
+        "obo_id": "CUSTOM:1a4ad706"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Functional capabilities and microbial interactions of the ISS built environment",
+      "id": "CUSTOM:f97ad32a",
+      "label": "Functional capabi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.616120",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Functional capabilities and microbial interactions of the ISS built environment",
+        "last_seen": "2025-10-05T07:29:06.616120",
+        "obo_id": "CUSTOM:f97ad32a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Microbiome and resistome changes over time and space on the ISS",
+      "id": "CUSTOM:78e3f5a6",
+      "label": "Microbiome and re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.611074",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microbiome and resistome changes over time and space on the ISS",
+        "last_seen": "2025-10-05T07:29:06.611074",
+        "obo_id": "CUSTOM:78e3f5a6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Bacterial and fungal species prevalence on ISS surfaces",
+      "id": "CUSTOM:a68841b9",
+      "label": "Bacterial and fun...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.606353",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Bacterial and fungal species prevalence on ISS surfaces",
+        "last_seen": "2025-10-05T07:29:06.606353",
+        "obo_id": "CUSTOM:a68841b9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Microbial burden on ISS surfaces",
+      "id": "CUSTOM:09bbe778",
+      "label": "Microbial burden ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.600824",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microbial burden on ISS surfaces",
+        "last_seen": "2025-10-05T07:29:06.600824",
+        "obo_id": "CUSTOM:09bbe778"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Comprehensive analysis of the ISS surface microbiome",
+      "id": "CUSTOM:1c5ee774",
+      "label": "Comprehensive ana...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.595820",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Comprehensive analysis of the ISS surface microbiome",
+        "last_seen": "2025-10-05T07:29:06.595820",
+        "obo_id": "CUSTOM:1c5ee774"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1968",
+      "source": "PMC9241228",
+      "target": "CUSTOM:1a4ad706",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1966",
+      "source": "PMC9241228",
+      "target": "CUSTOM:f97ad32a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1964",
+      "source": "PMC9241228",
+      "target": "CUSTOM:78e3f5a6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1962",
+      "source": "PMC9241228",
+      "target": "CUSTOM:a68841b9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1960",
+      "source": "PMC9241228",
+      "target": "CUSTOM:09bbe778",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1958",
+      "source": "PMC9241228",
+      "target": "CUSTOM:1c5ee774",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

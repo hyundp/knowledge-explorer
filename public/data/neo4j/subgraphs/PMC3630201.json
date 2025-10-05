@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC3630201",
+  "nodes": [
+    {
+      "fullLabel": "PMC3630201",
+      "id": "PMC3630201",
+      "label": "PMC3630201",
+      "properties": {
+        "pmcid": "PMC3630201",
+        "first_seen": "2025-10-05T07:29:08.720470",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.737274"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "CDKN1a/p21 acts as a molecular inhibitor of regenerative adult stem cell proliferation",
+      "id": "CUSTOM:7bfad2c1",
+      "label": "CDKN1a/p21 acts a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.739180",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CDKN1a/p21 acts as a molecular inhibitor of regenerative adult stem cell proliferation",
+        "last_seen": "2025-10-05T07:29:08.739180",
+        "obo_id": "CUSTOM:7bfad2c1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "CDKN1a/p21 up regulation in microgravity",
+      "id": "CUSTOM:b5d08a40",
+      "label": "CDKN1a/p21 up reg...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.732991",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CDKN1a/p21 up regulation in microgravity",
+        "last_seen": "2025-10-05T07:29:08.732991",
+        "obo_id": "CUSTOM:b5d08a40"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Bone degenerative responses involving osteoclasts, osteoblasts, and osteocytes",
+      "id": "CUSTOM:d7726eb5",
+      "label": "Bone degenerative...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.727643",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Bone degenerative responses involving osteoclasts, osteoblasts, and osteocytes",
+        "last_seen": "2025-10-05T07:29:08.727643",
+        "obo_id": "CUSTOM:d7726eb5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Pelvic femoral musculoskeletal complex sensitivity to load and gravity",
+      "id": "CUSTOM:c9f8f586",
+      "label": "Pelvic femoral mu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.722270",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pelvic femoral musculoskeletal complex sensitivity to load and gravity",
+        "last_seen": "2025-10-05T07:29:08.722270",
+        "obo_id": "CUSTOM:c9f8f586"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2618",
+      "source": "PMC3630201",
+      "target": "CUSTOM:7bfad2c1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2616",
+      "source": "PMC3630201",
+      "target": "CUSTOM:b5d08a40",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2614",
+      "source": "PMC3630201",
+      "target": "CUSTOM:d7726eb5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2612",
+      "source": "PMC3630201",
+      "target": "CUSTOM:c9f8f586",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

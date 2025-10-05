@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC5460263",
+  "nodes": [
+    {
+      "fullLabel": "PMC5460263",
+      "id": "PMC5460263",
+      "label": "PMC5460263",
+      "properties": {
+        "pmcid": "PMC5460263",
+        "first_seen": "2025-10-05T07:29:03.237081",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.259669"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Host multicellular complexity and oxygen are key microenvironmental factors important for regulating pathovar-specific invasion and host co-localization properties",
+      "id": "CUSTOM:addd5478",
+      "label": "Host multicellula...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.262509",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Host multicellular complexity and oxygen are key microenvironmental factors important for regulating pathovar-specific invasion and host co-localization properties",
+        "last_seen": "2025-10-05T07:29:03.262509",
+        "obo_id": "CUSTOM:addd5478"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Utility of the model to investigate impact of environmental parameters on colonization and co-localization patterns of pathogens with different host cell types",
+      "id": "CUSTOM:ba21590a",
+      "label": "Utility of the mo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.255095",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Utility of the model to investigate impact of environmental parameters on colonization and co-localization patterns of pathogens with different host cell types",
+        "last_seen": "2025-10-05T07:29:03.255095",
+        "obo_id": "CUSTOM:ba21590a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Physiological relevance for studying host–pathogen interactions due to synergistic contributions of different cell types during infection",
+      "id": "CUSTOM:f6f55b2e",
+      "label": "Physiological rel...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.249001",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Physiological relevance for studying host–pathogen interactions due to synergistic contributions of different cell types during infection",
+        "last_seen": "2025-10-05T07:29:03.249001",
+        "obo_id": "CUSTOM:f6f55b2e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Recapitulation of multicellular complexity and structure of the parental tissue via incorporation of phagocytic macrophages",
+      "id": "CUSTOM:f64ec238",
+      "label": "Recapitulation of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.243444",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Recapitulation of multicellular complexity and structure of the parental tissue via incorporation of phagocytic macrophages",
+        "last_seen": "2025-10-05T07:29:03.243444",
+        "obo_id": "CUSTOM:f64ec238"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "The 3 D co culture model of human colonic epithelium in combination with immune cells represents a new tool to investigate mechanisms underlying enteric diseases, including salmonellosis",
+      "id": "CUSTOM:3bb2bf78",
+      "label": "The 3 D co cultur...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.238902",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "The 3 D co culture model of human colonic epithelium in combination with immune cells represents a new tool to investigate mechanisms underlying enteric diseases, including salmonellosis",
+        "last_seen": "2025-10-05T07:29:03.238902",
+        "obo_id": "CUSTOM:3bb2bf78"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "882",
+      "source": "PMC5460263",
+      "target": "CUSTOM:addd5478",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "880",
+      "source": "PMC5460263",
+      "target": "CUSTOM:ba21590a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "878",
+      "source": "PMC5460263",
+      "target": "CUSTOM:f6f55b2e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "876",
+      "source": "PMC5460263",
+      "target": "CUSTOM:f64ec238",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "874",
+      "source": "PMC5460263",
+      "target": "CUSTOM:3bb2bf78",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

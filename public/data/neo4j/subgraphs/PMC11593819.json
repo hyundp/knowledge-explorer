@@ -1,0 +1,395 @@
+{
+  "pmcid": "PMC11593819",
+  "nodes": [
+    {
+      "fullLabel": "PMC11593819",
+      "id": "PMC11593819",
+      "label": "PMC11593819",
+      "properties": {
+        "pmcid": "PMC11593819",
+        "first_seen": "2025-10-05T07:29:08.300580",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.398364"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "spaceflight induced detrimental effects on ocular tissue",
+      "id": "CUSTOM:98e9b16c",
+      "label": "spaceflight induc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.400474",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "spaceflight induced detrimental effects on ocular tissue",
+        "last_seen": "2025-10-05T07:29:08.400474",
+        "obo_id": "CUSTOM:98e9b16c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "transcriptomic alteration induced by spaceflight",
+      "id": "CUSTOM:142d56a3",
+      "label": "transcriptomic al...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.394319",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "transcriptomic alteration induced by spaceflight",
+        "last_seen": "2025-10-05T07:29:08.394319",
+        "obo_id": "CUSTOM:142d56a3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "4-HNE staining at higher AG doses (0.67 G and 1 G)",
+      "id": "CUSTOM:c18c9da4",
+      "label": "4-HNE staining at...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.388417",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "4-HNE staining at higher AG doses (0.67 G and 1 G)",
+        "last_seen": "2025-10-05T07:29:08.388417",
+        "obo_id": "CUSTOM:c18c9da4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "4-HNE activity in retinal ganglion cell layer (GCL)",
+      "id": "CUSTOM:cb74b6ba",
+      "label": "4-HNE activity in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.381943",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "4-HNE activity in retinal ganglion cell layer (GCL)",
+        "last_seen": "2025-10-05T07:29:08.381943",
+        "obo_id": "CUSTOM:cb74b6ba"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "distinct transcriptomic responses between optic nerve (ON) and retina (RTN)",
+      "id": "CUSTOM:8780b2b8",
+      "label": "distinct transcri...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.374707",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "distinct transcriptomic responses between optic nerve (ON) and retina (RTN)",
+        "last_seen": "2025-10-05T07:29:08.374707",
+        "obo_id": "CUSTOM:8780b2b8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "gene expression patterns closer to grounded control with added AG",
+      "id": "CUSTOM:c01a027e",
+      "label": "gene expression p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.368252",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "gene expression patterns closer to grounded control with added AG",
+        "last_seen": "2025-10-05T07:29:08.368252",
+        "obo_id": "CUSTOM:c01a027e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "overall transcriptomic response to spaceflight attenuated by continuous artificial gravity (AG)",
+      "id": "CUSTOM:2badc465",
+      "label": "overall transcrip...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.362445",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "overall transcriptomic response to spaceflight attenuated by continuous artificial gravity (AG)",
+        "last_seen": "2025-10-05T07:29:08.362445",
+        "obo_id": "CUSTOM:2badc465"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "expression of genes within PPAR pathway",
+      "id": "CUSTOM:f949216c",
+      "label": "expression of gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.356726",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "expression of genes within PPAR pathway",
+        "last_seen": "2025-10-05T07:29:08.356726",
+        "obo_id": "CUSTOM:f949216c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "PPAR signaling pathway enrichment",
+      "id": "CUSTOM:ae929206",
+      "label": "PPAR signaling pa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.350219",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "PPAR signaling pathway enrichment",
+        "last_seen": "2025-10-05T07:29:08.350219",
+        "obo_id": "CUSTOM:ae929206"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "expression of genes within PI3k Akt pathway",
+      "id": "CUSTOM:83bd6448",
+      "label": "expression of gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.343089",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "expression of genes within PI3k Akt pathway",
+        "last_seen": "2025-10-05T07:29:08.343089",
+        "obo_id": "CUSTOM:83bd6448"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "PI3k Akt signaling pathway enrichment",
+      "id": "CUSTOM:c9240ba1",
+      "label": "PI3k Akt signalin...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.337573",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "PI3k Akt signaling pathway enrichment",
+        "last_seen": "2025-10-05T07:29:08.337573",
+        "obo_id": "CUSTOM:c9240ba1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "expression of genes within FoxO pathway",
+      "id": "CUSTOM:26baaff9",
+      "label": "expression of gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.331838",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "expression of genes within FoxO pathway",
+        "last_seen": "2025-10-05T07:29:08.331838",
+        "obo_id": "CUSTOM:26baaff9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "FoxO signaling pathway enrichment",
+      "id": "CUSTOM:07835ed6",
+      "label": "FoxO signaling pa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.326012",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "FoxO signaling pathway enrichment",
+        "last_seen": "2025-10-05T07:29:08.326012",
+        "obo_id": "CUSTOM:07835ed6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "oxidative stress (4-HNE) in the RTN with AG at 0.67 G and 1 G versus 0 G",
+      "id": "CUSTOM:d25ee8be",
+      "label": "oxidative stress ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.319641",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "oxidative stress (4-HNE) in the RTN with AG at 0.67 G and 1 G versus 0 G",
+        "last_seen": "2025-10-05T07:29:08.319641",
+        "obo_id": "CUSTOM:d25ee8be"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "oxidative stress (4-hydroxynonenal, 4-HNE) in the retina (RTN)",
+      "id": "CUSTOM:1395482b",
+      "label": "oxidative stress ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.313909",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "oxidative stress (4-hydroxynonenal, 4-HNE) in the retina (RTN)",
+        "last_seen": "2025-10-05T07:29:08.313909",
+        "obo_id": "CUSTOM:1395482b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "alteration of genes within the p53 signaling pathway",
+      "id": "CUSTOM:4144f7de",
+      "label": "alteration of gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.308312",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "alteration of genes within the p53 signaling pathway",
+        "last_seen": "2025-10-05T07:29:08.308312",
+        "obo_id": "CUSTOM:4144f7de"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "p53 signaling pathway enrichment",
+      "id": "CUSTOM:d4c8f66d",
+      "label": "p53 signaling pat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.302593",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "p53 signaling pathway enrichment",
+        "last_seen": "2025-10-05T07:29:08.302593",
+        "obo_id": "CUSTOM:d4c8f66d"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2520",
+      "source": "PMC11593819",
+      "target": "CUSTOM:98e9b16c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2518",
+      "source": "PMC11593819",
+      "target": "CUSTOM:142d56a3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2516",
+      "source": "PMC11593819",
+      "target": "CUSTOM:c18c9da4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2514",
+      "source": "PMC11593819",
+      "target": "CUSTOM:cb74b6ba",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2512",
+      "source": "PMC11593819",
+      "target": "CUSTOM:8780b2b8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2510",
+      "source": "PMC11593819",
+      "target": "CUSTOM:c01a027e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2508",
+      "source": "PMC11593819",
+      "target": "CUSTOM:2badc465",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2506",
+      "source": "PMC11593819",
+      "target": "CUSTOM:f949216c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2504",
+      "source": "PMC11593819",
+      "target": "CUSTOM:ae929206",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2502",
+      "source": "PMC11593819",
+      "target": "CUSTOM:83bd6448",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2500",
+      "source": "PMC11593819",
+      "target": "CUSTOM:c9240ba1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2498",
+      "source": "PMC11593819",
+      "target": "CUSTOM:26baaff9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2496",
+      "source": "PMC11593819",
+      "target": "CUSTOM:07835ed6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2494",
+      "source": "PMC11593819",
+      "target": "CUSTOM:d25ee8be",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2492",
+      "source": "PMC11593819",
+      "target": "CUSTOM:1395482b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2490",
+      "source": "PMC11593819",
+      "target": "CUSTOM:4144f7de",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2488",
+      "source": "PMC11593819",
+      "target": "CUSTOM:d4c8f66d",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 18,
+  "num_edges": 17
+}

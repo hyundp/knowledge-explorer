@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC8412175",
+  "nodes": [
+    {
+      "fullLabel": "PMC8412175",
+      "id": "PMC8412175",
+      "label": "PMC8412175",
+      "properties": {
+        "pmcid": "PMC8412175",
+        "first_seen": "2025-10-05T07:29:04.436305",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.450097"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "progress toward translational research to address neurodegeneration and recovery of CNS function",
+      "id": "CUSTOM:6ba5e23d",
+      "label": "progress toward t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.451711",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "progress toward translational research to address neurodegeneration and recovery of CNS function",
+        "last_seen": "2025-10-05T07:29:04.451711",
+        "obo_id": "CUSTOM:6ba5e23d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "specific cell population number (in neurodegenerative diseases)",
+      "id": "CUSTOM:4dfdeb30",
+      "label": "specific cell pop...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.447084",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "specific cell population number (in neurodegenerative diseases)",
+        "last_seen": "2025-10-05T07:29:04.447084",
+        "obo_id": "CUSTOM:4dfdeb30"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "neural cell numbers",
+      "id": "CUSTOM:a9070e06",
+      "label": "neural cell numbers",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.442549",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "neural cell numbers",
+        "last_seen": "2025-10-05T07:29:04.442549",
+        "obo_id": "CUSTOM:a9070e06"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "maintenance of energy metabolism homeostasis",
+      "id": "CUSTOM:3d827f63",
+      "label": "maintenance of en...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.437974",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "maintenance of energy metabolism homeostasis",
+        "last_seen": "2025-10-05T07:29:04.437974",
+        "obo_id": "CUSTOM:3d827f63"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1280",
+      "source": "PMC8412175",
+      "target": "CUSTOM:6ba5e23d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1278",
+      "source": "PMC8412175",
+      "target": "CUSTOM:4dfdeb30",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1276",
+      "source": "PMC8412175",
+      "target": "CUSTOM:a9070e06",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1274",
+      "source": "PMC8412175",
+      "target": "CUSTOM:3d827f63",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

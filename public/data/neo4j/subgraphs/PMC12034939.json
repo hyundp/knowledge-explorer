@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC12034939",
+  "nodes": [
+    {
+      "fullLabel": "PMC12034939",
+      "id": "PMC12034939",
+      "label": "PMC12034939",
+      "properties": {
+        "pmcid": "PMC12034939",
+        "first_seen": "2025-10-05T07:29:03.940919",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.965453"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "effectiveness of wildlife conservation efforts for ensuring longterm species preservation in the face of climate change and emerging diseases",
+      "id": "CUSTOM:43f532bc",
+      "label": "effectiveness of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.966825",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "effectiveness of wildlife conservation efforts for ensuring longterm species preservation in the face of climate change and emerging diseases",
+        "last_seen": "2025-10-05T07:29:03.966825",
+        "obo_id": "CUSTOM:43f532bc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "advances in integrative knowledge on the importance of adaptive genetic variability in wild animals",
+      "id": "CUSTOM:2356b064",
+      "label": "advances in integ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.962962",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "advances in integrative knowledge on the importance of adaptive genetic variability in wild animals",
+        "last_seen": "2025-10-05T07:29:03.962962",
+        "obo_id": "CUSTOM:2356b064"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "significance of allele frequency changes in certain habitats",
+      "id": "CUSTOM:bd35eeb8",
+      "label": "significance of a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.959360",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "significance of allele frequency changes in certain habitats",
+        "last_seen": "2025-10-05T07:29:03.959360",
+        "obo_id": "CUSTOM:bd35eeb8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "accuracy/effectiveness of estimating allele frequencies using candidate and neutral markers",
+      "id": "CUSTOM:1be55aaa",
+      "label": "accuracy/effectiv...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.955391",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "accuracy/effectiveness of estimating allele frequencies using candidate and neutral markers",
+        "last_seen": "2025-10-05T07:29:03.955391",
+        "obo_id": "CUSTOM:1be55aaa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "understanding of the relative contribution of drift, selection, and parasitemediated selection mechanisms in shaping patterns of functional diversity",
+      "id": "CUSTOM:82106cdd",
+      "label": "understanding of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.951418",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "understanding of the relative contribution of drift, selection, and parasitemediated selection mechanisms in shaping patterns of functional diversity",
+        "last_seen": "2025-10-05T07:29:03.951418",
+        "obo_id": "CUSTOM:82106cdd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "characterization of MHC genetic variation at complete class I and II loci from wellassembled and wellannotated genomes and transcriptomes",
+      "id": "CUSTOM:78a49ccb",
+      "label": "characterization ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.946354",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "characterization of MHC genetic variation at complete class I and II loci from wellassembled and wellannotated genomes and transcriptomes",
+        "last_seen": "2025-10-05T07:29:03.946354",
+        "obo_id": "CUSTOM:78a49ccb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "advancement in understanding of local adaptive processes (particularly from infectious diseases)",
+      "id": "CUSTOM:86f29ae3",
+      "label": "advancement in un...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.942249",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "advancement in understanding of local adaptive processes (particularly from infectious diseases)",
+        "last_seen": "2025-10-05T07:29:03.942249",
+        "obo_id": "CUSTOM:86f29ae3"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1110",
+      "source": "PMC12034939",
+      "target": "CUSTOM:43f532bc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1108",
+      "source": "PMC12034939",
+      "target": "CUSTOM:2356b064",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1106",
+      "source": "PMC12034939",
+      "target": "CUSTOM:bd35eeb8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1104",
+      "source": "PMC12034939",
+      "target": "CUSTOM:1be55aaa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1102",
+      "source": "PMC12034939",
+      "target": "CUSTOM:82106cdd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1100",
+      "source": "PMC12034939",
+      "target": "CUSTOM:78a49ccb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1098",
+      "source": "PMC12034939",
+      "target": "CUSTOM:86f29ae3",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

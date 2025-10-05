@@ -1,0 +1,24 @@
+{
+  "pmcid": "PMC12034939",
+  "title": "MHC Diversity Across Time and Space",
+  "authors": [
+    "Maria CortazarChinarro",
+    "Kayla C King",
+    "Mette Lillie"
+  ],
+  "year": "2025",
+  "journal": "Ecology and Evolution",
+  "doi": "10.1002/ece3.71371",
+  "sections": {
+    "abstract": "Most natural populations are genetically diverse. Understanding how diversity is maintained and distributed across time and space can provide insights into the potential for evolution and extinction of populations. Immunogenetic diversity aids individuals and populations in resisting infectious disease, with many studies linking resistance to genes encoding adaptive immune responses, such as the major histocompatibility complex (MHC) genes. The MHC is particularly important for advancing our understanding of local adaptive processes and host parasite interactions. Here, we review the emerging work and theory exploring the geographic and temporal patterns of MHC diversity in the wild and how they are shaped by selective and demographic processes. We discuss patterns of variation along latitudinal and altitudinal gradients and place this in the context of Latitude Diversity Gradient and Central Marginal Theories. We emphasize how MHC diversity is often lower at the edges of species distributions, particularly in highlatitude and highaltitude regions. We also discuss MHC diversity in natural populations facing climate change. As climate change accelerates and emerging parasites spread, reduced immunogenetic diversity could severely threaten wildlife populations, compromising their resilience and longterm survival. We propose that including immunogenetic diversity into a larger database of environmental and parasite data would allow biologists to test hypotheses regarding host parasite coevolution and develop effective measures for conservation.\n\nKeywords:climate change, evolutionary processes, genetic diversity, host parasite interactions, MHC",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "Investigating mechanisms that maintain genetic diversity will advance our understanding of local adaptive processes, particularly from infectious diseases. Ongoing research of parasitedriven selective processes under natural conditions should focus on characterizing MHC genetic variation at complete class I and II loci from wellassembled and wellannotated genomes and transcriptomes. In addition, changes in adaptive versus neutral marker allele frequencies over time should contribute to understanding the relative contribution of drift, selection, and parasitemediated selection mechanisms in shaping patterns of functional diversity. To estimate allele frequencies by using candidate and neutral markers, we must consider broad spatial and temporal scales across vertebrates as a whole. Furthermore, changes in allele frequency could be significant in habitats susceptible to sudden climatic events or the arrival of new parasites. These advances will only be possible by improving the accessibility of centralized public and multidisciplinary large data sets to increase our integrative knowledge on the importance of adaptive genetic variability in wild animals. Wildlife conservation efforts that monitor MHC genetic diversity across space and time at the edges of species distributions, in longterm fragmented habitats, or at northern latitudes will be most effective for ensuring longterm species preservation in the face of climate change and emerging diseases."
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:07:59.444798",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12034939/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "pmcid": "PMC5958250",
+  "title": "Draft Genome Sequences of Two Fusarium oxysporum Isolates Cultured from Infected Zinnia hybrida Plants Grown on the International Space Station",
+  "authors": [
+    "Camilla Urbaniak",
+    "Gioia Massa",
+    "Mary Hummerick",
+    "Christina Khodadad",
+    "Andrew Schuerger",
+    "Kasthuri Venkateswaran"
+  ],
+  "year": "2018",
+  "journal": "Genome Announcements",
+  "doi": "10.1128/genomeA.00326 18",
+  "sections": {
+    "abstract": "Here, we present the whole genome sequences of twoFusarium oxysporumisolates cultured from infectedZinnia hybridaplants that were grown onboard the International Space Station (ISS).",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:07:40.223319",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5958250/"
+  }
+}

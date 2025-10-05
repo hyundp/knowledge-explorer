@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC6915713",
+  "nodes": [
+    {
+      "fullLabel": "PMC6915713",
+      "id": "PMC6915713",
+      "label": "PMC6915713",
+      "properties": {
+        "pmcid": "PMC6915713",
+        "first_seen": "2025-10-05T07:29:05.490934",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.509724"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Regulation of PPARalpha by spaceflight can indicate early NAFLD disease progression",
+      "id": "CUSTOM:12cfc7e3",
+      "label": "Regulation of PPA...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.511820",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Regulation of PPARalpha by spaceflight can indicate early NAFLD disease progression",
+        "last_seen": "2025-10-05T07:29:05.511820",
+        "obo_id": "CUSTOM:12cfc7e3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "PPARalpha was highly upregulated in the liver due to spaceflight",
+      "id": "CUSTOM:9cb82473",
+      "label": "PPARalpha was hig...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.505996",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "PPARalpha was highly upregulated in the liver due to spaceflight",
+        "last_seen": "2025-10-05T07:29:05.505996",
+        "obo_id": "CUSTOM:9cb82473"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Lipid proteins are directly linked to the PPAR signaling pathway",
+      "id": "CUSTOM:633ca204",
+      "label": "Lipid proteins ar...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.499578",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Lipid proteins are directly linked to the PPAR signaling pathway",
+        "last_seen": "2025-10-05T07:29:05.499578",
+        "obo_id": "CUSTOM:633ca204"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Lipid proteins share common pathways potentially impacting lipid-related metabolic processes and cholesterol binding pathways",
+      "id": "CUSTOM:576fb4e8",
+      "label": "Lipid proteins sh...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.493249",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Lipid proteins share common pathways potentially impacting lipid-related metabolic processes and cholesterol binding pathways",
+        "last_seen": "2025-10-05T07:29:05.493249",
+        "obo_id": "CUSTOM:576fb4e8"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1606",
+      "source": "PMC6915713",
+      "target": "CUSTOM:12cfc7e3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1604",
+      "source": "PMC6915713",
+      "target": "CUSTOM:9cb82473",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1602",
+      "source": "PMC6915713",
+      "target": "CUSTOM:633ca204",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1600",
+      "source": "PMC6915713",
+      "target": "CUSTOM:576fb4e8",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

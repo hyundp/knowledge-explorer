@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC11833055",
+  "nodes": [
+    {
+      "fullLabel": "PMC11833055",
+      "id": "PMC11833055",
+      "label": "PMC11833055",
+      "properties": {
+        "pmcid": "PMC11833055",
+        "first_seen": "2025-10-05T07:29:00.812213",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:00.894228"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "similarity of brain transcriptome expression profiles to spaceflight animals",
+      "id": "CUSTOM:6ed06d3c",
+      "label": "similarity of bra...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.895856",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "similarity of brain transcriptome expression profiles to spaceflight animals",
+        "last_seen": "2025-10-05T07:29:00.895856",
+        "obo_id": "CUSTOM:6ed06d3c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "brain transcriptome",
+      "id": "CUSTOM:c322a819",
+      "label": "brain transcriptome",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.890935",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "brain transcriptome",
+        "last_seen": "2025-10-05T07:29:00.890935",
+        "obo_id": "CUSTOM:c322a819"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "microbiome",
+      "id": "CUSTOM:26b5b399",
+      "label": "microbiome",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.886575",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "microbiome",
+        "last_seen": "2025-10-05T07:29:00.886575",
+        "obo_id": "CUSTOM:26b5b399"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "metabolism",
+      "id": "CUSTOM:bd59df2f",
+      "label": "metabolism",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.881736",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "metabolism",
+        "last_seen": "2025-10-05T07:29:00.881736",
+        "obo_id": "CUSTOM:bd59df2f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "behavior",
+      "id": "CUSTOM:7b14be4a",
+      "label": "behavior",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.858941",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "behavior",
+        "last_seen": "2025-10-05T07:29:00.858941",
+        "obo_id": "CUSTOM:7b14be4a"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "84",
+      "source": "PMC11833055",
+      "target": "CUSTOM:6ed06d3c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "82",
+      "source": "PMC11833055",
+      "target": "CUSTOM:c322a819",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "80",
+      "source": "PMC11833055",
+      "target": "CUSTOM:26b5b399",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "78",
+      "source": "PMC11833055",
+      "target": "CUSTOM:bd59df2f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "76",
+      "source": "PMC11833055",
+      "target": "CUSTOM:7b14be4a",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

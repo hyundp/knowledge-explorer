@@ -1,0 +1,307 @@
+{
+  "pmcid": "PMC6452512",
+  "nodes": [
+    {
+      "fullLabel": "PMC6452512",
+      "id": "PMC6452512",
+      "label": "PMC6452512",
+      "properties": {
+        "pmcid": "PMC6452512",
+        "first_seen": "2025-10-05T07:29:14.387489",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:14.487309"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Study results can impact understanding of other confined built environments on Earth such as clean rooms used in the pharmaceutical and medical industries",
+      "id": "CUSTOM:2c92c691",
+      "label": "Study results can...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.489923",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Study results can impact understanding of other confined built environments on Earth such as clean rooms used in the pharmaceutical and medical industries",
+        "last_seen": "2025-10-05T07:29:14.489923",
+        "obo_id": "CUSTOM:2c92c691"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Study results can be used to help develop safety measures that meet NASA requirements for deep space human habitation",
+      "id": "CUSTOM:abd6d293",
+      "label": "Study results can...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.480750",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Study results can be used to help develop safety measures that meet NASA requirements for deep space human habitation",
+        "last_seen": "2025-10-05T07:29:14.480750",
+        "obo_id": "CUSTOM:abd6d293"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Creation of the first comprehensive catalog of both total and intact/viable bacteria and fungi found on surfaces in closed space systems",
+      "id": "CUSTOM:132e6064",
+      "label": "Creation of the f...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.471301",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Creation of the first comprehensive catalog of both total and intact/viable bacteria and fungi found on surfaces in closed space systems",
+        "last_seen": "2025-10-05T07:29:14.471301",
+        "obo_id": "CUSTOM:132e6064"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Dominant organisms on ISS environmental surfaces may include opportunistic pathogens",
+      "id": "CUSTOM:2a1a3896",
+      "label": "Dominant organism...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.463228",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Dominant organisms on ISS environmental surfaces may include opportunistic pathogens",
+        "last_seen": "2025-10-05T07:29:14.463228",
+        "obo_id": "CUSTOM:2a1a3896"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Dominant organisms on ISS environmental surfaces are associated with the human microbiome",
+      "id": "CUSTOM:69a1d585",
+      "label": "Dominant organism...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.455792",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Dominant organisms on ISS environmental surfaces are associated with the human microbiome",
+        "last_seen": "2025-10-05T07:29:14.455792",
+        "obo_id": "CUSTOM:69a1d585"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Population of bacteria and fungi on ISS environmental surfaces remained similar between locations",
+      "id": "CUSTOM:7a262aeb",
+      "label": "Population of bac...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.448891",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Population of bacteria and fungi on ISS environmental surfaces remained similar between locations",
+        "last_seen": "2025-10-05T07:29:14.448891",
+        "obo_id": "CUSTOM:7a262aeb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Population of bacteria and fungi on ISS environmental surfaces changed over time",
+      "id": "CUSTOM:c023d066",
+      "label": "Population of bac...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.441277",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Population of bacteria and fungi on ISS environmental surfaces changed over time",
+        "last_seen": "2025-10-05T07:29:14.441277",
+        "obo_id": "CUSTOM:c023d066"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "sampled location identities and module assignments",
+      "id": "CUSTOM:589fbaab",
+      "label": "sampled location ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.431689",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "sampled location identities and module assignments",
+        "last_seen": "2025-10-05T07:29:14.431689",
+        "obo_id": "CUSTOM:589fbaab"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "control wipes processed in parallel",
+      "id": "CUSTOM:dba7fb20",
+      "label": "control wipes pro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.423469",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "control wipes processed in parallel",
+        "last_seen": "2025-10-05T07:29:14.423469",
+        "obo_id": "CUSTOM:dba7fb20"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "sampling duration",
+      "id": "CUSTOM:b04c2162",
+      "label": "sampling duration",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.414521",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "sampling duration",
+        "last_seen": "2025-10-05T07:29:14.414521",
+        "obo_id": "CUSTOM:b04c2162"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "flight missions",
+      "id": "CUSTOM:ac944b1c",
+      "label": "flight missions",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.406558",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "flight missions",
+        "last_seen": "2025-10-05T07:29:14.406558",
+        "obo_id": "CUSTOM:ac944b1c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "locations sampled",
+      "id": "CUSTOM:36114e06",
+      "label": "locations sampled",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.397388",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "locations sampled",
+        "last_seen": "2025-10-05T07:29:14.397388",
+        "obo_id": "CUSTOM:36114e06"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "surface wipes collected",
+      "id": "CUSTOM:3d070a67",
+      "label": "surface wipes col...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.389990",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "surface wipes collected",
+        "last_seen": "2025-10-05T07:29:14.389990",
+        "obo_id": "CUSTOM:3d070a67"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4070",
+      "source": "PMC6452512",
+      "target": "CUSTOM:2c92c691",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4068",
+      "source": "PMC6452512",
+      "target": "CUSTOM:abd6d293",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4066",
+      "source": "PMC6452512",
+      "target": "CUSTOM:132e6064",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4064",
+      "source": "PMC6452512",
+      "target": "CUSTOM:2a1a3896",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4062",
+      "source": "PMC6452512",
+      "target": "CUSTOM:69a1d585",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4060",
+      "source": "PMC6452512",
+      "target": "CUSTOM:7a262aeb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4058",
+      "source": "PMC6452512",
+      "target": "CUSTOM:c023d066",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4056",
+      "source": "PMC6452512",
+      "target": "CUSTOM:589fbaab",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4054",
+      "source": "PMC6452512",
+      "target": "CUSTOM:dba7fb20",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4052",
+      "source": "PMC6452512",
+      "target": "CUSTOM:b04c2162",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4050",
+      "source": "PMC6452512",
+      "target": "CUSTOM:ac944b1c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4048",
+      "source": "PMC6452512",
+      "target": "CUSTOM:36114e06",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4046",
+      "source": "PMC6452512",
+      "target": "CUSTOM:3d070a67",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 14,
+  "num_edges": 13
+}

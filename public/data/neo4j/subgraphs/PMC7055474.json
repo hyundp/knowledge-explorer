@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC7055474",
+  "nodes": [
+    {
+      "fullLabel": "PMC7055474",
+      "id": "PMC7055474",
+      "label": "PMC7055474",
+      "properties": {
+        "pmcid": "PMC7055474",
+        "first_seen": "2025-10-05T07:29:15.024809",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:15.062518"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "fouling, degradation, and corrosion when microbial biofilms are prevented via mitigation (water removal, cleaning, biocide treatment)",
+      "id": "CUSTOM:15f628ab",
+      "label": "fouling, degradat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.065436",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "fouling, degradation, and corrosion when microbial biofilms are prevented via mitigation (water removal, cleaning, biocide treatment)",
+        "last_seen": "2025-10-05T07:29:15.065436",
+        "obo_id": "CUSTOM:15f628ab"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "biomass \"blooms\" (large increases in fungal biomass)",
+      "id": "CUSTOM:bab961b1",
+      "label": "biomass \"blooms\" ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.057594",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "biomass \"blooms\" (large increases in fungal biomass)",
+        "last_seen": "2025-10-05T07:29:15.057594",
+        "obo_id": "CUSTOM:bab961b1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "accelerated steel corrosion (pitting corrosion) under biofilms attached to metal surfaces",
+      "id": "CUSTOM:ddb2ed02",
+      "label": "accelerated steel...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.049446",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "accelerated steel corrosion (pitting corrosion) under biofilms attached to metal surfaces",
+        "last_seen": "2025-10-05T07:29:15.049446",
+        "obo_id": "CUSTOM:ddb2ed02"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "production of organic acids",
+      "id": "CUSTOM:461ed4de",
+      "label": "production of org...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.041894",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "production of organic acids",
+        "last_seen": "2025-10-05T07:29:15.041894",
+        "obo_id": "CUSTOM:461ed4de"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "fuel biodegradation via metabolism of FAME",
+      "id": "CUSTOM:9f2e5dcb",
+      "label": "fuel biodegradati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.035269",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "fuel biodegradation via metabolism of FAME",
+        "last_seen": "2025-10-05T07:29:15.035269",
+        "obo_id": "CUSTOM:9f2e5dcb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "microbial proliferation (fouling) in fuels containing biodiesel",
+      "id": "CUSTOM:19b30d31",
+      "label": "microbial prolife...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.027127",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "microbial proliferation (fouling) in fuels containing biodiesel",
+        "last_seen": "2025-10-05T07:29:15.027127",
+        "obo_id": "CUSTOM:19b30d31"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4180",
+      "source": "PMC7055474",
+      "target": "CUSTOM:15f628ab",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4178",
+      "source": "PMC7055474",
+      "target": "CUSTOM:bab961b1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4176",
+      "source": "PMC7055474",
+      "target": "CUSTOM:ddb2ed02",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4174",
+      "source": "PMC7055474",
+      "target": "CUSTOM:461ed4de",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4172",
+      "source": "PMC7055474",
+      "target": "CUSTOM:9f2e5dcb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4170",
+      "source": "PMC7055474",
+      "target": "CUSTOM:19b30d31",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

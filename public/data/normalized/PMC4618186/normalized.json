@@ -1,0 +1,25 @@
+{
+  "pmcid": "PMC4618186",
+  "title": "Unfolded protein response in plants: one master, many questions",
+  "authors": [
+    "Cristina Ruberti",
+    "Sang Jin Kim",
+    "Giovanni Stefano",
+    "Federica Brandizzi"
+  ],
+  "year": "2015",
+  "journal": "Current opinion in plant biology",
+  "doi": "10.1016/j.pbi.2015.05.016",
+  "sections": {
+    "abstract": "To overcome endoplasmic reticulum (ER) stress, ER localized stress sensors actuate distinct downstream organelle nucleus signaling pathways to invoke a cytoprotective response, known as the unfolded protein response (UPR). Compared to yeast and metazoans, plant UPR studies are more recent but nevertheless fascinating. Here we discuss recent discoveries in plant UPR, highlight conserved and unique features of the plant UPR as well as critical yet open questions whose answers will likely make significant contributions to the understanding plant ER stress management.",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "In the last few years, numerous significant studies have contributed to the understanding of the UPR; this trend is likely to keep steady. Numerous fundamental questions are still open (Box 2). Understanding the mechanisms of the plant UPR is important to define conserved and unique strategies for ER stress responses, and it offers exciting perspectives to improve plant productivity. While we are beginning to understand how the UPR intersects with hormone regulated growth [37,38], defense [5,24,39], and resistance to hostile environments [4,40], further insights into the temporal and spatial complexity of the UPR regulation will support biotechnological applications. For example, overexpression of rice IRE1 may lead to suppression of endogenous IRE1 expression, which may compromise endogenous defense [41]; on the other hand, overexpression of BiP proteins renders them more resistant to stress [42,43]. Exploration of plant ER stress responses in the field using multiple species and ecotypes adapted to different environmental conditions could provide further insights into the design of novel strategies for plant ER stress management outside standard laboratory conditions.\n\nWhat is the trigger for a life to apoptosis switch in ER stress?\n\nWhat are the triggers of ER stress induced autophagy?\n\nIs plant age a contributing factor to the amplitude of the UPR?\n\nDo the UPR sensors have specific functions in different cell types?\n\nDo the various UPR sensors respond to the levels and/or duration of the accumulation of specific unfolded proteins?\n\nHow is plant IRE1 activated and inactivated?\n\nWhat terminates the activity of activated bZIP factors once ER stress is resolved and cell homeostasis is restored?\n\nDoes plant IRE1 cluster similar to the non plant IRE1 proteins? And how does the ER shape specifically affect the UPR response?\n\nAre there interacting proteins on the cytosolic region of plant IRE1?\n\nWhat is the role of RIDD in normal conditions of growth in plants?\n\nDoes plant IRE1 cleave specific miRNAs as occurs in mammals?\n\nWhat are the downstream factors that IRE1 utilizes to control organ development?\n\nDoes AtIRE1 have non self phosphorylation targets?\n\nDoes unspliced bZIP60 protein have a functional role in the absence of ER stress?\n\nAre PERK like proteins functional in plant UPR?"
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:00:39.918291",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4618186/"
+  }
+}

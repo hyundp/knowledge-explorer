@@ -1,0 +1,307 @@
+{
+  "pmcid": "PMC4321547",
+  "nodes": [
+    {
+      "fullLabel": "PMC4321547",
+      "id": "PMC4321547",
+      "label": "PMC4321547",
+      "properties": {
+        "pmcid": "PMC4321547",
+        "first_seen": "2025-10-05T07:29:07.224380",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:07.295681"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Exogenous cadaverine affects Arabidopsis root morphology and there is natural variation in this response due in part to varying OCT1 expression levels",
+      "id": "CUSTOM:c19bae25",
+      "label": "Exogenous cadaver...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.297582",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Exogenous cadaverine affects Arabidopsis root morphology and there is natural variation in this response due in part to varying OCT1 expression levels",
+        "last_seen": "2025-10-05T07:29:07.297582",
+        "obo_id": "CUSTOM:c19bae25"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Other OCT-like proteins localize to the tonoplast rather than the plasma membrane",
+      "id": "CUSTOM:a895365b",
+      "label": "Other OCT-like pr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.292406",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Other OCT-like proteins localize to the tonoplast rather than the plasma membrane",
+        "last_seen": "2025-10-05T07:29:07.292406",
+        "obo_id": "CUSTOM:a895365b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Arabidopsis OCT1 localizes to the plasma membrane; promoter GUS fusions show activity in the vasculature of many organs including roots",
+      "id": "CUSTOM:b8b7d383",
+      "label": "Arabidopsis OCT1 ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.286948",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Arabidopsis OCT1 localizes to the plasma membrane; promoter GUS fusions show activity in the vasculature of many organs including roots",
+        "last_seen": "2025-10-05T07:29:07.286948",
+        "obo_id": "CUSTOM:b8b7d383"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "OCT1 encodes an organic cation transporter",
+      "id": "CUSTOM:28b9ae41",
+      "label": "OCT1 encodes an o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.281385",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "OCT1 encodes an organic cation transporter",
+        "last_seen": "2025-10-05T07:29:07.281385",
+        "obo_id": "CUSTOM:28b9ae41"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Endogenous cadaverine levels in seedling roots and shoots were below the level of detection",
+      "id": "CUSTOM:7790132e",
+      "label": "Endogenous cadave...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.275639",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Endogenous cadaverine levels in seedling roots and shoots were below the level of detection",
+        "last_seen": "2025-10-05T07:29:07.275639",
+        "obo_id": "CUSTOM:7790132e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "OCT1 expression levels in other natural accessions do not correlate well with cadaverine resistance",
+      "id": "CUSTOM:61ecbe16",
+      "label": "OCT1 expression l...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.269836",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "OCT1 expression levels in other natural accessions do not correlate well with cadaverine resistance",
+        "last_seen": "2025-10-05T07:29:07.269836",
+        "obo_id": "CUSTOM:61ecbe16"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cadaverine resistance correlates with OCT1 expression when OCT1 expression is restored in mutant background",
+      "id": "CUSTOM:c061ab89",
+      "label": "Cadaverine resist...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.264239",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cadaverine resistance correlates with OCT1 expression when OCT1 expression is restored in mutant background",
+        "last_seen": "2025-10-05T07:29:07.264239",
+        "obo_id": "CUSTOM:c061ab89"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "OCT1 identified as a key gene involved in cadaverine response",
+      "id": "CUSTOM:84e15c1a",
+      "label": "OCT1 identified a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.255270",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "OCT1 identified as a key gene involved in cadaverine response",
+        "last_seen": "2025-10-05T07:29:07.255270",
+        "obo_id": "CUSTOM:84e15c1a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Major QTL on chromosome 1 explains part of root length difference in response to cadaverine between accessions Cvi and Ler",
+      "id": "CUSTOM:b266a6a6",
+      "label": "Major QTL on chro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.249400",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Major QTL on chromosome 1 explains part of root length difference in response to cadaverine between accessions Cvi and Ler",
+        "last_seen": "2025-10-05T07:29:07.249400",
+        "obo_id": "CUSTOM:b266a6a6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cell division and cell expansion in roots (proposed cause of root length reduction)",
+      "id": "CUSTOM:0553b539",
+      "label": "Cell division and...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.243892",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cell division and cell expansion in roots (proposed cause of root length reduction)",
+        "last_seen": "2025-10-05T07:29:07.243892",
+        "obo_id": "CUSTOM:0553b539"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Root skewing, lateral root branching, and root waving (root morphology features)",
+      "id": "CUSTOM:3d64ffeb",
+      "label": "Root skewing, lat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.237634",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Root skewing, lateral root branching, and root waving (root morphology features)",
+        "last_seen": "2025-10-05T07:29:07.237634",
+        "obo_id": "CUSTOM:3d64ffeb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Root length",
+      "id": "CUSTOM:1939b0b3",
+      "label": "Root length",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.232351",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Root length",
+        "last_seen": "2025-10-05T07:29:07.232351",
+        "obo_id": "CUSTOM:1939b0b3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Root responses to exogenously applied cadaverine vary by accession",
+      "id": "CUSTOM:fcc98244",
+      "label": "Root responses to...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.226581",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Root responses to exogenously applied cadaverine vary by accession",
+        "last_seen": "2025-10-05T07:29:07.226581",
+        "obo_id": "CUSTOM:fcc98244"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2192",
+      "source": "PMC4321547",
+      "target": "CUSTOM:c19bae25",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2190",
+      "source": "PMC4321547",
+      "target": "CUSTOM:a895365b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2188",
+      "source": "PMC4321547",
+      "target": "CUSTOM:b8b7d383",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2186",
+      "source": "PMC4321547",
+      "target": "CUSTOM:28b9ae41",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2184",
+      "source": "PMC4321547",
+      "target": "CUSTOM:7790132e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2182",
+      "source": "PMC4321547",
+      "target": "CUSTOM:61ecbe16",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2180",
+      "source": "PMC4321547",
+      "target": "CUSTOM:c061ab89",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2178",
+      "source": "PMC4321547",
+      "target": "CUSTOM:84e15c1a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2176",
+      "source": "PMC4321547",
+      "target": "CUSTOM:b266a6a6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2174",
+      "source": "PMC4321547",
+      "target": "CUSTOM:0553b539",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2172",
+      "source": "PMC4321547",
+      "target": "CUSTOM:3d64ffeb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2170",
+      "source": "PMC4321547",
+      "target": "CUSTOM:1939b0b3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2168",
+      "source": "PMC4321547",
+      "target": "CUSTOM:fcc98244",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 14,
+  "num_edges": 13
+}

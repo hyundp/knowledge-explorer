@@ -1,0 +1,373 @@
+{
+  "pmcid": "PMC11487192",
+  "nodes": [
+    {
+      "fullLabel": "PMC11487192",
+      "id": "PMC11487192",
+      "label": "PMC11487192",
+      "properties": {
+        "pmcid": "PMC11487192",
+        "first_seen": "2025-10-05T07:29:16.494041",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:16.599040"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Mitochondrial uncoupling state in PK2 KtoA mutants",
+      "id": "CUSTOM:6e332751",
+      "label": "Mitochondrial unc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.601546",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mitochondrial uncoupling state in PK2 KtoA mutants",
+        "last_seen": "2025-10-05T07:29:16.601546",
+        "obo_id": "CUSTOM:6e332751"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "UCP-4 protein level in PK2 KtoA mutants",
+      "id": "CUSTOM:bba87afb",
+      "label": "UCP-4 protein lev...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.592609",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "UCP-4 protein level in PK2 KtoA mutants",
+        "last_seen": "2025-10-05T07:29:16.592609",
+        "obo_id": "CUSTOM:bba87afb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Genetic interaction: drp-1 is epistatic to unc-89(sf22)",
+      "id": "CUSTOM:ff3de52a",
+      "label": "Genetic interacti...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.585056",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Genetic interaction: drp-1 is epistatic to unc-89(sf22)",
+        "last_seen": "2025-10-05T07:29:16.585056",
+        "obo_id": "CUSTOM:ff3de52a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Association of DRP-1 with mitochondria when wild type PK2 is overexpressed",
+      "id": "CUSTOM:123aed29",
+      "label": "Association of DR...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.577682",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Association of DRP-1 with mitochondria when wild type PK2 is overexpressed",
+        "last_seen": "2025-10-05T07:29:16.577682",
+        "obo_id": "CUSTOM:123aed29"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Mitochondrial clumping when wild type PK2 is overexpressed",
+      "id": "CUSTOM:04dd66bb",
+      "label": "Mitochondrial clu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.570261",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mitochondrial clumping when wild type PK2 is overexpressed",
+        "last_seen": "2025-10-05T07:29:16.570261",
+        "obo_id": "CUSTOM:04dd66bb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Association of DRP-1 with mitochondria in PK2 KtoA mutants",
+      "id": "CUSTOM:529e1d93",
+      "label": "Association of DR...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.563391",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Association of DRP-1 with mitochondria in PK2 KtoA mutants",
+        "last_seen": "2025-10-05T07:29:16.563391",
+        "obo_id": "CUSTOM:529e1d93"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Glycolysis in PK2 KtoA mutants",
+      "id": "CUSTOM:f06d70d1",
+      "label": "Glycolysis in PK2...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.556409",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Glycolysis in PK2 KtoA mutants",
+        "last_seen": "2025-10-05T07:29:16.556409",
+        "obo_id": "CUSTOM:f06d70d1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Complex II protein levels in PK2 KtoA mutants",
+      "id": "CUSTOM:2b734fea",
+      "label": "Complex II protei...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.549983",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Complex II protein levels in PK2 KtoA mutants",
+        "last_seen": "2025-10-05T07:29:16.549983",
+        "obo_id": "CUSTOM:2b734fea"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Complex II basal respiration in PK2 KtoA mutants",
+      "id": "CUSTOM:7c9e5a42",
+      "label": "Complex II basal ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.543479",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Complex II basal respiration in PK2 KtoA mutants",
+        "last_seen": "2025-10-05T07:29:16.543479",
+        "obo_id": "CUSTOM:7c9e5a42"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Complex I protein levels in PK2 KtoA mutants",
+      "id": "CUSTOM:544794ba",
+      "label": "Complex I protein...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.537076",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Complex I protein levels in PK2 KtoA mutants",
+        "last_seen": "2025-10-05T07:29:16.537076",
+        "obo_id": "CUSTOM:544794ba"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Complex I basal respiration in PK2 KtoA mutants",
+      "id": "CUSTOM:75fca20f",
+      "label": "Complex I basal r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.530381",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Complex I basal respiration in PK2 KtoA mutants",
+        "last_seen": "2025-10-05T07:29:16.530381",
+        "obo_id": "CUSTOM:75fca20f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ATP levels in PK2 KtoA mutants",
+      "id": "CUSTOM:6a0f83b3",
+      "label": "ATP levels in PK2...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.523907",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ATP levels in PK2 KtoA mutants",
+        "last_seen": "2025-10-05T07:29:16.523907",
+        "obo_id": "CUSTOM:6a0f83b3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Mitochondrial fragmentation in PK2 KtoA mutants",
+      "id": "CUSTOM:4c045852",
+      "label": "Mitochondrial fra...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.516818",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mitochondrial fragmentation in PK2 KtoA mutants",
+        "last_seen": "2025-10-05T07:29:16.516818",
+        "obo_id": "CUSTOM:4c045852"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Locomotion (movement speed) in PK2 KtoA mutants",
+      "id": "CUSTOM:65037c9e",
+      "label": "Locomotion (movem...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.510119",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Locomotion (movement speed) in PK2 KtoA mutants",
+        "last_seen": "2025-10-05T07:29:16.510119",
+        "obo_id": "CUSTOM:65037c9e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Sarcomere and SR structures in PK2 KtoA mutants are normal",
+      "id": "CUSTOM:9e88bf97",
+      "label": "Sarcomere and SR ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.502917",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Sarcomere and SR structures in PK2 KtoA mutants are normal",
+        "last_seen": "2025-10-05T07:29:16.502917",
+        "obo_id": "CUSTOM:9e88bf97"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "UNC-89 PK2 is a canonical active protein kinase and a KtoA missense mutation is expected to abolish activity but not the stability of the protein",
+      "id": "CUSTOM:ae812c60",
+      "label": "UNC-89 PK2 is a c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.496206",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "UNC-89 PK2 is a canonical active protein kinase and a KtoA missense mutation is expected to abolish activity but not the stability of the protein",
+        "last_seen": "2025-10-05T07:29:16.496206",
+        "obo_id": "CUSTOM:ae812c60"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4554",
+      "source": "PMC11487192",
+      "target": "CUSTOM:6e332751",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4552",
+      "source": "PMC11487192",
+      "target": "CUSTOM:bba87afb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4550",
+      "source": "PMC11487192",
+      "target": "CUSTOM:ff3de52a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4548",
+      "source": "PMC11487192",
+      "target": "CUSTOM:123aed29",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4546",
+      "source": "PMC11487192",
+      "target": "CUSTOM:04dd66bb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4544",
+      "source": "PMC11487192",
+      "target": "CUSTOM:529e1d93",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4542",
+      "source": "PMC11487192",
+      "target": "CUSTOM:f06d70d1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4540",
+      "source": "PMC11487192",
+      "target": "CUSTOM:2b734fea",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4538",
+      "source": "PMC11487192",
+      "target": "CUSTOM:7c9e5a42",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4536",
+      "source": "PMC11487192",
+      "target": "CUSTOM:544794ba",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4534",
+      "source": "PMC11487192",
+      "target": "CUSTOM:75fca20f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4532",
+      "source": "PMC11487192",
+      "target": "CUSTOM:6a0f83b3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4530",
+      "source": "PMC11487192",
+      "target": "CUSTOM:4c045852",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4528",
+      "source": "PMC11487192",
+      "target": "CUSTOM:65037c9e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4526",
+      "source": "PMC11487192",
+      "target": "CUSTOM:9e88bf97",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4524",
+      "source": "PMC11487192",
+      "target": "CUSTOM:ae812c60",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 17,
+  "num_edges": 16
+}

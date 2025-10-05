@@ -1,0 +1,395 @@
+{
+  "pmcid": "PMC4647464",
+  "nodes": [
+    {
+      "fullLabel": "PMC4647464",
+      "id": "PMC4647464",
+      "label": "PMC4647464",
+      "properties": {
+        "pmcid": "PMC4647464",
+        "first_seen": "2025-10-05T07:29:11.257240",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:11.377405"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "lethality and substantially defective growth are general properties of these genes across organisms",
+      "id": "CUSTOM:47f74e47",
+      "label": "lethality and sub...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.379399",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "lethality and substantially defective growth are general properties of these genes across organisms",
+        "last_seen": "2025-10-05T07:29:11.379399",
+        "obo_id": "CUSTOM:47f74e47"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "preferential defects in mitotic versus nonproliferating cells (evidenced by lack of imaginal discs while retaining other larval tissues)",
+      "id": "CUSTOM:a5399097",
+      "label": "preferential defe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.372952",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "preferential defects in mitotic versus nonproliferating cells (evidenced by lack of imaginal discs while retaining other larval tissues)",
+        "last_seen": "2025-10-05T07:29:11.372952",
+        "obo_id": "CUSTOM:a5399097"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "presence of melanotic tumors in loss of Kae1",
+      "id": "CUSTOM:0cf3fcf3",
+      "label": "presence of melan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.366271",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "presence of melanotic tumors in loss of Kae1",
+        "last_seen": "2025-10-05T07:29:11.366271",
+        "obo_id": "CUSTOM:0cf3fcf3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "extended larval phases before lethality in loss of Kae1 (and SUMO pathway enzymes)",
+      "id": "CUSTOM:f09c005d",
+      "label": "extended larval p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.358108",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "extended larval phases before lethality in loss of Kae1 (and SUMO pathway enzymes)",
+        "last_seen": "2025-10-05T07:29:11.358108",
+        "obo_id": "CUSTOM:f09c005d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "kae1 mutant disc cells are quickly disadvantaged and rapidly removed during development",
+      "id": "CUSTOM:b5f8286d",
+      "label": "kae1 mutant disc ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.351322",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "kae1 mutant disc cells are quickly disadvantaged and rapidly removed during development",
+        "last_seen": "2025-10-05T07:29:11.351322",
+        "obo_id": "CUSTOM:b5f8286d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "generation of melanotic nodules proceeds reliably in strong hypomorphs",
+      "id": "CUSTOM:14175d10",
+      "label": "generation of mel...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.344230",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "generation of melanotic nodules proceeds reliably in strong hypomorphs",
+        "last_seen": "2025-10-05T07:29:11.344230",
+        "obo_id": "CUSTOM:14175d10"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "substantial hematopoietic overgrowth observed",
+      "id": "CUSTOM:c9a02189",
+      "label": "substantial hemat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.336115",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "substantial hematopoietic overgrowth observed",
+        "last_seen": "2025-10-05T07:29:11.336115",
+        "obo_id": "CUSTOM:c9a02189"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "complete lack of imaginal discs in biochemically strong hypomorphs (phenocopying null alleles)",
+      "id": "CUSTOM:06306435",
+      "label": "complete lack of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.323677",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "complete lack of imaginal discs in biochemically strong hypomorphs (phenocopying null alleles)",
+        "last_seen": "2025-10-05T07:29:11.323677",
+        "obo_id": "CUSTOM:06306435"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "normal somatic musculature in biochemically strong hypomorphs",
+      "id": "CUSTOM:d123ecd2",
+      "label": "normal somatic mu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.317071",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "normal somatic musculature in biochemically strong hypomorphs",
+        "last_seen": "2025-10-05T07:29:11.317071",
+        "obo_id": "CUSTOM:d123ecd2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "allele-specific phenotypic severities in different tissues",
+      "id": "CUSTOM:ac9304d7",
+      "label": "allele-specific p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.310037",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "allele-specific phenotypic severities in different tissues",
+        "last_seen": "2025-10-05T07:29:11.310037",
+        "obo_id": "CUSTOM:ac9304d7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "existence of an allelic series including null alleles, strong mutants, and weak hypomorphs",
+      "id": "CUSTOM:ed347a4f",
+      "label": "existence of an a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.301173",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "existence of an allelic series including null alleles, strong mutants, and weak hypomorphs",
+        "last_seen": "2025-10-05T07:29:11.301173",
+        "obo_id": "CUSTOM:ed347a4f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "nearly complete absence of t6A modified tRNAs",
+      "id": "CUSTOM:ec58c093",
+      "label": "nearly complete a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.294658",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "nearly complete absence of t6A modified tRNAs",
+        "last_seen": "2025-10-05T07:29:11.294658",
+        "obo_id": "CUSTOM:ec58c093"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "presence of substantial t6A modified tRNAs in Drosophila kae1 mutants",
+      "id": "CUSTOM:5628f0b3",
+      "label": "presence of subst...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.287030",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "presence of substantial t6A modified tRNAs in Drosophila kae1 mutants",
+        "last_seen": "2025-10-05T07:29:11.287030",
+        "obo_id": "CUSTOM:5628f0b3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cross-species rescue of growth capacity and recovery of t6A modified tRNAs in yeast kae1 mutants by fly Kae1 (and its partners)",
+      "id": "CUSTOM:e0caf613",
+      "label": "cross-species res...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.279757",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cross-species rescue of growth capacity and recovery of t6A modified tRNAs in yeast kae1 mutants by fly Kae1 (and its partners)",
+        "last_seen": "2025-10-05T07:29:11.279757",
+        "obo_id": "CUSTOM:e0caf613"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "loss of t6A modified tRNAs",
+      "id": "CUSTOM:38814beb",
+      "label": "loss of t6A modif...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.273097",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "loss of t6A modified tRNAs",
+        "last_seen": "2025-10-05T07:29:11.273097",
+        "obo_id": "CUSTOM:38814beb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "growth defects relating to defective TOR signaling",
+      "id": "CUSTOM:4f448180",
+      "label": "growth defects re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.266366",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "growth defects relating to defective TOR signaling",
+        "last_seen": "2025-10-05T07:29:11.266366",
+        "obo_id": "CUSTOM:4f448180"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "defective mitochondrial morphology and function",
+      "id": "CUSTOM:81160161",
+      "label": "defective mitocho...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.259515",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "defective mitochondrial morphology and function",
+        "last_seen": "2025-10-05T07:29:11.259515",
+        "obo_id": "CUSTOM:81160161"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3294",
+      "source": "PMC4647464",
+      "target": "CUSTOM:47f74e47",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3292",
+      "source": "PMC4647464",
+      "target": "CUSTOM:a5399097",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3290",
+      "source": "PMC4647464",
+      "target": "CUSTOM:0cf3fcf3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3288",
+      "source": "PMC4647464",
+      "target": "CUSTOM:f09c005d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3286",
+      "source": "PMC4647464",
+      "target": "CUSTOM:b5f8286d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3284",
+      "source": "PMC4647464",
+      "target": "CUSTOM:14175d10",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3282",
+      "source": "PMC4647464",
+      "target": "CUSTOM:c9a02189",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3280",
+      "source": "PMC4647464",
+      "target": "CUSTOM:06306435",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3278",
+      "source": "PMC4647464",
+      "target": "CUSTOM:d123ecd2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3276",
+      "source": "PMC4647464",
+      "target": "CUSTOM:ac9304d7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3274",
+      "source": "PMC4647464",
+      "target": "CUSTOM:ed347a4f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3272",
+      "source": "PMC4647464",
+      "target": "CUSTOM:ec58c093",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3270",
+      "source": "PMC4647464",
+      "target": "CUSTOM:5628f0b3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3268",
+      "source": "PMC4647464",
+      "target": "CUSTOM:e0caf613",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3266",
+      "source": "PMC4647464",
+      "target": "CUSTOM:38814beb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3264",
+      "source": "PMC4647464",
+      "target": "CUSTOM:4f448180",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3262",
+      "source": "PMC4647464",
+      "target": "CUSTOM:81160161",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 18,
+  "num_edges": 17
+}

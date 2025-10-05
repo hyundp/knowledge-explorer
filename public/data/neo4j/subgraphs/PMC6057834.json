@@ -1,0 +1,307 @@
+{
+  "pmcid": "PMC6057834",
+  "nodes": [
+    {
+      "fullLabel": "PMC6057834",
+      "id": "PMC6057834",
+      "label": "PMC6057834",
+      "properties": {
+        "pmcid": "PMC6057834",
+        "first_seen": "2025-10-05T07:29:10.432213",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:10.530920"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "High-throughput genetic and drug screens are possible with NemaFlex but would require further microfluidic automation and parallelized analysis",
+      "id": "CUSTOM:9d4ac310",
+      "label": "High-throughput g...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.554757",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "High-throughput genetic and drug screens are possible with NemaFlex but would require further microfluidic automation and parallelized analysis",
+        "last_seen": "2025-10-05T07:29:10.554757",
+        "obo_id": "CUSTOM:9d4ac310"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NemaFlex provides a robust analog of maximum voluntary force (MVF) in vertebrates",
+      "id": "CUSTOM:744e99ed",
+      "label": "NemaFlex provides...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.525434",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NemaFlex provides a robust analog of maximum voluntary force (MVF) in vertebrates",
+        "last_seen": "2025-10-05T07:29:10.525434",
+        "obo_id": "CUSTOM:744e99ed"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Current throughput of strength evaluation is approximately 10 minutes per worm (including loading, imaging, image analysis, and validation)",
+      "id": "CUSTOM:e710a5f5",
+      "label": "Current throughpu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.494900",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Current throughput of strength evaluation is approximately 10 minutes per worm (including loading, imaging, image analysis, and validation)",
+        "last_seen": "2025-10-05T07:29:10.494900",
+        "obo_id": "CUSTOM:e710a5f5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "A compensation factor for body size was produced enabling fair comparison of animals of different age, genetic makeup, or experience",
+      "id": "CUSTOM:bac04707",
+      "label": "A compensation fa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.487178",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "A compensation factor for body size was produced enabling fair comparison of animals of different age, genetic makeup, or experience",
+        "last_seen": "2025-10-05T07:29:10.487178",
+        "obo_id": "CUSTOM:bac04707"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Relationship of strength with C. elegans diameter is consistent with a scaling analysis in which bending moments due to maximum external force and internal muscle tension balance each other",
+      "id": "CUSTOM:6d8f3c6e",
+      "label": "Relationship of s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.480023",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Relationship of strength with C. elegans diameter is consistent with a scaling analysis in which bending moments due to maximum external force and internal muscle tension balance each other",
+        "last_seen": "2025-10-05T07:29:10.480023",
+        "obo_id": "CUSTOM:6d8f3c6e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "MEF strongly depends on body diameter",
+      "id": "CUSTOM:0123a26e",
+      "label": "MEF strongly depe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.474033",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "MEF strongly depends on body diameter",
+        "last_seen": "2025-10-05T07:29:10.474033",
+        "obo_id": "CUSTOM:0123a26e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "MEF is independent of body length",
+      "id": "CUSTOM:f9ea1695",
+      "label": "MEF is independen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.468312",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "MEF is independent of body length",
+        "last_seen": "2025-10-05T07:29:10.468312",
+        "obo_id": "CUSTOM:f9ea1695"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "C. elegans maximum exertable force (MEF) is similar to human maximum voluntary force (MVF)",
+      "id": "CUSTOM:b1725a90",
+      "label": "C. elegans maximu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.463135",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "C. elegans maximum exertable force (MEF) is similar to human maximum voluntary force (MVF)",
+        "last_seen": "2025-10-05T07:29:10.463135",
+        "obo_id": "CUSTOM:b1725a90"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Force measures before and after levamisole-induced full muscle contractions are similar",
+      "id": "CUSTOM:5ec264e7",
+      "label": "Force measures be...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.456655",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Force measures before and after levamisole-induced full muscle contractions are similar",
+        "last_seen": "2025-10-05T07:29:10.456655",
+        "obo_id": "CUSTOM:5ec264e7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Animals push at maximum exertion once they reach a certain level of confinement",
+      "id": "CUSTOM:72307179",
+      "label": "Animals push at m...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.450666",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Animals push at maximum exertion once they reach a certain level of confinement",
+        "last_seen": "2025-10-05T07:29:10.450666",
+        "obo_id": "CUSTOM:72307179"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Maximum exertable force (MEF) is behavior-independent after a confinement threshold; a behavioral episode as low as 30 seconds is sufficient to capture a statistically invariant MEF for young adults",
+      "id": "CUSTOM:3b77fe8f",
+      "label": "Maximum exertable...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.445370",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Maximum exertable force (MEF) is behavior-independent after a confinement threshold; a behavioral episode as low as 30 seconds is sufficient to capture a statistically invariant MEF for young adults",
+        "last_seen": "2025-10-05T07:29:10.445370",
+        "obo_id": "CUSTOM:3b77fe8f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability of NemaFlex to reliably score the maximum exertable force (MEF)",
+      "id": "CUSTOM:4a9ac05b",
+      "label": "Ability of NemaFl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.439987",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability of NemaFlex to reliably score the maximum exertable force (MEF)",
+        "last_seen": "2025-10-05T07:29:10.439987",
+        "obo_id": "CUSTOM:4a9ac05b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Forces measured by prior pillar-based methods vary depending on arena geometry, worm velocity, and body posture",
+      "id": "CUSTOM:af7c2593",
+      "label": "Forces measured b...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.434348",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Forces measured by prior pillar-based methods vary depending on arena geometry, worm velocity, and body posture",
+        "last_seen": "2025-10-05T07:29:10.434348",
+        "obo_id": "CUSTOM:af7c2593"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3096",
+      "source": "PMC6057834",
+      "target": "CUSTOM:9d4ac310",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3094",
+      "source": "PMC6057834",
+      "target": "CUSTOM:744e99ed",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3092",
+      "source": "PMC6057834",
+      "target": "CUSTOM:e710a5f5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3090",
+      "source": "PMC6057834",
+      "target": "CUSTOM:bac04707",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3088",
+      "source": "PMC6057834",
+      "target": "CUSTOM:6d8f3c6e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3086",
+      "source": "PMC6057834",
+      "target": "CUSTOM:0123a26e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3084",
+      "source": "PMC6057834",
+      "target": "CUSTOM:f9ea1695",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3082",
+      "source": "PMC6057834",
+      "target": "CUSTOM:b1725a90",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3080",
+      "source": "PMC6057834",
+      "target": "CUSTOM:5ec264e7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3078",
+      "source": "PMC6057834",
+      "target": "CUSTOM:72307179",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3076",
+      "source": "PMC6057834",
+      "target": "CUSTOM:3b77fe8f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3074",
+      "source": "PMC6057834",
+      "target": "CUSTOM:4a9ac05b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3072",
+      "source": "PMC6057834",
+      "target": "CUSTOM:af7c2593",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 14,
+  "num_edges": 13
+}

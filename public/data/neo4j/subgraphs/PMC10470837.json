@@ -1,0 +1,307 @@
+{
+  "pmcid": "PMC10470837",
+  "nodes": [
+    {
+      "fullLabel": "PMC10470837",
+      "id": "PMC10470837",
+      "label": "PMC10470837",
+      "properties": {
+        "pmcid": "PMC10470837",
+        "first_seen": "2025-10-05T07:29:05.951194",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.007554"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "selectivity of analytical devices due to advances in engineering, nanomaterials, and electronics",
+      "id": "CUSTOM:ad330296",
+      "label": "selectivity of an...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.009248",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "selectivity of analytical devices due to advances in engineering, nanomaterials, and electronics",
+        "last_seen": "2025-10-05T07:29:06.009248",
+        "obo_id": "CUSTOM:ad330296"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "sensitivity of analytical devices due to advances in engineering, nanomaterials, and electronics",
+      "id": "CUSTOM:45997fa5",
+      "label": "sensitivity of an...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.004137",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "sensitivity of analytical devices due to advances in engineering, nanomaterials, and electronics",
+        "last_seen": "2025-10-05T07:29:06.004137",
+        "obo_id": "CUSTOM:45997fa5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "reversibility of analytical devices due to advances in engineering, nanomaterials, and electronics",
+      "id": "CUSTOM:abda3c6d",
+      "label": "reversibility of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.998500",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "reversibility of analytical devices due to advances in engineering, nanomaterials, and electronics",
+        "last_seen": "2025-10-05T07:29:05.998500",
+        "obo_id": "CUSTOM:abda3c6d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "durability of analytical devices due to advances in engineering, nanomaterials, and electronics",
+      "id": "CUSTOM:634f8ca6",
+      "label": "durability of ana...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.993135",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "durability of analytical devices due to advances in engineering, nanomaterials, and electronics",
+        "last_seen": "2025-10-05T07:29:05.993135",
+        "obo_id": "CUSTOM:634f8ca6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "sensitivity of analytical devices when using PoC and LoC approaches",
+      "id": "CUSTOM:28154738",
+      "label": "sensitivity of an...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.989011",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "sensitivity of analytical devices when using PoC and LoC approaches",
+        "last_seen": "2025-10-05T07:29:05.989011",
+        "obo_id": "CUSTOM:28154738"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "selectivity of analytical devices when using PoC and LoC approaches",
+      "id": "CUSTOM:0a3f6b96",
+      "label": "selectivity of an...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.984448",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "selectivity of analytical devices when using PoC and LoC approaches",
+        "last_seen": "2025-10-05T07:29:05.984448",
+        "obo_id": "CUSTOM:0a3f6b96"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "continuity of monitoring analytes using PoC and LoC approaches",
+      "id": "CUSTOM:dec13ba8",
+      "label": "continuity of mon...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.979649",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "continuity of monitoring analytes using PoC and LoC approaches",
+        "last_seen": "2025-10-05T07:29:05.979649",
+        "obo_id": "CUSTOM:dec13ba8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "accuracy of monitoring analytes using PoC and LoC approaches",
+      "id": "CUSTOM:58ba20a5",
+      "label": "accuracy of monit...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.975463",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "accuracy of monitoring analytes using PoC and LoC approaches",
+        "last_seen": "2025-10-05T07:29:05.975463",
+        "obo_id": "CUSTOM:58ba20a5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "rate of processes in science and industry due to microfluidic technology",
+      "id": "CUSTOM:adb764b9",
+      "label": "rate of processes...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.971304",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "rate of processes in science and industry due to microfluidic technology",
+        "last_seen": "2025-10-05T07:29:05.971304",
+        "obo_id": "CUSTOM:adb764b9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "suitability of LoC based sensors for detecting and responding to harsh situations",
+      "id": "CUSTOM:84334403",
+      "label": "suitability of Lo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.967213",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "suitability of LoC based sensors for detecting and responding to harsh situations",
+        "last_seen": "2025-10-05T07:29:05.967213",
+        "obo_id": "CUSTOM:84334403"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "performance of biosensor systems for chemical substance measurements",
+      "id": "CUSTOM:5332a72a",
+      "label": "performance of bi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.962818",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "performance of biosensor systems for chemical substance measurements",
+        "last_seen": "2025-10-05T07:29:05.962818",
+        "obo_id": "CUSTOM:5332a72a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "success of a project",
+      "id": "CUSTOM:d62cf88d",
+      "label": "success of a project",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.958067",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "success of a project",
+        "last_seen": "2025-10-05T07:29:05.958067",
+        "obo_id": "CUSTOM:d62cf88d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "life of a space flight",
+      "id": "CUSTOM:407145c8",
+      "label": "life of a space f...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.952917",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "life of a space flight",
+        "last_seen": "2025-10-05T07:29:05.952917",
+        "obo_id": "CUSTOM:407145c8"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1774",
+      "source": "PMC10470837",
+      "target": "CUSTOM:ad330296",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1772",
+      "source": "PMC10470837",
+      "target": "CUSTOM:45997fa5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1770",
+      "source": "PMC10470837",
+      "target": "CUSTOM:abda3c6d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1768",
+      "source": "PMC10470837",
+      "target": "CUSTOM:634f8ca6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1766",
+      "source": "PMC10470837",
+      "target": "CUSTOM:28154738",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1764",
+      "source": "PMC10470837",
+      "target": "CUSTOM:0a3f6b96",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1762",
+      "source": "PMC10470837",
+      "target": "CUSTOM:dec13ba8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1760",
+      "source": "PMC10470837",
+      "target": "CUSTOM:58ba20a5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1758",
+      "source": "PMC10470837",
+      "target": "CUSTOM:adb764b9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1756",
+      "source": "PMC10470837",
+      "target": "CUSTOM:84334403",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1754",
+      "source": "PMC10470837",
+      "target": "CUSTOM:5332a72a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1752",
+      "source": "PMC10470837",
+      "target": "CUSTOM:d62cf88d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1750",
+      "source": "PMC10470837",
+      "target": "CUSTOM:407145c8",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 14,
+  "num_edges": 13
+}

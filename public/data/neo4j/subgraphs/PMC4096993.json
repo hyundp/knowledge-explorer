@@ -1,0 +1,329 @@
+{
+  "pmcid": "PMC4096993",
+  "nodes": [
+    {
+      "fullLabel": "PMC4096993",
+      "id": "PMC4096993",
+      "label": "PMC4096993",
+      "properties": {
+        "pmcid": "PMC4096993",
+        "first_seen": "2025-10-05T07:29:01.474579",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.527228"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Translation of research findings from bench to clinic by applying in vitro platforms to study P. aeruginosa pathogenesis",
+      "id": "CUSTOM:fcefbc32",
+      "label": "Translation of re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.528840",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Translation of research findings from bench to clinic by applying in vitro platforms to study P. aeruginosa pathogenesis",
+        "last_seen": "2025-10-05T07:29:01.528840",
+        "obo_id": "CUSTOM:fcefbc32"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Designing antimicrobial therapies effective against host-associated P. aeruginosa phenotype that function in challenging in vivo conditions",
+      "id": "CUSTOM:d99e1b3e",
+      "label": "Designing antimic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.524545",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Designing antimicrobial therapies effective against host-associated P. aeruginosa phenotype that function in challenging in vivo conditions",
+        "last_seen": "2025-10-05T07:29:01.524545",
+        "obo_id": "CUSTOM:d99e1b3e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Potential for in vitro model systems to be improved to better reconcile physiological traits (given expanding knowledge and bioengineering abilities)",
+      "id": "CUSTOM:0cfab592",
+      "label": "Potential for in ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.520186",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential for in vitro model systems to be improved to better reconcile physiological traits (given expanding knowledge and bioengineering abilities)",
+        "last_seen": "2025-10-05T07:29:01.520186",
+        "obo_id": "CUSTOM:0cfab592"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Extent to which available simplified in vitro models have been explored for P. aeruginosa pathogenesis and drug design",
+      "id": "CUSTOM:5ee91b45",
+      "label": "Extent to which a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.516185",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Extent to which available simplified in vitro models have been explored for P. aeruginosa pathogenesis and drug design",
+        "last_seen": "2025-10-05T07:29:01.516185",
+        "obo_id": "CUSTOM:5ee91b45"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Availability of state-of-the-art simplified in vitro models that mimic the minimal functional unit of differentiated tissue in vivo",
+      "id": "CUSTOM:8cf3ba38",
+      "label": "Availability of s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.512756",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Availability of state-of-the-art simplified in vitro models that mimic the minimal functional unit of differentiated tissue in vivo",
+        "last_seen": "2025-10-05T07:29:01.512756",
+        "obo_id": "CUSTOM:8cf3ba38"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Integration of physical forces to mimic multi-organ signaling and interactions in in vitro models",
+      "id": "CUSTOM:67101a27",
+      "label": "Integration of ph...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.508952",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Integration of physical forces to mimic multi-organ signaling and interactions in in vitro models",
+        "last_seen": "2025-10-05T07:29:01.508952",
+        "obo_id": "CUSTOM:67101a27"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Representation of paracrine, endocrine and cellular factors in in vitro models",
+      "id": "CUSTOM:79b6fe36",
+      "label": "Representation of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.505180",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Representation of paracrine, endocrine and cellular factors in in vitro models",
+        "last_seen": "2025-10-05T07:29:01.505180",
+        "obo_id": "CUSTOM:79b6fe36"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Incorporation of relevant extracellular matrix (ECM) proteins in in vitro models",
+      "id": "CUSTOM:9a176db8",
+      "label": "Incorporation of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.501495",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Incorporation of relevant extracellular matrix (ECM) proteins in in vitro models",
+        "last_seen": "2025-10-05T07:29:01.501495",
+        "obo_id": "CUSTOM:9a176db8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Multicellular complexity of in vitro models (including immune cells and indigenous microbiota)",
+      "id": "CUSTOM:cff4341c",
+      "label": "Multicellular com...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.497350",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Multicellular complexity of in vitro models (including immune cells and indigenous microbiota)",
+        "last_seen": "2025-10-05T07:29:01.497350",
+        "obo_id": "CUSTOM:cff4341c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Host cell viability upon P. aeruginosa infection in current in vitro models (especially in chronic biofilm and adaptation studies)",
+      "id": "CUSTOM:25a9dee6",
+      "label": "Host cell viabili...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.493449",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Host cell viability upon P. aeruginosa infection in current in vitro models (especially in chronic biofilm and adaptation studies)",
+        "last_seen": "2025-10-05T07:29:01.493449",
+        "obo_id": "CUSTOM:25a9dee6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability of a cell culture model to capture complex reciprocal and dynamic host-pathogen interactions",
+      "id": "CUSTOM:beb6b1d7",
+      "label": "Ability of a cell...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.489496",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability of a cell culture model to capture complex reciprocal and dynamic host-pathogen interactions",
+        "last_seen": "2025-10-05T07:29:01.489496",
+        "obo_id": "CUSTOM:beb6b1d7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Physiological relevance / differentiation of current in vitro cell culture models",
+      "id": "CUSTOM:357fdb4b",
+      "label": "Physiological rel...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.484865",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Physiological relevance / differentiation of current in vitro cell culture models",
+        "last_seen": "2025-10-05T07:29:01.484865",
+        "obo_id": "CUSTOM:357fdb4b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Clinical trial success of new antimicrobial approaches against P. aeruginosa",
+      "id": "CUSTOM:69d5648c",
+      "label": "Clinical trial su...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.480424",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Clinical trial success of new antimicrobial approaches against P. aeruginosa",
+        "last_seen": "2025-10-05T07:29:01.480424",
+        "obo_id": "CUSTOM:69d5648c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "In vitro cell culture models laying the foundation for novel antimicrobial approaches",
+      "id": "CUSTOM:f8b4ea40",
+      "label": "In vitro cell cul...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.476050",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "In vitro cell culture models laying the foundation for novel antimicrobial approaches",
+        "last_seen": "2025-10-05T07:29:01.476050",
+        "obo_id": "CUSTOM:f8b4ea40"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "274",
+      "source": "PMC4096993",
+      "target": "CUSTOM:fcefbc32",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "272",
+      "source": "PMC4096993",
+      "target": "CUSTOM:d99e1b3e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "270",
+      "source": "PMC4096993",
+      "target": "CUSTOM:0cfab592",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "268",
+      "source": "PMC4096993",
+      "target": "CUSTOM:5ee91b45",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "266",
+      "source": "PMC4096993",
+      "target": "CUSTOM:8cf3ba38",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "264",
+      "source": "PMC4096993",
+      "target": "CUSTOM:67101a27",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "262",
+      "source": "PMC4096993",
+      "target": "CUSTOM:79b6fe36",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "260",
+      "source": "PMC4096993",
+      "target": "CUSTOM:9a176db8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "258",
+      "source": "PMC4096993",
+      "target": "CUSTOM:cff4341c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "256",
+      "source": "PMC4096993",
+      "target": "CUSTOM:25a9dee6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "254",
+      "source": "PMC4096993",
+      "target": "CUSTOM:beb6b1d7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "252",
+      "source": "PMC4096993",
+      "target": "CUSTOM:357fdb4b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "250",
+      "source": "PMC4096993",
+      "target": "CUSTOM:69d5648c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "248",
+      "source": "PMC4096993",
+      "target": "CUSTOM:f8b4ea40",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 15,
+  "num_edges": 14
+}

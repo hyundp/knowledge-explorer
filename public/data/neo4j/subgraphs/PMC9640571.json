@@ -1,0 +1,329 @@
+{
+  "pmcid": "PMC9640571",
+  "nodes": [
+    {
+      "fullLabel": "PMC9640571",
+      "id": "PMC9640571",
+      "label": "PMC9640571",
+      "properties": {
+        "pmcid": "PMC9640571",
+        "first_seen": "2025-10-05T07:29:02.012412",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.109581"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "previous C. elegans spaceflight aging studies preserved worm identity and measured lifespan/healthspan",
+      "id": "CUSTOM:a6cefc1e",
+      "label": "previous C. elega...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.111083",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "previous C. elegans spaceflight aging studies preserved worm identity and measured lifespan/healthspan",
+        "last_seen": "2025-10-05T07:29:02.111083",
+        "obo_id": "CUSTOM:a6cefc1e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "physiological and pathological changes occurring in space flight conditions (resemblance to aging)",
+      "id": "CUSTOM:f2a0f649",
+      "label": "physiological and...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.106734",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "physiological and pathological changes occurring in space flight conditions (resemblance to aging)",
+        "last_seen": "2025-10-05T07:29:02.106734",
+        "obo_id": "CUSTOM:f2a0f649"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "behavioral alterations as an indicator of toxic exposure (relative to death)",
+      "id": "CUSTOM:cc1adef5",
+      "label": "behavioral altera...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.100506",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "behavioral alterations as an indicator of toxic exposure (relative to death)",
+        "last_seen": "2025-10-05T07:29:02.100506",
+        "obo_id": "CUSTOM:cc1adef5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "payload mass (compared to vertebrates)",
+      "id": "CUSTOM:f69ae959",
+      "label": "payload mass (com...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.093936",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "payload mass (compared to vertebrates)",
+        "last_seen": "2025-10-05T07:29:02.093936",
+        "obo_id": "CUSTOM:f69ae959"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "form factor (compared to vertebrates)",
+      "id": "CUSTOM:65f99d64",
+      "label": "form factor (comp...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.089591",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "form factor (compared to vertebrates)",
+        "last_seen": "2025-10-05T07:29:02.089591",
+        "obo_id": "CUSTOM:65f99d64"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "generation cycle speed (compared to vertebrates)",
+      "id": "CUSTOM:83dae8ee",
+      "label": "generation cycle ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.084007",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "generation cycle speed (compared to vertebrates)",
+        "last_seen": "2025-10-05T07:29:02.084007",
+        "obo_id": "CUSTOM:83dae8ee"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "overall culture health across 8 week multigenerational experiment",
+      "id": "CUSTOM:af4e4132",
+      "label": "overall culture h...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.079304",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "overall culture health across 8 week multigenerational experiment",
+        "last_seen": "2025-10-05T07:29:02.079304",
+        "obo_id": "CUSTOM:af4e4132"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "locomotory health: swim-induced thrashing frequency of gravid adults",
+      "id": "CUSTOM:e6e16519",
+      "label": "locomotory health...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.074345",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "locomotory health: swim-induced thrashing frequency of gravid adults",
+        "last_seen": "2025-10-05T07:29:02.074345",
+        "obo_id": "CUSTOM:e6e16519"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "presence of larvae and eggs in culture (indicator of reproductive health)",
+      "id": "CUSTOM:274597b0",
+      "label": "presence of larva...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.067485",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "presence of larvae and eggs in culture (indicator of reproductive health)",
+        "last_seen": "2025-10-05T07:29:02.067485",
+        "obo_id": "CUSTOM:274597b0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adult density in culture",
+      "id": "CUSTOM:642ed3fd",
+      "label": "adult density in ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.062210",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adult density in culture",
+        "last_seen": "2025-10-05T07:29:02.062210",
+        "obo_id": "CUSTOM:642ed3fd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adult body diameter (CeMM-grown adults)",
+      "id": "CUSTOM:803c18e9",
+      "label": "adult body diamet...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.055334",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adult body diameter (CeMM-grown adults)",
+        "last_seen": "2025-10-05T07:29:02.055334",
+        "obo_id": "CUSTOM:803c18e9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "lifespan (CeMM vs NGM)",
+      "id": "CUSTOM:d6554a5c",
+      "label": "lifespan (CeMM vs...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.023579",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "lifespan (CeMM vs NGM)",
+        "last_seen": "2025-10-05T07:29:02.023579",
+        "obo_id": "CUSTOM:d6554a5c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "progeny production (CeMM vs NGM)",
+      "id": "CUSTOM:a01c90a4",
+      "label": "progeny productio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.018614",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "progeny production (CeMM vs NGM)",
+        "last_seen": "2025-10-05T07:29:02.018614",
+        "obo_id": "CUSTOM:a01c90a4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "development rate (CeMM vs NGM)",
+      "id": "CUSTOM:7f70efc5",
+      "label": "development rate ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.014076",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "development rate (CeMM vs NGM)",
+        "last_seen": "2025-10-05T07:29:02.014076",
+        "obo_id": "CUSTOM:7f70efc5"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "474",
+      "source": "PMC9640571",
+      "target": "CUSTOM:a6cefc1e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "472",
+      "source": "PMC9640571",
+      "target": "CUSTOM:f2a0f649",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "470",
+      "source": "PMC9640571",
+      "target": "CUSTOM:cc1adef5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "468",
+      "source": "PMC9640571",
+      "target": "CUSTOM:f69ae959",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "466",
+      "source": "PMC9640571",
+      "target": "CUSTOM:65f99d64",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "464",
+      "source": "PMC9640571",
+      "target": "CUSTOM:83dae8ee",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "462",
+      "source": "PMC9640571",
+      "target": "CUSTOM:af4e4132",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "460",
+      "source": "PMC9640571",
+      "target": "CUSTOM:e6e16519",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "458",
+      "source": "PMC9640571",
+      "target": "CUSTOM:274597b0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "456",
+      "source": "PMC9640571",
+      "target": "CUSTOM:642ed3fd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "454",
+      "source": "PMC9640571",
+      "target": "CUSTOM:803c18e9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "452",
+      "source": "PMC9640571",
+      "target": "CUSTOM:d6554a5c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "450",
+      "source": "PMC9640571",
+      "target": "CUSTOM:a01c90a4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "448",
+      "source": "PMC9640571",
+      "target": "CUSTOM:7f70efc5",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 15,
+  "num_edges": 14
+}

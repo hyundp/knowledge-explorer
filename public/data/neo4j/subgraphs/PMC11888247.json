@@ -1,0 +1,241 @@
+{
+  "pmcid": "PMC11888247",
+  "nodes": [
+    {
+      "fullLabel": "PMC11888247",
+      "id": "PMC11888247",
+      "label": "PMC11888247",
+      "properties": {
+        "pmcid": "PMC11888247",
+        "first_seen": "2025-10-05T07:29:01.667404",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.760431"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "reversal of OFT and LORR phenotypes by EP1/EP2 antagonists",
+      "id": "CUSTOM:011dab28",
+      "label": "reversal of OFT a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.761750",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "reversal of OFT and LORR phenotypes by EP1/EP2 antagonists",
+        "last_seen": "2025-10-05T07:29:01.761750",
+        "obo_id": "CUSTOM:011dab28"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "comparison of C. albicans colonized + ethanol + antagonists to mock + ethanol groups (slips/falls)",
+      "id": "CUSTOM:09c735d8",
+      "label": "comparison of C. ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.757941",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "comparison of C. albicans colonized + ethanol + antagonists to mock + ethanol groups (slips/falls)",
+        "last_seen": "2025-10-05T07:29:01.757941",
+        "obo_id": "CUSTOM:09c735d8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "colonization level and mouse weight",
+      "id": "CUSTOM:b4e3bb4e",
+      "label": "colonization leve...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.753741",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "colonization level and mouse weight",
+        "last_seen": "2025-10-05T07:29:01.753741",
+        "obo_id": "CUSTOM:b4e3bb4e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "total number of slips or falls on balance beam and time to complete three trials",
+      "id": "CUSTOM:978cbe1b",
+      "label": "total number of s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.749346",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "total number of slips or falls on balance beam and time to complete three trials",
+        "last_seen": "2025-10-05T07:29:01.749346",
+        "obo_id": "CUSTOM:978cbe1b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "total number of slips or falls on balance beam (three trials)",
+      "id": "CUSTOM:79589262",
+      "label": "total number of s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.732002",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "total number of slips or falls on balance beam (three trials)",
+        "last_seen": "2025-10-05T07:29:01.732002",
+        "obo_id": "CUSTOM:79589262"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "blood ethanol concentration (serum) at time of LORR",
+      "id": "CUSTOM:9bf2995b",
+      "label": "blood ethanol con...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.727173",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "blood ethanol concentration (serum) at time of LORR",
+        "last_seen": "2025-10-05T07:29:01.727173",
+        "obo_id": "CUSTOM:9bf2995b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "LORR onset (time to lose righting reflex)",
+      "id": "CUSTOM:2048c9f4",
+      "label": "LORR onset (time ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.711140",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "LORR onset (time to lose righting reflex)",
+        "last_seen": "2025-10-05T07:29:01.711140",
+        "obo_id": "CUSTOM:2048c9f4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "LORR onset (time to lose righting reflex)",
+      "id": "CUSTOM:485356b1",
+      "label": "LORR onset (time ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.705622",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "LORR onset (time to lose righting reflex)",
+        "last_seen": "2025-10-05T07:29:01.705622",
+        "obo_id": "CUSTOM:485356b1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "distance traveled in open field activity test (OFT)",
+      "id": "CUSTOM:14ff8bea",
+      "label": "distance traveled...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.688194",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "distance traveled in open field activity test (OFT)",
+        "last_seen": "2025-10-05T07:29:01.688194",
+        "obo_id": "CUSTOM:14ff8bea"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "distance traveled in open field activity test (OFT)",
+      "id": "CUSTOM:bf45d09c",
+      "label": "distance traveled...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.683266",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "distance traveled in open field activity test (OFT)",
+        "last_seen": "2025-10-05T07:29:01.683266",
+        "obo_id": "CUSTOM:bf45d09c"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "346",
+      "source": "PMC11888247",
+      "target": "CUSTOM:011dab28",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "344",
+      "source": "PMC11888247",
+      "target": "CUSTOM:09c735d8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "342",
+      "source": "PMC11888247",
+      "target": "CUSTOM:b4e3bb4e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "340",
+      "source": "PMC11888247",
+      "target": "CUSTOM:978cbe1b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "338",
+      "source": "PMC11888247",
+      "target": "CUSTOM:79589262",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "336",
+      "source": "PMC11888247",
+      "target": "CUSTOM:9bf2995b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "334",
+      "source": "PMC11888247",
+      "target": "CUSTOM:2048c9f4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "332",
+      "source": "PMC11888247",
+      "target": "CUSTOM:485356b1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "330",
+      "source": "PMC11888247",
+      "target": "CUSTOM:14ff8bea",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "328",
+      "source": "PMC11888247",
+      "target": "CUSTOM:bf45d09c",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 11,
+  "num_edges": 10
+}

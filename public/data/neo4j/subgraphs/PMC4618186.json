@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC4618186",
+  "nodes": [
+    {
+      "fullLabel": "PMC4618186",
+      "id": "PMC4618186",
+      "label": "PMC4618186",
+      "properties": {
+        "pmcid": "PMC4618186",
+        "first_seen": "2025-10-05T07:29:03.719680",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.735370"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "relationship between the UPR and hormone-regulated growth, defense, and resistance to hostile environments",
+      "id": "CUSTOM:e5ef33df",
+      "label": "relationship betw...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.737575",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "relationship between the UPR and hormone-regulated growth, defense, and resistance to hostile environments",
+        "last_seen": "2025-10-05T07:29:03.737575",
+        "obo_id": "CUSTOM:e5ef33df"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "resistance to stress (BiP overexpression)",
+      "id": "CUSTOM:f3d873e4",
+      "label": "resistance to str...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.732433",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "resistance to stress (BiP overexpression)",
+        "last_seen": "2025-10-05T07:29:03.732433",
+        "obo_id": "CUSTOM:f3d873e4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "endogenous defense",
+      "id": "CUSTOM:c37246ce",
+      "label": "endogenous defense",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.727347",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "endogenous defense",
+        "last_seen": "2025-10-05T07:29:03.727347",
+        "obo_id": "CUSTOM:c37246ce"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "endogenous IRE1 expression",
+      "id": "CUSTOM:cb94c931",
+      "label": "endogenous IRE1 e...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.721794",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "endogenous IRE1 expression",
+        "last_seen": "2025-10-05T07:29:03.721794",
+        "obo_id": "CUSTOM:cb94c931"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1032",
+      "source": "PMC4618186",
+      "target": "CUSTOM:e5ef33df",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1030",
+      "source": "PMC4618186",
+      "target": "CUSTOM:f3d873e4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1028",
+      "source": "PMC4618186",
+      "target": "CUSTOM:c37246ce",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1026",
+      "source": "PMC4618186",
+      "target": "CUSTOM:cb94c931",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

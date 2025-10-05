@@ -1,0 +1,241 @@
+{
+  "pmcid": "PMC5515514",
+  "nodes": [
+    {
+      "fullLabel": "PMC5515514",
+      "id": "PMC5515514",
+      "label": "PMC5515514",
+      "properties": {
+        "pmcid": "PMC5515514",
+        "first_seen": "2025-10-05T07:29:14.901995",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:15.016543"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "adipocyte size",
+      "id": "CUSTOM:977d2d44",
+      "label": "adipocyte size",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.019763",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adipocyte size",
+        "last_seen": "2025-10-05T07:29:15.019763",
+        "obo_id": "CUSTOM:977d2d44"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adipocyte number",
+      "id": "CUSTOM:597a6851",
+      "label": "adipocyte number",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.011268",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adipocyte number",
+        "last_seen": "2025-10-05T07:29:15.011268",
+        "obo_id": "CUSTOM:597a6851"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "percent total tissue area occupied by adipocytes (marrow adipose tissue, MAT area)",
+      "id": "CUSTOM:8103ee5e",
+      "label": "percent total tis...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.002712",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "percent total tissue area occupied by adipocytes (marrow adipose tissue, MAT area)",
+        "last_seen": "2025-10-05T07:29:15.002712",
+        "obo_id": "CUSTOM:8103ee5e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mineral apposition rate",
+      "id": "CUSTOM:e8e0f9fb",
+      "label": "mineral appositio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.994874",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mineral apposition rate",
+        "last_seen": "2025-10-05T07:29:14.994874",
+        "obo_id": "CUSTOM:e8e0f9fb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "newly initiated bone formation (osteoblasts with no adjacent fluorochrome label)",
+      "id": "CUSTOM:102602ea",
+      "label": "newly initiated b...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.986951",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "newly initiated bone formation (osteoblasts with no adjacent fluorochrome label)",
+        "last_seen": "2025-10-05T07:29:14.986951",
+        "obo_id": "CUSTOM:102602ea"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ceased bone formation (fluorochrome label with no adjacent osteoblasts)",
+      "id": "CUSTOM:2c7535f0",
+      "label": "ceased bone forma...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.978807",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ceased bone formation (fluorochrome label with no adjacent osteoblasts)",
+        "last_seen": "2025-10-05T07:29:14.978807",
+        "obo_id": "CUSTOM:2c7535f0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "continuous bone formation (fluorochrome label with adjacent osteoblasts)",
+      "id": "CUSTOM:48b3ad9d",
+      "label": "continuous bone f...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.971591",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "continuous bone formation (fluorochrome label with adjacent osteoblasts)",
+        "last_seen": "2025-10-05T07:29:14.971591",
+        "obo_id": "CUSTOM:48b3ad9d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "osteoclast perimeter",
+      "id": "CUSTOM:b452162b",
+      "label": "osteoclast perimeter",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.963327",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "osteoclast perimeter",
+        "last_seen": "2025-10-05T07:29:14.963327",
+        "obo_id": "CUSTOM:b452162b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "fluorochrome label length (indicative of preflight label retention)",
+      "id": "CUSTOM:14f9a91c",
+      "label": "fluorochrome labe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.954796",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "fluorochrome label length (indicative of preflight label retention)",
+        "last_seen": "2025-10-05T07:29:14.954796",
+        "obo_id": "CUSTOM:14f9a91c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cancellous bone area fraction",
+      "id": "CUSTOM:cfd7b107",
+      "label": "cancellous bone a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.924149",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cancellous bone area fraction",
+        "last_seen": "2025-10-05T07:29:14.924149",
+        "obo_id": "CUSTOM:cfd7b107"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4168",
+      "source": "PMC5515514",
+      "target": "CUSTOM:977d2d44",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4166",
+      "source": "PMC5515514",
+      "target": "CUSTOM:597a6851",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4164",
+      "source": "PMC5515514",
+      "target": "CUSTOM:8103ee5e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4162",
+      "source": "PMC5515514",
+      "target": "CUSTOM:e8e0f9fb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4160",
+      "source": "PMC5515514",
+      "target": "CUSTOM:102602ea",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4158",
+      "source": "PMC5515514",
+      "target": "CUSTOM:2c7535f0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4156",
+      "source": "PMC5515514",
+      "target": "CUSTOM:48b3ad9d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4154",
+      "source": "PMC5515514",
+      "target": "CUSTOM:b452162b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4152",
+      "source": "PMC5515514",
+      "target": "CUSTOM:14f9a91c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4150",
+      "source": "PMC5515514",
+      "target": "CUSTOM:cfd7b107",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 11,
+  "num_edges": 10
+}

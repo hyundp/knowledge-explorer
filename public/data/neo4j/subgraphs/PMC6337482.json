@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC6337482",
+  "nodes": [
+    {
+      "fullLabel": "PMC6337482",
+      "id": "PMC6337482",
+      "label": "PMC6337482",
+      "properties": {
+        "pmcid": "PMC6337482",
+        "first_seen": "2025-10-05T07:29:04.454537",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.492849"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "late neurodegeneration (potential outcome)",
+      "id": "CUSTOM:68373c50",
+      "label": "late neurodegener...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.494993",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "late neurodegeneration (potential outcome)",
+        "last_seen": "2025-10-05T07:29:04.494993",
+        "obo_id": "CUSTOM:68373c50"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "tissue injury (potential outcome)",
+      "id": "CUSTOM:ec2544f4",
+      "label": "tissue injury (po...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.489551",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "tissue injury (potential outcome)",
+        "last_seen": "2025-10-05T07:29:04.489551",
+        "obo_id": "CUSTOM:ec2544f4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "changes in metabolism",
+      "id": "CUSTOM:149f9d45",
+      "label": "changes in metabo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.484612",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "changes in metabolism",
+        "last_seen": "2025-10-05T07:29:04.484612",
+        "obo_id": "CUSTOM:149f9d45"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "changes in mitochondrial function",
+      "id": "CUSTOM:b76274f5",
+      "label": "changes in mitoch...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.479805",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "changes in mitochondrial function",
+        "last_seen": "2025-10-05T07:29:04.479805",
+        "obo_id": "CUSTOM:b76274f5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "changes in oxidative response",
+      "id": "CUSTOM:d116abea",
+      "label": "changes in oxidat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.475148",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "changes in oxidative response",
+        "last_seen": "2025-10-05T07:29:04.475148",
+        "obo_id": "CUSTOM:d116abea"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "changes in cellular function",
+      "id": "CUSTOM:32df1476",
+      "label": "changes in cellul...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.470389",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "changes in cellular function",
+        "last_seen": "2025-10-05T07:29:04.470389",
+        "obo_id": "CUSTOM:32df1476"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "changes in neuronal structure",
+      "id": "CUSTOM:75e06b67",
+      "label": "changes in neuron...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.465927",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "changes in neuronal structure",
+        "last_seen": "2025-10-05T07:29:04.465927",
+        "obo_id": "CUSTOM:75e06b67"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "proteomic signatures (diverse changes in protein expression profiles) in white and gray matter",
+      "id": "CUSTOM:78653bd1",
+      "label": "proteomic signatu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.461095",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "proteomic signatures (diverse changes in protein expression profiles) in white and gray matter",
+        "last_seen": "2025-10-05T07:29:04.461095",
+        "obo_id": "CUSTOM:78653bd1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "spaceflight-induced proteomic significance and biomarkers",
+      "id": "CUSTOM:a9d17a60",
+      "label": "spaceflight-induc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.456296",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "spaceflight-induced proteomic significance and biomarkers",
+        "last_seen": "2025-10-05T07:29:04.456296",
+        "obo_id": "CUSTOM:a9d17a60"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1298",
+      "source": "PMC6337482",
+      "target": "CUSTOM:68373c50",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1296",
+      "source": "PMC6337482",
+      "target": "CUSTOM:ec2544f4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1294",
+      "source": "PMC6337482",
+      "target": "CUSTOM:149f9d45",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1292",
+      "source": "PMC6337482",
+      "target": "CUSTOM:b76274f5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1290",
+      "source": "PMC6337482",
+      "target": "CUSTOM:d116abea",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1288",
+      "source": "PMC6337482",
+      "target": "CUSTOM:32df1476",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1286",
+      "source": "PMC6337482",
+      "target": "CUSTOM:75e06b67",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1284",
+      "source": "PMC6337482",
+      "target": "CUSTOM:78653bd1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1282",
+      "source": "PMC6337482",
+      "target": "CUSTOM:a9d17a60",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

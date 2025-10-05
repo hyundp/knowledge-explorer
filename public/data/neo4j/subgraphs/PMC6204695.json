@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC6204695",
+  "nodes": [
+    {
+      "fullLabel": "PMC6204695",
+      "id": "PMC6204695",
+      "label": "PMC6204695",
+      "properties": {
+        "pmcid": "PMC6204695",
+        "first_seen": "2025-10-05T07:29:04.977036",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.006130"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Advances in 3 D models will be pivotal for the success of personalized medicine approaches and for predicting clinical correlates of protection for vaccine development",
+      "id": "CUSTOM:8ead0d26",
+      "label": "Advances in 3 D m...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.007690",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Advances in 3 D models will be pivotal for the success of personalized medicine approaches and for predicting clinical correlates of protection for vaccine development",
+        "last_seen": "2025-10-05T07:29:05.007690",
+        "obo_id": "CUSTOM:8ead0d26"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Continued model advancement will lead to increased translation of research discoveries to practical and significant outcomes",
+      "id": "CUSTOM:31a4013a",
+      "label": "Continued model a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.003053",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Continued model advancement will lead to increased translation of research discoveries to practical and significant outcomes",
+        "last_seen": "2025-10-05T07:29:05.003053",
+        "obo_id": "CUSTOM:31a4013a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Establishment and application of 3 D intestinal models as human surrogates has advanced the study of microbial pathogenesis",
+      "id": "CUSTOM:094134fe",
+      "label": "Establishment and...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.998380",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Establishment and application of 3 D intestinal models as human surrogates has advanced the study of microbial pathogenesis",
+        "last_seen": "2025-10-05T07:29:04.998380",
+        "obo_id": "CUSTOM:094134fe"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "3 D models offer predictive in vitro translational platforms for infectious disease research",
+      "id": "CUSTOM:15085c17",
+      "label": "3 D models offer ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.993754",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "3 D models offer predictive in vitro translational platforms for infectious disease research",
+        "last_seen": "2025-10-05T07:29:04.993754",
+        "obo_id": "CUSTOM:15085c17"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Application of 3 D models to understand the dynamic relationship between the host, pathogens, and commensals that dictate infection outcome",
+      "id": "CUSTOM:4067412c",
+      "label": "Application of 3 ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.988987",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Application of 3 D models to understand the dynamic relationship between the host, pathogens, and commensals that dictate infection outcome",
+        "last_seen": "2025-10-05T07:29:04.988987",
+        "obo_id": "CUSTOM:4067412c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "3 D intestinal models better mimic the biological, chemical, and physical microenvironments of the endogenous tissue for studying host microbe interactions",
+      "id": "CUSTOM:97712c01",
+      "label": "3 D intestinal mo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.984156",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "3 D intestinal models better mimic the biological, chemical, and physical microenvironments of the endogenous tissue for studying host microbe interactions",
+        "last_seen": "2025-10-05T07:29:04.984156",
+        "obo_id": "CUSTOM:97712c01"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Development of 3 D intestinal models of increasing complexity",
+      "id": "CUSTOM:2ab1f40f",
+      "label": "Development of 3 ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.978771",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Development of 3 D intestinal models of increasing complexity",
+        "last_seen": "2025-10-05T07:29:04.978771",
+        "obo_id": "CUSTOM:2ab1f40f"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1466",
+      "source": "PMC6204695",
+      "target": "CUSTOM:8ead0d26",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1464",
+      "source": "PMC6204695",
+      "target": "CUSTOM:31a4013a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1462",
+      "source": "PMC6204695",
+      "target": "CUSTOM:094134fe",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1460",
+      "source": "PMC6204695",
+      "target": "CUSTOM:15085c17",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1458",
+      "source": "PMC6204695",
+      "target": "CUSTOM:4067412c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1456",
+      "source": "PMC6204695",
+      "target": "CUSTOM:97712c01",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1454",
+      "source": "PMC6204695",
+      "target": "CUSTOM:2ab1f40f",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

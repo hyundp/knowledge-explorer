@@ -1,0 +1,329 @@
+{
+  "pmcid": "PMC7285199",
+  "nodes": [
+    {
+      "fullLabel": "PMC7285199",
+      "id": "PMC7285199",
+      "label": "PMC7285199",
+      "properties": {
+        "pmcid": "PMC7285199",
+        "first_seen": "2025-10-05T07:29:16.220595",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:16.315645"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "lin-14 gene expression",
+      "id": "CUSTOM:4608f730",
+      "label": "lin-14 gene expre...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.318322",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "lin-14 gene expression",
+        "last_seen": "2025-10-05T07:29:16.318322",
+        "obo_id": "CUSTOM:4608f730"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "akt-1 gene expression",
+      "id": "CUSTOM:41bb09cb",
+      "label": "akt-1 gene expres...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.309304",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "akt-1 gene expression",
+        "last_seen": "2025-10-05T07:29:16.309304",
+        "obo_id": "CUSTOM:41bb09cb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "aak-2 gene expression",
+      "id": "CUSTOM:61297481",
+      "label": "aak-2 gene expres...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.301541",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "aak-2 gene expression",
+        "last_seen": "2025-10-05T07:29:16.301541",
+        "obo_id": "CUSTOM:61297481"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ucp-4 gene expression",
+      "id": "CUSTOM:f8a2f47a",
+      "label": "ucp-4 gene expres...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.294192",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ucp-4 gene expression",
+        "last_seen": "2025-10-05T07:29:16.294192",
+        "obo_id": "CUSTOM:f8a2f47a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "sod-2 gene expression",
+      "id": "CUSTOM:81347001",
+      "label": "sod-2 gene expres...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.286002",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "sod-2 gene expression",
+        "last_seen": "2025-10-05T07:29:16.286002",
+        "obo_id": "CUSTOM:81347001"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "skn-1 gene expression",
+      "id": "CUSTOM:092540bc",
+      "label": "skn-1 gene expres...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.277415",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "skn-1 gene expression",
+        "last_seen": "2025-10-05T07:29:16.277415",
+        "obo_id": "CUSTOM:092540bc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "daf-18 gene expression",
+      "id": "CUSTOM:c71e7f08",
+      "label": "daf-18 gene expre...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.270878",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "daf-18 gene expression",
+        "last_seen": "2025-10-05T07:29:16.270878",
+        "obo_id": "CUSTOM:c71e7f08"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "daf-16 gene expression",
+      "id": "CUSTOM:c5246313",
+      "label": "daf-16 gene expre...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.263982",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "daf-16 gene expression",
+        "last_seen": "2025-10-05T07:29:16.263982",
+        "obo_id": "CUSTOM:c5246313"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "daf-2 gene expression",
+      "id": "CUSTOM:a75c1005",
+      "label": "daf-2 gene expres...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.256701",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "daf-2 gene expression",
+        "last_seen": "2025-10-05T07:29:16.256701",
+        "obo_id": "CUSTOM:a75c1005"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cellular function under stressful conditions",
+      "id": "CUSTOM:ad93763a",
+      "label": "cellular function...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.249638",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cellular function under stressful conditions",
+        "last_seen": "2025-10-05T07:29:16.249638",
+        "obo_id": "CUSTOM:ad93763a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "spare respiratory activity",
+      "id": "CUSTOM:10d4be7a",
+      "label": "spare respiratory...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.243145",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "spare respiratory activity",
+        "last_seen": "2025-10-05T07:29:16.243145",
+        "obo_id": "CUSTOM:10d4be7a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "antioxidant activity",
+      "id": "CUSTOM:2554d535",
+      "label": "antioxidant activity",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.236494",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "antioxidant activity",
+        "last_seen": "2025-10-05T07:29:16.236494",
+        "obo_id": "CUSTOM:2554d535"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "DAF-16 dependency of TCE-induced lifespan increase",
+      "id": "CUSTOM:c6bfb6a1",
+      "label": "DAF-16 dependency...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.229982",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "DAF-16 dependency of TCE-induced lifespan increase",
+        "last_seen": "2025-10-05T07:29:16.229982",
+        "obo_id": "CUSTOM:c6bfb6a1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "lifespan",
+      "id": "CUSTOM:63f8e947",
+      "label": "lifespan",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.222865",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "lifespan",
+        "last_seen": "2025-10-05T07:29:16.222865",
+        "obo_id": "CUSTOM:63f8e947"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4476",
+      "source": "PMC7285199",
+      "target": "CUSTOM:4608f730",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4474",
+      "source": "PMC7285199",
+      "target": "CUSTOM:41bb09cb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4472",
+      "source": "PMC7285199",
+      "target": "CUSTOM:61297481",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4470",
+      "source": "PMC7285199",
+      "target": "CUSTOM:f8a2f47a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4468",
+      "source": "PMC7285199",
+      "target": "CUSTOM:81347001",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4466",
+      "source": "PMC7285199",
+      "target": "CUSTOM:092540bc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4464",
+      "source": "PMC7285199",
+      "target": "CUSTOM:c71e7f08",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4462",
+      "source": "PMC7285199",
+      "target": "CUSTOM:c5246313",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4460",
+      "source": "PMC7285199",
+      "target": "CUSTOM:a75c1005",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4458",
+      "source": "PMC7285199",
+      "target": "CUSTOM:ad93763a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4456",
+      "source": "PMC7285199",
+      "target": "CUSTOM:10d4be7a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4454",
+      "source": "PMC7285199",
+      "target": "CUSTOM:2554d535",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4452",
+      "source": "PMC7285199",
+      "target": "CUSTOM:c6bfb6a1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4450",
+      "source": "PMC7285199",
+      "target": "CUSTOM:63f8e947",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 15,
+  "num_edges": 14
+}

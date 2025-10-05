@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC8113475",
+  "nodes": [
+    {
+      "fullLabel": "PMC8113475",
+      "id": "PMC8113475",
+      "label": "PMC8113475",
+      "properties": {
+        "pmcid": "PMC8113475",
+        "first_seen": "2025-10-05T07:29:08.227409",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.244595"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "effectiveness / power of the Rad Bio App to accelerate assessment of effects of space radiation on living entities",
+      "id": "CUSTOM:336df87d",
+      "label": "effectiveness / p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.246509",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "effectiveness / power of the Rad Bio App to accelerate assessment of effects of space radiation on living entities",
+        "last_seen": "2025-10-05T07:29:08.246509",
+        "obo_id": "CUSTOM:336df87d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "common molecular pathways that may be modified by the lunar surface radiation environment",
+      "id": "CUSTOM:02af8d14",
+      "label": "common molecular ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.240949",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "common molecular pathways that may be modified by the lunar surface radiation environment",
+        "last_seen": "2025-10-05T07:29:08.240949",
+        "obo_id": "CUSTOM:02af8d14"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "identification of experiments conducted on the ISS with radiation profiles similar to a mission on the Moon",
+      "id": "CUSTOM:ffc893be",
+      "label": "identification of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.234879",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "identification of experiments conducted on the ISS with radiation profiles similar to a mission on the Moon",
+        "last_seen": "2025-10-05T07:29:08.234879",
+        "obo_id": "CUSTOM:ffc893be"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ability to rapidly identify omics datasets relevant for a specific spaceflight radiation scenario",
+      "id": "CUSTOM:0c760fc8",
+      "label": "ability to rapidl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.229206",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ability to rapidly identify omics datasets relevant for a specific spaceflight radiation scenario",
+        "last_seen": "2025-10-05T07:29:08.229206",
+        "obo_id": "CUSTOM:0c760fc8"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2470",
+      "source": "PMC8113475",
+      "target": "CUSTOM:336df87d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2468",
+      "source": "PMC8113475",
+      "target": "CUSTOM:02af8d14",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2466",
+      "source": "PMC8113475",
+      "target": "CUSTOM:ffc893be",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2464",
+      "source": "PMC8113475",
+      "target": "CUSTOM:0c760fc8",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

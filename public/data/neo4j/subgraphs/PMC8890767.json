@@ -1,0 +1,285 @@
+{
+  "pmcid": "PMC8890767",
+  "nodes": [
+    {
+      "fullLabel": "PMC8890767",
+      "id": "PMC8890767",
+      "label": "PMC8890767",
+      "properties": {
+        "pmcid": "PMC8890767",
+        "first_seen": "2025-10-05T07:29:02.208131",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.302253"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "systemic bioavailability",
+      "id": "CUSTOM:ff0de60c",
+      "label": "systemic bioavail...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.303721",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "systemic bioavailability",
+        "last_seen": "2025-10-05T07:29:02.303721",
+        "obo_id": "CUSTOM:ff0de60c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "tolerability of intranasal heparin",
+      "id": "CUSTOM:9cf3527a",
+      "label": "tolerability of i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.299977",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "tolerability of intranasal heparin",
+        "last_seen": "2025-10-05T07:29:02.299977",
+        "obo_id": "CUSTOM:9cf3527a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "intranasal UFH concentration in nasal cavity over time (clearance)",
+      "id": "CUSTOM:077cf230",
+      "label": "intranasal UFH co...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.295548",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "intranasal UFH concentration in nasal cavity over time (clearance)",
+        "last_seen": "2025-10-05T07:29:02.295548",
+        "obo_id": "CUSTOM:077cf230"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "disruption of olfactory functions",
+      "id": "CUSTOM:abafef4d",
+      "label": "disruption of olf...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.272574",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "disruption of olfactory functions",
+        "last_seen": "2025-10-05T07:29:02.272574",
+        "obo_id": "CUSTOM:abafef4d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "overt signs of toxicity",
+      "id": "CUSTOM:57612ba6",
+      "label": "overt signs of to...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.267571",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "overt signs of toxicity",
+        "last_seen": "2025-10-05T07:29:02.267571",
+        "obo_id": "CUSTOM:57612ba6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "PT/INR (prothrombin time / international normalized ratio)",
+      "id": "CUSTOM:aeb309e2",
+      "label": "PT/INR (prothromb...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.238842",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "PT/INR (prothrombin time / international normalized ratio)",
+        "last_seen": "2025-10-05T07:29:02.238842",
+        "obo_id": "CUSTOM:aeb309e2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "aPTT (activated partial thromboplastin time)",
+      "id": "CUSTOM:31396594",
+      "label": "aPTT (activated p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.234144",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "aPTT (activated partial thromboplastin time)",
+        "last_seen": "2025-10-05T07:29:02.234144",
+        "obo_id": "CUSTOM:31396594"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "platelet count",
+      "id": "CUSTOM:eb94789d",
+      "label": "platelet count",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.227637",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "platelet count",
+        "last_seen": "2025-10-05T07:29:02.227637",
+        "obo_id": "CUSTOM:eb94789d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "platelet count (alterations that could lead to potential heparin induced thrombocytopenia)",
+      "id": "CUSTOM:64f431f4",
+      "label": "platelet count (a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.223682",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "platelet count (alterations that could lead to potential heparin induced thrombocytopenia)",
+        "last_seen": "2025-10-05T07:29:02.223682",
+        "obo_id": "CUSTOM:64f431f4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "epistaxis (nosebleed)",
+      "id": "CUSTOM:e7f13fc7",
+      "label": "epistaxis (nosebl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.219563",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "epistaxis (nosebleed)",
+        "last_seen": "2025-10-05T07:29:02.219563",
+        "obo_id": "CUSTOM:e7f13fc7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "nasal inflammation",
+      "id": "CUSTOM:dc1a56ea",
+      "label": "nasal inflammation",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.214180",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "nasal inflammation",
+        "last_seen": "2025-10-05T07:29:02.214180",
+        "obo_id": "CUSTOM:dc1a56ea"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "local and systemic adverse effects",
+      "id": "CUSTOM:be1dedf9",
+      "label": "local and systemi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.209613",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "local and systemic adverse effects",
+        "last_seen": "2025-10-05T07:29:02.209613",
+        "obo_id": "CUSTOM:be1dedf9"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "530",
+      "source": "PMC8890767",
+      "target": "CUSTOM:ff0de60c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "528",
+      "source": "PMC8890767",
+      "target": "CUSTOM:9cf3527a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "526",
+      "source": "PMC8890767",
+      "target": "CUSTOM:077cf230",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "524",
+      "source": "PMC8890767",
+      "target": "CUSTOM:abafef4d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "522",
+      "source": "PMC8890767",
+      "target": "CUSTOM:57612ba6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "520",
+      "source": "PMC8890767",
+      "target": "CUSTOM:aeb309e2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "518",
+      "source": "PMC8890767",
+      "target": "CUSTOM:31396594",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "516",
+      "source": "PMC8890767",
+      "target": "CUSTOM:eb94789d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "514",
+      "source": "PMC8890767",
+      "target": "CUSTOM:64f431f4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "512",
+      "source": "PMC8890767",
+      "target": "CUSTOM:e7f13fc7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "510",
+      "source": "PMC8890767",
+      "target": "CUSTOM:dc1a56ea",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "508",
+      "source": "PMC8890767",
+      "target": "CUSTOM:be1dedf9",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 13,
+  "num_edges": 12
+}

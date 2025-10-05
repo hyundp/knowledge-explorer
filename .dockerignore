@@ -1,0 +1,45 @@
+# Node.js frontend files
+node_modules/
+.next/
+app/
+components/
+lib/
+public/
+*.tsx
+*.ts
+package.json
+package-lock.json
+tsconfig.json
+tailwind.config.ts
+postcss.config.mjs
+
+# Git
+.git/
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.egg-info/
+
+# Development
+.env.local
+logs/
+*.log
+
+# Documentation
+*.md
+!README.md
+
+# Scripts
+start.sh
+
+# Vercel
+.vercel/
+vercel.json
+.vercelignore

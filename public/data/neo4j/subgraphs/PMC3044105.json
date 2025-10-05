@@ -1,0 +1,439 @@
+{
+  "pmcid": "PMC3044105",
+  "nodes": [
+    {
+      "fullLabel": "PMC3044105",
+      "id": "PMC3044105",
+      "label": "PMC3044105",
+      "properties": {
+        "pmcid": "PMC3044105",
+        "first_seen": "2025-10-05T07:29:04.788607",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.882016"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "differentiation and mineralization (final stage of bone repair)",
+      "id": "CUSTOM:ca66ac27",
+      "label": "differentiation a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.883770",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "differentiation and mineralization (final stage of bone repair)",
+        "last_seen": "2025-10-05T07:29:04.883770",
+        "obo_id": "CUSTOM:ca66ac27"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "later osteogenic potential of stem cells",
+      "id": "CUSTOM:f44b0c71",
+      "label": "later osteogenic ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.878209",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "later osteogenic potential of stem cells",
+        "last_seen": "2025-10-05T07:29:04.878209",
+        "obo_id": "CUSTOM:f44b0c71"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "osteoblast proliferation",
+      "id": "CUSTOM:470f9cc7",
+      "label": "osteoblast prolif...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.872702",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "osteoblast proliferation",
+        "last_seen": "2025-10-05T07:29:04.872702",
+        "obo_id": "CUSTOM:470f9cc7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mineralization gene expression",
+      "id": "CUSTOM:371dcfc2",
+      "label": "mineralization ge...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.867624",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mineralization gene expression",
+        "last_seen": "2025-10-05T07:29:04.867624",
+        "obo_id": "CUSTOM:371dcfc2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Genes related to growth, angiogenesis or chemotaxis in response to BMP2",
+      "id": "CUSTOM:ef61f967",
+      "label": "Genes related to ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.861780",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Genes related to growth, angiogenesis or chemotaxis in response to BMP2",
+        "last_seen": "2025-10-05T07:29:04.861780",
+        "obo_id": "CUSTOM:ef61f967"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Abundance of col1a1, fn, oc, and tgfbeta after 24 hours of BMP2 treatment",
+      "id": "CUSTOM:40086d23",
+      "label": "Abundance of col1...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.857198",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Abundance of col1a1, fn, oc, and tgfbeta after 24 hours of BMP2 treatment",
+        "last_seen": "2025-10-05T07:29:04.857198",
+        "obo_id": "CUSTOM:40086d23"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "IGF1 expression in response to FGF2",
+      "id": "CUSTOM:128f6723",
+      "label": "IGF1 expression i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.852409",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "IGF1 expression in response to FGF2",
+        "last_seen": "2025-10-05T07:29:04.852409",
+        "obo_id": "CUSTOM:128f6723"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Abundance of col1a1, fn, igf1, noggin, oc, bmp2 and alp messages after 24 hours of FGF2 treatment in mineralized wounded cultures",
+      "id": "CUSTOM:8398d796",
+      "label": "Abundance of col1...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.847747",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Abundance of col1a1, fn, igf1, noggin, oc, bmp2 and alp messages after 24 hours of FGF2 treatment in mineralized wounded cultures",
+        "last_seen": "2025-10-05T07:29:04.847747",
+        "obo_id": "CUSTOM:8398d796"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Abundance of genes associated with proliferation, chemotaxis and angiogenesis after 24 hours of FGF2 treatment",
+      "id": "CUSTOM:008f69c6",
+      "label": "Abundance of gene...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.843246",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Abundance of genes associated with proliferation, chemotaxis and angiogenesis after 24 hours of FGF2 treatment",
+        "last_seen": "2025-10-05T07:29:04.843246",
+        "obo_id": "CUSTOM:008f69c6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Autoregulation: FGF2 induces its own expression and TGFbeta expression",
+      "id": "CUSTOM:afbed6d5",
+      "label": "Autoregulation: F...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.838598",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Autoregulation: FGF2 induces its own expression and TGFbeta expression",
+        "last_seen": "2025-10-05T07:29:04.838598",
+        "obo_id": "CUSTOM:afbed6d5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mmp1 expression",
+      "id": "CUSTOM:15e68a5c",
+      "label": "mmp1 expression",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.832891",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mmp1 expression",
+        "last_seen": "2025-10-05T07:29:04.832891",
+        "obo_id": "CUSTOM:15e68a5c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mmp3, vegfa and vegfr1 expression",
+      "id": "CUSTOM:ae8d9340",
+      "label": "mmp3, vegfa and v...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.828347",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mmp3, vegfa and vegfr1 expression",
+        "last_seen": "2025-10-05T07:29:04.828347",
+        "obo_id": "CUSTOM:ae8d9340"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "DNA synthesis (proliferation) in response to PGE2",
+      "id": "CUSTOM:e3b041bd",
+      "label": "DNA synthesis (pr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.823918",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "DNA synthesis (proliferation) in response to PGE2",
+        "last_seen": "2025-10-05T07:29:04.823918",
+        "obo_id": "CUSTOM:e3b041bd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cox2 (COX-2) expression",
+      "id": "CUSTOM:ab6d840a",
+      "label": "cox2 (COX-2) expr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.819079",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cox2 (COX-2) expression",
+        "last_seen": "2025-10-05T07:29:04.819079",
+        "obo_id": "CUSTOM:ab6d840a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of proliferation- and angiogenesis-associated genes",
+      "id": "CUSTOM:dc464bbd",
+      "label": "Expression of pro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.814005",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of proliferation- and angiogenesis-associated genes",
+        "last_seen": "2025-10-05T07:29:04.814005",
+        "obo_id": "CUSTOM:dc464bbd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of mineralization-associated genes",
+      "id": "CUSTOM:086e2aca",
+      "label": "Expression of min...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.808477",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of mineralization-associated genes",
+        "last_seen": "2025-10-05T07:29:04.808477",
+        "obo_id": "CUSTOM:086e2aca"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Relative efficacy and dose among growth factors for promoting proliferation",
+      "id": "CUSTOM:26c78bf8",
+      "label": "Relative efficacy...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.801200",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Relative efficacy and dose among growth factors for promoting proliferation",
+        "last_seen": "2025-10-05T07:29:04.801200",
+        "obo_id": "CUSTOM:26c78bf8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cell proliferation / growth",
+      "id": "CUSTOM:42773212",
+      "label": "Cell proliferatio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.796224",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cell proliferation / growth",
+        "last_seen": "2025-10-05T07:29:04.796224",
+        "obo_id": "CUSTOM:42773212"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Synthesis of the total protein content of the dishes",
+      "id": "CUSTOM:96a10d8a",
+      "label": "Synthesis of the ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.790640",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Synthesis of the total protein content of the dishes",
+        "last_seen": "2025-10-05T07:29:04.790640",
+        "obo_id": "CUSTOM:96a10d8a"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1418",
+      "source": "PMC3044105",
+      "target": "CUSTOM:ca66ac27",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1416",
+      "source": "PMC3044105",
+      "target": "CUSTOM:f44b0c71",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1414",
+      "source": "PMC3044105",
+      "target": "CUSTOM:470f9cc7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1412",
+      "source": "PMC3044105",
+      "target": "CUSTOM:371dcfc2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1410",
+      "source": "PMC3044105",
+      "target": "CUSTOM:ef61f967",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1408",
+      "source": "PMC3044105",
+      "target": "CUSTOM:40086d23",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1406",
+      "source": "PMC3044105",
+      "target": "CUSTOM:128f6723",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1404",
+      "source": "PMC3044105",
+      "target": "CUSTOM:8398d796",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1402",
+      "source": "PMC3044105",
+      "target": "CUSTOM:008f69c6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1400",
+      "source": "PMC3044105",
+      "target": "CUSTOM:afbed6d5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1398",
+      "source": "PMC3044105",
+      "target": "CUSTOM:15e68a5c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1396",
+      "source": "PMC3044105",
+      "target": "CUSTOM:ae8d9340",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1394",
+      "source": "PMC3044105",
+      "target": "CUSTOM:e3b041bd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1392",
+      "source": "PMC3044105",
+      "target": "CUSTOM:ab6d840a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1390",
+      "source": "PMC3044105",
+      "target": "CUSTOM:dc464bbd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1388",
+      "source": "PMC3044105",
+      "target": "CUSTOM:086e2aca",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1386",
+      "source": "PMC3044105",
+      "target": "CUSTOM:26c78bf8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1384",
+      "source": "PMC3044105",
+      "target": "CUSTOM:42773212",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1382",
+      "source": "PMC3044105",
+      "target": "CUSTOM:96a10d8a",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 20,
+  "num_edges": 19
+}

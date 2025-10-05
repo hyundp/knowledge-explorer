@@ -1,0 +1,285 @@
+{
+  "pmcid": "PMC2925951",
+  "nodes": [
+    {
+      "fullLabel": "PMC2925951",
+      "id": "PMC2925951",
+      "label": "PMC2925951",
+      "properties": {
+        "pmcid": "PMC2925951",
+        "first_seen": "2025-10-05T07:29:11.535645",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:11.610522"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "reduction in the number of potential candidate genes for Mars-compatible plant traits",
+      "id": "CUSTOM:7acd258e",
+      "label": "reduction in the ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.612600",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "reduction in the number of potential candidate genes for Mars-compatible plant traits",
+        "last_seen": "2025-10-05T07:29:11.612600",
+        "obo_id": "CUSTOM:7acd258e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "differentially regulated transcripts between cax1 and Col 0",
+      "id": "CUSTOM:cffbc6ba",
+      "label": "differentially re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.606165",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "differentially regulated transcripts between cax1 and Col 0",
+        "last_seen": "2025-10-05T07:29:11.606165",
+        "obo_id": "CUSTOM:cffbc6ba"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "many differentially expressed transporter genes encode proteins of unknown function",
+      "id": "CUSTOM:37ea2f52",
+      "label": "many differential...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.600039",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "many differentially expressed transporter genes encode proteins of unknown function",
+        "last_seen": "2025-10-05T07:29:11.600039",
+        "obo_id": "CUSTOM:37ea2f52"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "number of transporter genes differentially expressed in Col 0 across time points",
+      "id": "CUSTOM:9821da7d",
+      "label": "number of transpo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.593028",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "number of transporter genes differentially expressed in Col 0 across time points",
+        "last_seen": "2025-10-05T07:29:11.593028",
+        "obo_id": "CUSTOM:9821da7d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "involvement of ABA in regulating the stress response to elevated magnesium sulfate",
+      "id": "CUSTOM:d3ee113c",
+      "label": "involvement of AB...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.585824",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "involvement of ABA in regulating the stress response to elevated magnesium sulfate",
+        "last_seen": "2025-10-05T07:29:11.585824",
+        "obo_id": "CUSTOM:d3ee113c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "presence of promoter sequence motifs (e.g., ABRE CE) in many differentially regulated genes",
+      "id": "CUSTOM:b1dbef07",
+      "label": "presence of promo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.577190",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "presence of promoter sequence motifs (e.g., ABRE CE) in many differentially regulated genes",
+        "last_seen": "2025-10-05T07:29:11.577190",
+        "obo_id": "CUSTOM:b1dbef07"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "composition of the 325 differentially expressed genes (includes CAX1 and genes associated with abiotic/salt tolerance)",
+      "id": "CUSTOM:11e217d9",
+      "label": "composition of th...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.570595",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "composition of the 325 differentially expressed genes (includes CAX1 and genes associated with abiotic/salt tolerance)",
+        "last_seen": "2025-10-05T07:29:11.570595",
+        "obo_id": "CUSTOM:11e217d9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "genes differentially expressed in Col 0 roots after exposure to high magnesium sulfate",
+      "id": "CUSTOM:1496a2c4",
+      "label": "genes differentia...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.563689",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "genes differentially expressed in Col 0 roots after exposure to high magnesium sulfate",
+        "last_seen": "2025-10-05T07:29:11.563689",
+        "obo_id": "CUSTOM:1496a2c4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "partial tolerance of cax1 mutants to phytotoxic levels of magnesium sulfate expected for the regolith on Mars",
+      "id": "CUSTOM:053a1623",
+      "label": "partial tolerance...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.556823",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "partial tolerance of cax1 mutants to phytotoxic levels of magnesium sulfate expected for the regolith on Mars",
+        "last_seen": "2025-10-05T07:29:11.556823",
+        "obo_id": "CUSTOM:053a1623"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "fresh weight shoot biomass of cax1 mutants compared to wildtype in elevated magnesium sulfate soils",
+      "id": "CUSTOM:f05c3281",
+      "label": "fresh weight shoo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.550316",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "fresh weight shoot biomass of cax1 mutants compared to wildtype in elevated magnesium sulfate soils",
+        "last_seen": "2025-10-05T07:29:11.550316",
+        "obo_id": "CUSTOM:f05c3281"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "fresh weight shoot biomass of mrs2 10 and sel1 10 mutants compared to wildtype in elevated magnesium sulfate soils",
+      "id": "CUSTOM:0d57d3be",
+      "label": "fresh weight shoo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.544095",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "fresh weight shoot biomass of mrs2 10 and sel1 10 mutants compared to wildtype in elevated magnesium sulfate soils",
+        "last_seen": "2025-10-05T07:29:11.544095",
+        "obo_id": "CUSTOM:0d57d3be"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mrs2 10 and sel1 10 mutants have an advantage over wildtype in elevated magnesium sulfate soils",
+      "id": "CUSTOM:c5133907",
+      "label": "mrs2 10 and sel1 ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.537642",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mrs2 10 and sel1 10 mutants have an advantage over wildtype in elevated magnesium sulfate soils",
+        "last_seen": "2025-10-05T07:29:11.537642",
+        "obo_id": "CUSTOM:c5133907"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3362",
+      "source": "PMC2925951",
+      "target": "CUSTOM:7acd258e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3360",
+      "source": "PMC2925951",
+      "target": "CUSTOM:cffbc6ba",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3358",
+      "source": "PMC2925951",
+      "target": "CUSTOM:37ea2f52",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3356",
+      "source": "PMC2925951",
+      "target": "CUSTOM:9821da7d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3354",
+      "source": "PMC2925951",
+      "target": "CUSTOM:d3ee113c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3352",
+      "source": "PMC2925951",
+      "target": "CUSTOM:b1dbef07",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3350",
+      "source": "PMC2925951",
+      "target": "CUSTOM:11e217d9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3348",
+      "source": "PMC2925951",
+      "target": "CUSTOM:1496a2c4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3346",
+      "source": "PMC2925951",
+      "target": "CUSTOM:053a1623",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3344",
+      "source": "PMC2925951",
+      "target": "CUSTOM:f05c3281",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3342",
+      "source": "PMC2925951",
+      "target": "CUSTOM:0d57d3be",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3340",
+      "source": "PMC2925951",
+      "target": "CUSTOM:c5133907",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 13,
+  "num_edges": 12
+}

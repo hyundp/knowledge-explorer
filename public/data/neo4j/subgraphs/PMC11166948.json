@@ -1,0 +1,307 @@
+{
+  "pmcid": "PMC11166948",
+  "nodes": [
+    {
+      "fullLabel": "PMC11166948",
+      "id": "PMC11166948",
+      "label": "PMC11166948",
+      "properties": {
+        "pmcid": "PMC11166948",
+        "first_seen": "2025-10-05T07:29:03.369052",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.487021"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Space anaemia may be due to downregulation of positive erythropoiesis regulators in addition to increased haemolysis",
+      "id": "CUSTOM:a3d1b4ca",
+      "label": "Space anaemia may...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.489079",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Space anaemia may be due to downregulation of positive erythropoiesis regulators in addition to increased haemolysis",
+        "last_seen": "2025-10-05T07:29:03.489079",
+        "obo_id": "CUSTOM:a3d1b4ca"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Total erythroid cell counts recovery after return from spaceflight",
+      "id": "CUSTOM:6d53d478",
+      "label": "Total erythroid c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.483411",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Total erythroid cell counts recovery after return from spaceflight",
+        "last_seen": "2025-10-05T07:29:03.483411",
+        "obo_id": "CUSTOM:6d53d478"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Delayed post-flight expression variability of some erythropoiesis-related genes (suggesting involvement in increasing erythropoiesis after landing)",
+      "id": "CUSTOM:8332a79c",
+      "label": "Delayed post-flig...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.478982",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Delayed post-flight expression variability of some erythropoiesis-related genes (suggesting involvement in increasing erythropoiesis after landing)",
+        "last_seen": "2025-10-05T07:29:03.478982",
+        "obo_id": "CUSTOM:8332a79c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of other genes involved in erythropoiesis",
+      "id": "CUSTOM:4682573f",
+      "label": "Expression of oth...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.474765",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of other genes involved in erythropoiesis",
+        "last_seen": "2025-10-05T07:29:03.474765",
+        "obo_id": "CUSTOM:4682573f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of certain positive regulatory genes for erythropoiesis",
+      "id": "CUSTOM:5625cfba",
+      "label": "Expression of cer...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.469950",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of certain positive regulatory genes for erythropoiesis",
+        "last_seen": "2025-10-05T07:29:03.469950",
+        "obo_id": "CUSTOM:5625cfba"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of genes that repress gamma globin (examples: BCL11A, KLF1)",
+      "id": "CUSTOM:a818f3e3",
+      "label": "Expression of gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.463492",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of genes that repress gamma globin (examples: BCL11A, KLF1)",
+        "last_seen": "2025-10-05T07:29:03.463492",
+        "obo_id": "CUSTOM:a818f3e3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of genes normally involved in beta (β) globin gene expression",
+      "id": "CUSTOM:d3fceb5c",
+      "label": "Expression of gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.459112",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of genes normally involved in beta (β) globin gene expression",
+        "last_seen": "2025-10-05T07:29:03.459112",
+        "obo_id": "CUSTOM:d3fceb5c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of genes involved in gamma (γ) globin expression",
+      "id": "CUSTOM:c24c25d0",
+      "label": "Expression of gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.455385",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of genes involved in gamma (γ) globin expression",
+        "last_seen": "2025-10-05T07:29:03.455385",
+        "obo_id": "CUSTOM:c24c25d0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Reversion of globin expression back to normal healthy adult levels (post-flight)",
+      "id": "CUSTOM:c48424a4",
+      "label": "Reversion of glob...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.450715",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Reversion of globin expression back to normal healthy adult levels (post-flight)",
+        "last_seen": "2025-10-05T07:29:03.450715",
+        "obo_id": "CUSTOM:c48424a4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Activation of an adult-to-fetal globin switch mechanism",
+      "id": "CUSTOM:01dffc72",
+      "label": "Activation of an ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.445161",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Activation of an adult-to-fetal globin switch mechanism",
+        "last_seen": "2025-10-05T07:29:03.445161",
+        "obo_id": "CUSTOM:01dffc72"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Genes coding for transcription factors involved in the fetal-to-adult haemoglobin switch",
+      "id": "CUSTOM:9257de43",
+      "label": "Genes coding for ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.435918",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Genes coding for transcription factors involved in the fetal-to-adult haemoglobin switch",
+        "last_seen": "2025-10-05T07:29:03.435918",
+        "obo_id": "CUSTOM:9257de43"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Fetal globin gene expression",
+      "id": "CUSTOM:a01afd09",
+      "label": "Fetal globin gene...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.429492",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Fetal globin gene expression",
+        "last_seen": "2025-10-05T07:29:03.429492",
+        "obo_id": "CUSTOM:a01afd09"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Adult globin gene expression",
+      "id": "CUSTOM:23af0460",
+      "label": "Adult globin gene...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.398317",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Adult globin gene expression",
+        "last_seen": "2025-10-05T07:29:03.398317",
+        "obo_id": "CUSTOM:23af0460"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "940",
+      "source": "PMC11166948",
+      "target": "CUSTOM:a3d1b4ca",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "938",
+      "source": "PMC11166948",
+      "target": "CUSTOM:6d53d478",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "936",
+      "source": "PMC11166948",
+      "target": "CUSTOM:8332a79c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "934",
+      "source": "PMC11166948",
+      "target": "CUSTOM:4682573f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "932",
+      "source": "PMC11166948",
+      "target": "CUSTOM:5625cfba",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "930",
+      "source": "PMC11166948",
+      "target": "CUSTOM:a818f3e3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "928",
+      "source": "PMC11166948",
+      "target": "CUSTOM:d3fceb5c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "926",
+      "source": "PMC11166948",
+      "target": "CUSTOM:c24c25d0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "924",
+      "source": "PMC11166948",
+      "target": "CUSTOM:c48424a4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "922",
+      "source": "PMC11166948",
+      "target": "CUSTOM:01dffc72",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "920",
+      "source": "PMC11166948",
+      "target": "CUSTOM:9257de43",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "918",
+      "source": "PMC11166948",
+      "target": "CUSTOM:a01afd09",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "916",
+      "source": "PMC11166948",
+      "target": "CUSTOM:23af0460",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 14,
+  "num_edges": 13
+}

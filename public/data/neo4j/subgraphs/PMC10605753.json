@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC10605753",
+  "nodes": [
+    {
+      "fullLabel": "PMC10605753",
+      "id": "PMC10605753",
+      "label": "PMC10605753",
+      "properties": {
+        "pmcid": "PMC10605753",
+        "first_seen": "2025-10-05T07:29:05.612176",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.676533"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "acetylcholine signaling within neurons",
+      "id": "CUSTOM:39e2273a",
+      "label": "acetylcholine sig...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.678723",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "acetylcholine signaling within neurons",
+        "last_seen": "2025-10-05T07:29:05.678723",
+        "obo_id": "CUSTOM:39e2273a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "calcium handling within neurons",
+      "id": "CUSTOM:cde8d544",
+      "label": "calcium handling ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.671185",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "calcium handling within neurons",
+        "last_seen": "2025-10-05T07:29:05.671185",
+        "obo_id": "CUSTOM:cde8d544"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cytoskeletal gene pathways",
+      "id": "CUSTOM:ce6a4454",
+      "label": "cytoskeletal gene...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.664445",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cytoskeletal gene pathways",
+        "last_seen": "2025-10-05T07:29:05.664445",
+        "obo_id": "CUSTOM:ce6a4454"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mitochondrial gene pathways",
+      "id": "CUSTOM:0e528dfe",
+      "label": "mitochondrial gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.659267",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mitochondrial gene pathways",
+        "last_seen": "2025-10-05T07:29:05.659267",
+        "obo_id": "CUSTOM:0e528dfe"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "stress response",
+      "id": "CUSTOM:f5b40511",
+      "label": "stress response",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.654576",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "stress response",
+        "last_seen": "2025-10-05T07:29:05.654576",
+        "obo_id": "CUSTOM:f5b40511"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "neuromuscular strength",
+      "id": "CUSTOM:4eb8c9f5",
+      "label": "neuromuscular str...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.649070",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "neuromuscular strength",
+        "last_seen": "2025-10-05T07:29:05.649070",
+        "obo_id": "CUSTOM:4eb8c9f5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "calcium metabolism in neurons (impacting acetylcholine signaling)",
+      "id": "CUSTOM:4c45559c",
+      "label": "calcium metabolis...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.641738",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "calcium metabolism in neurons (impacting acetylcholine signaling)",
+        "last_seen": "2025-10-05T07:29:05.641738",
+        "obo_id": "CUSTOM:4c45559c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "muscle sarcomeric gene expression changes driven by altered MyoD expression (conservation between species)",
+      "id": "CUSTOM:32ff1751",
+      "label": "muscle sarcomeric...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.635157",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "muscle sarcomeric gene expression changes driven by altered MyoD expression (conservation between species)",
+        "last_seen": "2025-10-05T07:29:05.635157",
+        "obo_id": "CUSTOM:32ff1751"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "expression of a gene identified as most downregulated in this study (unnamed)",
+      "id": "CUSTOM:063ea17e",
+      "label": "expression of a g...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.628375",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "expression of a gene identified as most downregulated in this study (unnamed)",
+        "last_seen": "2025-10-05T07:29:05.628375",
+        "obo_id": "CUSTOM:063ea17e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mitochondrial gene expression",
+      "id": "CUSTOM:590a6473",
+      "label": "mitochondrial gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.622334",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mitochondrial gene expression",
+        "last_seen": "2025-10-05T07:29:05.622334",
+        "obo_id": "CUSTOM:590a6473"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "worm strength",
+      "id": "CUSTOM:80285745",
+      "label": "worm strength",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.614942",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "worm strength",
+        "last_seen": "2025-10-05T07:29:05.614942",
+        "obo_id": "CUSTOM:80285745"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1662",
+      "source": "PMC10605753",
+      "target": "CUSTOM:39e2273a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1660",
+      "source": "PMC10605753",
+      "target": "CUSTOM:cde8d544",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1658",
+      "source": "PMC10605753",
+      "target": "CUSTOM:ce6a4454",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1656",
+      "source": "PMC10605753",
+      "target": "CUSTOM:0e528dfe",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1654",
+      "source": "PMC10605753",
+      "target": "CUSTOM:f5b40511",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1652",
+      "source": "PMC10605753",
+      "target": "CUSTOM:4eb8c9f5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1650",
+      "source": "PMC10605753",
+      "target": "CUSTOM:4c45559c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1648",
+      "source": "PMC10605753",
+      "target": "CUSTOM:32ff1751",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1646",
+      "source": "PMC10605753",
+      "target": "CUSTOM:063ea17e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1644",
+      "source": "PMC10605753",
+      "target": "CUSTOM:590a6473",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1642",
+      "source": "PMC10605753",
+      "target": "CUSTOM:80285745",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

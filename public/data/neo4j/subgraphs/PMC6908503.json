@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC6908503",
+  "nodes": [
+    {
+      "fullLabel": "PMC6908503",
+      "id": "PMC6908503",
+      "label": "PMC6908503",
+      "properties": {
+        "pmcid": "PMC6908503",
+        "first_seen": "2025-10-05T07:29:15.071805",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:15.107452"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Usefulness of clinostats and other microgravity analog devices as tools",
+      "id": "CUSTOM:326346df",
+      "label": "Usefulness of cli...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.109695",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Usefulness of clinostats and other microgravity analog devices as tools",
+        "last_seen": "2025-10-05T07:29:15.109695",
+        "obo_id": "CUSTOM:326346df"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Access to spaceflight hardware (affecting ability to use identical containers for space and ground studies)",
+      "id": "CUSTOM:07f4c218",
+      "label": "Access to spacefl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.103088",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Access to spaceflight hardware (affecting ability to use identical containers for space and ground studies)",
+        "last_seen": "2025-10-05T07:29:15.103088",
+        "obo_id": "CUSTOM:07f4c218"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Comparability of results between spaceflight experiments and simulation devices",
+      "id": "CUSTOM:33f2f662",
+      "label": "Comparability of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.094159",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Comparability of results between spaceflight experiments and simulation devices",
+        "last_seen": "2025-10-05T07:29:15.094159",
+        "obo_id": "CUSTOM:33f2f662"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Deleterious effects caused by rotation on certain types of clinostats in some biological systems",
+      "id": "CUSTOM:1d2baf74",
+      "label": "Deleterious effec...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.082424",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Deleterious effects caused by rotation on certain types of clinostats in some biological systems",
+        "last_seen": "2025-10-05T07:29:15.082424",
+        "obo_id": "CUSTOM:1d2baf74"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Differences between plants grown on clinostats/other microgravity analogs and plants grown in weightlessness during spaceflight (growth and development)",
+      "id": "CUSTOM:08151861",
+      "label": "Differences betwe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.074449",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Differences between plants grown on clinostats/other microgravity analogs and plants grown in weightlessness during spaceflight (growth and development)",
+        "last_seen": "2025-10-05T07:29:15.074449",
+        "obo_id": "CUSTOM:08151861"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4190",
+      "source": "PMC6908503",
+      "target": "CUSTOM:326346df",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4188",
+      "source": "PMC6908503",
+      "target": "CUSTOM:07f4c218",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4186",
+      "source": "PMC6908503",
+      "target": "CUSTOM:33f2f662",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4184",
+      "source": "PMC6908503",
+      "target": "CUSTOM:1d2baf74",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4182",
+      "source": "PMC6908503",
+      "target": "CUSTOM:08151861",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

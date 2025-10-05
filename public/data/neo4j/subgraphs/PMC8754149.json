@@ -1,0 +1,65 @@
+{
+  "pmcid": "PMC8754149",
+  "nodes": [
+    {
+      "fullLabel": "PMC8754149",
+      "id": "PMC8754149",
+      "label": "PMC8754149",
+      "properties": {
+        "pmcid": "PMC8754149",
+        "first_seen": "2025-10-05T07:29:03.666651",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.671704"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Production of the phytohormone IAA (indole-3-acetic acid) by space Sphingomonas strains",
+      "id": "CUSTOM:e7962df1",
+      "label": "Production of the...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.673268",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Production of the phytohormone IAA (indole-3-acetic acid) by space Sphingomonas strains",
+        "last_seen": "2025-10-05T07:29:03.673268",
+        "obo_id": "CUSTOM:e7962df1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Identification of genetic factors in Sphingomonas associated with the production of plant growth promoting factors (PGPFs) and aiding plant growth",
+      "id": "CUSTOM:e966f346",
+      "label": "Identification of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.668511",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Identification of genetic factors in Sphingomonas associated with the production of plant growth promoting factors (PGPFs) and aiding plant growth",
+        "last_seen": "2025-10-05T07:29:03.668511",
+        "obo_id": "CUSTOM:e966f346"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1006",
+      "source": "PMC8754149",
+      "target": "CUSTOM:e7962df1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1004",
+      "source": "PMC8754149",
+      "target": "CUSTOM:e966f346",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 3,
+  "num_edges": 2
+}

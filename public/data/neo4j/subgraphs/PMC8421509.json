@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC8421509",
+  "nodes": [
+    {
+      "fullLabel": "PMC8421509",
+      "id": "PMC8421509",
+      "label": "PMC8421509",
+      "properties": {
+        "pmcid": "PMC8421509",
+        "first_seen": "2025-10-05T07:29:11.941693",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:11.999261"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Reduced immune function in astronauts during spaceflight (reported by other studies)",
+      "id": "CUSTOM:400303a5",
+      "label": "Reduced immune fu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.001682",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Reduced immune function in astronauts during spaceflight (reported by other studies)",
+        "last_seen": "2025-10-05T07:29:12.001682",
+        "obo_id": "CUSTOM:400303a5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Increased biofilm formation and bacterial predation in multispecies biofilms from spaceflight water systems (reported by other studies)",
+      "id": "CUSTOM:23fa4a54",
+      "label": "Increased biofilm...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.993474",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Increased biofilm formation and bacterial predation in multispecies biofilms from spaceflight water systems (reported by other studies)",
+        "last_seen": "2025-10-05T07:29:11.993474",
+        "obo_id": "CUSTOM:23fa4a54"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Increased resistance to antimicrobial agents and enhanced biofilm formation in microbial communities from terrestrial water systems (reported by other studies)",
+      "id": "CUSTOM:53049c38",
+      "label": "Increased resista...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.984633",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Increased resistance to antimicrobial agents and enhanced biofilm formation in microbial communities from terrestrial water systems (reported by other studies)",
+        "last_seen": "2025-10-05T07:29:11.984633",
+        "obo_id": "CUSTOM:53049c38"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Increased EthD-2 signal (suggestive of extracellular DNA) in biofilms of specific species",
+      "id": "CUSTOM:83f450fc",
+      "label": "Increased EthD-2 ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.977500",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Increased EthD-2 signal (suggestive of extracellular DNA) in biofilms of specific species",
+        "last_seen": "2025-10-05T07:29:11.977500",
+        "obo_id": "CUSTOM:83f450fc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Distinct patterns of biofilm formation and differing extracellular matrix components among ISS potable water isolates",
+      "id": "CUSTOM:a0841be2",
+      "label": "Distinct patterns...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.970418",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Distinct patterns of biofilm formation and differing extracellular matrix components among ISS potable water isolates",
+        "last_seen": "2025-10-05T07:29:11.970418",
+        "obo_id": "CUSTOM:a0841be2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Unstable hemolytic phenotypes, mucoidy, colony morphology, and pigmentation in ISS Bcc isolates (unpredictable variations during repeated passage)",
+      "id": "CUSTOM:b5e038f1",
+      "label": "Unstable hemolyti...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.963585",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Unstable hemolytic phenotypes, mucoidy, colony morphology, and pigmentation in ISS Bcc isolates (unpredictable variations during repeated passage)",
+        "last_seen": "2025-10-05T07:29:11.963585",
+        "obo_id": "CUSTOM:b5e038f1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Hemolytic Burkholderia subpopulations that were multidrug resistant",
+      "id": "CUSTOM:2493a501",
+      "label": "Hemolytic Burkhol...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.956850",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Hemolytic Burkholderia subpopulations that were multidrug resistant",
+        "last_seen": "2025-10-05T07:29:11.956850",
+        "obo_id": "CUSTOM:2493a501"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Interspecies relationships between ISS potable water isolates (positive, negative, or neutral) with temporal dependence",
+      "id": "CUSTOM:597a4f0f",
+      "label": "Interspecies rela...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.949883",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Interspecies relationships between ISS potable water isolates (positive, negative, or neutral) with temporal dependence",
+        "last_seen": "2025-10-05T07:29:11.949883",
+        "obo_id": "CUSTOM:597a4f0f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ralstonia and Burkholderia were the major bacterial genera",
+      "id": "CUSTOM:39bdf6ee",
+      "label": "Ralstonia and Bur...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.943770",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ralstonia and Burkholderia were the major bacterial genera",
+        "last_seen": "2025-10-05T07:29:11.943770",
+        "obo_id": "CUSTOM:39bdf6ee"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3462",
+      "source": "PMC8421509",
+      "target": "CUSTOM:400303a5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3460",
+      "source": "PMC8421509",
+      "target": "CUSTOM:23fa4a54",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3458",
+      "source": "PMC8421509",
+      "target": "CUSTOM:53049c38",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3456",
+      "source": "PMC8421509",
+      "target": "CUSTOM:83f450fc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3454",
+      "source": "PMC8421509",
+      "target": "CUSTOM:a0841be2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3452",
+      "source": "PMC8421509",
+      "target": "CUSTOM:b5e038f1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3450",
+      "source": "PMC8421509",
+      "target": "CUSTOM:2493a501",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3448",
+      "source": "PMC8421509",
+      "target": "CUSTOM:597a4f0f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3446",
+      "source": "PMC8421509",
+      "target": "CUSTOM:39bdf6ee",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

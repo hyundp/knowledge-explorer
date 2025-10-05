@@ -1,0 +1,329 @@
+{
+  "pmcid": "PMC4349987",
+  "nodes": [
+    {
+      "fullLabel": "PMC4349987",
+      "id": "PMC4349987",
+      "label": "PMC4349987",
+      "properties": {
+        "pmcid": "PMC4349987",
+        "first_seen": "2025-10-05T07:29:11.383514",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:11.479355"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Evidence for AtANN1 functioning as a heat sensor",
+      "id": "CUSTOM:a3ba7a8c",
+      "label": "Evidence for AtAN...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.481401",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Evidence for AtANN1 functioning as a heat sensor",
+        "last_seen": "2025-10-05T07:29:11.481401",
+        "obo_id": "CUSTOM:a3ba7a8c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Relative abundance of AtANN1 among Arabidopsis annexins",
+      "id": "CUSTOM:94c89cf3",
+      "label": "Relative abundanc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.475106",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Relative abundance of AtANN1 among Arabidopsis annexins",
+        "last_seen": "2025-10-05T07:29:11.475106",
+        "obo_id": "CUSTOM:94c89cf3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Annexin membrane binding is calcium-dependent",
+      "id": "CUSTOM:407de887",
+      "label": "Annexin membrane ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.468472",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Annexin membrane binding is calcium-dependent",
+        "last_seen": "2025-10-05T07:29:11.468472",
+        "obo_id": "CUSTOM:407de887"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Total calcium concentration in ann1 and ann1/2 mutant seedlings compared to wild type",
+      "id": "CUSTOM:e3a7fe7f",
+      "label": "Total calcium con...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.462767",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Total calcium concentration in ann1 and ann1/2 mutant seedlings compared to wild type",
+        "last_seen": "2025-10-05T07:29:11.462767",
+        "obo_id": "CUSTOM:e3a7fe7f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Residual early small increase in cytosolic calcium ([Ca2+]cyt) in ann1/ann2 double mutant during heat shock",
+      "id": "CUSTOM:80e0e404",
+      "label": "Residual early sm...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.457162",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Residual early small increase in cytosolic calcium ([Ca2+]cyt) in ann1/ann2 double mutant during heat shock",
+        "last_seen": "2025-10-05T07:29:11.457162",
+        "obo_id": "CUSTOM:80e0e404"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Heat-induced change in cytosolic calcium ([Ca2+]cyt) in ann1/ann2 double mutant",
+      "id": "CUSTOM:5bb5475f",
+      "label": "Heat-induced chan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.450944",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Heat-induced change in cytosolic calcium ([Ca2+]cyt) in ann1/ann2 double mutant",
+        "last_seen": "2025-10-05T07:29:11.450944",
+        "obo_id": "CUSTOM:5bb5475f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Heat-induced change in cytosolic calcium ([Ca2+]cyt) in ann1 mutant",
+      "id": "CUSTOM:716a0b47",
+      "label": "Heat-induced chan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.444414",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Heat-induced change in cytosolic calcium ([Ca2+]cyt) in ann1 mutant",
+        "last_seen": "2025-10-05T07:29:11.444414",
+        "obo_id": "CUSTOM:716a0b47"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Heat-induced expression of heat shock factors (HSFs) and heat shock proteins (HSPs) in ann1/ann2 double mutant",
+      "id": "CUSTOM:574dd6a3",
+      "label": "Heat-induced expr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.437400",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Heat-induced expression of heat shock factors (HSFs) and heat shock proteins (HSPs) in ann1/ann2 double mutant",
+        "last_seen": "2025-10-05T07:29:11.437400",
+        "obo_id": "CUSTOM:574dd6a3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Heat stress resistance in AtANN1 overexpressing seedlings",
+      "id": "CUSTOM:cce63ca6",
+      "label": "Heat stress resis...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.431130",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Heat stress resistance in AtANN1 overexpressing seedlings",
+        "last_seen": "2025-10-05T07:29:11.431130",
+        "obo_id": "CUSTOM:cce63ca6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Heat shock sensitivity in AtANN6 knockout mutants",
+      "id": "CUSTOM:04f93e21",
+      "label": "Heat shock sensit...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.424690",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Heat shock sensitivity in AtANN6 knockout mutants",
+        "last_seen": "2025-10-05T07:29:11.424690",
+        "obo_id": "CUSTOM:04f93e21"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Heat shock sensitivity in AtANN1 or AtANN2 knockout mutants",
+      "id": "CUSTOM:63379d45",
+      "label": "Heat shock sensit...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.418707",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Heat shock sensitivity in AtANN1 or AtANN2 knockout mutants",
+        "last_seen": "2025-10-05T07:29:11.418707",
+        "obo_id": "CUSTOM:63379d45"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Calcium influx in response to heat shock in AtANN1 knockout seedlings",
+      "id": "CUSTOM:a7fe0d16",
+      "label": "Calcium influx in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.412205",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Calcium influx in response to heat shock in AtANN1 knockout seedlings",
+        "last_seen": "2025-10-05T07:29:11.412205",
+        "obo_id": "CUSTOM:a7fe0d16"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Abundance of AtANN1 in the microsomal membrane fraction",
+      "id": "CUSTOM:01b8b361",
+      "label": "Abundance of AtAN...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.392121",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Abundance of AtANN1 in the microsomal membrane fraction",
+        "last_seen": "2025-10-05T07:29:11.392121",
+        "obo_id": "CUSTOM:01b8b361"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cytosolic calcium concentration ([Ca2+]cyt) increases in response to heat stress",
+      "id": "CUSTOM:d70d8724",
+      "label": "Cytosolic calcium...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.385524",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cytosolic calcium concentration ([Ca2+]cyt) increases in response to heat stress",
+        "last_seen": "2025-10-05T07:29:11.385524",
+        "obo_id": "CUSTOM:d70d8724"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3322",
+      "source": "PMC4349987",
+      "target": "CUSTOM:a3ba7a8c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3320",
+      "source": "PMC4349987",
+      "target": "CUSTOM:94c89cf3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3318",
+      "source": "PMC4349987",
+      "target": "CUSTOM:407de887",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3316",
+      "source": "PMC4349987",
+      "target": "CUSTOM:e3a7fe7f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3314",
+      "source": "PMC4349987",
+      "target": "CUSTOM:80e0e404",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3312",
+      "source": "PMC4349987",
+      "target": "CUSTOM:5bb5475f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3310",
+      "source": "PMC4349987",
+      "target": "CUSTOM:716a0b47",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3308",
+      "source": "PMC4349987",
+      "target": "CUSTOM:574dd6a3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3306",
+      "source": "PMC4349987",
+      "target": "CUSTOM:cce63ca6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3304",
+      "source": "PMC4349987",
+      "target": "CUSTOM:04f93e21",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3302",
+      "source": "PMC4349987",
+      "target": "CUSTOM:63379d45",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3300",
+      "source": "PMC4349987",
+      "target": "CUSTOM:a7fe0d16",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3298",
+      "source": "PMC4349987",
+      "target": "CUSTOM:01b8b361",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3296",
+      "source": "PMC4349987",
+      "target": "CUSTOM:d70d8724",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 15,
+  "num_edges": 14
+}

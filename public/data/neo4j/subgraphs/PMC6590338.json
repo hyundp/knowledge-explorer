@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC6590338",
+  "nodes": [
+    {
+      "fullLabel": "PMC6590338",
+      "id": "PMC6590338",
+      "label": "PMC6590338",
+      "properties": {
+        "pmcid": "PMC6590338",
+        "first_seen": "2025-10-05T07:29:02.766356",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.779788"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "thorough characterization of the Aspergillus secondary metabolome",
+      "id": "CUSTOM:221e5601",
+      "label": "thorough characte...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.781083",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "thorough characterization of the Aspergillus secondary metabolome",
+        "last_seen": "2025-10-05T07:29:02.781083",
+        "obo_id": "CUSTOM:221e5601"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "number of secondary metabolites (SMs) from Aspergillus species that have been identified or linked to their biosynthetic gene clusters",
+      "id": "CUSTOM:87a4eb4b",
+      "label": "number of seconda...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.777651",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "number of secondary metabolites (SMs) from Aspergillus species that have been identified or linked to their biosynthetic gene clusters",
+        "last_seen": "2025-10-05T07:29:02.777651",
+        "obo_id": "CUSTOM:87a4eb4b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "capacity to apply genetic engineering to optimize SM production levels or to generate useful second generation analogs for pharmaceutical and industrial applications",
+      "id": "CUSTOM:595d8f17",
+      "label": "capacity to apply...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.774605",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "capacity to apply genetic engineering to optimize SM production levels or to generate useful second generation analogs for pharmaceutical and industrial applications",
+        "last_seen": "2025-10-05T07:29:02.774605",
+        "obo_id": "CUSTOM:595d8f17"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "understanding of fungal secondary metabolite (SM) biosynthetic processes and the underpinning genes",
+      "id": "CUSTOM:cbcce826",
+      "label": "understanding of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.771224",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "understanding of fungal secondary metabolite (SM) biosynthetic processes and the underpinning genes",
+        "last_seen": "2025-10-05T07:29:02.771224",
+        "obo_id": "CUSTOM:cbcce826"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ability to link SMs to their biosynthetic gene clusters",
+      "id": "CUSTOM:156f1e65",
+      "label": "ability to link S...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.767749",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ability to link SMs to their biosynthetic gene clusters",
+        "last_seen": "2025-10-05T07:29:02.767749",
+        "obo_id": "CUSTOM:156f1e65"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "722",
+      "source": "PMC6590338",
+      "target": "CUSTOM:221e5601",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "720",
+      "source": "PMC6590338",
+      "target": "CUSTOM:87a4eb4b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "718",
+      "source": "PMC6590338",
+      "target": "CUSTOM:595d8f17",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "716",
+      "source": "PMC6590338",
+      "target": "CUSTOM:cbcce826",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "714",
+      "source": "PMC6590338",
+      "target": "CUSTOM:156f1e65",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC5899691",
+  "nodes": [
+    {
+      "fullLabel": "PMC5899691",
+      "id": "PMC5899691",
+      "label": "PMC5899691",
+      "properties": {
+        "pmcid": "PMC5899691",
+        "first_seen": "2025-10-05T07:29:06.689994",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.766446"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Tight coupling between hair cells and afferents: afferents target subsets of hair cells and contacted hair cells distribute all or nearly all synaptic bodies to one afferent",
+      "id": "CUSTOM:5042c0e4",
+      "label": "Tight coupling be...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.768548",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Tight coupling between hair cells and afferents: afferents target subsets of hair cells and contacted hair cells distribute all or nearly all synaptic bodies to one afferent",
+        "last_seen": "2025-10-05T07:29:06.768548",
+        "obo_id": "CUSTOM:5042c0e4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Toadfish otolith mass is positioned to permit noninvasive imaging over extended periods",
+      "id": "CUSTOM:4db50d70",
+      "label": "Toadfish otolith ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.762710",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Toadfish otolith mass is positioned to permit noninvasive imaging over extended periods",
+        "last_seen": "2025-10-05T07:29:06.762710",
+        "obo_id": "CUSTOM:4db50d70"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Decreased calcification in the freshwater zebrafish otolith mass following hypergravity exposure",
+      "id": "CUSTOM:721a5c21",
+      "label": "Decreased calcifi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.757447",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Decreased calcification in the freshwater zebrafish otolith mass following hypergravity exposure",
+        "last_seen": "2025-10-05T07:29:06.757447",
+        "obo_id": "CUSTOM:721a5c21"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Otolith mass continues to grow in fish",
+      "id": "CUSTOM:0cd6298f",
+      "label": "Otolith mass cont...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.752272",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Otolith mass continues to grow in fish",
+        "last_seen": "2025-10-05T07:29:06.752272",
+        "obo_id": "CUSTOM:0cd6298f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Primary afferents innervating macular zones vary widely in structural parameters (e.g., dendritic volume, terminal specializations) and show general trends in complexity",
+      "id": "CUSTOM:cebc4914",
+      "label": "Primary afferents...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.746729",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Primary afferents innervating macular zones vary widely in structural parameters (e.g., dendritic volume, terminal specializations) and show general trends in complexity",
+        "last_seen": "2025-10-05T07:29:06.746729",
+        "obo_id": "CUSTOM:cebc4914"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Hair cells vary in density on the macula",
+      "id": "CUSTOM:e276206c",
+      "label": "Hair cells vary i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.740194",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Hair cells vary in density on the macula",
+        "last_seen": "2025-10-05T07:29:06.740194",
+        "obo_id": "CUSTOM:e276206c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Utricle macula is organized into zones including lateral extra striola, the striola (where hair bundle polarization reverses), and a largest medial zone",
+      "id": "CUSTOM:a825b130",
+      "label": "Utricle macula is...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.735183",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Utricle macula is organized into zones including lateral extra striola, the striola (where hair bundle polarization reverses), and a largest medial zone",
+        "last_seen": "2025-10-05T07:29:06.735183",
+        "obo_id": "CUSTOM:a825b130"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Highly structured organization with highly specific targeting of afferent processes",
+      "id": "CUSTOM:0a10747b",
+      "label": "Highly structured...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.729751",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Highly structured organization with highly specific targeting of afferent processes",
+        "last_seen": "2025-10-05T07:29:06.729751",
+        "obo_id": "CUSTOM:0a10747b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "One reconstructed hair cell shared its synaptic bodies between the labeled afferent and an unidentified branch (half and half)",
+      "id": "CUSTOM:29e41f6e",
+      "label": "One reconstructed...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.722818",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "One reconstructed hair cell shared its synaptic bodies between the labeled afferent and an unidentified branch (half and half)",
+        "last_seen": "2025-10-05T07:29:06.722818",
+        "obo_id": "CUSTOM:29e41f6e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Majority of reconstructed hair cells had all synaptic bodies associated with the labeled afferent",
+      "id": "CUSTOM:a6d4fc4b",
+      "label": "Majority of recon...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.717204",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Majority of reconstructed hair cells had all synaptic bodies associated with the labeled afferent",
+        "last_seen": "2025-10-05T07:29:06.717204",
+        "obo_id": "CUSTOM:a6d4fc4b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Synaptic bodies present and consistent in consecutive sections",
+      "id": "CUSTOM:1cce02e8",
+      "label": "Synaptic bodies p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.691813",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Synaptic bodies present and consistent in consecutive sections",
+        "last_seen": "2025-10-05T07:29:06.691813",
+        "obo_id": "CUSTOM:1cce02e8"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2014",
+      "source": "PMC5899691",
+      "target": "CUSTOM:5042c0e4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2012",
+      "source": "PMC5899691",
+      "target": "CUSTOM:4db50d70",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2010",
+      "source": "PMC5899691",
+      "target": "CUSTOM:721a5c21",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2008",
+      "source": "PMC5899691",
+      "target": "CUSTOM:0cd6298f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2006",
+      "source": "PMC5899691",
+      "target": "CUSTOM:cebc4914",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2004",
+      "source": "PMC5899691",
+      "target": "CUSTOM:e276206c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2002",
+      "source": "PMC5899691",
+      "target": "CUSTOM:a825b130",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2000",
+      "source": "PMC5899691",
+      "target": "CUSTOM:0a10747b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1998",
+      "source": "PMC5899691",
+      "target": "CUSTOM:29e41f6e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1996",
+      "source": "PMC5899691",
+      "target": "CUSTOM:a6d4fc4b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1994",
+      "source": "PMC5899691",
+      "target": "CUSTOM:1cce02e8",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

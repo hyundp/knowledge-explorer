@@ -1,0 +1,23 @@
+{
+  "pmcid": "PMC3818365",
+  "title": "IRE1: ER stress sensor and cell fate executor",
+  "authors": [
+    "Yani Chen",
+    "Federica Brandizzi"
+  ],
+  "year": "2013",
+  "journal": "Trends in cell biology",
+  "doi": "10.1016/j.tcb.2013.06.005",
+  "sections": {
+    "abstract": "Cells operate a signaling network termed unfolded protein response (UPR) to monitor protein folding capacity in the endoplasmic reticulum (ER). IRE1 is an ER transmembrane sensor that activates UPR to maintain ER and cellular function. While mammalian IRE1 promotes cell survive, it can initiate apoptosis via decay of anti apoptotic microRNAs. Convergent and divergent IRE1 characteristics between plants and animals underscore its significance in cellular homeostasis. This review provides an updated scenario of IRE1 signaling model, discusses emerging IRE1 sensing mechanisms, compares IRE1 features among species, and outlines exciting future directions in UPR research.\n\nKeywords:unfolded protein response, ER stress, IRE1, cell fate, protein quality control, membrane trafficking system",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "Significant progress on defining IRE1 mechanisms has been achieved. We now know that IRE1 activities are coordinated at a systemic level to cope with dynamic secretion activity. Whilein vitroexperimental systems and conditional IRE1 induction approaches reveal groundbreaking discoveries in the basic UPR knowledge [49,50,84 87], we are still far from a comprehensive understanding of UPR in intact organisms. The lethality of the mammalian IRE1alpha mutant represents a challenge to gaining insights into the IRE1 functionin vivo. In contrast, the viability of plant IRE1 mutants enablesin vivoanalyses to reveal its roles in organ growth, pathogen defense, and abiotic stress responses [17,33,88,89]. Moreover, with the ease of building high order plant mutants,in vivophenotypic analyses show thatArabidopsisIRE1 and a conserved component of the G protein complex display a synergistic effect in both plant UPR activation and growth regulation. The study underscores that the UPR network can be built in intact organisms using plants as a model system [17]. With more systematic and quantitative studies of UPRin vivo, there are certainly significant findings ahead that will decipher the dynamic UPR maps close to a genuinely physiological scenario."
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:00:37.255246",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3818365/"
+  }
+}

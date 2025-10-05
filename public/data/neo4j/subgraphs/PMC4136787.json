@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC4136787",
+  "nodes": [
+    {
+      "fullLabel": "PMC4136787",
+      "id": "PMC4136787",
+      "label": "PMC4136787",
+      "properties": {
+        "pmcid": "PMC4136787",
+        "first_seen": "2025-10-05T07:29:01.163742",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.211456"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "good condition of spaceflight mice supporting positive recovery and tissue sharing results",
+      "id": "CUSTOM:289bbc1e",
+      "label": "good condition of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.213073",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "good condition of spaceflight mice supporting positive recovery and tissue sharing results",
+        "last_seen": "2025-10-05T07:29:01.213073",
+        "obo_id": "CUSTOM:289bbc1e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "value of daily video recordings for science, welfare, and event assessment",
+      "id": "CUSTOM:288f41c9",
+      "label": "value of daily vi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.208598",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "value of daily video recordings for science, welfare, and event assessment",
+        "last_seen": "2025-10-05T07:29:01.208598",
+        "obo_id": "CUSTOM:288f41c9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "comprehensiveness of data on recovery mechanisms following exposure to microgravity",
+      "id": "CUSTOM:d7bb3b87",
+      "label": "comprehensiveness...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.204608",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "comprehensiveness of data on recovery mechanisms following exposure to microgravity",
+        "last_seen": "2025-10-05T07:29:01.204608",
+        "obo_id": "CUSTOM:d7bb3b87"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "scientific output from flight experiments due to implantable telemetry",
+      "id": "CUSTOM:b59cc90f",
+      "label": "scientific output...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.200338",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "scientific output from flight experiments due to implantable telemetry",
+        "last_seen": "2025-10-05T07:29:01.200338",
+        "obo_id": "CUSTOM:b59cc90f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "risk of injuries and deaths due to moving parts within the habitat",
+      "id": "CUSTOM:ed81e710",
+      "label": "risk of injuries ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.196047",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "risk of injuries and deaths due to moving parts within the habitat",
+        "last_seen": "2025-10-05T07:29:01.196047",
+        "obo_id": "CUSTOM:ed81e710"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "project failures (related to food distribution and behavior)",
+      "id": "CUSTOM:1d63eafa",
+      "label": "project failures ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.191259",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "project failures (related to food distribution and behavior)",
+        "last_seen": "2025-10-05T07:29:01.191259",
+        "obo_id": "CUSTOM:1d63eafa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "feasibility of using group-housed male mice in space biomedical research",
+      "id": "CUSTOM:2b76d819",
+      "label": "feasibility of us...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.185633",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "feasibility of using group-housed male mice in space biomedical research",
+        "last_seen": "2025-10-05T07:29:01.185633",
+        "obo_id": "CUSTOM:2b76d819"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adaptation to stressful conditions of space flight and collection of less variable baseline data",
+      "id": "CUSTOM:0f7e5c7b",
+      "label": "adaptation to str...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.178785",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adaptation to stressful conditions of space flight and collection of less variable baseline data",
+        "last_seen": "2025-10-05T07:29:01.178785",
+        "obo_id": "CUSTOM:0f7e5c7b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "body size (male vs female)",
+      "id": "CUSTOM:b11f71ed",
+      "label": "body size (male v...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.173713",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "body size (male vs female)",
+        "last_seen": "2025-10-05T07:29:01.173713",
+        "obo_id": "CUSTOM:b11f71ed"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "aggressive interactions",
+      "id": "CUSTOM:65b0c391",
+      "label": "aggressive intera...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.169311",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "aggressive interactions",
+        "last_seen": "2025-10-05T07:29:01.169311",
+        "obo_id": "CUSTOM:65b0c391"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "sex of the mice (male)",
+      "id": "CUSTOM:61d6cdaa",
+      "label": "sex of the mice (...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.165191",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "sex of the mice (male)",
+        "last_seen": "2025-10-05T07:29:01.165191",
+        "obo_id": "CUSTOM:61d6cdaa"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "178",
+      "source": "PMC4136787",
+      "target": "CUSTOM:289bbc1e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "176",
+      "source": "PMC4136787",
+      "target": "CUSTOM:288f41c9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "174",
+      "source": "PMC4136787",
+      "target": "CUSTOM:d7bb3b87",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "172",
+      "source": "PMC4136787",
+      "target": "CUSTOM:b59cc90f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "170",
+      "source": "PMC4136787",
+      "target": "CUSTOM:ed81e710",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "168",
+      "source": "PMC4136787",
+      "target": "CUSTOM:1d63eafa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "166",
+      "source": "PMC4136787",
+      "target": "CUSTOM:2b76d819",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "164",
+      "source": "PMC4136787",
+      "target": "CUSTOM:0f7e5c7b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "162",
+      "source": "PMC4136787",
+      "target": "CUSTOM:b11f71ed",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "160",
+      "source": "PMC4136787",
+      "target": "CUSTOM:65b0c391",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "158",
+      "source": "PMC4136787",
+      "target": "CUSTOM:61d6cdaa",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC7954810",
+  "nodes": [
+    {
+      "fullLabel": "PMC7954810",
+      "id": "PMC7954810",
+      "label": "PMC7954810",
+      "properties": {
+        "pmcid": "PMC7954810",
+        "first_seen": "2025-10-05T07:29:01.618543",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.663749"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "RNA integrity (RIN) in freshly isolated ovarian tissues snap frozen in liquid nitrogen",
+      "id": "CUSTOM:209b2486",
+      "label": "RNA integrity (RI...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.665166",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "RNA integrity (RIN) in freshly isolated ovarian tissues snap frozen in liquid nitrogen",
+        "last_seen": "2025-10-05T07:29:01.665166",
+        "obo_id": "CUSTOM:209b2486"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "RNA integrity (RIN) in ovarian tissues: LN (liquid nitrogen) snap frozen vs RNALater preserved",
+      "id": "CUSTOM:18dea83d",
+      "label": "RNA integrity (RI...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.661071",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "RNA integrity (RIN) in ovarian tissues: LN (liquid nitrogen) snap frozen vs RNALater preserved",
+        "last_seen": "2025-10-05T07:29:01.661071",
+        "obo_id": "CUSTOM:18dea83d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cyp17a1 expression (enzyme in the theca cell compartment responsible for androgen production)",
+      "id": "CUSTOM:34af9f54",
+      "label": "Cyp17a1 expressio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.656698",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cyp17a1 expression (enzyme in the theca cell compartment responsible for androgen production)",
+        "last_seen": "2025-10-05T07:29:01.656698",
+        "obo_id": "CUSTOM:34af9f54"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Whole ovarian gene expression (global) across treatment groups and estrous stages",
+      "id": "CUSTOM:1394aa6a",
+      "label": "Whole ovarian gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.639639",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Whole ovarian gene expression (global) across treatment groups and estrous stages",
+        "last_seen": "2025-10-05T07:29:01.639639",
+        "obo_id": "CUSTOM:1394aa6a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ovarian tissue progesterone (P4) levels",
+      "id": "CUSTOM:22d1f968",
+      "label": "Ovarian tissue pr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.635772",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ovarian tissue progesterone (P4) levels",
+        "last_seen": "2025-10-05T07:29:01.635772",
+        "obo_id": "CUSTOM:22d1f968"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ovarian tissue estrogen concentration",
+      "id": "CUSTOM:6446c1cb",
+      "label": "Ovarian tissue es...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.631350",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ovarian tissue estrogen concentration",
+        "last_seen": "2025-10-05T07:29:01.631350",
+        "obo_id": "CUSTOM:6446c1cb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of estrous cycle activity (stages observed: estrus and metestrus) in flight animals",
+      "id": "CUSTOM:db1b1b84",
+      "label": "Presence of estro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.627815",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of estrous cycle activity (stages observed: estrus and metestrus) in flight animals",
+        "last_seen": "2025-10-05T07:29:01.627815",
+        "obo_id": "CUSTOM:db1b1b84"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Activity and mobility; engagement in feeding, drinking, self grooming, huddling, and social interactions",
+      "id": "CUSTOM:260d1937",
+      "label": "Activity and mobi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.623973",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Activity and mobility; engagement in feeding, drinking, self grooming, huddling, and social interactions",
+        "last_seen": "2025-10-05T07:29:01.623973",
+        "obo_id": "CUSTOM:260d1937"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Overt physiological signs of chronic stress or compromised health or welfare",
+      "id": "CUSTOM:eafe9f04",
+      "label": "Overt physiologic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.620012",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Overt physiological signs of chronic stress or compromised health or welfare",
+        "last_seen": "2025-10-05T07:29:01.620012",
+        "obo_id": "CUSTOM:eafe9f04"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "326",
+      "source": "PMC7954810",
+      "target": "CUSTOM:209b2486",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "324",
+      "source": "PMC7954810",
+      "target": "CUSTOM:18dea83d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "322",
+      "source": "PMC7954810",
+      "target": "CUSTOM:34af9f54",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "320",
+      "source": "PMC7954810",
+      "target": "CUSTOM:1394aa6a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "318",
+      "source": "PMC7954810",
+      "target": "CUSTOM:22d1f968",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "316",
+      "source": "PMC7954810",
+      "target": "CUSTOM:6446c1cb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "314",
+      "source": "PMC7954810",
+      "target": "CUSTOM:db1b1b84",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "312",
+      "source": "PMC7954810",
+      "target": "CUSTOM:260d1937",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "310",
+      "source": "PMC7954810",
+      "target": "CUSTOM:eafe9f04",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

@@ -1,0 +1,40 @@
+{
+  "pmcid": "PMC5552977",
+  "title": "Draft Genome Sequences from a Novel Clade of Bacillus cereusSensu Lato Strains, Isolated from the International Space Station",
+  "authors": [
+    "Kasthuri Venkateswaran",
+    "Aleksandra Checinska Sielaff",
+    "Shashikala Ratnayake",
+    "Robert K Pope",
+    "Thomas E Blank",
+    "Victor G Stepanov",
+    "George E Fox",
+    "Sandra P van Tongeren",
+    "Clinton Torres",
+    "Jonathan Allen",
+    "Crystal Jaing",
+    "Duane Pierson",
+    "Jay Perry",
+    "Sergey Koren",
+    "Adam Phillippy",
+    "Joy Klubnik",
+    "Todd J Treangen",
+    "M J Rosovitz",
+    "Nicholas H Bergman"
+  ],
+  "year": "2017",
+  "journal": "Genome Announcements",
+  "doi": "10.1128/genomeA.00680 17",
+  "sections": {
+    "abstract": "The draft genome sequences of sixBacillusstrains, isolated from the International Space Station and belonging to theBacillus anthracis B. cereus B.thuringiensisgroup, are presented here. These strains were isolated from the Japanese Experiment Module (one strain), U.S. Harmony Node 2 (three strains), and Russian Segment Zvezda Module (two strains).",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:07:37.238604",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5552977/"
+  }
+}

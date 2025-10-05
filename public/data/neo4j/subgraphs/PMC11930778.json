@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC11930778",
+  "nodes": [
+    {
+      "fullLabel": "PMC11930778",
+      "id": "PMC11930778",
+      "label": "PMC11930778",
+      "properties": {
+        "pmcid": "PMC11930778",
+        "first_seen": "2025-10-05T07:29:10.956562",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:10.993477"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Potential use of CAHS proteins as cryoprotectants",
+      "id": "CUSTOM:57833938",
+      "label": "Potential use of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.995312",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential use of CAHS proteins as cryoprotectants",
+        "last_seen": "2025-10-05T07:29:10.995312",
+        "obo_id": "CUSTOM:57833938"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Resistance to sorbitol-induced hyperosmotic stress conferred by expression of CAHS1, CAHS3, and CAHS8",
+      "id": "CUSTOM:1a0b9656",
+      "label": "Resistance to sor...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.989217",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Resistance to sorbitol-induced hyperosmotic stress conferred by expression of CAHS1, CAHS3, and CAHS8",
+        "last_seen": "2025-10-05T07:29:10.989217",
+        "obo_id": "CUSTOM:1a0b9656"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Reversible aggregation and formation of granular and filamentous structures upon hyperosmotic stress",
+      "id": "CUSTOM:35830b6c",
+      "label": "Reversible aggreg...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.982068",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Reversible aggregation and formation of granular and filamentous structures upon hyperosmotic stress",
+        "last_seen": "2025-10-05T07:29:10.982068",
+        "obo_id": "CUSTOM:35830b6c"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3194",
+      "source": "PMC11930778",
+      "target": "CUSTOM:57833938",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3192",
+      "source": "PMC11930778",
+      "target": "CUSTOM:1a0b9656",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3190",
+      "source": "PMC11930778",
+      "target": "CUSTOM:35830b6c",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

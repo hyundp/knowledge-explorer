@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC6889863",
+  "nodes": [
+    {
+      "fullLabel": "PMC6889863",
+      "id": "PMC6889863",
+      "label": "PMC6889863",
+      "properties": {
+        "pmcid": "PMC6889863",
+        "first_seen": "2025-10-05T07:29:03.491990",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.518386"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "activity of responses based on cell tensegrity",
+      "id": "CUSTOM:ec8209f1",
+      "label": "activity of respo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.520427",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "activity of responses based on cell tensegrity",
+        "last_seen": "2025-10-05T07:29:03.520427",
+        "obo_id": "CUSTOM:ec8209f1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "significance of membrane-related gene ontologies",
+      "id": "CUSTOM:91236043",
+      "label": "significance of m...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.514441",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "significance of membrane-related gene ontologies",
+        "last_seen": "2025-10-05T07:29:03.514441",
+        "obo_id": "CUSTOM:91236043"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "general stress response",
+      "id": "CUSTOM:b0773e25",
+      "label": "general stress re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.507606",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "general stress response",
+        "last_seen": "2025-10-05T07:29:03.507606",
+        "obo_id": "CUSTOM:b0773e25"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "microgravity-induced effects (phototropic/transcriptional effects)",
+      "id": "CUSTOM:c239213c",
+      "label": "microgravity-indu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.503236",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "microgravity-induced effects (phototropic/transcriptional effects)",
+        "last_seen": "2025-10-05T07:29:03.503236",
+        "obo_id": "CUSTOM:c239213c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "phototropic effect in roots/seedlings under blue light",
+      "id": "CUSTOM:4b3400e8",
+      "label": "phototropic effec...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.498438",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "phototropic effect in roots/seedlings under blue light",
+        "last_seen": "2025-10-05T07:29:03.498438",
+        "obo_id": "CUSTOM:4b3400e8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "gene expression in multiple pathways associated with photosynthesis",
+      "id": "CUSTOM:983f4cdd",
+      "label": "gene expression i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.493760",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "gene expression in multiple pathways associated with photosynthesis",
+        "last_seen": "2025-10-05T07:29:03.493760",
+        "obo_id": "CUSTOM:983f4cdd"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "952",
+      "source": "PMC6889863",
+      "target": "CUSTOM:ec8209f1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "950",
+      "source": "PMC6889863",
+      "target": "CUSTOM:91236043",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "948",
+      "source": "PMC6889863",
+      "target": "CUSTOM:b0773e25",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "946",
+      "source": "PMC6889863",
+      "target": "CUSTOM:c239213c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "944",
+      "source": "PMC6889863",
+      "target": "CUSTOM:4b3400e8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "942",
+      "source": "PMC6889863",
+      "target": "CUSTOM:983f4cdd",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

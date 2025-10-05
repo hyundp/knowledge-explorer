@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC10063413",
+  "nodes": [
+    {
+      "fullLabel": "PMC10063413",
+      "id": "PMC10063413",
+      "label": "PMC10063413",
+      "properties": {
+        "pmcid": "PMC10063413",
+        "first_seen": "2025-10-05T07:29:03.196758",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.210005"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "experimental results influenced by thermoregulation differences",
+      "id": "CUSTOM:82d62b69",
+      "label": "experimental resu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.211883",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "experimental results influenced by thermoregulation differences",
+        "last_seen": "2025-10-05T07:29:03.211883",
+        "obo_id": "CUSTOM:82d62b69"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "skeletal response to chronic cold stress",
+      "id": "CUSTOM:4ee82205",
+      "label": "skeletal response...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.207184",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "skeletal response to chronic cold stress",
+        "last_seen": "2025-10-05T07:29:03.207184",
+        "obo_id": "CUSTOM:4ee82205"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "skeletal response to chronic cold stress",
+      "id": "CUSTOM:ba868928",
+      "label": "skeletal response...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.203107",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "skeletal response to chronic cold stress",
+        "last_seen": "2025-10-05T07:29:03.203107",
+        "obo_id": "CUSTOM:ba868928"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "bone mass and architecture influenced by housing conditions",
+      "id": "CUSTOM:99ca972d",
+      "label": "bone mass and arc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.198378",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "bone mass and architecture influenced by housing conditions",
+        "last_seen": "2025-10-05T07:29:03.198378",
+        "obo_id": "CUSTOM:99ca972d"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "862",
+      "source": "PMC10063413",
+      "target": "CUSTOM:82d62b69",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "860",
+      "source": "PMC10063413",
+      "target": "CUSTOM:4ee82205",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "858",
+      "source": "PMC10063413",
+      "target": "CUSTOM:ba868928",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "856",
+      "source": "PMC10063413",
+      "target": "CUSTOM:99ca972d",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

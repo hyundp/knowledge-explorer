@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC2998437",
+  "nodes": [
+    {
+      "fullLabel": "PMC2998437",
+      "id": "PMC2998437",
+      "label": "PMC2998437",
+      "properties": {
+        "pmcid": "PMC2998437",
+        "first_seen": "2025-10-05T07:29:11.685236",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:11.752932"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Observation of channel function for LDAO-solubilized SaMscL tetramers (reported by Liu et al.)",
+      "id": "CUSTOM:daaa6d65",
+      "label": "Observation of ch...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.754925",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Observation of channel function for LDAO-solubilized SaMscL tetramers (reported by Liu et al.)",
+        "last_seen": "2025-10-05T07:29:11.754925",
+        "obo_id": "CUSTOM:daaa6d65"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Synthetically synthesized EcoMscL oligomerizes into functional channels when incorporated into lipid membranes",
+      "id": "CUSTOM:01f5dd06",
+      "label": "Synthetically syn...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.748927",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Synthetically synthesized EcoMscL oligomerizes into functional channels when incorporated into lipid membranes",
+        "last_seen": "2025-10-05T07:29:11.748927",
+        "obo_id": "CUSTOM:01f5dd06"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "EcoMscL spontaneously assembles into pentamers when translated in vitro and purified in the presence of Triton X-100",
+      "id": "CUSTOM:ca7dec3f",
+      "label": "EcoMscL spontaneo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.743033",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "EcoMscL spontaneously assembles into pentamers when translated in vitro and purified in the presence of Triton X-100",
+        "last_seen": "2025-10-05T07:29:11.743033",
+        "obo_id": "CUSTOM:ca7dec3f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Detergents alone can stabilize alternative oligomeric states of full-length SaMscL in solution",
+      "id": "CUSTOM:34c52118",
+      "label": "Detergents alone ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.736201",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Detergents alone can stabilize alternative oligomeric states of full-length SaMscL in solution",
+        "last_seen": "2025-10-05T07:29:11.736201",
+        "obo_id": "CUSTOM:34c52118"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Abundance of LDAO-induced SaMscL tetramers in vivo",
+      "id": "CUSTOM:8282d58f",
+      "label": "Abundance of LDAO...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.728865",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Abundance of LDAO-induced SaMscL tetramers in vivo",
+        "last_seen": "2025-10-05T07:29:11.728865",
+        "obo_id": "CUSTOM:8282d58f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "LDAO reorganizes SaMscL into tetramers in solution",
+      "id": "CUSTOM:2a03ef83",
+      "label": "LDAO reorganizes ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.721607",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "LDAO reorganizes SaMscL into tetramers in solution",
+        "last_seen": "2025-10-05T07:29:11.721607",
+        "obo_id": "CUSTOM:2a03ef83"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "C8E5 and Triton X-100 promote proper folding and assembly of SaMscL into pentamers",
+      "id": "CUSTOM:5975beb1",
+      "label": "C8E5 and Triton X...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.714986",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "C8E5 and Triton X-100 promote proper folding and assembly of SaMscL into pentamers",
+        "last_seen": "2025-10-05T07:29:11.714986",
+        "obo_id": "CUSTOM:5975beb1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of small amounts of tetramers and smaller oligomers of SaMscL in biochemical assays",
+      "id": "CUSTOM:b281cbbf",
+      "label": "Presence of small...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.708460",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of small amounts of tetramers and smaller oligomers of SaMscL in biochemical assays",
+        "last_seen": "2025-10-05T07:29:11.708460",
+        "obo_id": "CUSTOM:b281cbbf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Predominant in vivo oligomeric state of SaMscL (pentameric structure)",
+      "id": "CUSTOM:d8d708f0",
+      "label": "Predominant in vi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.701066",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Predominant in vivo oligomeric state of SaMscL (pentameric structure)",
+        "last_seen": "2025-10-05T07:29:11.701066",
+        "obo_id": "CUSTOM:d8d708f0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability of SEC alone to detect detergent-induced oligomeric state changes",
+      "id": "CUSTOM:30458718",
+      "label": "Ability of SEC al...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.694595",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability of SEC alone to detect detergent-induced oligomeric state changes",
+        "last_seen": "2025-10-05T07:29:11.694595",
+        "obo_id": "CUSTOM:30458718"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Changes in oligomeric state upon detergent solubilization of SaMscL",
+      "id": "CUSTOM:9e1778cd",
+      "label": "Changes in oligom...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.687718",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Changes in oligomeric state upon detergent solubilization of SaMscL",
+        "last_seen": "2025-10-05T07:29:11.687718",
+        "obo_id": "CUSTOM:9e1778cd"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3398",
+      "source": "PMC2998437",
+      "target": "CUSTOM:daaa6d65",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3396",
+      "source": "PMC2998437",
+      "target": "CUSTOM:01f5dd06",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3394",
+      "source": "PMC2998437",
+      "target": "CUSTOM:ca7dec3f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3392",
+      "source": "PMC2998437",
+      "target": "CUSTOM:34c52118",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3390",
+      "source": "PMC2998437",
+      "target": "CUSTOM:8282d58f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3388",
+      "source": "PMC2998437",
+      "target": "CUSTOM:2a03ef83",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3386",
+      "source": "PMC2998437",
+      "target": "CUSTOM:5975beb1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3384",
+      "source": "PMC2998437",
+      "target": "CUSTOM:b281cbbf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3382",
+      "source": "PMC2998437",
+      "target": "CUSTOM:d8d708f0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3380",
+      "source": "PMC2998437",
+      "target": "CUSTOM:30458718",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3378",
+      "source": "PMC2998437",
+      "target": "CUSTOM:9e1778cd",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC11046949",
+  "nodes": [
+    {
+      "fullLabel": "PMC11046949",
+      "id": "PMC11046949",
+      "label": "PMC11046949",
+      "properties": {
+        "pmcid": "PMC11046949",
+        "first_seen": "2025-10-05T07:29:02.509813",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.518186"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Antiviral and anti-inflammatory properties of tetrandrine (relative to berbamine)",
+      "id": "CUSTOM:aff15292",
+      "label": "Antiviral and ant...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.519919",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Antiviral and anti-inflammatory properties of tetrandrine (relative to berbamine)",
+        "last_seen": "2025-10-05T07:29:02.519919",
+        "obo_id": "CUSTOM:aff15292"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Virus-induced pro inflammatory cytokine production",
+      "id": "CUSTOM:835f97db",
+      "label": "Virus-induced pro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.515639",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Virus-induced pro inflammatory cytokine production",
+        "last_seen": "2025-10-05T07:29:02.515639",
+        "obo_id": "CUSTOM:835f97db"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ASFV viral entry / infection",
+      "id": "CUSTOM:350af4e0",
+      "label": "ASFV viral entry ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.511194",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ASFV viral entry / infection",
+        "last_seen": "2025-10-05T07:29:02.511194",
+        "obo_id": "CUSTOM:350af4e0"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "620",
+      "source": "PMC11046949",
+      "target": "CUSTOM:aff15292",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "618",
+      "source": "PMC11046949",
+      "target": "CUSTOM:835f97db",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "616",
+      "source": "PMC11046949",
+      "target": "CUSTOM:350af4e0",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

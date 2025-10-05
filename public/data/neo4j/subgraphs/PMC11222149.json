@@ -1,0 +1,307 @@
+{
+  "pmcid": "PMC11222149",
+  "nodes": [
+    {
+      "fullLabel": "PMC11222149",
+      "id": "PMC11222149",
+      "label": "PMC11222149",
+      "properties": {
+        "pmcid": "PMC11222149",
+        "first_seen": "2025-10-05T07:29:14.610060",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:14.740700"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "low biomass in some samples requiring PCR amplification and increased duplicate sequencing rates",
+      "id": "CUSTOM:66dcd76a",
+      "label": "low biomass in so...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.764022",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "low biomass in some samples requiring PCR amplification and increased duplicate sequencing rates",
+        "last_seen": "2025-10-05T07:29:14.764022",
+        "obo_id": "CUSTOM:66dcd76a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "increased expression of specific immune modulatory genes across multiple immune cell types",
+      "id": "CUSTOM:f36fb2fe",
+      "label": "increased express...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.735088",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "increased expression of specific immune modulatory genes across multiple immune cell types",
+        "last_seen": "2025-10-05T07:29:14.735088",
+        "obo_id": "CUSTOM:f36fb2fe"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "species potentially acquired from the environment in flight not associated with immune cell changes",
+      "id": "CUSTOM:7e5935e5",
+      "label": "species potential...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.725810",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "species potentially acquired from the environment in flight not associated with immune cell changes",
+        "last_seen": "2025-10-05T07:29:14.725810",
+        "obo_id": "CUSTOM:7e5935e5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "correlation between native microbiome shifts and host immune changes",
+      "id": "CUSTOM:e76aa060",
+      "label": "correlation betwe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.716385",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "correlation between native microbiome shifts and host immune changes",
+        "last_seen": "2025-10-05T07:29:14.716385",
+        "obo_id": "CUSTOM:e76aa060"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "bacterial, viral and gene level microbiome shifts",
+      "id": "CUSTOM:d2372853",
+      "label": "bacterial, viral ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.707273",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "bacterial, viral and gene level microbiome shifts",
+        "last_seen": "2025-10-05T07:29:14.707273",
+        "obo_id": "CUSTOM:d2372853"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Identification of hemX as a top microbial gene in the nasal microbiome corresponding to the haem uptake protein IsdC",
+      "id": "CUSTOM:49f16b37",
+      "label": "Identification of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.699213",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Identification of hemX as a top microbial gene in the nasal microbiome corresponding to the haem uptake protein IsdC",
+        "last_seen": "2025-10-05T07:29:14.699213",
+        "obo_id": "CUSTOM:49f16b37"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Top microbial genes associated with the most human genes were detected via both shifts in relative abundance (DNA) and expression (RNA) and included particular functional annotations",
+      "id": "CUSTOM:53593a19",
+      "label": "Top microbial gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.691181",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Top microbial genes associated with the most human genes were detected via both shifts in relative abundance (DNA) and expression (RNA) and included particular functional annotations",
+        "last_seen": "2025-10-05T07:29:14.691181",
+        "obo_id": "CUSTOM:53593a19"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Several oral microbial taxa showed strong associations with host immune gene expression",
+      "id": "CUSTOM:1491584c",
+      "label": "Several oral micr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.683015",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Several oral microbial taxa showed strong associations with host immune gene expression",
+        "last_seen": "2025-10-05T07:29:14.683015",
+        "obo_id": "CUSTOM:1491584c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Increase in relative abundance of Gemella morbillorum during or after flight that was associated with many immune cell subtypes",
+      "id": "CUSTOM:0ca19a26",
+      "label": "Increase in relat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.673615",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Increase in relative abundance of Gemella morbillorum during or after flight that was associated with many immune cell subtypes",
+        "last_seen": "2025-10-05T07:29:14.673615",
+        "obo_id": "CUSTOM:0ca19a26"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Persistent increase after flight in abundance of Streptococcus gordonii A that was associated with many host immune genes across multiple immune cell subtypes",
+      "id": "CUSTOM:2e9cecf3",
+      "label": "Persistent increa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.660947",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Persistent increase after flight in abundance of Streptococcus gordonii A that was associated with many host immune genes across multiple immune cell subtypes",
+        "last_seen": "2025-10-05T07:29:14.660947",
+        "obo_id": "CUSTOM:2e9cecf3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Association of Streptococcus pneumoniae A gene expression with human immune genes in natural killer cells",
+      "id": "CUSTOM:9605fcb0",
+      "label": "Association of St...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.633213",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Association of Streptococcus pneumoniae A gene expression with human immune genes in natural killer cells",
+        "last_seen": "2025-10-05T07:29:14.633213",
+        "obo_id": "CUSTOM:9605fcb0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Correlation between genus FamilyGenomoviridae (a virus targeting fungi) and human immune genes in natural killer cells",
+      "id": "CUSTOM:9f6b2e05",
+      "label": "Correlation betwe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.623409",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Correlation between genus FamilyGenomoviridae (a virus targeting fungi) and human immune genes in natural killer cells",
+        "last_seen": "2025-10-05T07:29:14.623409",
+        "obo_id": "CUSTOM:9f6b2e05"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Link between viruses and immune cell gene expression, with most viral associations in specific immune cell types and predominantly in the skin microbiome",
+      "id": "CUSTOM:0aecc050",
+      "label": "Link between viru...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.613600",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Link between viruses and immune cell gene expression, with most viral associations in specific immune cell types and predominantly in the skin microbiome",
+        "last_seen": "2025-10-05T07:29:14.613600",
+        "obo_id": "CUSTOM:0aecc050"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4120",
+      "source": "PMC11222149",
+      "target": "CUSTOM:66dcd76a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4118",
+      "source": "PMC11222149",
+      "target": "CUSTOM:f36fb2fe",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4116",
+      "source": "PMC11222149",
+      "target": "CUSTOM:7e5935e5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4114",
+      "source": "PMC11222149",
+      "target": "CUSTOM:e76aa060",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4112",
+      "source": "PMC11222149",
+      "target": "CUSTOM:d2372853",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4110",
+      "source": "PMC11222149",
+      "target": "CUSTOM:49f16b37",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4108",
+      "source": "PMC11222149",
+      "target": "CUSTOM:53593a19",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4106",
+      "source": "PMC11222149",
+      "target": "CUSTOM:1491584c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4104",
+      "source": "PMC11222149",
+      "target": "CUSTOM:0ca19a26",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4102",
+      "source": "PMC11222149",
+      "target": "CUSTOM:2e9cecf3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4100",
+      "source": "PMC11222149",
+      "target": "CUSTOM:9605fcb0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4098",
+      "source": "PMC11222149",
+      "target": "CUSTOM:9f6b2e05",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4096",
+      "source": "PMC11222149",
+      "target": "CUSTOM:0aecc050",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 14,
+  "num_edges": 13
+}

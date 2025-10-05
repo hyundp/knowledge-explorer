@@ -1,0 +1,527 @@
+{
+  "pmcid": "PMC9706465",
+  "nodes": [
+    {
+      "fullLabel": "PMC9706465",
+      "id": "PMC9706465",
+      "label": "PMC9706465",
+      "properties": {
+        "pmcid": "PMC9706465",
+        "first_seen": "2025-10-05T07:29:07.301657",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:07.478531"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Downregulation of the CAX1 activator during anoxia may improve anoxia tolerance",
+      "id": "CUSTOM:02f1a13e",
+      "label": "Downregulation of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.480324",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Downregulation of the CAX1 activator during anoxia may improve anoxia tolerance",
+        "last_seen": "2025-10-05T07:29:07.480324",
+        "obo_id": "CUSTOM:02f1a13e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Downregulation of the CAX1 activator during anoxia transiently impairs CAX1 function",
+      "id": "CUSTOM:51570b1f",
+      "label": "Downregulation of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.474921",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Downregulation of the CAX1 activator during anoxia transiently impairs CAX1 function",
+        "last_seen": "2025-10-05T07:29:07.474921",
+        "obo_id": "CUSTOM:51570b1f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Activation of CAX1 by a specific regulatory protein during anoxic conditions",
+      "id": "CUSTOM:2701d5f1",
+      "label": "Activation of CAX...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.469764",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Activation of CAX1 by a specific regulatory protein during anoxic conditions",
+        "last_seen": "2025-10-05T07:29:07.469764",
+        "obo_id": "CUSTOM:2701d5f1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Baseline activity of CAX transporters is autoinhibited (requires protein partner for activation)",
+      "id": "CUSTOM:cf9aaa0a",
+      "label": "Baseline activity...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.464442",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Baseline activity of CAX transporters is autoinhibited (requires protein partner for activation)",
+        "last_seen": "2025-10-05T07:29:07.464442",
+        "obo_id": "CUSTOM:cf9aaa0a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Impact of CAX transporters on plant signal transduction pathways",
+      "id": "CUSTOM:66fa7003",
+      "label": "Impact of CAX tra...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.459611",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Impact of CAX transporters on plant signal transduction pathways",
+        "last_seen": "2025-10-05T07:29:07.459611",
+        "obo_id": "CUSTOM:66fa7003"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Breadth and amplitude of changes caused by loss of a single tonoplast H+/Ca transporter",
+      "id": "CUSTOM:c6cc3775",
+      "label": "Breadth and ampli...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.454429",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Breadth and amplitude of changes caused by loss of a single tonoplast H+/Ca transporter",
+        "last_seen": "2025-10-05T07:29:07.454429",
+        "obo_id": "CUSTOM:c6cc3775"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Anoxia tolerance mediated by CAX1 is associated with extensive changes in metabolism and signaling",
+      "id": "CUSTOM:8dbb59d3",
+      "label": "Anoxia tolerance ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.449207",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Anoxia tolerance mediated by CAX1 is associated with extensive changes in metabolism and signaling",
+        "last_seen": "2025-10-05T07:29:07.449207",
+        "obo_id": "CUSTOM:8dbb59d3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Granularity of understanding of the role of tonoplast localized Ca transport in plant stress responses",
+      "id": "CUSTOM:f3b0f9fd",
+      "label": "Granularity of un...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.443925",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Granularity of understanding of the role of tonoplast localized Ca transport in plant stress responses",
+        "last_seen": "2025-10-05T07:29:07.443925",
+        "obo_id": "CUSTOM:f3b0f9fd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Localization of CAX1 in dicots",
+      "id": "CUSTOM:b275caba",
+      "label": "Localization of C...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.438403",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Localization of CAX1 in dicots",
+        "last_seen": "2025-10-05T07:29:07.438403",
+        "obo_id": "CUSTOM:b275caba"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Changes in gene expression and protein abundance caused by loss of CAX1 (loss of high capacity low affinity Ca transport)",
+      "id": "CUSTOM:2aac87ca",
+      "label": "Changes in gene e...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.430684",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Changes in gene expression and protein abundance caused by loss of CAX1 (loss of high capacity low affinity Ca transport)",
+        "last_seen": "2025-10-05T07:29:07.430684",
+        "obo_id": "CUSTOM:2aac87ca"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cax3 sensitivity to submergence and waterlogging",
+      "id": "CUSTOM:96ea689a",
+      "label": "cax3 sensitivity ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.421042",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cax3 sensitivity to submergence and waterlogging",
+        "last_seen": "2025-10-05T07:29:07.421042",
+        "obo_id": "CUSTOM:96ea689a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Shoot biomass after 3 weeks waterlogging in ccx5 (misidentified as cax11) plants",
+      "id": "CUSTOM:076ff614",
+      "label": "Shoot biomass aft...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.412756",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Shoot biomass after 3 weeks waterlogging in ccx5 (misidentified as cax11) plants",
+        "last_seen": "2025-10-05T07:29:07.412756",
+        "obo_id": "CUSTOM:076ff614"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Hypoxia responsive genes (HRGs) expression pattern in cax1: normoxia vs hypoxia",
+      "id": "CUSTOM:8075be2c",
+      "label": "Hypoxia responsiv...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.407389",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Hypoxia responsive genes (HRGs) expression pattern in cax1: normoxia vs hypoxia",
+        "last_seen": "2025-10-05T07:29:07.407389",
+        "obo_id": "CUSTOM:8075be2c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of heat-responsive transcripts in cax1 during anoxia recovery",
+      "id": "CUSTOM:164fa43c",
+      "label": "Expression of hea...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.401439",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of heat-responsive transcripts in cax1 during anoxia recovery",
+        "last_seen": "2025-10-05T07:29:07.401439",
+        "obo_id": "CUSTOM:164fa43c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of cold tolerance genes in cax1 during normal growth (normoxia)",
+      "id": "CUSTOM:0afa1f00",
+      "label": "Expression of col...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.395520",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of cold tolerance genes in cax1 during normal growth (normoxia)",
+        "last_seen": "2025-10-05T07:29:07.395520",
+        "obo_id": "CUSTOM:0afa1f00"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of ROS-related transcripts in cax1 during normal growth (normoxia)",
+      "id": "CUSTOM:5dc0b7b7",
+      "label": "Expression of ROS...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.390171",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of ROS-related transcripts in cax1 during normal growth (normoxia)",
+        "last_seen": "2025-10-05T07:29:07.390171",
+        "obo_id": "CUSTOM:5dc0b7b7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Constitutive transcriptional upregulation of some classic Ca transporters (ACAs) in cax1 background",
+      "id": "CUSTOM:4fcbf28f",
+      "label": "Constitutive tran...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.384333",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Constitutive transcriptional upregulation of some classic Ca transporters (ACAs) in cax1 background",
+        "last_seen": "2025-10-05T07:29:07.384333",
+        "obo_id": "CUSTOM:4fcbf28f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cytosolic Ca accumulation in cax1 during the first minute after exposure to oxygen",
+      "id": "CUSTOM:8b14637a",
+      "label": "Cytosolic Ca accu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.354623",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cytosolic Ca accumulation in cax1 during the first minute after exposure to oxygen",
+        "last_seen": "2025-10-05T07:29:07.354623",
+        "obo_id": "CUSTOM:8b14637a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Reactive oxygen species (ROS) production in cax1 during anoxia/post-anoxia",
+      "id": "CUSTOM:a86620c8",
+      "label": "Reactive oxygen s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.328414",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Reactive oxygen species (ROS) production in cax1 during anoxia/post-anoxia",
+        "last_seen": "2025-10-05T07:29:07.328414",
+        "obo_id": "CUSTOM:a86620c8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Anoxia tolerance in mutants of other tonoplast-localized Ca transporters with different kinetics",
+      "id": "CUSTOM:a5ab15c9",
+      "label": "Anoxia tolerance ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.322895",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Anoxia tolerance in mutants of other tonoplast-localized Ca transporters with different kinetics",
+        "last_seen": "2025-10-05T07:29:07.322895",
+        "obo_id": "CUSTOM:a5ab15c9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Restoration of CAX1 expression in cax1 background and effect on tolerance",
+      "id": "CUSTOM:3129344e",
+      "label": "Restoration of CA...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.316255",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Restoration of CAX1 expression in cax1 background and effect on tolerance",
+        "last_seen": "2025-10-05T07:29:07.316255",
+        "obo_id": "CUSTOM:3129344e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Anoxia tolerance in loss-of-function CAX1 mutants (cax1)",
+      "id": "CUSTOM:ec2470d0",
+      "label": "Anoxia tolerance ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.310722",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Anoxia tolerance in loss-of-function CAX1 mutants (cax1)",
+        "last_seen": "2025-10-05T07:29:07.310722",
+        "obo_id": "CUSTOM:ec2470d0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Anoxia and submergence tolerance when CAX1 is expressed",
+      "id": "CUSTOM:8273c0b3",
+      "label": "Anoxia and submer...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.304073",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Anoxia and submergence tolerance when CAX1 is expressed",
+        "last_seen": "2025-10-05T07:29:07.304073",
+        "obo_id": "CUSTOM:8273c0b3"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2238",
+      "source": "PMC9706465",
+      "target": "CUSTOM:02f1a13e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2236",
+      "source": "PMC9706465",
+      "target": "CUSTOM:51570b1f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2234",
+      "source": "PMC9706465",
+      "target": "CUSTOM:2701d5f1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2232",
+      "source": "PMC9706465",
+      "target": "CUSTOM:cf9aaa0a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2230",
+      "source": "PMC9706465",
+      "target": "CUSTOM:66fa7003",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2228",
+      "source": "PMC9706465",
+      "target": "CUSTOM:c6cc3775",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2226",
+      "source": "PMC9706465",
+      "target": "CUSTOM:8dbb59d3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2224",
+      "source": "PMC9706465",
+      "target": "CUSTOM:f3b0f9fd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2222",
+      "source": "PMC9706465",
+      "target": "CUSTOM:b275caba",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2220",
+      "source": "PMC9706465",
+      "target": "CUSTOM:2aac87ca",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2218",
+      "source": "PMC9706465",
+      "target": "CUSTOM:96ea689a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2216",
+      "source": "PMC9706465",
+      "target": "CUSTOM:076ff614",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2214",
+      "source": "PMC9706465",
+      "target": "CUSTOM:8075be2c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2212",
+      "source": "PMC9706465",
+      "target": "CUSTOM:164fa43c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2210",
+      "source": "PMC9706465",
+      "target": "CUSTOM:0afa1f00",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2208",
+      "source": "PMC9706465",
+      "target": "CUSTOM:5dc0b7b7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2206",
+      "source": "PMC9706465",
+      "target": "CUSTOM:4fcbf28f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2204",
+      "source": "PMC9706465",
+      "target": "CUSTOM:8b14637a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2202",
+      "source": "PMC9706465",
+      "target": "CUSTOM:a86620c8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2200",
+      "source": "PMC9706465",
+      "target": "CUSTOM:a5ab15c9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2198",
+      "source": "PMC9706465",
+      "target": "CUSTOM:3129344e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2196",
+      "source": "PMC9706465",
+      "target": "CUSTOM:ec2470d0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2194",
+      "source": "PMC9706465",
+      "target": "CUSTOM:8273c0b3",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 24,
+  "num_edges": 23
+}

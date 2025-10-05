@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC5666744",
+  "nodes": [
+    {
+      "fullLabel": "PMC5666744",
+      "id": "PMC5666744",
+      "label": "PMC5666744",
+      "properties": {
+        "pmcid": "PMC5666744",
+        "first_seen": "2025-10-05T07:29:08.742802",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.782410"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "steatosis",
+      "id": "CUSTOM:2786513f",
+      "label": "steatosis",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.784151",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "steatosis",
+        "last_seen": "2025-10-05T07:29:08.784151",
+        "obo_id": "CUSTOM:2786513f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "hepatocyte lipid accumulation",
+      "id": "CUSTOM:5bc01f33",
+      "label": "hepatocyte lipid ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.778618",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "hepatocyte lipid accumulation",
+        "last_seen": "2025-10-05T07:29:08.778618",
+        "obo_id": "CUSTOM:5bc01f33"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "hepatocyte senescence (activation)",
+      "id": "CUSTOM:8ee88915",
+      "label": "hepatocyte senesc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.771556",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "hepatocyte senescence (activation)",
+        "last_seen": "2025-10-05T07:29:08.771556",
+        "obo_id": "CUSTOM:8ee88915"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mitochondrial dysfunction",
+      "id": "CUSTOM:b8a23f3e",
+      "label": "mitochondrial dys...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.766647",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mitochondrial dysfunction",
+        "last_seen": "2025-10-05T07:29:08.766647",
+        "obo_id": "CUSTOM:b8a23f3e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "oxidized protein accumulation",
+      "id": "CUSTOM:02c09042",
+      "label": "oxidized protein ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.761445",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "oxidized protein accumulation",
+        "last_seen": "2025-10-05T07:29:08.761445",
+        "obo_id": "CUSTOM:02c09042"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "oxidative defense (NRF2-related pathway activity)",
+      "id": "CUSTOM:6cd094c6",
+      "label": "oxidative defense...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.755173",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "oxidative defense (NRF2-related pathway activity)",
+        "last_seen": "2025-10-05T07:29:08.755173",
+        "obo_id": "CUSTOM:6cd094c6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "reactive oxygen species (ROS)",
+      "id": "CUSTOM:5845ca55",
+      "label": "reactive oxygen s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.749370",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "reactive oxygen species (ROS)",
+        "last_seen": "2025-10-05T07:29:08.749370",
+        "obo_id": "CUSTOM:5845ca55"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "oxidative stress",
+      "id": "CUSTOM:32ce2304",
+      "label": "oxidative stress",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.744492",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "oxidative stress",
+        "last_seen": "2025-10-05T07:29:08.744492",
+        "obo_id": "CUSTOM:32ce2304"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2634",
+      "source": "PMC5666744",
+      "target": "CUSTOM:2786513f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2632",
+      "source": "PMC5666744",
+      "target": "CUSTOM:5bc01f33",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2630",
+      "source": "PMC5666744",
+      "target": "CUSTOM:8ee88915",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2628",
+      "source": "PMC5666744",
+      "target": "CUSTOM:b8a23f3e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2626",
+      "source": "PMC5666744",
+      "target": "CUSTOM:02c09042",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2624",
+      "source": "PMC5666744",
+      "target": "CUSTOM:6cd094c6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2622",
+      "source": "PMC5666744",
+      "target": "CUSTOM:5845ca55",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2620",
+      "source": "PMC5666744",
+      "target": "CUSTOM:32ce2304",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

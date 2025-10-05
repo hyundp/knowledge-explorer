@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC3748764",
+  "nodes": [
+    {
+      "fullLabel": "PMC3748764",
+      "id": "PMC3748764",
+      "label": "PMC3748764",
+      "properties": {
+        "pmcid": "PMC3748764",
+        "first_seen": "2025-10-05T07:29:05.260660",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.269817"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "expression of cysl-2 correlates with the degree of cyanide resistance in each mutant",
+      "id": "CUSTOM:9e158723",
+      "label": "expression of cys...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.271545",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "expression of cysl-2 correlates with the degree of cyanide resistance in each mutant",
+        "last_seen": "2025-10-05T07:29:05.271545",
+        "obo_id": "CUSTOM:9e158723"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cyanide resistance is dependent on HIF-1 (HIF-1 is required for the resistance phenotype)",
+      "id": "CUSTOM:9ea44212",
+      "label": "cyanide resistanc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.266336",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cyanide resistance is dependent on HIF-1 (HIF-1 is required for the resistance phenotype)",
+        "last_seen": "2025-10-05T07:29:05.266336",
+        "obo_id": "CUSTOM:9ea44212"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cyanide resistance (protection from cyanide) associated with egl-9 mutations",
+      "id": "CUSTOM:0baf889e",
+      "label": "cyanide resistanc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.262139",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cyanide resistance (protection from cyanide) associated with egl-9 mutations",
+        "last_seen": "2025-10-05T07:29:05.262139",
+        "obo_id": "CUSTOM:0baf889e"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1538",
+      "source": "PMC3748764",
+      "target": "CUSTOM:9e158723",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1536",
+      "source": "PMC3748764",
+      "target": "CUSTOM:9ea44212",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1534",
+      "source": "PMC3748764",
+      "target": "CUSTOM:0baf889e",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

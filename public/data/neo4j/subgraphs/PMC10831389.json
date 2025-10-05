@@ -1,0 +1,329 @@
+{
+  "pmcid": "PMC10831389",
+  "nodes": [
+    {
+      "fullLabel": "PMC10831389",
+      "id": "PMC10831389",
+      "label": "PMC10831389",
+      "properties": {
+        "pmcid": "PMC10831389",
+        "first_seen": "2025-10-05T07:29:06.322858",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.406496"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "potential 'double hit' effect of low estrogen state during micro/partial gravity on muscle recovery",
+      "id": "CUSTOM:4c62b7db",
+      "label": "potential 'double...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.408597",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "potential 'double hit' effect of low estrogen state during micro/partial gravity on muscle recovery",
+        "last_seen": "2025-10-05T07:29:06.408597",
+        "obo_id": "CUSTOM:4c62b7db"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "role of estradiol in regenerative capacity in females",
+      "id": "CUSTOM:0e507349",
+      "label": "role of estradiol...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.402359",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "role of estradiol in regenerative capacity in females",
+        "last_seen": "2025-10-05T07:29:06.402359",
+        "obo_id": "CUSTOM:0e507349"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "implication for female astronauts: relative musculoskeletal loss and recovery",
+      "id": "CUSTOM:594b72ef",
+      "label": "implication for f...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.395518",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "implication for female astronauts: relative musculoskeletal loss and recovery",
+        "last_seen": "2025-10-05T07:29:06.395518",
+        "obo_id": "CUSTOM:594b72ef"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "magnitude of sex differences at partial gravity (0.4g) versus full unloading (0g)",
+      "id": "CUSTOM:599010ce",
+      "label": "magnitude of sex ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.389575",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "magnitude of sex differences at partial gravity (0.4g) versus full unloading (0g)",
+        "last_seen": "2025-10-05T07:29:06.389575",
+        "obo_id": "CUSTOM:599010ce"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "rectus femoris area loss after immobilization for femoral fracture (sex comparison)",
+      "id": "CUSTOM:071246cb",
+      "label": "rectus femoris ar...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.383940",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "rectus femoris area loss after immobilization for femoral fracture (sex comparison)",
+        "last_seen": "2025-10-05T07:29:06.383940",
+        "obo_id": "CUSTOM:071246cb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "handgrip strength reductions in ICU patients (sex comparison)",
+      "id": "CUSTOM:1789becd",
+      "label": "handgrip strength...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.378182",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "handgrip strength reductions in ICU patients (sex comparison)",
+        "last_seen": "2025-10-05T07:29:06.378182",
+        "obo_id": "CUSTOM:1789becd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "muscle area loss versus intrinsic muscle force changes after immobilization (humans)",
+      "id": "CUSTOM:e2ad7664",
+      "label": "muscle area loss ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.372493",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "muscle area loss versus intrinsic muscle force changes after immobilization (humans)",
+        "last_seen": "2025-10-05T07:29:06.372493",
+        "obo_id": "CUSTOM:e2ad7664"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "force relative to muscle volume after arm immobilization (humans)",
+      "id": "CUSTOM:16db4bb6",
+      "label": "force relative to...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.366981",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "force relative to muscle volume after arm immobilization (humans)",
+        "last_seen": "2025-10-05T07:29:06.366981",
+        "obo_id": "CUSTOM:16db4bb6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "effect of ovariectomy on musculoskeletal losses in females",
+      "id": "CUSTOM:11e6a2b3",
+      "label": "effect of ovariec...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.360293",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "effect of ovariectomy on musculoskeletal losses in females",
+        "last_seen": "2025-10-05T07:29:06.360293",
+        "obo_id": "CUSTOM:11e6a2b3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "effect of lack of testosterone on muscle losses during unloading",
+      "id": "CUSTOM:5c557990",
+      "label": "effect of lack of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.353063",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "effect of lack of testosterone on muscle losses during unloading",
+        "last_seen": "2025-10-05T07:29:06.353063",
+        "obo_id": "CUSTOM:5c557990"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "sex differences in musculoskeletal loss after gonadectomy (OVX/CAST)",
+      "id": "CUSTOM:5ca7baea",
+      "label": "sex differences i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.345968",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "sex differences in musculoskeletal loss after gonadectomy (OVX/CAST)",
+        "last_seen": "2025-10-05T07:29:06.345968",
+        "obo_id": "CUSTOM:5ca7baea"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "muscle strength (loss)",
+      "id": "CUSTOM:5e9279c1",
+      "label": "muscle strength (...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.338810",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "muscle strength (loss)",
+        "last_seen": "2025-10-05T07:29:06.338810",
+        "obo_id": "CUSTOM:5e9279c1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "muscle size (loss)",
+      "id": "CUSTOM:e919acce",
+      "label": "muscle size (loss)",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.330759",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "muscle size (loss)",
+        "last_seen": "2025-10-05T07:29:06.330759",
+        "obo_id": "CUSTOM:e919acce"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "susceptibility to disuse atrophy (musculoskeletal loss)",
+      "id": "CUSTOM:c5eb65b6",
+      "label": "susceptibility to...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.324817",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "susceptibility to disuse atrophy (musculoskeletal loss)",
+        "last_seen": "2025-10-05T07:29:06.324817",
+        "obo_id": "CUSTOM:c5eb65b6"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1902",
+      "source": "PMC10831389",
+      "target": "CUSTOM:4c62b7db",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1900",
+      "source": "PMC10831389",
+      "target": "CUSTOM:0e507349",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1898",
+      "source": "PMC10831389",
+      "target": "CUSTOM:594b72ef",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1896",
+      "source": "PMC10831389",
+      "target": "CUSTOM:599010ce",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1894",
+      "source": "PMC10831389",
+      "target": "CUSTOM:071246cb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1892",
+      "source": "PMC10831389",
+      "target": "CUSTOM:1789becd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1890",
+      "source": "PMC10831389",
+      "target": "CUSTOM:e2ad7664",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1888",
+      "source": "PMC10831389",
+      "target": "CUSTOM:16db4bb6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1886",
+      "source": "PMC10831389",
+      "target": "CUSTOM:11e6a2b3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1884",
+      "source": "PMC10831389",
+      "target": "CUSTOM:5c557990",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1882",
+      "source": "PMC10831389",
+      "target": "CUSTOM:5ca7baea",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1880",
+      "source": "PMC10831389",
+      "target": "CUSTOM:5e9279c1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1878",
+      "source": "PMC10831389",
+      "target": "CUSTOM:e919acce",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1876",
+      "source": "PMC10831389",
+      "target": "CUSTOM:c5eb65b6",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 15,
+  "num_edges": 14
+}

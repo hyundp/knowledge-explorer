@@ -1,0 +1,29 @@
+{
+  "pmcid": "PMC10793275",
+  "title": "Draft genome sequence of Sphingomonas paucimobilis strain Sph5, isolated from tap water filtration membrane",
+  "authors": [
+    "Sara Koroli",
+    "Kristina Buss",
+    "Joy M Blain",
+    "Gautam Sai Nakka",
+    "Mina Hong",
+    "Robert JC McLean",
+    "Caroline M Plugge",
+    "Jiseon Yang"
+  ],
+  "year": "2023",
+  "journal": "Microbiology Resource Announcements",
+  "doi": "10.1128/MRA.00345 23",
+  "sections": {
+    "abstract": "Sphingomonadaceae are common membrane colonizers and biofilm formers. As part of our studies on long term genetic changes in drinking water biofilm species, we report the draft genome sequence ofSphingomonasstrain Sph5, isolated from a tap water filtration membrane. The isolate was determined asSphingomonas paucimobilisthrough whole genome sequencing andde novoassembly.\n\nKEYWORDS:draft genome, WGS, water,Sphingomonas",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:08:21.853734",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10793275/"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC5415411",
+  "nodes": [
+    {
+      "fullLabel": "PMC5415411",
+      "id": "PMC5415411",
+      "label": "PMC5415411",
+      "properties": {
+        "pmcid": "PMC5415411",
+        "first_seen": "2025-10-05T07:29:07.968204",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.019274"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "UPR may respond in signal transduction cascades that utilize reactive oxygen species as a secondary messenger",
+      "id": "CUSTOM:23004430",
+      "label": "UPR may respond i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.021474",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "UPR may respond in signal transduction cascades that utilize reactive oxygen species as a secondary messenger",
+        "last_seen": "2025-10-05T07:29:08.021474",
+        "obo_id": "CUSTOM:23004430"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "UPR activation in response to oxidative stress",
+      "id": "CUSTOM:3bc48c44",
+      "label": "UPR activation in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.014483",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "UPR activation in response to oxidative stress",
+        "last_seen": "2025-10-05T07:29:08.014483",
+        "obo_id": "CUSTOM:3bc48c44"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "UPR activation in response to plastid metabolic dysfunction",
+      "id": "CUSTOM:926cfa0a",
+      "label": "UPR activation in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.006853",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "UPR activation in response to plastid metabolic dysfunction",
+        "last_seen": "2025-10-05T07:29:08.006853",
+        "obo_id": "CUSTOM:926cfa0a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Regulation of developmental processes by downstream effectors of the UPR",
+      "id": "CUSTOM:ea7a9742",
+      "label": "Regulation of dev...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.999236",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Regulation of developmental processes by downstream effectors of the UPR",
+        "last_seen": "2025-10-05T07:29:07.999236",
+        "obo_id": "CUSTOM:ea7a9742"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Transcriptional and post-transcriptional regulation of ER homeostatic genes by downstream effectors of the UPR",
+      "id": "CUSTOM:f0f2db42",
+      "label": "Transcriptional a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.992998",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Transcriptional and post-transcriptional regulation of ER homeostatic genes by downstream effectors of the UPR",
+        "last_seen": "2025-10-05T07:29:07.992998",
+        "obo_id": "CUSTOM:f0f2db42"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Defense against pathogens enabled by ERQC and UPR",
+      "id": "CUSTOM:0d0bdd8d",
+      "label": "Defense against p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.987032",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Defense against pathogens enabled by ERQC and UPR",
+        "last_seen": "2025-10-05T07:29:07.987032",
+        "obo_id": "CUSTOM:0d0bdd8d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Heat stress adaptation enabled by ERQC and UPR",
+      "id": "CUSTOM:63adbc92",
+      "label": "Heat stress adapt...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.981564",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Heat stress adaptation enabled by ERQC and UPR",
+        "last_seen": "2025-10-05T07:29:07.981564",
+        "obo_id": "CUSTOM:63adbc92"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ER folding capacity maintained by ERQC and UPR",
+      "id": "CUSTOM:227d4c06",
+      "label": "ER folding capaci...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.976243",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ER folding capacity maintained by ERQC and UPR",
+        "last_seen": "2025-10-05T07:29:07.976243",
+        "obo_id": "CUSTOM:227d4c06"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "UPR maintains ER homeostasis",
+      "id": "CUSTOM:1d16adbb",
+      "label": "UPR maintains ER ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.970566",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "UPR maintains ER homeostasis",
+        "last_seen": "2025-10-05T07:29:07.970566",
+        "obo_id": "CUSTOM:1d16adbb"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2404",
+      "source": "PMC5415411",
+      "target": "CUSTOM:23004430",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2402",
+      "source": "PMC5415411",
+      "target": "CUSTOM:3bc48c44",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2400",
+      "source": "PMC5415411",
+      "target": "CUSTOM:926cfa0a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2398",
+      "source": "PMC5415411",
+      "target": "CUSTOM:ea7a9742",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2396",
+      "source": "PMC5415411",
+      "target": "CUSTOM:f0f2db42",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2394",
+      "source": "PMC5415411",
+      "target": "CUSTOM:0d0bdd8d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2392",
+      "source": "PMC5415411",
+      "target": "CUSTOM:63adbc92",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2390",
+      "source": "PMC5415411",
+      "target": "CUSTOM:227d4c06",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2388",
+      "source": "PMC5415411",
+      "target": "CUSTOM:1d16adbb",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

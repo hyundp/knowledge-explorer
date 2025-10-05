@@ -1,0 +1,241 @@
+{
+  "pmcid": "PMC4290804",
+  "nodes": [
+    {
+      "fullLabel": "PMC4290804",
+      "id": "PMC4290804",
+      "label": "PMC4290804",
+      "properties": {
+        "pmcid": "PMC4290804",
+        "first_seen": "2025-10-05T07:29:09.271437",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:09.347775"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Mazars et al. (2014) found microsomal proteins altered by microgravity: 69 proteins more abundant and 80 proteins less abundant in microgravity",
+      "id": "CUSTOM:d65702cb",
+      "label": "Mazars et al. (20...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.350251",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mazars et al. (2014) found microsomal proteins altered by microgravity: 69 proteins more abundant and 80 proteins less abundant in microgravity",
+        "last_seen": "2025-10-05T07:29:09.350251",
+        "obo_id": "CUSTOM:d65702cb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Proteome–transcriptome concordance is limited: only a small portion of differential transcripts are represented in differential protein levels and vice versa; transcript abundance only partially predicts protein abundance",
+      "id": "CUSTOM:24dc0ef6",
+      "label": "Proteome–transcri...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.343412",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Proteome–transcriptome concordance is limited: only a small portion of differential transcripts are represented in differential protein levels and vice versa; transcript abundance only partially predicts protein abundance",
+        "last_seen": "2025-10-05T07:29:09.343412",
+        "obo_id": "CUSTOM:24dc0ef6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "SKU5-like gene mutants phenocopy orbital root growth patterns by over-skewing to the left",
+      "id": "CUSTOM:a09708b5",
+      "label": "SKU5-like gene mu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.338436",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "SKU5-like gene mutants phenocopy orbital root growth patterns by over-skewing to the left",
+        "last_seen": "2025-10-05T07:29:09.338436",
+        "obo_id": "CUSTOM:a09708b5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Specific cell-wall–related enzyme classes (e.g., xyloglucan endotransglucosylases, fasciclin-like arabinogalactans, SKU5-like proteins, lipid transfer proteins, peroxidases, lectins, DUF proteins) are differentially represented in the spaceflight proteome",
+      "id": "CUSTOM:8b8ecea4",
+      "label": "Specific cell-wal...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.332965",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Specific cell-wall–related enzyme classes (e.g., xyloglucan endotransglucosylases, fasciclin-like arabinogalactans, SKU5-like proteins, lipid transfer proteins, peroxidases, lectins, DUF proteins) are differentially represented in the spaceflight proteome",
+        "last_seen": "2025-10-05T07:29:09.332965",
+        "obo_id": "CUSTOM:8b8ecea4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Auxin signaling and proteins associated with auxin metabolism are altered/differentially abundant in spaceflight samples",
+      "id": "CUSTOM:17a672e0",
+      "label": "Auxin signaling a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.326219",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Auxin signaling and proteins associated with auxin metabolism are altered/differentially abundant in spaceflight samples",
+        "last_seen": "2025-10-05T07:29:09.326219",
+        "obo_id": "CUSTOM:17a672e0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cell wall–associated proteins are prominently represented among proteins differentially represented in spaceflight samples",
+      "id": "CUSTOM:233710a8",
+      "label": "Cell wall–associa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.320010",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cell wall–associated proteins are prominently represented among proteins differentially represented in spaceflight samples",
+        "last_seen": "2025-10-05T07:29:09.320010",
+        "obo_id": "CUSTOM:233710a8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Roots and leaves show different proteomic responses to spaceflight (many proteins differentially regulated in organ-specific manner)",
+      "id": "CUSTOM:af56f68d",
+      "label": "Roots and leaves ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.313371",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Roots and leaves show different proteomic responses to spaceflight (many proteins differentially regulated in organ-specific manner)",
+        "last_seen": "2025-10-05T07:29:09.313371",
+        "obo_id": "CUSTOM:af56f68d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Biological replicates of RNAlater-preserved samples are consistent and support statistical evaluation",
+      "id": "CUSTOM:5dc88186",
+      "label": "Biological replic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.306301",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Biological replicates of RNAlater-preserved samples are consistent and support statistical evaluation",
+        "last_seen": "2025-10-05T07:29:09.306301",
+        "obo_id": "CUSTOM:5dc88186"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "RNAlater preserved Arabidopsis tissue returned from ISS allows quantitation of proteins by iTRAQ",
+      "id": "CUSTOM:660deb2d",
+      "label": "RNAlater preserve...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.300639",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "RNAlater preserved Arabidopsis tissue returned from ISS allows quantitation of proteins by iTRAQ",
+        "last_seen": "2025-10-05T07:29:09.300639",
+        "obo_id": "CUSTOM:660deb2d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "RNAlater preserved Arabidopsis tissue returned from ISS yields sufficient protein for broad scale proteomics",
+      "id": "CUSTOM:49b71f6f",
+      "label": "RNAlater preserve...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.294362",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "RNAlater preserved Arabidopsis tissue returned from ISS yields sufficient protein for broad scale proteomics",
+        "last_seen": "2025-10-05T07:29:09.294362",
+        "obo_id": "CUSTOM:49b71f6f"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2782",
+      "source": "PMC4290804",
+      "target": "CUSTOM:d65702cb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2780",
+      "source": "PMC4290804",
+      "target": "CUSTOM:24dc0ef6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2778",
+      "source": "PMC4290804",
+      "target": "CUSTOM:a09708b5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2776",
+      "source": "PMC4290804",
+      "target": "CUSTOM:8b8ecea4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2774",
+      "source": "PMC4290804",
+      "target": "CUSTOM:17a672e0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2772",
+      "source": "PMC4290804",
+      "target": "CUSTOM:233710a8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2770",
+      "source": "PMC4290804",
+      "target": "CUSTOM:af56f68d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2768",
+      "source": "PMC4290804",
+      "target": "CUSTOM:5dc88186",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2766",
+      "source": "PMC4290804",
+      "target": "CUSTOM:660deb2d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2764",
+      "source": "PMC4290804",
+      "target": "CUSTOM:49b71f6f",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 11,
+  "num_edges": 10
+}

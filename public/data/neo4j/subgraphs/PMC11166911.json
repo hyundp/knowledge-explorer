@@ -1,0 +1,439 @@
+{
+  "pmcid": "PMC11166911",
+  "nodes": [
+    {
+      "fullLabel": "PMC11166911",
+      "id": "PMC11166911",
+      "label": "PMC11166911",
+      "properties": {
+        "pmcid": "PMC11166911",
+        "first_seen": "2025-10-05T07:29:13.585466",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:13.722177"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Complementarity of spatial transcriptomics and single nuclei multiomics datasets",
+      "id": "CUSTOM:f767522c",
+      "label": "Complementarity o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.724603",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Complementarity of spatial transcriptomics and single nuclei multiomics datasets",
+        "last_seen": "2025-10-05T07:29:13.724603",
+        "obo_id": "CUSTOM:f767522c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Importance of astrocyte functions in response to simulated space radiation (prior in vitro human models)",
+      "id": "CUSTOM:fed93be0",
+      "label": "Importance of ast...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.717411",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Importance of astrocyte functions in response to simulated space radiation (prior in vitro human models)",
+        "last_seen": "2025-10-05T07:29:13.717411",
+        "obo_id": "CUSTOM:fed93be0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Sensitivity of synaptogenesis to simulated galactic cosmic radiation components (prior studies)",
+      "id": "CUSTOM:3da13623",
+      "label": "Sensitivity of sy...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.711019",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Sensitivity of synaptogenesis to simulated galactic cosmic radiation components (prior studies)",
+        "last_seen": "2025-10-05T07:29:13.711019",
+        "obo_id": "CUSTOM:3da13623"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Reduced cell differentiation (reported in prior spaceflight/irradiation studies)",
+      "id": "CUSTOM:66425108",
+      "label": "Reduced cell diff...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.704650",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Reduced cell differentiation (reported in prior spaceflight/irradiation studies)",
+        "last_seen": "2025-10-05T07:29:13.704650",
+        "obo_id": "CUSTOM:66425108"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Increased pluripotency (reported in prior spaceflight/irradiation studies)",
+      "id": "CUSTOM:c985896b",
+      "label": "Increased pluripo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.698217",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Increased pluripotency (reported in prior spaceflight/irradiation studies)",
+        "last_seen": "2025-10-05T07:29:13.698217",
+        "obo_id": "CUSTOM:c985896b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ligand-receptor interactions involving neurodevelopment and astrocyte functions",
+      "id": "CUSTOM:b6025c82",
+      "label": "Ligand-receptor i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.692248",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ligand-receptor interactions involving neurodevelopment and astrocyte functions",
+        "last_seen": "2025-10-05T07:29:13.692248",
+        "obo_id": "CUSTOM:b6025c82"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Region-specific effects of spaceflight on gene expression",
+      "id": "CUSTOM:6f071ebd",
+      "label": "Region-specific e...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.685979",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Region-specific effects of spaceflight on gene expression",
+        "last_seen": "2025-10-05T07:29:13.685979",
+        "obo_id": "CUSTOM:6f071ebd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Low abundance of immune cells in spatial transcriptomics data",
+      "id": "CUSTOM:b55f09a7",
+      "label": "Low abundance of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.679651",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Low abundance of immune cells in spatial transcriptomics data",
+        "last_seen": "2025-10-05T07:29:13.679651",
+        "obo_id": "CUSTOM:b55f09a7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Immune dysfunction indicated by transcription factor accessibility (snATAC-seq)",
+      "id": "CUSTOM:0e4beeff",
+      "label": "Immune dysfunctio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.673485",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Immune dysfunction indicated by transcription factor accessibility (snATAC-seq)",
+        "last_seen": "2025-10-05T07:29:13.673485",
+        "obo_id": "CUSTOM:0e4beeff"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Gene expression changes mapping to mitochondrial functions",
+      "id": "CUSTOM:39e59810",
+      "label": "Gene expression c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.666838",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Gene expression changes mapping to mitochondrial functions",
+        "last_seen": "2025-10-05T07:29:13.666838",
+        "obo_id": "CUSTOM:39e59810"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Gene expression changes mapping to circadian rhythm pathways",
+      "id": "CUSTOM:4265abfa",
+      "label": "Gene expression c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.660033",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Gene expression changes mapping to circadian rhythm pathways",
+        "last_seen": "2025-10-05T07:29:13.660033",
+        "obo_id": "CUSTOM:4265abfa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Neuroinflammation / inflammation-related gene expression",
+      "id": "CUSTOM:320fc882",
+      "label": "Neuroinflammation...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.653079",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Neuroinflammation / inflammation-related gene expression",
+        "last_seen": "2025-10-05T07:29:13.653079",
+        "obo_id": "CUSTOM:320fc882"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Neurodegeneration-like gene expression changes (resembling aging-associated neurodegeneration)",
+      "id": "CUSTOM:f9cd9af1",
+      "label": "Neurodegeneration...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.647016",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Neurodegeneration-like gene expression changes (resembling aging-associated neurodegeneration)",
+        "last_seen": "2025-10-05T07:29:13.647016",
+        "obo_id": "CUSTOM:f9cd9af1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Neuronal development",
+      "id": "CUSTOM:22aa1b71",
+      "label": "Neuronal development",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.640547",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Neuronal development",
+        "last_seen": "2025-10-05T07:29:13.640547",
+        "obo_id": "CUSTOM:22aa1b71"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Synaptogenesis (including dopaminergic synapse formation in the striatum)",
+      "id": "CUSTOM:47372870",
+      "label": "Synaptogenesis (i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.634378",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Synaptogenesis (including dopaminergic synapse formation in the striatum)",
+        "last_seen": "2025-10-05T07:29:13.634378",
+        "obo_id": "CUSTOM:47372870"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Gene expression associated with neurogenesis",
+      "id": "CUSTOM:00e379ae",
+      "label": "Gene expression a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.628356",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Gene expression associated with neurogenesis",
+        "last_seen": "2025-10-05T07:29:13.628356",
+        "obo_id": "CUSTOM:00e379ae"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Gpc5 expression",
+      "id": "CUSTOM:141d264c",
+      "label": "Gpc5 expression",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.621600",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Gpc5 expression",
+        "last_seen": "2025-10-05T07:29:13.621600",
+        "obo_id": "CUSTOM:141d264c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Adcy1 expression",
+      "id": "CUSTOM:baf5283a",
+      "label": "Adcy1 expression",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.613803",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Adcy1 expression",
+        "last_seen": "2025-10-05T07:29:13.613803",
+        "obo_id": "CUSTOM:baf5283a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "pathway activity",
+      "id": "CUSTOM:3a73ceb1",
+      "label": "pathway activity",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.587874",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "pathway activity",
+        "last_seen": "2025-10-05T07:29:13.587874",
+        "obo_id": "CUSTOM:3a73ceb1"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3882",
+      "source": "PMC11166911",
+      "target": "CUSTOM:f767522c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3880",
+      "source": "PMC11166911",
+      "target": "CUSTOM:fed93be0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3878",
+      "source": "PMC11166911",
+      "target": "CUSTOM:3da13623",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3876",
+      "source": "PMC11166911",
+      "target": "CUSTOM:66425108",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3874",
+      "source": "PMC11166911",
+      "target": "CUSTOM:c985896b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3872",
+      "source": "PMC11166911",
+      "target": "CUSTOM:b6025c82",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3870",
+      "source": "PMC11166911",
+      "target": "CUSTOM:6f071ebd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3868",
+      "source": "PMC11166911",
+      "target": "CUSTOM:b55f09a7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3866",
+      "source": "PMC11166911",
+      "target": "CUSTOM:0e4beeff",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3864",
+      "source": "PMC11166911",
+      "target": "CUSTOM:39e59810",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3862",
+      "source": "PMC11166911",
+      "target": "CUSTOM:4265abfa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3860",
+      "source": "PMC11166911",
+      "target": "CUSTOM:320fc882",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3858",
+      "source": "PMC11166911",
+      "target": "CUSTOM:f9cd9af1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3856",
+      "source": "PMC11166911",
+      "target": "CUSTOM:22aa1b71",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3854",
+      "source": "PMC11166911",
+      "target": "CUSTOM:47372870",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3852",
+      "source": "PMC11166911",
+      "target": "CUSTOM:00e379ae",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3850",
+      "source": "PMC11166911",
+      "target": "CUSTOM:141d264c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3848",
+      "source": "PMC11166911",
+      "target": "CUSTOM:baf5283a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3846",
+      "source": "PMC11166911",
+      "target": "CUSTOM:3a73ceb1",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 20,
+  "num_edges": 19
+}

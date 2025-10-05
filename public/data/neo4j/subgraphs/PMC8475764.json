@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC8475764",
+  "nodes": [
+    {
+      "fullLabel": "PMC8475764",
+      "id": "PMC8475764",
+      "label": "PMC8475764",
+      "properties": {
+        "pmcid": "PMC8475764",
+        "first_seen": "2025-10-05T07:29:11.073245",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:11.107490"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "epigenetic marking as part of environmental responses",
+      "id": "CUSTOM:82cba8e7",
+      "label": "epigenetic markin...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.109321",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "epigenetic marking as part of environmental responses",
+        "last_seen": "2025-10-05T07:29:11.109321",
+        "obo_id": "CUSTOM:82cba8e7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "outcomes after interfering with DNA methylation",
+      "id": "CUSTOM:dbf15807",
+      "label": "outcomes after in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.104045",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "outcomes after interfering with DNA methylation",
+        "last_seen": "2025-10-05T07:29:11.104045",
+        "obo_id": "CUSTOM:dbf15807"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "remodeling of the Arabidopsis methylome in spaceflight",
+      "id": "CUSTOM:e636e3de",
+      "label": "remodeling of the...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.098237",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "remodeling of the Arabidopsis methylome in spaceflight",
+        "last_seen": "2025-10-05T07:29:11.098237",
+        "obo_id": "CUSTOM:e636e3de"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "root directional development in spaceflight",
+      "id": "CUSTOM:0742d183",
+      "label": "root directional ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.092378",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "root directional development in spaceflight",
+        "last_seen": "2025-10-05T07:29:11.092378",
+        "obo_id": "CUSTOM:0742d183"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "spaceflight gene response profile (specifics)",
+      "id": "CUSTOM:01bbac2c",
+      "label": "spaceflight gene ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.086483",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "spaceflight gene response profile (specifics)",
+        "last_seen": "2025-10-05T07:29:11.086483",
+        "obo_id": "CUSTOM:01bbac2c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "overall growth in space",
+      "id": "CUSTOM:9994d05f",
+      "label": "overall growth in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.080898",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "overall growth in space",
+        "last_seen": "2025-10-05T07:29:11.080898",
+        "obo_id": "CUSTOM:9994d05f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "physiological adaptation to spaceflight",
+      "id": "CUSTOM:e7597c79",
+      "label": "physiological ada...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.075310",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "physiological adaptation to spaceflight",
+        "last_seen": "2025-10-05T07:29:11.075310",
+        "obo_id": "CUSTOM:e7597c79"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3220",
+      "source": "PMC8475764",
+      "target": "CUSTOM:82cba8e7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3218",
+      "source": "PMC8475764",
+      "target": "CUSTOM:dbf15807",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3216",
+      "source": "PMC8475764",
+      "target": "CUSTOM:e636e3de",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3214",
+      "source": "PMC8475764",
+      "target": "CUSTOM:0742d183",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3212",
+      "source": "PMC8475764",
+      "target": "CUSTOM:01bbac2c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3210",
+      "source": "PMC8475764",
+      "target": "CUSTOM:9994d05f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3208",
+      "source": "PMC8475764",
+      "target": "CUSTOM:e7597c79",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

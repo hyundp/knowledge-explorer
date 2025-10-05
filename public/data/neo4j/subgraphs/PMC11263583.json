@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC11263583",
+  "nodes": [
+    {
+      "fullLabel": "PMC11263583",
+      "id": "PMC11263583",
+      "label": "PMC11263583",
+      "properties": {
+        "pmcid": "PMC11263583",
+        "first_seen": "2025-10-05T07:29:09.072509",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:09.124818"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "preservation of the well being of life during future deep space missions and interplanetary exploration via revamped aerospace health recommendations incorporated with other countermeasures",
+      "id": "CUSTOM:544331c8",
+      "label": "preservation of t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.126729",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "preservation of the well being of life during future deep space missions and interplanetary exploration via revamped aerospace health recommendations incorporated with other countermeasures",
+        "last_seen": "2025-10-05T07:29:09.126729",
+        "obo_id": "CUSTOM:544331c8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "technical and ethical challenges posed by investigation of such alleles",
+      "id": "CUSTOM:cfea90ca",
+      "label": "technical and eth...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.120475",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "technical and ethical challenges posed by investigation of such alleles",
+        "last_seen": "2025-10-05T07:29:09.120475",
+        "obo_id": "CUSTOM:cfea90ca"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "utility of the guide to help individuals on Earth in high stress and environmentally challenging scenarios",
+      "id": "CUSTOM:60f06279",
+      "label": "utility of the gu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.113404",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "utility of the guide to help individuals on Earth in high stress and environmentally challenging scenarios",
+        "last_seen": "2025-10-05T07:29:09.113404",
+        "obo_id": "CUSTOM:60f06279"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ability of biochemical pathway knowledge to inform therapeutic compound discovery and recommendations to protect health during spaceflight and postflight recovery and planetary stationing",
+      "id": "CUSTOM:17df2ab6",
+      "label": "ability of bioche...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.106666",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ability of biochemical pathway knowledge to inform therapeutic compound discovery and recommendations to protect health during spaceflight and postflight recovery and planetary stationing",
+        "last_seen": "2025-10-05T07:29:09.106666",
+        "obo_id": "CUSTOM:17df2ab6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "protective effects linked to published alleles",
+      "id": "CUSTOM:85e5572f",
+      "label": "protective effect...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.098270",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "protective effects linked to published alleles",
+        "last_seen": "2025-10-05T07:29:09.098270",
+        "obo_id": "CUSTOM:85e5572f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "individual autonomy in making informed decisions about participating in spaceflight activities",
+      "id": "CUSTOM:560c3b6a",
+      "label": "individual autono...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.090101",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "individual autonomy in making informed decisions about participating in spaceflight activities",
+        "last_seen": "2025-10-05T07:29:09.090101",
+        "obo_id": "CUSTOM:560c3b6a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "opportunities for improving precision healthcare in flight and on longer missions",
+      "id": "CUSTOM:95f42137",
+      "label": "opportunities for...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.082273",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "opportunities for improving precision healthcare in flight and on longer missions",
+        "last_seen": "2025-10-05T07:29:09.082273",
+        "obo_id": "CUSTOM:95f42137"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "diversity of the landscape of human spaceflight",
+      "id": "CUSTOM:525a33d5",
+      "label": "diversity of the ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.074836",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "diversity of the landscape of human spaceflight",
+        "last_seen": "2025-10-05T07:29:09.074836",
+        "obo_id": "CUSTOM:525a33d5"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2720",
+      "source": "PMC11263583",
+      "target": "CUSTOM:544331c8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2718",
+      "source": "PMC11263583",
+      "target": "CUSTOM:cfea90ca",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2716",
+      "source": "PMC11263583",
+      "target": "CUSTOM:60f06279",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2714",
+      "source": "PMC11263583",
+      "target": "CUSTOM:17df2ab6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2712",
+      "source": "PMC11263583",
+      "target": "CUSTOM:85e5572f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2710",
+      "source": "PMC11263583",
+      "target": "CUSTOM:560c3b6a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2708",
+      "source": "PMC11263583",
+      "target": "CUSTOM:95f42137",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2706",
+      "source": "PMC11263583",
+      "target": "CUSTOM:525a33d5",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

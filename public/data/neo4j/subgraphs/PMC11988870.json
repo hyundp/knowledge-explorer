@@ -1,0 +1,307 @@
+{
+  "pmcid": "PMC11988870",
+  "nodes": [
+    {
+      "fullLabel": "PMC11988870",
+      "id": "PMC11988870",
+      "label": "PMC11988870",
+      "properties": {
+        "pmcid": "PMC11988870",
+        "first_seen": "2025-10-05T07:29:06.772355",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.840402"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Potential for regenerative therapies (repairing damaged cardiac tissue)",
+      "id": "CUSTOM:e308eacc",
+      "label": "Potential for reg...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.842473",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential for regenerative therapies (repairing damaged cardiac tissue)",
+        "last_seen": "2025-10-05T07:29:06.842473",
+        "obo_id": "CUSTOM:e308eacc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Stem cells' potential to produce mature, functional cells (e.g., cardiomyocytes)",
+      "id": "CUSTOM:f385daf8",
+      "label": "Stem cells' poten...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.836730",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Stem cells' potential to produce mature, functional cells (e.g., cardiomyocytes)",
+        "last_seen": "2025-10-05T07:29:06.836730",
+        "obo_id": "CUSTOM:f385daf8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Physiology of bones",
+      "id": "CUSTOM:29ec6763",
+      "label": "Physiology of bones",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.831355",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Physiology of bones",
+        "last_seen": "2025-10-05T07:29:06.831355",
+        "obo_id": "CUSTOM:29ec6763"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Physiology of the kidneys",
+      "id": "CUSTOM:74ab3220",
+      "label": "Physiology of the...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.825427",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Physiology of the kidneys",
+        "last_seen": "2025-10-05T07:29:06.825427",
+        "obo_id": "CUSTOM:74ab3220"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Physiology of the liver",
+      "id": "CUSTOM:71b32ecc",
+      "label": "Physiology of the...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.818854",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Physiology of the liver",
+        "last_seen": "2025-10-05T07:29:06.818854",
+        "obo_id": "CUSTOM:71b32ecc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cancer cell behavior",
+      "id": "CUSTOM:ee09d2aa",
+      "label": "Cancer cell behavior",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.812267",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cancer cell behavior",
+        "last_seen": "2025-10-05T07:29:06.812267",
+        "obo_id": "CUSTOM:ee09d2aa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Homeostasis (stability)",
+      "id": "CUSTOM:0c2f4a04",
+      "label": "Homeostasis (stab...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.807086",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Homeostasis (stability)",
+        "last_seen": "2025-10-05T07:29:06.807086",
+        "obo_id": "CUSTOM:0c2f4a04"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Mitochondrial biogenesis",
+      "id": "CUSTOM:c7c11ece",
+      "label": "Mitochondrial bio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.801764",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mitochondrial biogenesis",
+        "last_seen": "2025-10-05T07:29:06.801764",
+        "obo_id": "CUSTOM:c7c11ece"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Tissue regeneration",
+      "id": "CUSTOM:b5678712",
+      "label": "Tissue regeneration",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.796295",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Tissue regeneration",
+        "last_seen": "2025-10-05T07:29:06.796295",
+        "obo_id": "CUSTOM:b5678712"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cell differentiation",
+      "id": "CUSTOM:4f940e4f",
+      "label": "Cell differentiation",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.791143",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cell differentiation",
+        "last_seen": "2025-10-05T07:29:06.791143",
+        "obo_id": "CUSTOM:4f940e4f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Immune activity",
+      "id": "CUSTOM:3d063eb4",
+      "label": "Immune activity",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.785947",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Immune activity",
+        "last_seen": "2025-10-05T07:29:06.785947",
+        "obo_id": "CUSTOM:3d063eb4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Susceptibility to infections",
+      "id": "CUSTOM:070b5688",
+      "label": "Susceptibility to...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.780348",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Susceptibility to infections",
+        "last_seen": "2025-10-05T07:29:06.780348",
+        "obo_id": "CUSTOM:070b5688"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "T cell function",
+      "id": "CUSTOM:04ee2510",
+      "label": "T cell function",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.774206",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "T cell function",
+        "last_seen": "2025-10-05T07:29:06.774206",
+        "obo_id": "CUSTOM:04ee2510"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2040",
+      "source": "PMC11988870",
+      "target": "CUSTOM:e308eacc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2038",
+      "source": "PMC11988870",
+      "target": "CUSTOM:f385daf8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2036",
+      "source": "PMC11988870",
+      "target": "CUSTOM:29ec6763",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2034",
+      "source": "PMC11988870",
+      "target": "CUSTOM:74ab3220",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2032",
+      "source": "PMC11988870",
+      "target": "CUSTOM:71b32ecc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2030",
+      "source": "PMC11988870",
+      "target": "CUSTOM:ee09d2aa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2028",
+      "source": "PMC11988870",
+      "target": "CUSTOM:0c2f4a04",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2026",
+      "source": "PMC11988870",
+      "target": "CUSTOM:c7c11ece",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2024",
+      "source": "PMC11988870",
+      "target": "CUSTOM:b5678712",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2022",
+      "source": "PMC11988870",
+      "target": "CUSTOM:4f940e4f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2020",
+      "source": "PMC11988870",
+      "target": "CUSTOM:3d063eb4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2018",
+      "source": "PMC11988870",
+      "target": "CUSTOM:070b5688",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2016",
+      "source": "PMC11988870",
+      "target": "CUSTOM:04ee2510",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 14,
+  "num_edges": 13
+}

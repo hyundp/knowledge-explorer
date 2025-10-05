@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC5865701",
+  "nodes": [
+    {
+      "fullLabel": "PMC5865701",
+      "id": "PMC5865701",
+      "label": "PMC5865701",
+      "properties": {
+        "pmcid": "PMC5865701",
+        "first_seen": "2025-10-05T07:29:11.616923",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:11.645171"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "funding for human healthspan extension",
+      "id": "CUSTOM:95f58141",
+      "label": "funding for human...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.647519",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "funding for human healthspan extension",
+        "last_seen": "2025-10-05T07:29:11.647519",
+        "obo_id": "CUSTOM:95f58141"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "progress in human healthspan extension",
+      "id": "CUSTOM:b47891de",
+      "label": "progress in human...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.640212",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "progress in human healthspan extension",
+        "last_seen": "2025-10-05T07:29:11.640212",
+        "obo_id": "CUSTOM:b47891de"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "healthy longevity (human healthspan)",
+      "id": "CUSTOM:86ae4329",
+      "label": "healthy longevity...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.632743",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "healthy longevity (human healthspan)",
+        "last_seen": "2025-10-05T07:29:11.632743",
+        "obo_id": "CUSTOM:86ae4329"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "link between radioresistance and aging",
+      "id": "CUSTOM:b2f70c72",
+      "label": "link between radi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.625173",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "link between radioresistance and aging",
+        "last_seen": "2025-10-05T07:29:11.625173",
+        "obo_id": "CUSTOM:b2f70c72"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "human radioresistance",
+      "id": "CUSTOM:5510eb0a",
+      "label": "human radioresist...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.619038",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "human radioresistance",
+        "last_seen": "2025-10-05T07:29:11.619038",
+        "obo_id": "CUSTOM:5510eb0a"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3372",
+      "source": "PMC5865701",
+      "target": "CUSTOM:95f58141",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3370",
+      "source": "PMC5865701",
+      "target": "CUSTOM:b47891de",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3368",
+      "source": "PMC5865701",
+      "target": "CUSTOM:86ae4329",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3366",
+      "source": "PMC5865701",
+      "target": "CUSTOM:b2f70c72",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3364",
+      "source": "PMC5865701",
+      "target": "CUSTOM:5510eb0a",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

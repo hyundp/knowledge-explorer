@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC10780891",
+  "nodes": [
+    {
+      "fullLabel": "PMC10780891",
+      "id": "PMC10780891",
+      "label": "PMC10780891",
+      "properties": {
+        "pmcid": "PMC10780891",
+        "first_seen": "2025-10-05T07:29:07.533160",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:07.565962"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "drastic gravitational responses in space (prevented by phototropic responses)",
+      "id": "CUSTOM:78af1f5d",
+      "label": "drastic gravitati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.567772",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "drastic gravitational responses in space (prevented by phototropic responses)",
+        "last_seen": "2025-10-05T07:29:07.567772",
+        "obo_id": "CUSTOM:78af1f5d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "stress components, gravity loss, water stress, and tissue hypoxia during formation of space-generation seeds",
+      "id": "CUSTOM:94e57639",
+      "label": "stress components...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.562322",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "stress components, gravity loss, water stress, and tissue hypoxia during formation of space-generation seeds",
+        "last_seen": "2025-10-05T07:29:07.562322",
+        "obo_id": "CUSTOM:94e57639"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "protein component in the endosperm",
+      "id": "CUSTOM:7d3612c5",
+      "label": "protein component...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.556590",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "protein component in the endosperm",
+        "last_seen": "2025-10-05T07:29:07.556590",
+        "obo_id": "CUSTOM:7d3612c5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "width of the cells of the aleurone layer in kernels",
+      "id": "CUSTOM:376402c8",
+      "label": "width of the cell...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.550946",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "width of the cells of the aleurone layer in kernels",
+        "last_seen": "2025-10-05T07:29:07.550946",
+        "obo_id": "CUSTOM:376402c8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "number of type B starch granules in kernels",
+      "id": "CUSTOM:2d09f47b",
+      "label": "number of type B ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.545671",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "number of type B starch granules in kernels",
+        "last_seen": "2025-10-05T07:29:07.545671",
+        "obo_id": "CUSTOM:2d09f47b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "main parameters of kernels (ISS-grown vs Earth-grown)",
+      "id": "CUSTOM:9d903f79",
+      "label": "main parameters o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.540593",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "main parameters of kernels (ISS-grown vs Earth-grown)",
+        "last_seen": "2025-10-05T07:29:07.540593",
+        "obo_id": "CUSTOM:9d903f79"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "asymmetry of wheat kernels and its relationship with other kernel characteristics",
+      "id": "CUSTOM:c77aa5f1",
+      "label": "asymmetry of whea...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.535086",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "asymmetry of wheat kernels and its relationship with other kernel characteristics",
+        "last_seen": "2025-10-05T07:29:07.535086",
+        "obo_id": "CUSTOM:c77aa5f1"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2268",
+      "source": "PMC10780891",
+      "target": "CUSTOM:78af1f5d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2266",
+      "source": "PMC10780891",
+      "target": "CUSTOM:94e57639",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2264",
+      "source": "PMC10780891",
+      "target": "CUSTOM:7d3612c5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2262",
+      "source": "PMC10780891",
+      "target": "CUSTOM:376402c8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2260",
+      "source": "PMC10780891",
+      "target": "CUSTOM:2d09f47b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2258",
+      "source": "PMC10780891",
+      "target": "CUSTOM:9d903f79",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2256",
+      "source": "PMC10780891",
+      "target": "CUSTOM:c77aa5f1",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

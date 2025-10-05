@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC7599661",
+  "nodes": [
+    {
+      "fullLabel": "PMC7599661",
+      "id": "PMC7599661",
+      "label": "PMC7599661",
+      "properties": {
+        "pmcid": "PMC7599661",
+        "first_seen": "2025-10-05T07:29:01.112255",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.133962"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "PWB model will play a critical role in unraveling nuanced relationships between human physiology and spaceflight to ensure astronaut safety",
+      "id": "CUSTOM:f01f7855",
+      "label": "PWB model will pl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.135330",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "PWB model will play a critical role in unraveling nuanced relationships between human physiology and spaceflight to ensure astronaut safety",
+        "last_seen": "2025-10-05T07:29:01.135330",
+        "obo_id": "CUSTOM:f01f7855"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Broader understanding of spaceflight physiology may facilitate important discoveries of human physiology that can benefit ground based medicine",
+      "id": "CUSTOM:a3071ea3",
+      "label": "Broader understan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.131020",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Broader understanding of spaceflight physiology may facilitate important discoveries of human physiology that can benefit ground based medicine",
+        "last_seen": "2025-10-05T07:29:01.131020",
+        "obo_id": "CUSTOM:a3071ea3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Combined research effort from many laboratories is imperative to thoroughly understand the complex physiology of spaceflight",
+      "id": "CUSTOM:8658c6e0",
+      "label": "Combined research...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.126967",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Combined research effort from many laboratories is imperative to thoroughly understand the complex physiology of spaceflight",
+        "last_seen": "2025-10-05T07:29:01.126967",
+        "obo_id": "CUSTOM:8658c6e0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Adoption of the PWB model by other biomedical investigators (encouraged)",
+      "id": "CUSTOM:2f208cec",
+      "label": "Adoption of the P...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.122919",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Adoption of the PWB model by other biomedical investigators (encouraged)",
+        "last_seen": "2025-10-05T07:29:01.122919",
+        "obo_id": "CUSTOM:2f208cec"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Creation and utilization of the PWB model in rats (both males and females) by the authors' group",
+      "id": "CUSTOM:8b7c47f6",
+      "label": "Creation and util...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.118307",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Creation and utilization of the PWB model in rats (both males and females) by the authors' group",
+        "last_seen": "2025-10-05T07:29:01.118307",
+        "obo_id": "CUSTOM:8b7c47f6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "PWB model provides extensive potential for the investigation of physiological alterations in response to both micro and partial gravity",
+      "id": "CUSTOM:b1854543",
+      "label": "PWB model provide...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.113861",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "PWB model provides extensive potential for the investigation of physiological alterations in response to both micro and partial gravity",
+        "last_seen": "2025-10-05T07:29:01.113861",
+        "obo_id": "CUSTOM:b1854543"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "144",
+      "source": "PMC7599661",
+      "target": "CUSTOM:f01f7855",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "142",
+      "source": "PMC7599661",
+      "target": "CUSTOM:a3071ea3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "140",
+      "source": "PMC7599661",
+      "target": "CUSTOM:8658c6e0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "138",
+      "source": "PMC7599661",
+      "target": "CUSTOM:2f208cec",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "136",
+      "source": "PMC7599661",
+      "target": "CUSTOM:8b7c47f6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "134",
+      "source": "PMC7599661",
+      "target": "CUSTOM:b1854543",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC10386755",
+  "nodes": [
+    {
+      "fullLabel": "PMC10386755",
+      "id": "PMC10386755",
+      "label": "PMC10386755",
+      "properties": {
+        "pmcid": "PMC10386755",
+        "first_seen": "2025-10-05T07:29:04.886822",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.919885"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Research focus topics include evolution and phylogeny, genome duplication, endosymbionts and horizontal gene transfer, genome architecture, pathogenicity, and coevolution with host species",
+      "id": "CUSTOM:f92bb90a",
+      "label": "Research focus to...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.921787",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Research focus topics include evolution and phylogeny, genome duplication, endosymbionts and horizontal gene transfer, genome architecture, pathogenicity, and coevolution with host species",
+        "last_seen": "2025-10-05T07:29:04.921787",
+        "obo_id": "CUSTOM:f92bb90a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Reinforcement of cell wall structure to tolerate a nonaquatic environment",
+      "id": "CUSTOM:0a7e3523",
+      "label": "Reinforcement of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.916216",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Reinforcement of cell wall structure to tolerate a nonaquatic environment",
+        "last_seen": "2025-10-05T07:29:04.916216",
+        "obo_id": "CUSTOM:0a7e3523"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of light and gravity sensors as adaptations for transition to a terrestrial habitat",
+      "id": "CUSTOM:5efc9695",
+      "label": "Presence of light...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.910106",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of light and gravity sensors as adaptations for transition to a terrestrial habitat",
+        "last_seen": "2025-10-05T07:29:04.910106",
+        "obo_id": "CUSTOM:5efc9695"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Genomes are sufficient for phylogenomic reconstructions and for discovery of functional genes and gene clusters",
+      "id": "CUSTOM:245731a3",
+      "label": "Genomes are suffi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.903345",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Genomes are sufficient for phylogenomic reconstructions and for discovery of functional genes and gene clusters",
+        "last_seen": "2025-10-05T07:29:04.903345",
+        "obo_id": "CUSTOM:245731a3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Genome quality varies according to sequencing platform and starting materials",
+      "id": "CUSTOM:1263c6bf",
+      "label": "Genome quality va...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.897749",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Genome quality varies according to sequencing platform and starting materials",
+        "last_seen": "2025-10-05T07:29:04.897749",
+        "obo_id": "CUSTOM:1263c6bf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Number of genome sequences from zygomycete fungi",
+      "id": "CUSTOM:e8f7ee4e",
+      "label": "Number of genome ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.893324",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Number of genome sequences from zygomycete fungi",
+        "last_seen": "2025-10-05T07:29:04.893324",
+        "obo_id": "CUSTOM:e8f7ee4e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Research interest in zygomycete fungi",
+      "id": "CUSTOM:eceb8c74",
+      "label": "Research interest...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.888523",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Research interest in zygomycete fungi",
+        "last_seen": "2025-10-05T07:29:04.888523",
+        "obo_id": "CUSTOM:eceb8c74"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1432",
+      "source": "PMC10386755",
+      "target": "CUSTOM:f92bb90a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1430",
+      "source": "PMC10386755",
+      "target": "CUSTOM:0a7e3523",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1428",
+      "source": "PMC10386755",
+      "target": "CUSTOM:5efc9695",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1426",
+      "source": "PMC10386755",
+      "target": "CUSTOM:245731a3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1424",
+      "source": "PMC10386755",
+      "target": "CUSTOM:1263c6bf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1422",
+      "source": "PMC10386755",
+      "target": "CUSTOM:e8f7ee4e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1420",
+      "source": "PMC10386755",
+      "target": "CUSTOM:eceb8c74",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

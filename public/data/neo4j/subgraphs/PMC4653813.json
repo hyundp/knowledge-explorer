@@ -1,0 +1,43 @@
+{
+  "pmcid": "PMC4653813",
+  "nodes": [
+    {
+      "fullLabel": "PMC4653813",
+      "id": "PMC4653813",
+      "label": "PMC4653813",
+      "properties": {
+        "pmcid": "PMC4653813",
+        "first_seen": "2025-10-05T07:29:05.682539",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.682539"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Utility of EIM for assessment of muscle disuse",
+      "id": "CUSTOM:61d5b625",
+      "label": "Utility of EIM fo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.684218",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Utility of EIM for assessment of muscle disuse",
+        "last_seen": "2025-10-05T07:29:05.684218",
+        "obo_id": "CUSTOM:61d5b625"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1664",
+      "source": "PMC4653813",
+      "target": "CUSTOM:61d5b625",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 2,
+  "num_edges": 1
+}

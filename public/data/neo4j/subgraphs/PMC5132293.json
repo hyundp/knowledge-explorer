@@ -1,0 +1,65 @@
+{
+  "pmcid": "PMC5132293",
+  "nodes": [
+    {
+      "fullLabel": "PMC5132293",
+      "id": "PMC5132293",
+      "label": "PMC5132293",
+      "properties": {
+        "pmcid": "PMC5132293",
+        "first_seen": "2025-10-05T07:26:41.244948",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:00.906188"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "retrieval of high quality samples for RNA expression and some protein analyses",
+      "id": "CUSTOM:6b8d4dbe",
+      "label": "retrieval of high...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.901583",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "retrieval of high quality samples for RNA expression and some protein analyses",
+        "last_seen": "2025-10-05T07:29:00.901583",
+        "obo_id": "CUSTOM:6b8d4dbe"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "availability of many additional tissues for gene expression analysis by dissection following prolonged in situ storage",
+      "id": "CUSTOM:fe04976f",
+      "label": "availability of m...",
+      "properties": {
+        "first_seen": "2025-10-05T07:26:41.246526",
+        "source_count": 2,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "availability of many additional tissues for gene expression analysis by dissection following prolonged in situ storage",
+        "last_seen": "2025-10-05T07:29:00.921228",
+        "obo_id": "CUSTOM:fe04976f"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "86",
+      "source": "PMC5132293",
+      "target": "CUSTOM:6b8d4dbe",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "0",
+      "source": "PMC5132293",
+      "target": "CUSTOM:fe04976f",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 3,
+  "num_edges": 2
+}

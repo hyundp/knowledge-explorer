@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC5523082",
+  "nodes": [
+    {
+      "fullLabel": "PMC5523082",
+      "id": "PMC5523082",
+      "label": "PMC5523082",
+      "properties": {
+        "pmcid": "PMC5523082",
+        "first_seen": "2025-10-05T07:29:07.484543",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:07.526811"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Insight into spatial regulation of secondary metabolites (SMs) in fungi",
+      "id": "CUSTOM:1e9d79c4",
+      "label": "Insight into spat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.529152",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Insight into spatial regulation of secondary metabolites (SMs) in fungi",
+        "last_seen": "2025-10-05T07:29:07.529152",
+        "obo_id": "CUSTOM:1e9d79c4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Two biosynthetic pathways may share the same tailoring genes",
+      "id": "CUSTOM:4a1803b7",
+      "label": "Two biosynthetic ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.521680",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Two biosynthetic pathways may share the same tailoring genes",
+        "last_seen": "2025-10-05T07:29:07.521680",
+        "obo_id": "CUSTOM:4a1803b7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Prenylation of compounds in two pathways by AbpB",
+      "id": "CUSTOM:d28dcaf9",
+      "label": "Prenylation of co...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.515255",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Prenylation of compounds in two pathways by AbpB",
+        "last_seen": "2025-10-05T07:29:07.515255",
+        "obo_id": "CUSTOM:d28dcaf9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Modification of aspulvinone E into two different products",
+      "id": "CUSTOM:7ca2e857",
+      "label": "Modification of a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.510015",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Modification of aspulvinone E into two different products",
+        "last_seen": "2025-10-05T07:29:07.510015",
+        "obo_id": "CUSTOM:7ca2e857"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Production of the same compound (aspulvinone E) in different fungal tissues due to tissue-specific expression of biosynthetic genes",
+      "id": "CUSTOM:21cb95e4",
+      "label": "Production of the...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.502846",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Production of the same compound (aspulvinone E) in different fungal tissues due to tissue-specific expression of biosynthetic genes",
+        "last_seen": "2025-10-05T07:29:07.502846",
+        "obo_id": "CUSTOM:21cb95e4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Sharing of precursor aspulvinone E (1) between two biosynthetic pathways",
+      "id": "CUSTOM:187b1c1a",
+      "label": "Sharing of precur...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.497440",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Sharing of precursor aspulvinone E (1) between two biosynthetic pathways",
+        "last_seen": "2025-10-05T07:29:07.497440",
+        "obo_id": "CUSTOM:187b1c1a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Richness of the natural product pool in Aspergillus terreus",
+      "id": "CUSTOM:81985d81",
+      "label": "Richness of the n...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.492027",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Richness of the natural product pool in Aspergillus terreus",
+        "last_seen": "2025-10-05T07:29:07.492027",
+        "obo_id": "CUSTOM:81985d81"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Chemical diversity in secondary metabolite (SM) biosynthesis",
+      "id": "CUSTOM:710c1240",
+      "label": "Chemical diversit...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.486674",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Chemical diversity in secondary metabolite (SM) biosynthesis",
+        "last_seen": "2025-10-05T07:29:07.486674",
+        "obo_id": "CUSTOM:710c1240"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2254",
+      "source": "PMC5523082",
+      "target": "CUSTOM:1e9d79c4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2252",
+      "source": "PMC5523082",
+      "target": "CUSTOM:4a1803b7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2250",
+      "source": "PMC5523082",
+      "target": "CUSTOM:d28dcaf9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2248",
+      "source": "PMC5523082",
+      "target": "CUSTOM:7ca2e857",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2246",
+      "source": "PMC5523082",
+      "target": "CUSTOM:21cb95e4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2244",
+      "source": "PMC5523082",
+      "target": "CUSTOM:187b1c1a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2242",
+      "source": "PMC5523082",
+      "target": "CUSTOM:81985d81",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2240",
+      "source": "PMC5523082",
+      "target": "CUSTOM:710c1240",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC10030976",
+  "nodes": [
+    {
+      "fullLabel": "PMC10030976",
+      "id": "PMC10030976",
+      "label": "PMC10030976",
+      "properties": {
+        "pmcid": "PMC10030976",
+        "first_seen": "2025-10-05T07:29:09.487227",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:09.538461"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Return on public investments from space exploration",
+      "id": "CUSTOM:b074dd1f",
+      "label": "Return on public ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.540859",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Return on public investments from space exploration",
+        "last_seen": "2025-10-05T07:29:09.540859",
+        "obo_id": "CUSTOM:b074dd1f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Potential terrestrial benefits of microbial biotechnologies (with reference to the United Nations SDGs)",
+      "id": "CUSTOM:db06eb8f",
+      "label": "Potential terrest...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.532954",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential terrestrial benefits of microbial biotechnologies (with reference to the United Nations SDGs)",
+        "last_seen": "2025-10-05T07:29:09.532954",
+        "obo_id": "CUSTOM:db06eb8f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cost and time required for genetic engineering and synthetic biology",
+      "id": "CUSTOM:ce044d2f",
+      "label": "Cost and time req...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.525263",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cost and time required for genetic engineering and synthetic biology",
+        "last_seen": "2025-10-05T07:29:09.525263",
+        "obo_id": "CUSTOM:ce044d2f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Capacity for space experiments (sample replicates and experimental conditions)",
+      "id": "CUSTOM:deebc127",
+      "label": "Capacity for spac...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.518554",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Capacity for space experiments (sample replicates and experimental conditions)",
+        "last_seen": "2025-10-05T07:29:09.518554",
+        "obo_id": "CUSTOM:deebc127"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Support for preliminary studies in laboratories on Earth, simulation platforms, LEO, and full investigations in Lunar space and on the Lunar surface",
+      "id": "CUSTOM:cdd23f7c",
+      "label": "Support for preli...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.511427",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Support for preliminary studies in laboratories on Earth, simulation platforms, LEO, and full investigations in Lunar space and on the Lunar surface",
+        "last_seen": "2025-10-05T07:29:09.511427",
+        "obo_id": "CUSTOM:cdd23f7c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Sustainability of space exploration",
+      "id": "CUSTOM:f9564cc0",
+      "label": "Sustainability of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.504206",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Sustainability of space exploration",
+        "last_seen": "2025-10-05T07:29:09.504206",
+        "obo_id": "CUSTOM:f9564cc0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Closure of life support systems (LSS) and preservation of resources and extra terrestrial environments",
+      "id": "CUSTOM:3531c26a",
+      "label": "Closure of life s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.496701",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Closure of life support systems (LSS) and preservation of resources and extra terrestrial environments",
+        "last_seen": "2025-10-05T07:29:09.496701",
+        "obo_id": "CUSTOM:3531c26a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Supply chain dependency on Earth for long duration deep space exploration missions",
+      "id": "CUSTOM:a41deed0",
+      "label": "Supply chain depe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.489559",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Supply chain dependency on Earth for long duration deep space exploration missions",
+        "last_seen": "2025-10-05T07:29:09.489559",
+        "obo_id": "CUSTOM:a41deed0"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2836",
+      "source": "PMC10030976",
+      "target": "CUSTOM:b074dd1f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2834",
+      "source": "PMC10030976",
+      "target": "CUSTOM:db06eb8f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2832",
+      "source": "PMC10030976",
+      "target": "CUSTOM:ce044d2f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2830",
+      "source": "PMC10030976",
+      "target": "CUSTOM:deebc127",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2828",
+      "source": "PMC10030976",
+      "target": "CUSTOM:cdd23f7c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2826",
+      "source": "PMC10030976",
+      "target": "CUSTOM:f9564cc0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2824",
+      "source": "PMC10030976",
+      "target": "CUSTOM:3531c26a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2822",
+      "source": "PMC10030976",
+      "target": "CUSTOM:a41deed0",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

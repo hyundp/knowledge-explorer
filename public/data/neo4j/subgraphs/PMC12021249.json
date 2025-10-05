@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC12021249",
+  "nodes": [
+    {
+      "fullLabel": "PMC12021249",
+      "id": "PMC12021249",
+      "label": "PMC12021249",
+      "properties": {
+        "pmcid": "PMC12021249",
+        "first_seen": "2025-10-05T07:29:14.088494",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:14.169920"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "exposure to chemical stress during embryo separation",
+      "id": "CUSTOM:a1eb414c",
+      "label": "exposure to chemi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.172208",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "exposure to chemical stress during embryo separation",
+        "last_seen": "2025-10-05T07:29:14.172208",
+        "obo_id": "CUSTOM:a1eb414c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "isolation of embryos with different dimensions by altering mesh sizes",
+      "id": "CUSTOM:989607bd",
+      "label": "isolation of embr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.165620",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "isolation of embryos with different dimensions by altering mesh sizes",
+        "last_seen": "2025-10-05T07:29:14.165620",
+        "obo_id": "CUSTOM:989607bd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "isolation of embryos from other Caenorhabditis species",
+      "id": "CUSTOM:97021b05",
+      "label": "isolation of embr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.158122",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "isolation of embryos from other Caenorhabditis species",
+        "last_seen": "2025-10-05T07:29:14.158122",
+        "obo_id": "CUSTOM:97021b05"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "embryo yield (plate size effect)",
+      "id": "CUSTOM:dc7f2e38",
+      "label": "embryo yield (pla...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.150946",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "embryo yield (plate size effect)",
+        "last_seen": "2025-10-05T07:29:14.150946",
+        "obo_id": "CUSTOM:dc7f2e38"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "stickiness of bacterial lawn (embryo retention)",
+      "id": "CUSTOM:e8c1f28f",
+      "label": "stickiness of bac...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.133751",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "stickiness of bacterial lawn (embryo retention)",
+        "last_seen": "2025-10-05T07:29:14.133751",
+        "obo_id": "CUSTOM:e8c1f28f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "egg laying rates and brood sizes",
+      "id": "CUSTOM:951781e1",
+      "label": "egg laying rates ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.126986",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "egg laying rates and brood sizes",
+        "last_seen": "2025-10-05T07:29:14.126986",
+        "obo_id": "CUSTOM:951781e1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "yield of G1 embryos (optimized condition)",
+      "id": "CUSTOM:faee6957",
+      "label": "yield of G1 embry...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.119996",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "yield of G1 embryos (optimized condition)",
+        "last_seen": "2025-10-05T07:29:14.119996",
+        "obo_id": "CUSTOM:faee6957"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "larval development (deleterious effects)",
+      "id": "CUSTOM:e8515477",
+      "label": "larval developmen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.096791",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "larval development (deleterious effects)",
+        "last_seen": "2025-10-05T07:29:14.096791",
+        "obo_id": "CUSTOM:e8515477"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "embryonic yield per plate",
+      "id": "CUSTOM:0c2c6bd0",
+      "label": "embryonic yield p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.090670",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "embryonic yield per plate",
+        "last_seen": "2025-10-05T07:29:14.090670",
+        "obo_id": "CUSTOM:0c2c6bd0"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3998",
+      "source": "PMC12021249",
+      "target": "CUSTOM:a1eb414c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3996",
+      "source": "PMC12021249",
+      "target": "CUSTOM:989607bd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3994",
+      "source": "PMC12021249",
+      "target": "CUSTOM:97021b05",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3992",
+      "source": "PMC12021249",
+      "target": "CUSTOM:dc7f2e38",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3990",
+      "source": "PMC12021249",
+      "target": "CUSTOM:e8c1f28f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3988",
+      "source": "PMC12021249",
+      "target": "CUSTOM:951781e1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3986",
+      "source": "PMC12021249",
+      "target": "CUSTOM:faee6957",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3984",
+      "source": "PMC12021249",
+      "target": "CUSTOM:e8515477",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3982",
+      "source": "PMC12021249",
+      "target": "CUSTOM:0c2c6bd0",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

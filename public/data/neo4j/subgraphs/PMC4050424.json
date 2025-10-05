@@ -1,0 +1,285 @@
+{
+  "pmcid": "PMC4050424",
+  "nodes": [
+    {
+      "fullLabel": "PMC4050424",
+      "id": "PMC4050424",
+      "label": "PMC4050424",
+      "properties": {
+        "pmcid": "PMC4050424",
+        "first_seen": "2025-10-05T07:29:02.306092",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.349365"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "NE-evoked constriction of mesenteric veins",
+      "id": "CUSTOM:a0250d83",
+      "label": "NE-evoked constri...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.350833",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NE-evoked constriction of mesenteric veins",
+        "last_seen": "2025-10-05T07:29:02.350833",
+        "obo_id": "CUSTOM:a0250d83"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adrenergic vasoconstrictor function of mesenteric arteries (5 days after landing)",
+      "id": "CUSTOM:eea9b7cd",
+      "label": "adrenergic vasoco...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.347081",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adrenergic vasoconstrictor function of mesenteric arteries (5 days after landing)",
+        "last_seen": "2025-10-05T07:29:02.347081",
+        "obo_id": "CUSTOM:eea9b7cd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adrenergic vasoconstrictor dysfunction of mesenteric arteries (1 day postspaceflight)",
+      "id": "CUSTOM:a360641b",
+      "label": "adrenergic vasoco...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.342669",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adrenergic vasoconstrictor dysfunction of mesenteric arteries (1 day postspaceflight)",
+        "last_seen": "2025-10-05T07:29:02.342669",
+        "obo_id": "CUSTOM:a360641b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "passive mechanical properties of mesenteric vessels",
+      "id": "CUSTOM:3388004f",
+      "label": "passive mechanica...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.338970",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "passive mechanical properties of mesenteric vessels",
+        "last_seen": "2025-10-05T07:29:02.338970",
+        "obo_id": "CUSTOM:3388004f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "maximal luminal diameter of mesenteric artery (gross structural change)",
+      "id": "CUSTOM:2efea4ae",
+      "label": "maximal luminal d...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.334883",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "maximal luminal diameter of mesenteric artery (gross structural change)",
+        "last_seen": "2025-10-05T07:29:02.334883",
+        "obo_id": "CUSTOM:2efea4ae"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mesenteric artery medial wall thickness (gross structural change)",
+      "id": "CUSTOM:e612a4bf",
+      "label": "mesenteric artery...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.330600",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mesenteric artery medial wall thickness (gross structural change)",
+        "last_seen": "2025-10-05T07:29:02.330600",
+        "obo_id": "CUSTOM:e612a4bf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "arterial RyR3 mRNA",
+      "id": "CUSTOM:6fa48006",
+      "label": "arterial RyR3 mRNA",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.326636",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "arterial RyR3 mRNA",
+        "last_seen": "2025-10-05T07:29:02.326636",
+        "obo_id": "CUSTOM:6fa48006"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "arterial RyR2 mRNA",
+      "id": "CUSTOM:5ae2c93d",
+      "label": "arterial RyR2 mRNA",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.322326",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "arterial RyR2 mRNA",
+        "last_seen": "2025-10-05T07:29:02.322326",
+        "obo_id": "CUSTOM:5ae2c93d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "vasoconstriction evoked by sarcoplasmic reticulum Ca2+ release (caffeine)",
+      "id": "CUSTOM:4ae62a97",
+      "label": "vasoconstriction ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.318630",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "vasoconstriction evoked by sarcoplasmic reticulum Ca2+ release (caffeine)",
+        "last_seen": "2025-10-05T07:29:02.318630",
+        "obo_id": "CUSTOM:4ae62a97"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "vasoconstriction evoked through voltage gated Ca2+ channels (KCl)",
+      "id": "CUSTOM:4270ee7e",
+      "label": "vasoconstriction ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.314910",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "vasoconstriction evoked through voltage gated Ca2+ channels (KCl)",
+        "last_seen": "2025-10-05T07:29:02.314910",
+        "obo_id": "CUSTOM:4270ee7e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "rapidity of mesenteric artery vasoconstriction to the adrenergic receptor agonist NE",
+      "id": "CUSTOM:d618e42f",
+      "label": "rapidity of mesen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.311396",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "rapidity of mesenteric artery vasoconstriction to the adrenergic receptor agonist NE",
+        "last_seen": "2025-10-05T07:29:02.311396",
+        "obo_id": "CUSTOM:d618e42f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mesenteric artery vasoconstriction to the adrenergic receptor agonist NE (magnitude)",
+      "id": "CUSTOM:83378498",
+      "label": "mesenteric artery...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.307581",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mesenteric artery vasoconstriction to the adrenergic receptor agonist NE (magnitude)",
+        "last_seen": "2025-10-05T07:29:02.307581",
+        "obo_id": "CUSTOM:83378498"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "554",
+      "source": "PMC4050424",
+      "target": "CUSTOM:a0250d83",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "552",
+      "source": "PMC4050424",
+      "target": "CUSTOM:eea9b7cd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "550",
+      "source": "PMC4050424",
+      "target": "CUSTOM:a360641b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "548",
+      "source": "PMC4050424",
+      "target": "CUSTOM:3388004f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "546",
+      "source": "PMC4050424",
+      "target": "CUSTOM:2efea4ae",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "544",
+      "source": "PMC4050424",
+      "target": "CUSTOM:e612a4bf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "542",
+      "source": "PMC4050424",
+      "target": "CUSTOM:6fa48006",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "540",
+      "source": "PMC4050424",
+      "target": "CUSTOM:5ae2c93d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "538",
+      "source": "PMC4050424",
+      "target": "CUSTOM:4ae62a97",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "536",
+      "source": "PMC4050424",
+      "target": "CUSTOM:4270ee7e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "534",
+      "source": "PMC4050424",
+      "target": "CUSTOM:d618e42f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "532",
+      "source": "PMC4050424",
+      "target": "CUSTOM:83378498",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 13,
+  "num_edges": 12
+}

@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC7171750",
+  "nodes": [
+    {
+      "fullLabel": "PMC7171750",
+      "id": "PMC7171750",
+      "label": "PMC7171750",
+      "properties": {
+        "pmcid": "PMC7171750",
+        "first_seen": "2025-10-05T07:29:01.095307",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.108874"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Further studies could lead to mitigation strategies to help prevent disease during both short and long duration space missions",
+      "id": "CUSTOM:a839dad7",
+      "label": "Further studies c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.110075",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Further studies could lead to mitigation strategies to help prevent disease during both short and long duration space missions",
+        "last_seen": "2025-10-05T07:29:01.110075",
+        "obo_id": "CUSTOM:a839dad7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Viral reactivation is a serious problem in astronauts during spaceflight",
+      "id": "CUSTOM:789298fb",
+      "label": "Viral reactivatio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.106218",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Viral reactivation is a serious problem in astronauts during spaceflight",
+        "last_seen": "2025-10-05T07:29:01.106218",
+        "obo_id": "CUSTOM:789298fb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Specific organisms were correlative and predictive in viral reactivation",
+      "id": "CUSTOM:88ae52f9",
+      "label": "Specific organism...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.102254",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Specific organisms were correlative and predictive in viral reactivation",
+        "last_seen": "2025-10-05T07:29:01.102254",
+        "obo_id": "CUSTOM:88ae52f9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Salivary microbiome changes as a result of spaceflight",
+      "id": "CUSTOM:bdf0c267",
+      "label": "Salivary microbio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.097273",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Salivary microbiome changes as a result of spaceflight",
+        "last_seen": "2025-10-05T07:29:01.097273",
+        "obo_id": "CUSTOM:bdf0c267"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "132",
+      "source": "PMC7171750",
+      "target": "CUSTOM:a839dad7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "130",
+      "source": "PMC7171750",
+      "target": "CUSTOM:789298fb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "128",
+      "source": "PMC7171750",
+      "target": "CUSTOM:88ae52f9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "126",
+      "source": "PMC7171750",
+      "target": "CUSTOM:bdf0c267",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC5454470",
+  "nodes": [
+    {
+      "fullLabel": "PMC5454470",
+      "id": "PMC5454470",
+      "label": "PMC5454470",
+      "properties": {
+        "pmcid": "PMC5454470",
+        "first_seen": "2025-10-05T07:29:05.817595",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.836766"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Total CtBP2 puncta density (puncta per hair cell; proxy for synaptic ribbon density) in utricular hair cells",
+      "id": "CUSTOM:3ceeb3a6",
+      "label": "Total CtBP2 punct...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.856511",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Total CtBP2 puncta density (puncta per hair cell; proxy for synaptic ribbon density) in utricular hair cells",
+        "last_seen": "2025-10-05T07:29:05.856511",
+        "obo_id": "CUSTOM:3ceeb3a6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Synapse density (synapses per hair cell) in the medial extrastriola of the utricle",
+      "id": "CUSTOM:a598894a",
+      "label": "Synapse density (...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.833484",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Synapse density (synapses per hair cell) in the medial extrastriola of the utricle",
+        "last_seen": "2025-10-05T07:29:05.833484",
+        "obo_id": "CUSTOM:a598894a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Synapse density (synapses per hair cell) in the horizontal crista planum",
+      "id": "CUSTOM:846eea80",
+      "label": "Synapse density (...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.828065",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Synapse density (synapses per hair cell) in the horizontal crista planum",
+        "last_seen": "2025-10-05T07:29:05.828065",
+        "obo_id": "CUSTOM:846eea80"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Synapse density (synapses per hair cell) in the utricular striola",
+      "id": "CUSTOM:0e541005",
+      "label": "Synapse density (...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.819921",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Synapse density (synapses per hair cell) in the utricular striola",
+        "last_seen": "2025-10-05T07:29:05.819921",
+        "obo_id": "CUSTOM:0e541005"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1714",
+      "source": "PMC5454470",
+      "target": "CUSTOM:3ceeb3a6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1712",
+      "source": "PMC5454470",
+      "target": "CUSTOM:a598894a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1710",
+      "source": "PMC5454470",
+      "target": "CUSTOM:846eea80",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1708",
+      "source": "PMC5454470",
+      "target": "CUSTOM:0e541005",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

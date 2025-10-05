@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC9549344",
+  "nodes": [
+    {
+      "fullLabel": "PMC9549344",
+      "id": "PMC9549344",
+      "label": "PMC9549344",
+      "properties": {
+        "pmcid": "PMC9549344",
+        "first_seen": "2025-10-05T07:29:06.625070",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.647042"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Proper localization of arc-like thick filaments in posterior bulb (misplaced at periphery)",
+      "id": "CUSTOM:0e656e9b",
+      "label": "Proper localizati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.648917",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Proper localization of arc-like thick filaments in posterior bulb (misplaced at periphery)",
+        "last_seen": "2025-10-05T07:29:06.648917",
+        "obo_id": "CUSTOM:0e656e9b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "UNC 89 expression in terminal and anterior bulbs (reduced)",
+      "id": "CUSTOM:6e8a1582",
+      "label": "UNC 89 expression...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.643865",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "UNC 89 expression in terminal and anterior bulbs (reduced)",
+        "last_seen": "2025-10-05T07:29:06.643865",
+        "obo_id": "CUSTOM:6e8a1582"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "UNC 89 expression in terminal bulb (reduced)",
+      "id": "CUSTOM:47338346",
+      "label": "UNC 89 expression...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.638399",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "UNC 89 expression in terminal bulb (reduced)",
+        "last_seen": "2025-10-05T07:29:06.638399",
+        "obo_id": "CUSTOM:47338346"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Correspondence between expression defects in the mutants and defects in pharyngeal muscle organization",
+      "id": "CUSTOM:b7d0126b",
+      "label": "Correspondence be...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.632707",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Correspondence between expression defects in the mutants and defects in pharyngeal muscle organization",
+        "last_seen": "2025-10-05T07:29:06.632707",
+        "obo_id": "CUSTOM:b7d0126b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Normal organization of sarcomeres in pharyngeal muscle (requirement for UNC 89)",
+      "id": "CUSTOM:1c9a96bb",
+      "label": "Normal organizati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.627000",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Normal organization of sarcomeres in pharyngeal muscle (requirement for UNC 89)",
+        "last_seen": "2025-10-05T07:29:06.627000",
+        "obo_id": "CUSTOM:1c9a96bb"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1978",
+      "source": "PMC9549344",
+      "target": "CUSTOM:0e656e9b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1976",
+      "source": "PMC9549344",
+      "target": "CUSTOM:6e8a1582",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1974",
+      "source": "PMC9549344",
+      "target": "CUSTOM:47338346",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1972",
+      "source": "PMC9549344",
+      "target": "CUSTOM:b7d0126b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1970",
+      "source": "PMC9549344",
+      "target": "CUSTOM:1c9a96bb",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

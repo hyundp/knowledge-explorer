@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC6165321",
+  "nodes": [
+    {
+      "fullLabel": "PMC6165321",
+      "id": "PMC6165321",
+      "label": "PMC6165321",
+      "properties": {
+        "pmcid": "PMC6165321",
+        "first_seen": "2025-10-05T07:29:08.025698",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.057859"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "acute and sustained modifications in visual acuity",
+      "id": "CUSTOM:9739b73e",
+      "label": "acute and sustain...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.059955",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "acute and sustained modifications in visual acuity",
+        "last_seen": "2025-10-05T07:29:08.059955",
+        "obo_id": "CUSTOM:9739b73e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "broader changes in eye structure and function",
+      "id": "CUSTOM:f44812b0",
+      "label": "broader changes i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.053847",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "broader changes in eye structure and function",
+        "last_seen": "2025-10-05T07:29:08.053847",
+        "obo_id": "CUSTOM:f44812b0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "acute changes in protein expression profile",
+      "id": "CUSTOM:abfd8b2e",
+      "label": "acute changes in ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.047452",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "acute changes in protein expression profile",
+        "last_seen": "2025-10-05T07:29:08.047452",
+        "obo_id": "CUSTOM:abfd8b2e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "fidelity of intraocular pressure regulation compromised",
+      "id": "CUSTOM:5defbe0e",
+      "label": "fidelity of intra...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.040712",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "fidelity of intraocular pressure regulation compromised",
+        "last_seen": "2025-10-05T07:29:08.040712",
+        "obo_id": "CUSTOM:5defbe0e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "barrier function of the BRB impaired",
+      "id": "CUSTOM:9cd46553",
+      "label": "barrier function ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.034128",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "barrier function of the BRB impaired",
+        "last_seen": "2025-10-05T07:29:08.034128",
+        "obo_id": "CUSTOM:9cd46553"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "apoptosis in vascular endothelial cells of the retina",
+      "id": "CUSTOM:e84b81f7",
+      "label": "apoptosis in vasc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.027892",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "apoptosis in vascular endothelial cells of the retina",
+        "last_seen": "2025-10-05T07:29:08.027892",
+        "obo_id": "CUSTOM:e84b81f7"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2416",
+      "source": "PMC6165321",
+      "target": "CUSTOM:9739b73e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2414",
+      "source": "PMC6165321",
+      "target": "CUSTOM:f44812b0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2412",
+      "source": "PMC6165321",
+      "target": "CUSTOM:abfd8b2e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2410",
+      "source": "PMC6165321",
+      "target": "CUSTOM:5defbe0e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2408",
+      "source": "PMC6165321",
+      "target": "CUSTOM:9cd46553",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2406",
+      "source": "PMC6165321",
+      "target": "CUSTOM:e84b81f7",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

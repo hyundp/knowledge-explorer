@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC10751425",
+  "nodes": [
+    {
+      "fullLabel": "PMC10751425",
+      "id": "PMC10751425",
+      "label": "PMC10751425",
+      "properties": {
+        "pmcid": "PMC10751425",
+        "first_seen": "2025-10-05T07:29:02.151015",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.181856"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "potential antisarcopenia therapy (bisphosphonates)",
+      "id": "CUSTOM:6e92ef0f",
+      "label": "potential antisar...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.183230",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "potential antisarcopenia therapy (bisphosphonates)",
+        "last_seen": "2025-10-05T07:29:02.183230",
+        "obo_id": "CUSTOM:6e92ef0f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "neuromuscular function",
+      "id": "CUSTOM:393060e8",
+      "label": "neuromuscular fun...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.178980",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "neuromuscular function",
+        "last_seen": "2025-10-05T07:29:02.178980",
+        "obo_id": "CUSTOM:393060e8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "sarcopenia (onset/progression)",
+      "id": "CUSTOM:71b6cc0d",
+      "label": "sarcopenia (onset...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.152840",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "sarcopenia (onset/progression)",
+        "last_seen": "2025-10-05T07:29:02.152840",
+        "obo_id": "CUSTOM:71b6cc0d"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "494",
+      "source": "PMC10751425",
+      "target": "CUSTOM:6e92ef0f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "492",
+      "source": "PMC10751425",
+      "target": "CUSTOM:393060e8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "490",
+      "source": "PMC10751425",
+      "target": "CUSTOM:71b6cc0d",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

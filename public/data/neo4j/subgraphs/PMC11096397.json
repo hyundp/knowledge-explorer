@@ -1,0 +1,395 @@
+{
+  "pmcid": "PMC11096397",
+  "nodes": [
+    {
+      "fullLabel": "PMC11096397",
+      "id": "PMC11096397",
+      "label": "PMC11096397",
+      "properties": {
+        "pmcid": "PMC11096397",
+        "first_seen": "2025-10-05T07:29:16.065496",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:16.205934"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Association between genomic features enriched in ISS isolates and prophage regions suggesting phage importance for adaptation to the spaceflight environment (correlation)",
+      "id": "CUSTOM:e8e6276c",
+      "label": "Association betwe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.208075",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Association between genomic features enriched in ISS isolates and prophage regions suggesting phage importance for adaptation to the spaceflight environment (correlation)",
+        "last_seen": "2025-10-05T07:29:16.208075",
+        "obo_id": "CUSTOM:e8e6276c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "UV radiation exposure inside the ISS interior",
+      "id": "CUSTOM:d78a78a0",
+      "label": "UV radiation expo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.201070",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "UV radiation exposure inside the ISS interior",
+        "last_seen": "2025-10-05T07:29:16.201070",
+        "obo_id": "CUSTOM:d78a78a0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "UV radiation-induced activation of lytic phage (general knowledge)",
+      "id": "CUSTOM:8a42079b",
+      "label": "UV radiation-indu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.193268",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "UV radiation-induced activation of lytic phage (general knowledge)",
+        "last_seen": "2025-10-05T07:29:16.193268",
+        "obo_id": "CUSTOM:8a42079b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of prophage-encoded DNA repair genes across several species, notably those activated in response to radiation",
+      "id": "CUSTOM:9fa97883",
+      "label": "Presence of proph...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.180651",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of prophage-encoded DNA repair genes across several species, notably those activated in response to radiation",
+        "last_seen": "2025-10-05T07:29:16.180651",
+        "obo_id": "CUSTOM:9fa97883"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of prophage-encoded sporulation genes in both Bacillus species",
+      "id": "CUSTOM:6fcf6126",
+      "label": "Presence of proph...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.168933",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of prophage-encoded sporulation genes in both Bacillus species",
+        "last_seen": "2025-10-05T07:29:16.168933",
+        "obo_id": "CUSTOM:6fcf6126"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of host immunity genes in flight prophages that could mediate phage and pyocin resistance",
+      "id": "CUSTOM:6dbb81fd",
+      "label": "Presence of host ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.159045",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of host immunity genes in flight prophages that could mediate phage and pyocin resistance",
+        "last_seen": "2025-10-05T07:29:16.159045",
+        "obo_id": "CUSTOM:6dbb81fd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Fitness benefit provided by lysogens carrying antibiotic resistance genes",
+      "id": "CUSTOM:2302781f",
+      "label": "Fitness benefit p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.150533",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Fitness benefit provided by lysogens carrying antibiotic resistance genes",
+        "last_seen": "2025-10-05T07:29:16.150533",
+        "obo_id": "CUSTOM:2302781f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Proportion of highly antibiotic resistant ESKAPE pathogens carrying a prophage-encoded antibiotic resistance gene",
+      "id": "CUSTOM:48c0d5a5",
+      "label": "Proportion of hig...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.142644",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Proportion of highly antibiotic resistant ESKAPE pathogens carrying a prophage-encoded antibiotic resistance gene",
+        "last_seen": "2025-10-05T07:29:16.142644",
+        "obo_id": "CUSTOM:48c0d5a5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Confirmed antibiotic genes within prophage regions of specific species (P. polymyxa and S. epidermidis)",
+      "id": "CUSTOM:231d619d",
+      "label": "Confirmed antibio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.134334",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Confirmed antibiotic genes within prophage regions of specific species (P. polymyxa and S. epidermidis)",
+        "last_seen": "2025-10-05T07:29:16.134334",
+        "obo_id": "CUSTOM:231d619d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of at least one putative antibiotic resistance or virulence host-related gene within prophage regions of all species studied",
+      "id": "CUSTOM:6de29573",
+      "label": "Presence of at le...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.120792",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of at least one putative antibiotic resistance or virulence host-related gene within prophage regions of all species studied",
+        "last_seen": "2025-10-05T07:29:16.120792",
+        "obo_id": "CUSTOM:6de29573"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Proportion of host-related genes in prophage regions",
+      "id": "CUSTOM:2ebc9caa",
+      "label": "Proportion of hos...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.113315",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Proportion of host-related genes in prophage regions",
+        "last_seen": "2025-10-05T07:29:16.113315",
+        "obo_id": "CUSTOM:2ebc9caa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Prophage clusters hypothesized as novel",
+      "id": "CUSTOM:80c38a85",
+      "label": "Prophage clusters...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.105822",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Prophage clusters hypothesized as novel",
+        "last_seen": "2025-10-05T07:29:16.105822",
+        "obo_id": "CUSTOM:80c38a85"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Unique prophage clusters identified",
+      "id": "CUSTOM:1b4df2ba",
+      "label": "Unique prophage c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.098341",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Unique prophage clusters identified",
+        "last_seen": "2025-10-05T07:29:16.098341",
+        "obo_id": "CUSTOM:1b4df2ba"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Complete prophages identified in flight genomes",
+      "id": "CUSTOM:eff935f1",
+      "label": "Complete prophage...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.090600",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Complete prophages identified in flight genomes",
+        "last_seen": "2025-10-05T07:29:16.090600",
+        "obo_id": "CUSTOM:eff935f1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Transposase regions in terrestrial genomes compared to flight strains",
+      "id": "CUSTOM:b343a19d",
+      "label": "Transposase regio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.083412",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Transposase regions in terrestrial genomes compared to flight strains",
+        "last_seen": "2025-10-05T07:29:16.083412",
+        "obo_id": "CUSTOM:b343a19d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of genes related to production of Mu-like phage proteins in spaceflight species compared to terrestrial counterparts",
+      "id": "CUSTOM:f8dd8017",
+      "label": "Presence of genes...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.075168",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of genes related to production of Mu-like phage proteins in spaceflight species compared to terrestrial counterparts",
+        "last_seen": "2025-10-05T07:29:16.075168",
+        "obo_id": "CUSTOM:f8dd8017"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Phage-associated genes difference between flight and terrestrial strains",
+      "id": "CUSTOM:febe4fe7",
+      "label": "Phage-associated ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.067922",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Phage-associated genes difference between flight and terrestrial strains",
+        "last_seen": "2025-10-05T07:29:16.067922",
+        "obo_id": "CUSTOM:febe4fe7"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4446",
+      "source": "PMC11096397",
+      "target": "CUSTOM:e8e6276c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4444",
+      "source": "PMC11096397",
+      "target": "CUSTOM:d78a78a0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4442",
+      "source": "PMC11096397",
+      "target": "CUSTOM:8a42079b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4440",
+      "source": "PMC11096397",
+      "target": "CUSTOM:9fa97883",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4438",
+      "source": "PMC11096397",
+      "target": "CUSTOM:6fcf6126",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4436",
+      "source": "PMC11096397",
+      "target": "CUSTOM:6dbb81fd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4434",
+      "source": "PMC11096397",
+      "target": "CUSTOM:2302781f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4432",
+      "source": "PMC11096397",
+      "target": "CUSTOM:48c0d5a5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4430",
+      "source": "PMC11096397",
+      "target": "CUSTOM:231d619d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4428",
+      "source": "PMC11096397",
+      "target": "CUSTOM:6de29573",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4426",
+      "source": "PMC11096397",
+      "target": "CUSTOM:2ebc9caa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4424",
+      "source": "PMC11096397",
+      "target": "CUSTOM:80c38a85",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4422",
+      "source": "PMC11096397",
+      "target": "CUSTOM:1b4df2ba",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4420",
+      "source": "PMC11096397",
+      "target": "CUSTOM:eff935f1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4418",
+      "source": "PMC11096397",
+      "target": "CUSTOM:b343a19d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4416",
+      "source": "PMC11096397",
+      "target": "CUSTOM:f8dd8017",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4414",
+      "source": "PMC11096397",
+      "target": "CUSTOM:febe4fe7",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 18,
+  "num_edges": 17
+}

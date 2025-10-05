@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC7314936",
+  "nodes": [
+    {
+      "fullLabel": "PMC7314936",
+      "id": "PMC7314936",
+      "label": "PMC7314936",
+      "properties": {
+        "pmcid": "PMC7314936",
+        "first_seen": "2025-10-05T07:29:02.114494",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.145557"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Collection of environmental and non-destructive plant growth data to validate measurement capability",
+      "id": "CUSTOM:9b039864",
+      "label": "Collection of env...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.147670",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Collection of environmental and non-destructive plant growth data to validate measurement capability",
+        "last_seen": "2025-10-05T07:29:02.147670",
+        "obo_id": "CUSTOM:9b039864"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "APH containment of debris during harvest",
+      "id": "CUSTOM:0f5600ff",
+      "label": "APH containment o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.142392",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "APH containment of debris during harvest",
+        "last_seen": "2025-10-05T07:29:02.142392",
+        "obo_id": "CUSTOM:0f5600ff"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Arabidopsis stems, flowers and siliques grown",
+      "id": "CUSTOM:93824864",
+      "label": "Arabidopsis stems...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.136522",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Arabidopsis stems, flowers and siliques grown",
+        "last_seen": "2025-10-05T07:29:02.136522",
+        "obo_id": "CUSTOM:93824864"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Planting, germination, and watering protocols demonstrated on ISS",
+      "id": "CUSTOM:7e6891c1",
+      "label": "Planting, germina...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.130793",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Planting, germination, and watering protocols demonstrated on ISS",
+        "last_seen": "2025-10-05T07:29:02.130793",
+        "obo_id": "CUSTOM:7e6891c1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Arabidopsis plant canopy growth from seed and harvest",
+      "id": "CUSTOM:66e87906",
+      "label": "Arabidopsis plant...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.125389",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Arabidopsis plant canopy growth from seed and harvest",
+        "last_seen": "2025-10-05T07:29:02.125389",
+        "obo_id": "CUSTOM:66e87906"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Wheat plant canopy growth from seed and harvest",
+      "id": "CUSTOM:c1756bce",
+      "label": "Wheat plant canop...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.120795",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Wheat plant canopy growth from seed and harvest",
+        "last_seen": "2025-10-05T07:29:02.120795",
+        "obo_id": "CUSTOM:c1756bce"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "APH facility ability for conducting fundamental plant research on ISS was demonstrated",
+      "id": "CUSTOM:b551ce26",
+      "label": "APH facility abil...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.116177",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "APH facility ability for conducting fundamental plant research on ISS was demonstrated",
+        "last_seen": "2025-10-05T07:29:02.116177",
+        "obo_id": "CUSTOM:b551ce26"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "488",
+      "source": "PMC7314936",
+      "target": "CUSTOM:9b039864",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "486",
+      "source": "PMC7314936",
+      "target": "CUSTOM:0f5600ff",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "484",
+      "source": "PMC7314936",
+      "target": "CUSTOM:93824864",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "482",
+      "source": "PMC7314936",
+      "target": "CUSTOM:7e6891c1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "480",
+      "source": "PMC7314936",
+      "target": "CUSTOM:66e87906",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "478",
+      "source": "PMC7314936",
+      "target": "CUSTOM:c1756bce",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "476",
+      "source": "PMC7314936",
+      "target": "CUSTOM:b551ce26",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

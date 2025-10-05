@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC3508904",
+  "nodes": [
+    {
+      "fullLabel": "PMC3508904",
+      "id": "PMC3508904",
+      "label": "PMC3508904",
+      "properties": {
+        "pmcid": "PMC3508904",
+        "first_seen": "2025-10-05T07:29:15.661667",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:15.719340"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Almost no multimer formation between S1 and TM2 residues A95, M94 and F93 (membrane-embedded residues)",
+      "id": "CUSTOM:3561b4be",
+      "label": "Almost no multime...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.721308",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Almost no multimer formation between S1 and TM2 residues A95, M94 and F93 (membrane-embedded residues)",
+        "last_seen": "2025-10-05T07:29:15.721308",
+        "obo_id": "CUSTOM:3561b4be"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Mutants M12C/R104C, M12C/N100C, E9C/K101C and E6C/I96C lock closed under oxidation",
+      "id": "CUSTOM:65317554",
+      "label": "Mutants M12C/R104...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.715154",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mutants M12C/R104C, M12C/N100C, E9C/K101C and E6C/I96C lock closed under oxidation",
+        "last_seen": "2025-10-05T07:29:15.715154",
+        "obo_id": "CUSTOM:65317554"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Mutants I3C/K97C, I3C/N100C and E6C/K101C stabilize in a sub-conductive state upon oxidation but do not lock closed",
+      "id": "CUSTOM:c17bbc78",
+      "label": "Mutants I3C/K97C,...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.708523",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mutants I3C/K97C, I3C/N100C and E6C/K101C stabilize in a sub-conductive state upon oxidation but do not lock closed",
+        "last_seen": "2025-10-05T07:29:15.708523",
+        "obo_id": "CUSTOM:c17bbc78"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "I3C/I96C channel is stabilized in a sub-conductive state under oxidizing conditions",
+      "id": "CUSTOM:383f5eb7",
+      "label": "I3C/I96C channel ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.702220",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "I3C/I96C channel is stabilized in a sub-conductive state under oxidizing conditions",
+        "last_seen": "2025-10-05T07:29:15.702220",
+        "obo_id": "CUSTOM:383f5eb7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "I3C/I96C single channel activity can be elicited in both reducing and oxidizing conditions",
+      "id": "CUSTOM:ecb26bcd",
+      "label": "I3C/I96C single c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.695654",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "I3C/I96C single channel activity can be elicited in both reducing and oxidizing conditions",
+        "last_seen": "2025-10-05T07:29:15.695654",
+        "obo_id": "CUSTOM:ecb26bcd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "I3C/I96C forms multimers (trimers to pentamers) under oxidizing conditions",
+      "id": "CUSTOM:33c6909e",
+      "label": "I3C/I96C forms mu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.687767",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "I3C/I96C forms multimers (trimers to pentamers) under oxidizing conditions",
+        "last_seen": "2025-10-05T07:29:15.687767",
+        "obo_id": "CUSTOM:33c6909e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "M12C/N103C single channel activity present under reducing conditions (DTT) and absent under oxidizing conditions (locked closed)",
+      "id": "CUSTOM:440f2592",
+      "label": "M12C/N103C single...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.680186",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "M12C/N103C single channel activity present under reducing conditions (DTT) and absent under oxidizing conditions (locked closed)",
+        "last_seen": "2025-10-05T07:29:15.680186",
+        "obo_id": "CUSTOM:440f2592"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "M12C/N103C mutant exists almost exclusively as a pentamer after oxidation",
+      "id": "CUSTOM:2860907c",
+      "label": "M12C/N103C mutant...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.673231",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "M12C/N103C mutant exists almost exclusively as a pentamer after oxidation",
+        "last_seen": "2025-10-05T07:29:15.673231",
+        "obo_id": "CUSTOM:2860907c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Efficient interactions between S1 and TM2ci domains requiring low oxidizer concentration",
+      "id": "CUSTOM:ca093139",
+      "label": "Efficient interac...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.664393",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Efficient interactions between S1 and TM2ci domains requiring low oxidizer concentration",
+        "last_seen": "2025-10-05T07:29:15.664393",
+        "obo_id": "CUSTOM:ca093139"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4324",
+      "source": "PMC3508904",
+      "target": "CUSTOM:3561b4be",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4322",
+      "source": "PMC3508904",
+      "target": "CUSTOM:65317554",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4320",
+      "source": "PMC3508904",
+      "target": "CUSTOM:c17bbc78",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4318",
+      "source": "PMC3508904",
+      "target": "CUSTOM:383f5eb7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4316",
+      "source": "PMC3508904",
+      "target": "CUSTOM:ecb26bcd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4314",
+      "source": "PMC3508904",
+      "target": "CUSTOM:33c6909e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4312",
+      "source": "PMC3508904",
+      "target": "CUSTOM:440f2592",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4310",
+      "source": "PMC3508904",
+      "target": "CUSTOM:2860907c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4308",
+      "source": "PMC3508904",
+      "target": "CUSTOM:ca093139",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

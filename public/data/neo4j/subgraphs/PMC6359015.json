@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC6359015",
+  "nodes": [
+    {
+      "fullLabel": "PMC6359015",
+      "id": "PMC6359015",
+      "label": "PMC6359015",
+      "properties": {
+        "pmcid": "PMC6359015",
+        "first_seen": "2025-10-05T07:29:13.802784",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:13.827887"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Identification of HsfA2-dependent genes with a required expression level for a cell to achieve the spaceflight adapted state; genetic approaches provide additional insights beyond differential gene expression in WT",
+      "id": "CUSTOM:77a5a7f3",
+      "label": "Identification of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.829872",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Identification of HsfA2-dependent genes with a required expression level for a cell to achieve the spaceflight adapted state; genetic approaches provide additional insights beyond differential gene expression in WT",
+        "last_seen": "2025-10-05T07:29:13.829872",
+        "obo_id": "CUSTOM:77a5a7f3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Endoplasmic reticulum and unfolded protein stress responses define the HSFA2 KO cell physiological state regardless of the environment, likely due to deficiency in chaperone mediated protein folding machinery",
+      "id": "CUSTOM:d91c260e",
+      "label": "Endoplasmic retic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.823603",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Endoplasmic reticulum and unfolded protein stress responses define the HSFA2 KO cell physiological state regardless of the environment, likely due to deficiency in chaperone mediated protein folding machinery",
+        "last_seen": "2025-10-05T07:29:13.823603",
+        "obo_id": "CUSTOM:d91c260e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "A much larger change in gene expression is required for spaceflight adaptation in the absence of HSFA2",
+      "id": "CUSTOM:c4899f80",
+      "label": "A much larger cha...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.817537",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "A much larger change in gene expression is required for spaceflight adaptation in the absence of HSFA2",
+        "last_seen": "2025-10-05T07:29:13.817537",
+        "obo_id": "CUSTOM:c4899f80"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Activation of the endoplasmic reticulum stress response and the unfolded protein stress response when HSFA2 is disabled",
+      "id": "CUSTOM:ced09b69",
+      "label": "Activation of the...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.811152",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Activation of the endoplasmic reticulum stress response and the unfolded protein stress response when HSFA2 is disabled",
+        "last_seen": "2025-10-05T07:29:13.811152",
+        "obo_id": "CUSTOM:ced09b69"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "HSFA2 and the HSF network regulate cell wall signaling, plasma membrane signaling, and starch biosynthesis in the physiological adaptation to spaceflight",
+      "id": "CUSTOM:7d33b962",
+      "label": "HSFA2 and the HSF...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.805148",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "HSFA2 and the HSF network regulate cell wall signaling, plasma membrane signaling, and starch biosynthesis in the physiological adaptation to spaceflight",
+        "last_seen": "2025-10-05T07:29:13.805148",
+        "obo_id": "CUSTOM:7d33b962"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3906",
+      "source": "PMC6359015",
+      "target": "CUSTOM:77a5a7f3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3904",
+      "source": "PMC6359015",
+      "target": "CUSTOM:d91c260e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3902",
+      "source": "PMC6359015",
+      "target": "CUSTOM:c4899f80",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3900",
+      "source": "PMC6359015",
+      "target": "CUSTOM:ced09b69",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3898",
+      "source": "PMC6359015",
+      "target": "CUSTOM:7d33b962",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

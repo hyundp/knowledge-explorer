@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC3818365",
+  "nodes": [
+    {
+      "fullLabel": "PMC3818365",
+      "id": "PMC3818365",
+      "label": "PMC3818365",
+      "properties": {
+        "pmcid": "PMC3818365",
+        "first_seen": "2025-10-05T07:29:03.524071",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.550704"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "The UPR network can be built in intact organisms using plants as a model system",
+      "id": "CUSTOM:56ed62dd",
+      "label": "The UPR network c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.552278",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "The UPR network can be built in intact organisms using plants as a model system",
+        "last_seen": "2025-10-05T07:29:03.552278",
+        "obo_id": "CUSTOM:56ed62dd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Synergistic effect of Arabidopsis IRE1 and a conserved component of the G protein complex on plant UPR activation and growth regulation",
+      "id": "CUSTOM:f212d039",
+      "label": "Synergistic effec...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.547784",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Synergistic effect of Arabidopsis IRE1 and a conserved component of the G protein complex on plant UPR activation and growth regulation",
+        "last_seen": "2025-10-05T07:29:03.547784",
+        "obo_id": "CUSTOM:f212d039"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "IRE1 roles in organ growth, pathogen defense, and abiotic stress responses",
+      "id": "CUSTOM:c79d438b",
+      "label": "IRE1 roles in org...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.543049",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "IRE1 roles in organ growth, pathogen defense, and abiotic stress responses",
+        "last_seen": "2025-10-05T07:29:03.543049",
+        "obo_id": "CUSTOM:c79d438b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Viability of plant IRE1 mutants (enables in vivo analyses)",
+      "id": "CUSTOM:53dd25f1",
+      "label": "Viability of plan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.536972",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Viability of plant IRE1 mutants (enables in vivo analyses)",
+        "last_seen": "2025-10-05T07:29:03.536972",
+        "obo_id": "CUSTOM:53dd25f1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Lethality of the mammalian IRE1alpha mutant",
+      "id": "CUSTOM:a3cc0dd1",
+      "label": "Lethality of the ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.531774",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Lethality of the mammalian IRE1alpha mutant",
+        "last_seen": "2025-10-05T07:29:03.531774",
+        "obo_id": "CUSTOM:a3cc0dd1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "IRE1 activities are coordinated at a systemic level to cope with dynamic secretion activity",
+      "id": "CUSTOM:9efa7334",
+      "label": "IRE1 activities a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.526016",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "IRE1 activities are coordinated at a systemic level to cope with dynamic secretion activity",
+        "last_seen": "2025-10-05T07:29:03.526016",
+        "obo_id": "CUSTOM:9efa7334"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "964",
+      "source": "PMC3818365",
+      "target": "CUSTOM:56ed62dd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "962",
+      "source": "PMC3818365",
+      "target": "CUSTOM:f212d039",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "960",
+      "source": "PMC3818365",
+      "target": "CUSTOM:c79d438b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "958",
+      "source": "PMC3818365",
+      "target": "CUSTOM:53dd25f1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "956",
+      "source": "PMC3818365",
+      "target": "CUSTOM:a3cc0dd1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "954",
+      "source": "PMC3818365",
+      "target": "CUSTOM:9efa7334",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

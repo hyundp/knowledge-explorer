@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC7998608",
+  "nodes": [
+    {
+      "fullLabel": "PMC7998608",
+      "id": "PMC7998608",
+      "label": "PMC7998608",
+      "properties": {
+        "pmcid": "PMC7998608",
+        "first_seen": "2025-10-05T07:29:08.894641",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.944249"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "cell quantities",
+      "id": "CUSTOM:a893911f",
+      "label": "cell quantities",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.946757",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cell quantities",
+        "last_seen": "2025-10-05T07:29:08.946757",
+        "obo_id": "CUSTOM:a893911f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cell microsphere adhesion",
+      "id": "CUSTOM:032574d2",
+      "label": "cell microsphere ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.937703",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cell microsphere adhesion",
+        "last_seen": "2025-10-05T07:29:08.937703",
+        "obo_id": "CUSTOM:032574d2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "angiogenic abilities",
+      "id": "CUSTOM:418e23a1",
+      "label": "angiogenic abilities",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.928739",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "angiogenic abilities",
+        "last_seen": "2025-10-05T07:29:08.928739",
+        "obo_id": "CUSTOM:418e23a1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "differentiation",
+      "id": "CUSTOM:a2420543",
+      "label": "differentiation",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.920040",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "differentiation",
+        "last_seen": "2025-10-05T07:29:08.920040",
+        "obo_id": "CUSTOM:a2420543"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "proliferation",
+      "id": "CUSTOM:7e6a7071",
+      "label": "proliferation",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.912376",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "proliferation",
+        "last_seen": "2025-10-05T07:29:08.912376",
+        "obo_id": "CUSTOM:7e6a7071"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "proliferation of highly functional stem cells",
+      "id": "CUSTOM:01dcedee",
+      "label": "proliferation of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.904860",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "proliferation of highly functional stem cells",
+        "last_seen": "2025-10-05T07:29:08.904860",
+        "obo_id": "CUSTOM:01dcedee"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "stemness",
+      "id": "CUSTOM:197ac573",
+      "label": "stemness",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.897097",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "stemness",
+        "last_seen": "2025-10-05T07:29:08.897097",
+        "obo_id": "CUSTOM:197ac573"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2676",
+      "source": "PMC7998608",
+      "target": "CUSTOM:a893911f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2674",
+      "source": "PMC7998608",
+      "target": "CUSTOM:032574d2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2672",
+      "source": "PMC7998608",
+      "target": "CUSTOM:418e23a1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2670",
+      "source": "PMC7998608",
+      "target": "CUSTOM:a2420543",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2668",
+      "source": "PMC7998608",
+      "target": "CUSTOM:7e6a7071",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2666",
+      "source": "PMC7998608",
+      "target": "CUSTOM:01dcedee",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2664",
+      "source": "PMC7998608",
+      "target": "CUSTOM:197ac573",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

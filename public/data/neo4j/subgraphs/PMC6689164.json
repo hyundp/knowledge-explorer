@@ -1,0 +1,241 @@
+{
+  "pmcid": "PMC6689164",
+  "nodes": [
+    {
+      "fullLabel": "PMC6689164",
+      "id": "PMC6689164",
+      "label": "PMC6689164",
+      "properties": {
+        "pmcid": "PMC6689164",
+        "first_seen": "2025-10-05T07:29:08.625971",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.715152"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "interventions enabling microbial communities to adapt to the spaceflight-associated metabolic environment in the gut will mitigate risks to crew health and performance during future long term spaceflight missions",
+      "id": "CUSTOM:886a439e",
+      "label": "interventions ena...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.717014",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "interventions enabling microbial communities to adapt to the spaceflight-associated metabolic environment in the gut will mitigate risks to crew health and performance during future long term spaceflight missions",
+        "last_seen": "2025-10-05T07:29:08.717014",
+        "obo_id": "CUSTOM:886a439e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "change in the gut microbiota as a component of mammalian adaptation to the space environment",
+      "id": "CUSTOM:1182c2ee",
+      "label": "change in the gut...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.711076",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "change in the gut microbiota as a component of mammalian adaptation to the space environment",
+        "last_seen": "2025-10-05T07:29:08.711076",
+        "obo_id": "CUSTOM:1182c2ee"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "influence of gut microbiota shifts on host biological functions",
+      "id": "CUSTOM:bfc81f4d",
+      "label": "influence of gut ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.704711",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "influence of gut microbiota shifts on host biological functions",
+        "last_seen": "2025-10-05T07:29:08.704711",
+        "obo_id": "CUSTOM:bfc81f4d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "gut microbiota shifts community structure and associated gene content (adaptation)",
+      "id": "CUSTOM:354fc929",
+      "label": "gut microbiota sh...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.694728",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "gut microbiota shifts community structure and associated gene content (adaptation)",
+        "last_seen": "2025-10-05T07:29:08.694728",
+        "obo_id": "CUSTOM:354fc929"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "digesta movement in the gastrointestinal tract",
+      "id": "CUSTOM:32104997",
+      "label": "digesta movement ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.686171",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "digesta movement in the gastrointestinal tract",
+        "last_seen": "2025-10-05T07:29:08.686171",
+        "obo_id": "CUSTOM:32104997"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "fluid shear dynamics in the gastrointestinal tract",
+      "id": "CUSTOM:9a6707eb",
+      "label": "fluid shear dynam...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.678487",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "fluid shear dynamics in the gastrointestinal tract",
+        "last_seen": "2025-10-05T07:29:08.678487",
+        "obo_id": "CUSTOM:9a6707eb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "altered metabolic environment for microbes in the gastrointestinal tract caused by microgravity",
+      "id": "CUSTOM:87a84b4a",
+      "label": "altered metabolic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.658020",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "altered metabolic environment for microbes in the gastrointestinal tract caused by microgravity",
+        "last_seen": "2025-10-05T07:29:08.658020",
+        "obo_id": "CUSTOM:87a84b4a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "association between altered metabolic potential in the gut microbiota and expression of metabolic genes in the host liver",
+      "id": "CUSTOM:3422cb78",
+      "label": "association betwe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.648612",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "association between altered metabolic potential in the gut microbiota and expression of metabolic genes in the host liver",
+        "last_seen": "2025-10-05T07:29:08.648612",
+        "obo_id": "CUSTOM:3422cb78"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "altered metabolic potential in the gut microbiota",
+      "id": "CUSTOM:87023024",
+      "label": "altered metabolic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.638870",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "altered metabolic potential in the gut microbiota",
+        "last_seen": "2025-10-05T07:29:08.638870",
+        "obo_id": "CUSTOM:87023024"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "effect of the spaceflight on the gut microbiome",
+      "id": "CUSTOM:d883db37",
+      "label": "effect of the spa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.629096",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "effect of the spaceflight on the gut microbiome",
+        "last_seen": "2025-10-05T07:29:08.629096",
+        "obo_id": "CUSTOM:d883db37"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2610",
+      "source": "PMC6689164",
+      "target": "CUSTOM:886a439e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2608",
+      "source": "PMC6689164",
+      "target": "CUSTOM:1182c2ee",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2606",
+      "source": "PMC6689164",
+      "target": "CUSTOM:bfc81f4d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2604",
+      "source": "PMC6689164",
+      "target": "CUSTOM:354fc929",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2602",
+      "source": "PMC6689164",
+      "target": "CUSTOM:32104997",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2600",
+      "source": "PMC6689164",
+      "target": "CUSTOM:9a6707eb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2598",
+      "source": "PMC6689164",
+      "target": "CUSTOM:87a84b4a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2596",
+      "source": "PMC6689164",
+      "target": "CUSTOM:3422cb78",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2594",
+      "source": "PMC6689164",
+      "target": "CUSTOM:87023024",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2592",
+      "source": "PMC6689164",
+      "target": "CUSTOM:d883db37",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 11,
+  "num_edges": 10
+}

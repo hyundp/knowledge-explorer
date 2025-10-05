@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC9389742",
+  "nodes": [
+    {
+      "fullLabel": "PMC9389742",
+      "id": "PMC9389742",
+      "label": "PMC9389742",
+      "properties": {
+        "pmcid": "PMC9389742",
+        "first_seen": "2025-10-05T07:29:05.367940",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.457495"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Mechanisms used by E. scolopes to communicate with V. fischeri are present in other animals (example: Lbps)",
+      "id": "CUSTOM:de968406",
+      "label": "Mechanisms used b...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.459562",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mechanisms used by E. scolopes to communicate with V. fischeri are present in other animals (example: Lbps)",
+        "last_seen": "2025-10-05T07:29:05.459562",
+        "obo_id": "CUSTOM:de968406"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Therapeutic potential to maintain crew health by modulating cell life/death and preventing perturbations of animal–microbe homeostasis",
+      "id": "CUSTOM:de402b91",
+      "label": "Therapeutic poten...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.453359",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Therapeutic potential to maintain crew health by modulating cell life/death and preventing perturbations of animal–microbe homeostasis",
+        "last_seen": "2025-10-05T07:29:05.453359",
+        "obo_id": "CUSTOM:de402b91"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Alteration of normal physiological responses, such as apoptosis, due to disruptions in host microbe homeostasis and animal physiology",
+      "id": "CUSTOM:b5459073",
+      "label": "Alteration of nor...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.446756",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Alteration of normal physiological responses, such as apoptosis, due to disruptions in host microbe homeostasis and animal physiology",
+        "last_seen": "2025-10-05T07:29:05.446756",
+        "obo_id": "CUSTOM:b5459073"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Differential responses of animals to the stresses of spaceflight depending on presence or absence of their symbionts",
+      "id": "CUSTOM:1eb166aa",
+      "label": "Differential resp...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.441823",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Differential responses of animals to the stresses of spaceflight depending on presence or absence of their symbionts",
+        "last_seen": "2025-10-05T07:29:05.441823",
+        "obo_id": "CUSTOM:1eb166aa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Perturbations to the normal apoptotic pathways",
+      "id": "CUSTOM:a51f3904",
+      "label": "Perturbations to ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.437685",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Perturbations to the normal apoptotic pathways",
+        "last_seen": "2025-10-05T07:29:05.437685",
+        "obo_id": "CUSTOM:a51f3904"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "apoptosis quantified following protease inhibitor treatment",
+      "id": "CUSTOM:779d0fe4",
+      "label": "apoptosis quantif...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.432501",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "apoptosis quantified following protease inhibitor treatment",
+        "last_seen": "2025-10-05T07:29:05.432501",
+        "obo_id": "CUSTOM:779d0fe4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "activity of intrinsic initiator caspase 9 measured",
+      "id": "CUSTOM:20ffbcc4",
+      "label": "activity of intri...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.407971",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "activity of intrinsic initiator caspase 9 measured",
+        "last_seen": "2025-10-05T07:29:05.407971",
+        "obo_id": "CUSTOM:20ffbcc4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "activity of extrinsic initiator caspase 8 measured",
+      "id": "CUSTOM:804f946b",
+      "label": "activity of extri...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.403402",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "activity of extrinsic initiator caspase 8 measured",
+        "last_seen": "2025-10-05T07:29:05.403402",
+        "obo_id": "CUSTOM:804f946b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "activity of executioner caspases 3/7 measured",
+      "id": "CUSTOM:59258c51",
+      "label": "activity of execu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.393096",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "activity of executioner caspases 3/7 measured",
+        "last_seen": "2025-10-05T07:29:05.393096",
+        "obo_id": "CUSTOM:59258c51"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1590",
+      "source": "PMC9389742",
+      "target": "CUSTOM:de968406",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1588",
+      "source": "PMC9389742",
+      "target": "CUSTOM:de402b91",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1586",
+      "source": "PMC9389742",
+      "target": "CUSTOM:b5459073",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1584",
+      "source": "PMC9389742",
+      "target": "CUSTOM:1eb166aa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1582",
+      "source": "PMC9389742",
+      "target": "CUSTOM:a51f3904",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1580",
+      "source": "PMC9389742",
+      "target": "CUSTOM:779d0fe4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1578",
+      "source": "PMC9389742",
+      "target": "CUSTOM:20ffbcc4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1576",
+      "source": "PMC9389742",
+      "target": "CUSTOM:804f946b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1574",
+      "source": "PMC9389742",
+      "target": "CUSTOM:59258c51",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

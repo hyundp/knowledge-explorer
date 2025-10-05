@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC10719374",
+  "nodes": [
+    {
+      "fullLabel": "PMC10719374",
+      "id": "PMC10719374",
+      "label": "PMC10719374",
+      "properties": {
+        "pmcid": "PMC10719374",
+        "first_seen": "2025-10-05T07:29:07.571386",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:07.627367"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Mathematical function types used by QLattice models",
+      "id": "CUSTOM:2c73006e",
+      "label": "Mathematical func...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.629590",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mathematical function types used by QLattice models",
+        "last_seen": "2025-10-05T07:29:07.629590",
+        "obo_id": "CUSTOM:2c73006e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "TA muscle resilience to space conditions (comparative)",
+      "id": "CUSTOM:4ad17cc4",
+      "label": "TA muscle resilie...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.623079",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "TA muscle resilience to space conditions (comparative)",
+        "last_seen": "2025-10-05T07:29:07.623079",
+        "obo_id": "CUSTOM:4ad17cc4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "RNA-seq features predictive power (relative)",
+      "id": "CUSTOM:a82f2a08",
+      "label": "RNA-seq features ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.617709",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "RNA-seq features predictive power (relative)",
+        "last_seen": "2025-10-05T07:29:07.617709",
+        "obo_id": "CUSTOM:a82f2a08"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Proteomic features predictive power",
+      "id": "CUSTOM:c8e39df9",
+      "label": "Proteomic feature...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.612269",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Proteomic features predictive power",
+        "last_seen": "2025-10-05T07:29:07.612269",
+        "obo_id": "CUSTOM:c8e39df9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "DNA methylation (CpG+) contribution to predictive models",
+      "id": "CUSTOM:96892ef9",
+      "label": "DNA methylation (...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.607257",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "DNA methylation (CpG+) contribution to predictive models",
+        "last_seen": "2025-10-05T07:29:07.607257",
+        "obo_id": "CUSTOM:96892ef9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "TA muscle weight",
+      "id": "CUSTOM:252b1385",
+      "label": "TA muscle weight",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.601949",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "TA muscle weight",
+        "last_seen": "2025-10-05T07:29:07.601949",
+        "obo_id": "CUSTOM:252b1385"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "SOL muscle weight",
+      "id": "CUSTOM:7d86b1ee",
+      "label": "SOL muscle weight",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.596617",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "SOL muscle weight",
+        "last_seen": "2025-10-05T07:29:07.596617",
+        "obo_id": "CUSTOM:7d86b1ee"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ca2+ uptake (decreased) associated molecular relationship",
+      "id": "CUSTOM:57fc9889",
+      "label": "Ca2+ uptake (decr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.591017",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ca2+ uptake (decreased) associated molecular relationship",
+        "last_seen": "2025-10-05T07:29:07.591017",
+        "obo_id": "CUSTOM:57fc9889"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ca2+ uptake (enhanced) associated molecular relationship",
+      "id": "CUSTOM:4a5d7bc7",
+      "label": "Ca2+ uptake (enha...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.585890",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ca2+ uptake (enhanced) associated molecular relationship",
+        "last_seen": "2025-10-05T07:29:07.585890",
+        "obo_id": "CUSTOM:4a5d7bc7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Calcium reuptake",
+      "id": "CUSTOM:7540b228",
+      "label": "Calcium reuptake",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.580396",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Calcium reuptake",
+        "last_seen": "2025-10-05T07:29:07.580396",
+        "obo_id": "CUSTOM:7540b228"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Calcium reuptake",
+      "id": "CUSTOM:02b7fe26",
+      "label": "Calcium reuptake",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.573864",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Calcium reuptake",
+        "last_seen": "2025-10-05T07:29:07.573864",
+        "obo_id": "CUSTOM:02b7fe26"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2290",
+      "source": "PMC10719374",
+      "target": "CUSTOM:2c73006e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2288",
+      "source": "PMC10719374",
+      "target": "CUSTOM:4ad17cc4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2286",
+      "source": "PMC10719374",
+      "target": "CUSTOM:a82f2a08",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2284",
+      "source": "PMC10719374",
+      "target": "CUSTOM:c8e39df9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2282",
+      "source": "PMC10719374",
+      "target": "CUSTOM:96892ef9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2280",
+      "source": "PMC10719374",
+      "target": "CUSTOM:252b1385",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2278",
+      "source": "PMC10719374",
+      "target": "CUSTOM:7d86b1ee",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2276",
+      "source": "PMC10719374",
+      "target": "CUSTOM:57fc9889",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2274",
+      "source": "PMC10719374",
+      "target": "CUSTOM:4a5d7bc7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2272",
+      "source": "PMC10719374",
+      "target": "CUSTOM:7540b228",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2270",
+      "source": "PMC10719374",
+      "target": "CUSTOM:02b7fe26",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

@@ -1,0 +1,28 @@
+{
+  "pmcid": "PMC9163032",
+  "title": "alphaKlotho decreases after reduced weight bearing from both spaceflight and hindlimb unloading",
+  "authors": [
+    "Jeffrey S Willey",
+    "Serena Aunon Chancellor",
+    "Lauren A Miles",
+    "Joseph E Moore",
+    "Xiao W Mao",
+    "Robert W Wallace",
+    "Matthew C Foy"
+  ],
+  "year": "2022",
+  "journal": "NPJ Microgravity",
+  "doi": "10.1038/s41526 022 00203 w",
+  "sections": {
+    "abstract": "Alpha(alpha)Klotho, a soluble transmembrane protein, facilitates calcium phosphorus homeostasis through feedback between bone and kidney and is a potential systemic biomarker for bone kidney health during spaceflight. We determined if: (1) plasma alphaKlotho was reduced after both spaceflight aboard the ISS and hindlimb unloading (HU); and (2) deficiency could be reversed with exercise. Both spaceflight and HU lowered circulating plasma alphaKlotho: plasma alphaKlotho recovered with exercise after HU.\n\nSubject terms:Predictive markers, Physiology",
+    "methods": "The animal and environmental details of the ISS study (Rodent Research 9 mission), the accompanying HU study, and all approved IACUC protocols from Wake Forest School of Medicine, NASA Ames, and the Kenney Space Center have been published15. All mice were male, C57BL/6 (Jackson Labs) that were 10 weeks at the start of each study.\n\nGroups included FLIGHT and GROUND control15. This investigation had access ton=4 5 plasma samples/group collected after 35 days on orbit; all available samples were analyzed for this study.\n\nGroups included weight bearing GROUND mice, or HU via tail suspension, as described15. On Day 30, plasma was isolated from a cohort of GROUND (GROUND 30day) and HU (HU 30day) mice. Remaining HU mice were then removed from tail suspension and were thus weight bearing the remainder of the study. All mice that were previously GROUND or HU were enrolled into one of 3 exercise groups, as described15, from Days 31 80, performing: 1] no exercise; 2] climbing exercise 3X weekly, or; 3] running exercise 3X weekly in order to determine if recovery was possible with aerobic (running) or a resistance (climbing) regimen, yielding the following six groups: GROUND No exercise; GROUND Climbing; GROUND Running; HU No exercise; HU Climbing; and HU Running. Climbing exercises were performed 3X/week,. This investigation had access ton=4 plasma samples/group, all of which were analyzed.\n\nBlood was collected in [K2]ethylenediaminetetraacetic acid (EDTA) containing syringes by cardiac puncture and centrifuged for 10min at 3000rpm at 4 degreesC; Plasma was isolated and ELISA was used to detect alphaKlotho (R&D Systems #DY5334) and FGF23 (Abcam #ab213863); a commercial Pi kit was also used (Pointe Scientific #P7516 500).\n\nComparisons between FLIGHT and GROUND mice were performed using a two way unpaired t test; ANOVA was performed for the HU study, with Tukeys post hoc tests. alpha<=0.05; the assumption of equal variance was used to test equality of variance. Analyses were performed using GraphPad Prizm 8.4.0. The data that support the findings of this study are available on request from the corresponding author.\n\nFurther information on research design is available in theNature Research Reporting Summarylinked to this article.",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:08:14.808590",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9163032/"
+  }
+}

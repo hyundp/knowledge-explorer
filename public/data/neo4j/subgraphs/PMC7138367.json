@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC7138367",
+  "nodes": [
+    {
+      "fullLabel": "PMC7138367",
+      "id": "PMC7138367",
+      "label": "PMC7138367",
+      "properties": {
+        "pmcid": "PMC7138367",
+        "first_seen": "2025-10-05T07:29:03.168259",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.192311"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "morphology and mechanics of the tendon enthesis",
+      "id": "CUSTOM:b68fed73",
+      "label": "morphology and me...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.193798",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "morphology and mechanics of the tendon enthesis",
+        "last_seen": "2025-10-05T07:29:03.193798",
+        "obo_id": "CUSTOM:b68fed73"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Mmp3 and 13 gene expression",
+      "id": "CUSTOM:a7b5ad8d",
+      "label": "Mmp3 and 13 gene ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.189878",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mmp3 and 13 gene expression",
+        "last_seen": "2025-10-05T07:29:03.189878",
+        "obo_id": "CUSTOM:a7b5ad8d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "tendon collagen fibril diameter",
+      "id": "CUSTOM:6ad96b01",
+      "label": "tendon collagen f...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.185594",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "tendon collagen fibril diameter",
+        "last_seen": "2025-10-05T07:29:03.185594",
+        "obo_id": "CUSTOM:6ad96b01"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mature osteoblast activity-related gene expression",
+      "id": "CUSTOM:370ee14b",
+      "label": "mature osteoblast...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.181449",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mature osteoblast activity-related gene expression",
+        "last_seen": "2025-10-05T07:29:03.181449",
+        "obo_id": "CUSTOM:370ee14b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "osteoclastogenesis-related gene expression",
+      "id": "CUSTOM:0d535899",
+      "label": "osteoclastogenesi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.176804",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "osteoclastogenesis-related gene expression",
+        "last_seen": "2025-10-05T07:29:03.176804",
+        "obo_id": "CUSTOM:0d535899"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "carbonate content of calcaneal bone",
+      "id": "CUSTOM:d34c37d3",
+      "label": "carbonate content...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.170786",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "carbonate content of calcaneal bone",
+        "last_seen": "2025-10-05T07:29:03.170786",
+        "obo_id": "CUSTOM:d34c37d3"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "854",
+      "source": "PMC7138367",
+      "target": "CUSTOM:b68fed73",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "852",
+      "source": "PMC7138367",
+      "target": "CUSTOM:a7b5ad8d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "850",
+      "source": "PMC7138367",
+      "target": "CUSTOM:6ad96b01",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "848",
+      "source": "PMC7138367",
+      "target": "CUSTOM:370ee14b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "846",
+      "source": "PMC7138367",
+      "target": "CUSTOM:0d535899",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "844",
+      "source": "PMC7138367",
+      "target": "CUSTOM:d34c37d3",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

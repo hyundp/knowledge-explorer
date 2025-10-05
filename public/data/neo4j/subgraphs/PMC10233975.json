@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC10233975",
+  "nodes": [
+    {
+      "fullLabel": "PMC10233975",
+      "id": "PMC10233975",
+      "label": "PMC10233975",
+      "properties": {
+        "pmcid": "PMC10233975",
+        "first_seen": "2025-10-05T07:26:41.569964",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.325698"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Enterobacterial species are more subject to microgravity changes (increased susceptibility)",
+      "id": "CUSTOM:c0d02e6b",
+      "label": "Enterobacterial s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.327258",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Enterobacterial species are more subject to microgravity changes (increased susceptibility)",
+        "last_seen": "2025-10-05T07:29:01.327258",
+        "obo_id": "CUSTOM:c0d02e6b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Maximum SNPs characterized for ISS Pantoea/Kalamella strains (high SNP counts)",
+      "id": "CUSTOM:992f9a72",
+      "label": "Maximum SNPs char...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.322229",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Maximum SNPs characterized for ISS Pantoea/Kalamella strains (high SNP counts)",
+        "last_seen": "2025-10-05T07:29:01.322229",
+        "obo_id": "CUSTOM:992f9a72"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Variations found in AMR and virulence genes enabling prediction of ecology and evolution of microorganisms in space",
+      "id": "CUSTOM:70907bef",
+      "label": "Variations found ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.318161",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Variations found in AMR and virulence genes enabling prediction of ecology and evolution of microorganisms in space",
+        "last_seen": "2025-10-05T07:29:01.318161",
+        "obo_id": "CUSTOM:70907bef"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Common gene-based resistance phenomenon and SNP changes in MAGs and ISS genomes potentially as an adaptation strategy in antimicrobial resistance (AMR) and biofilm formation",
+      "id": "CUSTOM:1bb8a52f",
+      "label": "Common gene-based...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.314106",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Common gene-based resistance phenomenon and SNP changes in MAGs and ISS genomes potentially as an adaptation strategy in antimicrobial resistance (AMR) and biofilm formation",
+        "last_seen": "2025-10-05T07:29:01.314106",
+        "obo_id": "CUSTOM:1bb8a52f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "High frequency of molecules pertaining to cell membranes (transmembrane transport, cell wall organization, regulation of cell shape) in ISS genomes",
+      "id": "CUSTOM:21573fd1",
+      "label": "High frequency of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.309597",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "High frequency of molecules pertaining to cell membranes (transmembrane transport, cell wall organization, regulation of cell shape) in ISS genomes",
+        "last_seen": "2025-10-05T07:29:01.309597",
+        "obo_id": "CUSTOM:21573fd1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Monophyletic phylogeny of ISS genomes indicating a single common ancestor",
+      "id": "CUSTOM:b4ee2cc0",
+      "label": "Monophyletic phyl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.305112",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Monophyletic phylogeny of ISS genomes indicating a single common ancestor",
+        "last_seen": "2025-10-05T07:29:01.305112",
+        "obo_id": "CUSTOM:b4ee2cc0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Generation of good quality bacterial and fungal MAGs from ISS environmental samples and prediction of functional properties",
+      "id": "CUSTOM:66bfdd6c",
+      "label": "Generation of goo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.279612",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Generation of good quality bacterial and fungal MAGs from ISS environmental samples and prediction of functional properties",
+        "last_seen": "2025-10-05T07:29:01.279612",
+        "obo_id": "CUSTOM:66bfdd6c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Description of novel microbial species (two bacterial and one yeast) via the 'metagenome to phenome' approach",
+      "id": "CUSTOM:883adc08",
+      "label": "Description of no...",
+      "properties": {
+        "first_seen": "2025-10-05T07:26:41.583388",
+        "source_count": 2,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Description of novel microbial species (two bacterial and one yeast) via the 'metagenome to phenome' approach",
+        "last_seen": "2025-10-05T07:29:01.300956",
+        "obo_id": "CUSTOM:883adc08"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "204",
+      "source": "PMC10233975",
+      "target": "CUSTOM:c0d02e6b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "202",
+      "source": "PMC10233975",
+      "target": "CUSTOM:992f9a72",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "200",
+      "source": "PMC10233975",
+      "target": "CUSTOM:70907bef",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "198",
+      "source": "PMC10233975",
+      "target": "CUSTOM:1bb8a52f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "196",
+      "source": "PMC10233975",
+      "target": "CUSTOM:21573fd1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "194",
+      "source": "PMC10233975",
+      "target": "CUSTOM:b4ee2cc0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "192",
+      "source": "PMC10233975",
+      "target": "CUSTOM:66bfdd6c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4",
+      "source": "PMC10233975",
+      "target": "CUSTOM:883adc08",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

@@ -1,0 +1,43 @@
+{
+  "pmcid": "PMC9139491",
+  "nodes": [
+    {
+      "fullLabel": "PMC9139491",
+      "id": "PMC9139491",
+      "label": "PMC9139491",
+      "properties": {
+        "pmcid": "PMC9139491",
+        "first_seen": "2025-10-05T07:29:04.054137",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.054137"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Modulation of VEGFA and BMP2 gene expression",
+      "id": "CUSTOM:7983a71c",
+      "label": "Modulation of VEG...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.055888",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Modulation of VEGFA and BMP2 gene expression",
+        "last_seen": "2025-10-05T07:29:04.055888",
+        "obo_id": "CUSTOM:7983a71c"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1152",
+      "source": "PMC9139491",
+      "target": "CUSTOM:7983a71c",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 2,
+  "num_edges": 1
+}

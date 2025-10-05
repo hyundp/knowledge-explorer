@@ -1,0 +1,285 @@
+{
+  "pmcid": "PMC5614317",
+  "nodes": [
+    {
+      "fullLabel": "PMC5614317",
+      "id": "PMC5614317",
+      "label": "PMC5614317",
+      "properties": {
+        "pmcid": "PMC5614317",
+        "first_seen": "2025-10-05T07:29:12.418065",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:12.558913"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Aphids remain settled in a single location for the entirety of the [Ca2+]cyt elevation",
+      "id": "CUSTOM:93a1bf67",
+      "label": "Aphids remain set...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.560949",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Aphids remain settled in a single location for the entirety of the [Ca2+]cyt elevation",
+        "last_seen": "2025-10-05T07:29:12.560949",
+        "obo_id": "CUSTOM:93a1bf67"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Duration of successful aphid settling",
+      "id": "CUSTOM:354c69e9",
+      "label": "Duration of succe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.554309",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Duration of successful aphid settling",
+        "last_seen": "2025-10-05T07:29:12.554309",
+        "obo_id": "CUSTOM:354c69e9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Time to first aphid settling",
+      "id": "CUSTOM:82829a60",
+      "label": "Time to first aph...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.548150",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Time to first aphid settling",
+        "last_seen": "2025-10-05T07:29:12.548150",
+        "obo_id": "CUSTOM:82829a60"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "No detectable systemic [Ca2+]cyt elevations in systemic lateral tissue upon aphid treatment",
+      "id": "CUSTOM:a910d09e",
+      "label": "No detectable sys...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.540033",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "No detectable systemic [Ca2+]cyt elevations in systemic lateral tissue upon aphid treatment",
+        "last_seen": "2025-10-05T07:29:12.540033",
+        "obo_id": "CUSTOM:a910d09e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "No detectable systemic [Ca2+]cyt elevations in the systemic midrib upon aphid treatment",
+      "id": "CUSTOM:452bc014",
+      "label": "No detectable sys...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.531457",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "No detectable systemic [Ca2+]cyt elevations in the systemic midrib upon aphid treatment",
+        "last_seen": "2025-10-05T07:29:12.531457",
+        "obo_id": "CUSTOM:452bc014"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Speed of visible [Ca2+]cyt elevation signal",
+      "id": "CUSTOM:8f997b03",
+      "label": "Speed of visible ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.523455",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Speed of visible [Ca2+]cyt elevation signal",
+        "last_seen": "2025-10-05T07:29:12.523455",
+        "obo_id": "CUSTOM:8f997b03"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Spatial extent of visible [Ca2+]cyt elevation signal at feeding site",
+      "id": "CUSTOM:3e020e14",
+      "label": "Spatial extent of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.515550",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Spatial extent of visible [Ca2+]cyt elevation signal at feeding site",
+        "last_seen": "2025-10-05T07:29:12.515550",
+        "obo_id": "CUSTOM:3e020e14"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Recommended number of replicate samples for quantitative analysis",
+      "id": "CUSTOM:8cb71620",
+      "label": "Recommended numbe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.506310",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Recommended number of replicate samples for quantitative analysis",
+        "last_seen": "2025-10-05T07:29:12.506310",
+        "obo_id": "CUSTOM:8cb71620"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "No clear increases in GFP fluorescence around the feeding site in a subset of settled samples",
+      "id": "CUSTOM:0467b23b",
+      "label": "No clear increase...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.474364",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "No clear increases in GFP fluorescence around the feeding site in a subset of settled samples",
+        "last_seen": "2025-10-05T07:29:12.474364",
+        "obo_id": "CUSTOM:0467b23b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Aphids do not settle on treated leaves",
+      "id": "CUSTOM:f0d6455d",
+      "label": "Aphids do not set...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.464497",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Aphids do not settle on treated leaves",
+        "last_seen": "2025-10-05T07:29:12.464497",
+        "obo_id": "CUSTOM:f0d6455d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Secondary increases (secondary peaks) in GFP fluorescence after the initial peak",
+      "id": "CUSTOM:3959dd74",
+      "label": "Secondary increas...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.445253",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Secondary increases (secondary peaks) in GFP fluorescence after the initial peak",
+        "last_seen": "2025-10-05T07:29:12.445253",
+        "obo_id": "CUSTOM:3959dd74"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Localized increase in GFP fluorescence around aphid feeding site (indicative of [Ca2+]cyt elevation)",
+      "id": "CUSTOM:f2b4312b",
+      "label": "Localized increas...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.438188",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Localized increase in GFP fluorescence around aphid feeding site (indicative of [Ca2+]cyt elevation)",
+        "last_seen": "2025-10-05T07:29:12.438188",
+        "obo_id": "CUSTOM:f2b4312b"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3586",
+      "source": "PMC5614317",
+      "target": "CUSTOM:93a1bf67",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3584",
+      "source": "PMC5614317",
+      "target": "CUSTOM:354c69e9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3582",
+      "source": "PMC5614317",
+      "target": "CUSTOM:82829a60",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3580",
+      "source": "PMC5614317",
+      "target": "CUSTOM:a910d09e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3578",
+      "source": "PMC5614317",
+      "target": "CUSTOM:452bc014",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3576",
+      "source": "PMC5614317",
+      "target": "CUSTOM:8f997b03",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3574",
+      "source": "PMC5614317",
+      "target": "CUSTOM:3e020e14",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3572",
+      "source": "PMC5614317",
+      "target": "CUSTOM:8cb71620",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3570",
+      "source": "PMC5614317",
+      "target": "CUSTOM:0467b23b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3568",
+      "source": "PMC5614317",
+      "target": "CUSTOM:f0d6455d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3566",
+      "source": "PMC5614317",
+      "target": "CUSTOM:3959dd74",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3564",
+      "source": "PMC5614317",
+      "target": "CUSTOM:f2b4312b",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 13,
+  "num_edges": 12
+}

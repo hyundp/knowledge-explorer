@@ -1,0 +1,703 @@
+{
+  "pmcid": "PMC6081456",
+  "nodes": [
+    {
+      "fullLabel": "PMC6081456",
+      "id": "PMC6081456",
+      "label": "PMC6081456",
+      "properties": {
+        "pmcid": "PMC6081456",
+        "first_seen": "2025-10-05T07:29:09.957233",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:10.201730"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "utility of parabolic flights as a means to simulate space given limited availability and high cost of actual space environments",
+      "id": "CUSTOM:4db994cb",
+      "label": "utility of parabo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.204132",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "utility of parabolic flights as a means to simulate space given limited availability and high cost of actual space environments",
+        "last_seen": "2025-10-05T07:29:10.204132",
+        "obo_id": "CUSTOM:4db994cb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adaptability of the methods to other reduced-gravity or dynamic environments (suborbital flights, drop towers, launch and landing accelerations)",
+      "id": "CUSTOM:b81604ac",
+      "label": "adaptability of t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.196978",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adaptability of the methods to other reduced-gravity or dynamic environments (suborbital flights, drop towers, launch and landing accelerations)",
+        "last_seen": "2025-10-05T07:29:10.196978",
+        "obo_id": "CUSTOM:b81604ac"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "spatial variability of the local gravity/inertial acceleration (GIA) environment across the aircraft",
+      "id": "CUSTOM:816a27e3",
+      "label": "spatial variabili...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.191316",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "spatial variability of the local gravity/inertial acceleration (GIA) environment across the aircraft",
+        "last_seen": "2025-10-05T07:29:10.191316",
+        "obo_id": "CUSTOM:816a27e3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "acceleration deviation tolerance of +/- 0.01 g used by Lambot and Ord and whether that tolerance was met by the authors' filtered data",
+      "id": "CUSTOM:29d8766d",
+      "label": "acceleration devi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.185557",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "acceleration deviation tolerance of +/- 0.01 g used by Lambot and Ord and whether that tolerance was met by the authors' filtered data",
+        "last_seen": "2025-10-05T07:29:10.185557",
+        "obo_id": "CUSTOM:29d8766d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "presence of a 'sweet zone' in the middle of the parabola with low acceleration deviation",
+      "id": "CUSTOM:7113f882",
+      "label": "presence of a 'sw...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.178570",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "presence of a 'sweet zone' in the middle of the parabola with low acceleration deviation",
+        "last_seen": "2025-10-05T07:29:10.178570",
+        "obo_id": "CUSTOM:7113f882"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ease and robustness of mounting with double sided tape and impact on frequency response",
+      "id": "CUSTOM:75b88445",
+      "label": "ease and robustne...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.171422",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ease and robustness of mounting with double sided tape and impact on frequency response",
+        "last_seen": "2025-10-05T07:29:10.171422",
+        "obo_id": "CUSTOM:75b88445"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "device properties of the Slam Stick X (compact, flexible, low power, high resolution)",
+      "id": "CUSTOM:8a7d156e",
+      "label": "device properties...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.163551",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "device properties of the Slam Stick X (compact, flexible, low power, high resolution)",
+        "last_seen": "2025-10-05T07:29:10.163551",
+        "obo_id": "CUSTOM:8a7d156e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "characterization of g-levels and durations achieved for 20 parabolas",
+      "id": "CUSTOM:f954b5b9",
+      "label": "characterization ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.153847",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "characterization of g-levels and durations achieved for 20 parabolas",
+        "last_seen": "2025-10-05T07:29:10.153847",
+        "obo_id": "CUSTOM:f954b5b9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "public availability of code implementing methodology to categorize flight phases and characterize g-levels and durations",
+      "id": "CUSTOM:727608e1",
+      "label": "public availabili...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.129869",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "public availability of code implementing methodology to categorize flight phases and characterize g-levels and durations",
+        "last_seen": "2025-10-05T07:29:10.129869",
+        "obo_id": "CUSTOM:727608e1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "availability of data analysis methodology that is independent of accelerometer orientation",
+      "id": "CUSTOM:f843700b",
+      "label": "availability of d...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.123219",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "availability of data analysis methodology that is independent of accelerometer orientation",
+        "last_seen": "2025-10-05T07:29:10.123219",
+        "obo_id": "CUSTOM:f843700b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "availability of raw and calibrated data for all phases of flight",
+      "id": "CUSTOM:995a2eea",
+      "label": "availability of r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.117578",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "availability of raw and calibrated data for all phases of flight",
+        "last_seen": "2025-10-05T07:29:10.117578",
+        "obo_id": "CUSTOM:995a2eea"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "availability of a commercially available hardware solution for data acquisition (Slam Stick X)",
+      "id": "CUSTOM:be67e9fa",
+      "label": "availability of a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.111893",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "availability of a commercially available hardware solution for data acquisition (Slam Stick X)",
+        "last_seen": "2025-10-05T07:29:10.111893",
+        "obo_id": "CUSTOM:be67e9fa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "public availability of acquisition hardware, raw data, and analysis code",
+      "id": "CUSTOM:9ae86771",
+      "label": "public availabili...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.106403",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "public availability of acquisition hardware, raw data, and analysis code",
+        "last_seen": "2025-10-05T07:29:10.106403",
+        "obo_id": "CUSTOM:9ae86771"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "public availability of parabolic flight acceleration data and published analysis methodology",
+      "id": "CUSTOM:3ffde9e3",
+      "label": "public availabili...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.100847",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "public availability of parabolic flight acceleration data and published analysis methodology",
+        "last_seen": "2025-10-05T07:29:10.100847",
+        "obo_id": "CUSTOM:3ffde9e3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "origin of hypergravity periods",
+      "id": "CUSTOM:3ee1117a",
+      "label": "origin of hypergr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.095571",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "origin of hypergravity periods",
+        "last_seen": "2025-10-05T07:29:10.095571",
+        "obo_id": "CUSTOM:3ee1117a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "classification of non-transition periods",
+      "id": "CUSTOM:d2046f78",
+      "label": "classification of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.089936",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "classification of non-transition periods",
+        "last_seen": "2025-10-05T07:29:10.089936",
+        "obo_id": "CUSTOM:d2046f78"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "flight segmentation into transition and stable regimes",
+      "id": "CUSTOM:c762b31b",
+      "label": "flight segmentati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.084664",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "flight segmentation into transition and stable regimes",
+        "last_seen": "2025-10-05T07:29:10.084664",
+        "obo_id": "CUSTOM:c762b31b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "secondary change point detection window",
+      "id": "CUSTOM:1d6c1210",
+      "label": "secondary change ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.079146",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "secondary change point detection window",
+        "last_seen": "2025-10-05T07:29:10.079146",
+        "obo_id": "CUSTOM:1d6c1210"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "application of change point detection to filtered glevel",
+      "id": "CUSTOM:66930e05",
+      "label": "application of ch...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.073423",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "application of change point detection to filtered glevel",
+        "last_seen": "2025-10-05T07:29:10.073423",
+        "obo_id": "CUSTOM:66930e05"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "acceleration data filtering method",
+      "id": "CUSTOM:506d959c",
+      "label": "acceleration data...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.067162",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "acceleration data filtering method",
+        "last_seen": "2025-10-05T07:29:10.067162",
+        "obo_id": "CUSTOM:506d959c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "metric used for phase of flight identification",
+      "id": "CUSTOM:a05f4980",
+      "label": "metric used for p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.060617",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "metric used for phase of flight identification",
+        "last_seen": "2025-10-05T07:29:10.060617",
+        "obo_id": "CUSTOM:a05f4980"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "accelerometer mounting location",
+      "id": "CUSTOM:162b19cc",
+      "label": "accelerometer mou...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.055156",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "accelerometer mounting location",
+        "last_seen": "2025-10-05T07:29:10.055156",
+        "obo_id": "CUSTOM:162b19cc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "calibration error (assessment)",
+      "id": "CUSTOM:a20e909a",
+      "label": "calibration error...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.048817",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "calibration error (assessment)",
+        "last_seen": "2025-10-05T07:29:10.048817",
+        "obo_id": "CUSTOM:a20e909a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "DC acceleration sampling frequency",
+      "id": "CUSTOM:7240f388",
+      "label": "DC acceleration s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.022690",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "DC acceleration sampling frequency",
+        "last_seen": "2025-10-05T07:29:10.022690",
+        "obo_id": "CUSTOM:7240f388"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "data collection duration during all phases of flight",
+      "id": "CUSTOM:30d0f6ae",
+      "label": "data collection d...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.015877",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "data collection duration during all phases of flight",
+        "last_seen": "2025-10-05T07:29:10.015877",
+        "obo_id": "CUSTOM:30d0f6ae"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "targeted gravity for all other parabolas",
+      "id": "CUSTOM:734b97ec",
+      "label": "targeted gravity ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.009700",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "targeted gravity for all other parabolas",
+        "last_seen": "2025-10-05T07:29:10.009700",
+        "obo_id": "CUSTOM:734b97ec"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "targeted gravity sequence in first set",
+      "id": "CUSTOM:1993c4b0",
+      "label": "targeted gravity ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.002769",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "targeted gravity sequence in first set",
+        "last_seen": "2025-10-05T07:29:10.002769",
+        "obo_id": "CUSTOM:1993c4b0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "number of parabolas in fourth set",
+      "id": "CUSTOM:a0e68193",
+      "label": "number of parabol...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.997101",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "number of parabolas in fourth set",
+        "last_seen": "2025-10-05T07:29:09.997101",
+        "obo_id": "CUSTOM:a0e68193"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "number of parabolas in third set",
+      "id": "CUSTOM:e694119b",
+      "label": "number of parabol...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.991660",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "number of parabolas in third set",
+        "last_seen": "2025-10-05T07:29:09.991660",
+        "obo_id": "CUSTOM:e694119b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "number of parabolas in second set",
+      "id": "CUSTOM:5d45882e",
+      "label": "number of parabol...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.985585",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "number of parabolas in second set",
+        "last_seen": "2025-10-05T07:29:09.985585",
+        "obo_id": "CUSTOM:5d45882e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "number of parabolas in first set",
+      "id": "CUSTOM:3cfe8da3",
+      "label": "number of parabol...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.979458",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "number of parabolas in first set",
+        "last_seen": "2025-10-05T07:29:09.979458",
+        "obo_id": "CUSTOM:3cfe8da3"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3012",
+      "source": "PMC6081456",
+      "target": "CUSTOM:4db994cb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3010",
+      "source": "PMC6081456",
+      "target": "CUSTOM:b81604ac",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3008",
+      "source": "PMC6081456",
+      "target": "CUSTOM:816a27e3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3006",
+      "source": "PMC6081456",
+      "target": "CUSTOM:29d8766d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3004",
+      "source": "PMC6081456",
+      "target": "CUSTOM:7113f882",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3002",
+      "source": "PMC6081456",
+      "target": "CUSTOM:75b88445",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3000",
+      "source": "PMC6081456",
+      "target": "CUSTOM:8a7d156e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2998",
+      "source": "PMC6081456",
+      "target": "CUSTOM:f954b5b9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2996",
+      "source": "PMC6081456",
+      "target": "CUSTOM:727608e1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2994",
+      "source": "PMC6081456",
+      "target": "CUSTOM:f843700b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2992",
+      "source": "PMC6081456",
+      "target": "CUSTOM:995a2eea",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2990",
+      "source": "PMC6081456",
+      "target": "CUSTOM:be67e9fa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2988",
+      "source": "PMC6081456",
+      "target": "CUSTOM:9ae86771",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2986",
+      "source": "PMC6081456",
+      "target": "CUSTOM:3ffde9e3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2984",
+      "source": "PMC6081456",
+      "target": "CUSTOM:3ee1117a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2982",
+      "source": "PMC6081456",
+      "target": "CUSTOM:d2046f78",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2980",
+      "source": "PMC6081456",
+      "target": "CUSTOM:c762b31b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2978",
+      "source": "PMC6081456",
+      "target": "CUSTOM:1d6c1210",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2976",
+      "source": "PMC6081456",
+      "target": "CUSTOM:66930e05",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2974",
+      "source": "PMC6081456",
+      "target": "CUSTOM:506d959c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2972",
+      "source": "PMC6081456",
+      "target": "CUSTOM:a05f4980",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2970",
+      "source": "PMC6081456",
+      "target": "CUSTOM:162b19cc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2968",
+      "source": "PMC6081456",
+      "target": "CUSTOM:a20e909a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2966",
+      "source": "PMC6081456",
+      "target": "CUSTOM:7240f388",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2964",
+      "source": "PMC6081456",
+      "target": "CUSTOM:30d0f6ae",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2962",
+      "source": "PMC6081456",
+      "target": "CUSTOM:734b97ec",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2960",
+      "source": "PMC6081456",
+      "target": "CUSTOM:1993c4b0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2958",
+      "source": "PMC6081456",
+      "target": "CUSTOM:a0e68193",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2956",
+      "source": "PMC6081456",
+      "target": "CUSTOM:e694119b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2954",
+      "source": "PMC6081456",
+      "target": "CUSTOM:5d45882e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2952",
+      "source": "PMC6081456",
+      "target": "CUSTOM:3cfe8da3",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 32,
+  "num_edges": 31
+}

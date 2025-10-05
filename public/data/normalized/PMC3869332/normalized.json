@@ -1,0 +1,26 @@
+{
+  "pmcid": "PMC3869332",
+  "title": "Complete Genome Sequence of Carnobacterium gilichinskyi Strain WN1359T (DSM 27470T)",
+  "authors": [
+    "Michael T Leonard",
+    "Nedka Panayotova",
+    "William G Farmerie",
+    "Eric W Triplett",
+    "Wayne L Nicholson"
+  ],
+  "year": "2013",
+  "journal": "Genome Announcements",
+  "doi": "10.1128/genomeA.00985 13",
+  "sections": {
+    "abstract": "We report the complete genome sequence ofCarnobacterium gilichinskyistrain WN1359, previously isolated from Siberian permafrost and capable of growth under cold (0 degreesC), anoxic, CO2 dominated, low pressure (0.7 kPa) conditions in a simulation of the Mars atmosphere.",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:04:50.699364",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3869332/"
+  }
+}

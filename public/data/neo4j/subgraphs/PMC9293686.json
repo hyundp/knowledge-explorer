@@ -1,0 +1,43 @@
+{
+  "pmcid": "PMC9293686",
+  "nodes": [
+    {
+      "fullLabel": "PMC9293686",
+      "id": "PMC9293686",
+      "label": "PMC9293686",
+      "properties": {
+        "pmcid": "PMC9293686",
+        "first_seen": "2025-10-05T07:29:04.971834",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.971834"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "regulation of stem cell self-renewal and differentiation associated with transcriptomic patterns",
+      "id": "CUSTOM:08c5460d",
+      "label": "regulation of ste...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.973738",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "regulation of stem cell self-renewal and differentiation associated with transcriptomic patterns",
+        "last_seen": "2025-10-05T07:29:04.973738",
+        "obo_id": "CUSTOM:08c5460d"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1452",
+      "source": "PMC9293686",
+      "target": "CUSTOM:08c5460d",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 2,
+  "num_edges": 1
+}

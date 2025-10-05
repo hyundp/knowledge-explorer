@@ -1,0 +1,527 @@
+{
+  "pmcid": "PMC9862956",
+  "nodes": [
+    {
+      "fullLabel": "PMC9862956",
+      "id": "PMC9862956",
+      "label": "PMC9862956",
+      "properties": {
+        "pmcid": "PMC9862956",
+        "first_seen": "2025-10-05T07:29:16.323755",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:16.487401"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "requirement for thorough ISS certification of the system (flammability, materials, off gassing, electromagnetic interface, etc.)",
+      "id": "CUSTOM:05414c7d",
+      "label": "requirement for t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.489704",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "requirement for thorough ISS certification of the system (flammability, materials, off gassing, electromagnetic interface, etc.)",
+        "last_seen": "2025-10-05T07:29:16.489704",
+        "obo_id": "CUSTOM:05414c7d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "CIP as a proof of concept for future space biology setups and potential adaptability for ISS compatible hardware",
+      "id": "CUSTOM:6e10886b",
+      "label": "CIP as a proof of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.482422",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CIP as a proof of concept for future space biology setups and potential adaptability for ISS compatible hardware",
+        "last_seen": "2025-10-05T07:29:16.482422",
+        "obo_id": "CUSTOM:6e10886b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "CIP is a simple, versatile, low cost and small footprint phenotyping tool deployable in research and educational settings on Earth",
+      "id": "CUSTOM:0fd35f62",
+      "label": "CIP is a simple, ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.474523",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CIP is a simple, versatile, low cost and small footprint phenotyping tool deployable in research and educational settings on Earth",
+        "last_seen": "2025-10-05T07:29:16.474523",
+        "obo_id": "CUSTOM:0fd35f62"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "opportunity to perform real time image analysis, metadata storage and data visualization via custom apps",
+      "id": "CUSTOM:5fdf5e51",
+      "label": "opportunity to pe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.466250",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "opportunity to perform real time image analysis, metadata storage and data visualization via custom apps",
+        "last_seen": "2025-10-05T07:29:16.466250",
+        "obo_id": "CUSTOM:5fdf5e51"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "opportunity to study animal responses to stimuli (light, temperature, electric fields) by integrating additional hardware",
+      "id": "CUSTOM:36732427",
+      "label": "opportunity to st...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.458610",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "opportunity to study animal responses to stimuli (light, temperature, electric fields) by integrating additional hardware",
+        "last_seen": "2025-10-05T07:29:16.458610",
+        "obo_id": "CUSTOM:36732427"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "compatibility/extendability of 3D printed imaging station concept to other low cost cameras and Raspberry Pi integration",
+      "id": "CUSTOM:25558da4",
+      "label": "compatibility/ext...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.448240",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "compatibility/extendability of 3D printed imaging station concept to other low cost cameras and Raspberry Pi integration",
+        "last_seen": "2025-10-05T07:29:16.448240",
+        "obo_id": "CUSTOM:25558da4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "image resolution and access to organ-level information via integration of additional high magnification optics",
+      "id": "CUSTOM:60ce8a2d",
+      "label": "image resolution ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.440575",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "image resolution and access to organ-level information via integration of additional high magnification optics",
+        "last_seen": "2025-10-05T07:29:16.440575",
+        "obo_id": "CUSTOM:60ce8a2d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "hardware improvability of the CIP (opportunity to improve hardware)",
+      "id": "CUSTOM:dda83a5f",
+      "label": "hardware improvab...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.431703",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "hardware improvability of the CIP (opportunity to improve hardware)",
+        "last_seen": "2025-10-05T07:29:16.431703",
+        "obo_id": "CUSTOM:dda83a5f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "potential to increase depth of phenotyping by using open source image analysis tools",
+      "id": "CUSTOM:96cb7289",
+      "label": "potential to incr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.424459",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "potential to increase depth of phenotyping by using open source image analysis tools",
+        "last_seen": "2025-10-05T07:29:16.424459",
+        "obo_id": "CUSTOM:96cb7289"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "compatibility of acquired videos with established analysis software tools",
+      "id": "CUSTOM:561c9802",
+      "label": "compatibility of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.417540",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "compatibility of acquired videos with established analysis software tools",
+        "last_seen": "2025-10-05T07:29:16.417540",
+        "obo_id": "CUSTOM:561c9802"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ability to run parallel experiments using multiple CIP units",
+      "id": "CUSTOM:67b5de6d",
+      "label": "ability to run pa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.410801",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ability to run parallel experiments using multiple CIP units",
+        "last_seen": "2025-10-05T07:29:16.410801",
+        "obo_id": "CUSTOM:67b5de6d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "temperature control for assays",
+      "id": "CUSTOM:3e3e6341",
+      "label": "temperature contr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.403286",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "temperature control for assays",
+        "last_seen": "2025-10-05T07:29:16.403286",
+        "obo_id": "CUSTOM:3e3e6341"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ability to acquire whole organism phenotypic data using a variety of C. elegans substrates",
+      "id": "CUSTOM:99058e10",
+      "label": "ability to acquir...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.396833",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ability to acquire whole organism phenotypic data using a variety of C. elegans substrates",
+        "last_seen": "2025-10-05T07:29:16.396833",
+        "obo_id": "CUSTOM:99058e10"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "forward crawling speed in the absence of food as a phenotype to distinguish strains",
+      "id": "CUSTOM:f7c72ebd",
+      "label": "forward crawling ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.390077",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "forward crawling speed in the absence of food as a phenotype to distinguish strains",
+        "last_seen": "2025-10-05T07:29:16.390077",
+        "obo_id": "CUSTOM:f7c72ebd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "thrashing frequency in liquid as a phenotype to distinguish strains",
+      "id": "CUSTOM:25d8a519",
+      "label": "thrashing frequen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.383397",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "thrashing frequency in liquid as a phenotype to distinguish strains",
+        "last_seen": "2025-10-05T07:29:16.383397",
+        "obo_id": "CUSTOM:25d8a519"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "body wave frequency between the three strains (presence of food)",
+      "id": "CUSTOM:d89001f5",
+      "label": "body wave frequen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.376908",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "body wave frequency between the three strains (presence of food)",
+        "last_seen": "2025-10-05T07:29:16.376908",
+        "obo_id": "CUSTOM:d89001f5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "forward speed differences among mutants (presence of food)",
+      "id": "CUSTOM:069a040b",
+      "label": "forward speed dif...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.369898",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "forward speed differences among mutants (presence of food)",
+        "last_seen": "2025-10-05T07:29:16.369898",
+        "obo_id": "CUSTOM:069a040b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "average forward speed values (presence of food) compared to absence of food",
+      "id": "CUSTOM:fa3aed52",
+      "label": "average forward s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.363541",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "average forward speed values (presence of food) compared to absence of food",
+        "last_seen": "2025-10-05T07:29:16.363541",
+        "obo_id": "CUSTOM:fa3aed52"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "average forward speed of mutants vs wildtype (presence of food)",
+      "id": "CUSTOM:b9779e21",
+      "label": "average forward s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.356479",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "average forward speed of mutants vs wildtype (presence of food)",
+        "last_seen": "2025-10-05T07:29:16.356479",
+        "obo_id": "CUSTOM:b9779e21"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "body wave frequency between the mutant strains (absence of food)",
+      "id": "CUSTOM:4c7a9f27",
+      "label": "body wave frequen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.349428",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "body wave frequency between the mutant strains (absence of food)",
+        "last_seen": "2025-10-05T07:29:16.349428",
+        "obo_id": "CUSTOM:4c7a9f27"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "body wave frequency: wildtype compared to mutants (absence of food)",
+      "id": "CUSTOM:e2eae08a",
+      "label": "body wave frequen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.342862",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "body wave frequency: wildtype compared to mutants (absence of food)",
+        "last_seen": "2025-10-05T07:29:16.342862",
+        "obo_id": "CUSTOM:e2eae08a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "forward speed: unc-32(e189) relative to unc-79(e1068) (absence of food)",
+      "id": "CUSTOM:bf0c7322",
+      "label": "forward speed: un...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.335325",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "forward speed: unc-32(e189) relative to unc-79(e1068) (absence of food)",
+        "last_seen": "2025-10-05T07:29:16.335325",
+        "obo_id": "CUSTOM:bf0c7322"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "average forward speed of mutants vs wildtype (absence of food)",
+      "id": "CUSTOM:19b20196",
+      "label": "average forward s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.326902",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "average forward speed of mutants vs wildtype (absence of food)",
+        "last_seen": "2025-10-05T07:29:16.326902",
+        "obo_id": "CUSTOM:19b20196"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4522",
+      "source": "PMC9862956",
+      "target": "CUSTOM:05414c7d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4520",
+      "source": "PMC9862956",
+      "target": "CUSTOM:6e10886b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4518",
+      "source": "PMC9862956",
+      "target": "CUSTOM:0fd35f62",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4516",
+      "source": "PMC9862956",
+      "target": "CUSTOM:5fdf5e51",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4514",
+      "source": "PMC9862956",
+      "target": "CUSTOM:36732427",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4512",
+      "source": "PMC9862956",
+      "target": "CUSTOM:25558da4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4510",
+      "source": "PMC9862956",
+      "target": "CUSTOM:60ce8a2d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4508",
+      "source": "PMC9862956",
+      "target": "CUSTOM:dda83a5f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4506",
+      "source": "PMC9862956",
+      "target": "CUSTOM:96cb7289",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4504",
+      "source": "PMC9862956",
+      "target": "CUSTOM:561c9802",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4502",
+      "source": "PMC9862956",
+      "target": "CUSTOM:67b5de6d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4500",
+      "source": "PMC9862956",
+      "target": "CUSTOM:3e3e6341",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4498",
+      "source": "PMC9862956",
+      "target": "CUSTOM:99058e10",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4496",
+      "source": "PMC9862956",
+      "target": "CUSTOM:f7c72ebd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4494",
+      "source": "PMC9862956",
+      "target": "CUSTOM:25d8a519",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4492",
+      "source": "PMC9862956",
+      "target": "CUSTOM:d89001f5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4490",
+      "source": "PMC9862956",
+      "target": "CUSTOM:069a040b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4488",
+      "source": "PMC9862956",
+      "target": "CUSTOM:fa3aed52",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4486",
+      "source": "PMC9862956",
+      "target": "CUSTOM:b9779e21",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4484",
+      "source": "PMC9862956",
+      "target": "CUSTOM:4c7a9f27",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4482",
+      "source": "PMC9862956",
+      "target": "CUSTOM:e2eae08a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4480",
+      "source": "PMC9862956",
+      "target": "CUSTOM:bf0c7322",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4478",
+      "source": "PMC9862956",
+      "target": "CUSTOM:19b20196",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 24,
+  "num_edges": 23
+}

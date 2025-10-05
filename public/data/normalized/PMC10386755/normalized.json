@@ -1,0 +1,48 @@
+{
+  "pmcid": "PMC10386755",
+  "title": "Sequencing the Genomes of the First Terrestrial Fungal Lineages: What Have We Learned?",
+  "authors": [
+    "Andrii P Gryganskyi",
+    "Jacob Golan",
+    "Anna Muszewska",
+    "Alexander Idnurm",
+    "Somayeh Dolatabadi",
+    "Stephen J Mondo",
+    "Vira B Kutovenko",
+    "Volodymyr O Kutovenko",
+    "Michael T Gajdeczka",
+    "Iryna M Anishchenko",
+    "Julia Pawlowska",
+    "Ngoc Vinh Tran",
+    "Ingo Ebersberger",
+    "Kerstin Voigt",
+    "Yan Wang",
+    "Ying Chang",
+    "Teresa E Pawlowska",
+    "Joseph Heitman",
+    "Rytas Vilgalys",
+    "Gregory Bonito",
+    "Gerald L Benny",
+    "Matthew E Smith",
+    "Nicole Reynolds",
+    "Timothy Y James",
+    "Igor V Grigoriev",
+    "Joseph W Spatafora",
+    "Jason E Stajich"
+  ],
+  "year": "2023",
+  "journal": "Microorganisms",
+  "doi": "10.3390/microorganisms11071830",
+  "sections": {
+    "abstract": "The first genome sequenced of a eukaryotic organism was forSaccharomyces cerevisiae, as reported in 1996, but it was more than 10 years before any of the zygomycete fungi, which are the early diverging terrestrial fungi currently placed in the phylaMucoromycotaandZoopagomycota, were sequenced. The genome forRhizopus delemarwas completed in 2008; currently, more than 1000 zygomycete genomes have been sequenced. Genomic data from these early diverging terrestrial fungi revealed deep phylogenetic separation of the two major clades primarily plant associated saprotrophic and mycorrhizalMucoromycotaversus the primarily mycoparasitic or animal associated parasites and commensals in theZoopagomycota. Genomic studies provide many valuable insights into how these fungi evolved in response to the challenges of living on land, including adaptations to sensing light and gravity, development of hyphal growth, and co existence with the first terrestrial plants. Genome sequence data have facilitated studies of genome architecture, including a history of genome duplications and horizontal gene transfer events, distribution and organization of mating type loci, rDNA genes and transposable elements, methylation processes, and genes useful for various industrial applications. Pathogenicity genes and specialized secondary metabolites have also been detected in soil saprobes and pathogenic fungi. Novel endosymbiotic bacteria and viruses have been discovered during several zygomycete genome projects. Overall, genomic information has helped to resolve a plethora of research questions, from the placement of zygomycetes on the evolutionary tree of life and in natural ecosystems, to the applied biotechnological and medical questions.\n\nKeywords:fungal evolution, ecological relevance, saprotrophs, pathogens, model organisms",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "There has been renewed research interest in the zygomycete fungi during the last decade, and this is reflected in the rapidly increasing number of genome sequences from this group of fungi. While the quality of the genomes varies according to the sequencing platform and starting materials available, the genomes are sufficient for phylogenomic reconstructions, as well as for the discovery of functional genes and gene clusters of interest. Much of the work has focused on several key topics, including the evolution and phylogeny of the group, adaptation, and transition to a terrestrial habitat (e.g., light and gravity sensors, and reinforcement of cell wall structure to tolerate a nonaquatic environment), genome duplication, endosymbionts and horizontal gene transfer, genome architecture, pathogenicity, and coevolution with host species. The number of genomes has grown rapidly over the past decade, and we expect that the next decade will bring increased taxon sampling (e.g., new genomes for taxa that have not yet been sampled) and improvements in genome quality due to advances in long read sequencing technologies and bioinformatics approaches. In the future, we expect that genomic analyses of these fungi will take new directions, including a detailed comparison of the genomes of aquatic vs. terrestrial lineages, structural studies, a comparison of the zygomycete vs.Dikaryagenomes, experimental manipulations of host/parasite interactions to understand the molecular mechanisms underpinning pathogenesis, and building links among genomic, proteomic, and metabolomic data."
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:06:02.235510",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10386755/"
+  }
+}

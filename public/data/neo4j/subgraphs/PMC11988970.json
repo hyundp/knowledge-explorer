@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC11988970",
+  "nodes": [
+    {
+      "fullLabel": "PMC11988970",
+      "id": "PMC11988970",
+      "label": "PMC11988970",
+      "properties": {
+        "pmcid": "PMC11988970",
+        "first_seen": "2025-10-05T07:29:02.371399",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.408972"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "metabolic imbalance and functional abnormalities in liver and brain tissues",
+      "id": "CUSTOM:fd6db537",
+      "label": "metabolic imbalan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.410753",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "metabolic imbalance and functional abnormalities in liver and brain tissues",
+        "last_seen": "2025-10-05T07:29:02.410753",
+        "obo_id": "CUSTOM:fd6db537"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "microgravity-induced metabolic disorders are dependent on gut microbiota (microbiota mediation of terminal metabolism)",
+      "id": "CUSTOM:716697ac",
+      "label": "microgravity-indu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.405652",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "microgravity-induced metabolic disorders are dependent on gut microbiota (microbiota mediation of terminal metabolism)",
+        "last_seen": "2025-10-05T07:29:02.405652",
+        "obo_id": "CUSTOM:716697ac"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "serum metabolism (model group and FMT group vs WT)",
+      "id": "CUSTOM:39630530",
+      "label": "serum metabolism ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.400633",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "serum metabolism (model group and FMT group vs WT)",
+        "last_seen": "2025-10-05T07:29:02.400633",
+        "obo_id": "CUSTOM:39630530"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "health of the intestine, liver, and brain (inferred impairment)",
+      "id": "CUSTOM:f605e370",
+      "label": "health of the int...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.395880",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "health of the intestine, liver, and brain (inferred impairment)",
+        "last_seen": "2025-10-05T07:29:02.395880",
+        "obo_id": "CUSTOM:f605e370"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "amino acid metabolism functions",
+      "id": "CUSTOM:a1a2bcdc",
+      "label": "amino acid metabo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.391825",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "amino acid metabolism functions",
+        "last_seen": "2025-10-05T07:29:02.391825",
+        "obo_id": "CUSTOM:a1a2bcdc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "lipid metabolism functions",
+      "id": "CUSTOM:25bd1057",
+      "label": "lipid metabolism ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.386824",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "lipid metabolism functions",
+        "last_seen": "2025-10-05T07:29:02.386824",
+        "obo_id": "CUSTOM:25bd1057"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "gut microbiota composition (reconstruction/alteration)",
+      "id": "CUSTOM:87e01a01",
+      "label": "gut microbiota co...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.380436",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "gut microbiota composition (reconstruction/alteration)",
+        "last_seen": "2025-10-05T07:29:02.380436",
+        "obo_id": "CUSTOM:87e01a01"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "osteoporosis (in femur)",
+      "id": "CUSTOM:96aa46d6",
+      "label": "osteoporosis (in ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.376752",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "osteoporosis (in femur)",
+        "last_seen": "2025-10-05T07:29:02.376752",
+        "obo_id": "CUSTOM:96aa46d6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "number of trabeculae in the femoral tissues",
+      "id": "CUSTOM:58326dc9",
+      "label": "number of trabecu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.372876",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "number of trabeculae in the femoral tissues",
+        "last_seen": "2025-10-05T07:29:02.372876",
+        "obo_id": "CUSTOM:58326dc9"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "580",
+      "source": "PMC11988970",
+      "target": "CUSTOM:fd6db537",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "578",
+      "source": "PMC11988970",
+      "target": "CUSTOM:716697ac",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "576",
+      "source": "PMC11988970",
+      "target": "CUSTOM:39630530",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "574",
+      "source": "PMC11988970",
+      "target": "CUSTOM:f605e370",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "572",
+      "source": "PMC11988970",
+      "target": "CUSTOM:a1a2bcdc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "570",
+      "source": "PMC11988970",
+      "target": "CUSTOM:25bd1057",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "568",
+      "source": "PMC11988970",
+      "target": "CUSTOM:87e01a01",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "566",
+      "source": "PMC11988970",
+      "target": "CUSTOM:96aa46d6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "564",
+      "source": "PMC11988970",
+      "target": "CUSTOM:58326dc9",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

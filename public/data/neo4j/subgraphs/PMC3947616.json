@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC3947616",
+  "nodes": [
+    {
+      "fullLabel": "PMC3947616",
+      "id": "PMC3947616",
+      "label": "PMC3947616",
+      "properties": {
+        "pmcid": "PMC3947616",
+        "first_seen": "2025-10-05T07:29:02.824535",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.836371"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "pain in ILBP children due to increasing load (compared to normal children)",
+      "id": "CUSTOM:40585de8",
+      "label": "pain in ILBP chil...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.837853",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "pain in ILBP children due to increasing load (compared to normal children)",
+        "last_seen": "2025-10-05T07:29:02.837853",
+        "obo_id": "CUSTOM:40585de8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "lumbar lordosis (spinal curvature) in ILBP children compared to normal children under increasing load",
+      "id": "CUSTOM:ec1822d8",
+      "label": "lumbar lordosis (...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.834028",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "lumbar lordosis (spinal curvature) in ILBP children compared to normal children under increasing load",
+        "last_seen": "2025-10-05T07:29:02.834028",
+        "obo_id": "CUSTOM:ec1822d8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "lumbar intervertebral disc (IVD) compression (ILBP children compared to normal children) under increasing load",
+      "id": "CUSTOM:1812b4c0",
+      "label": "lumbar interverte...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.830256",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "lumbar intervertebral disc (IVD) compression (ILBP children compared to normal children) under increasing load",
+        "last_seen": "2025-10-05T07:29:02.830256",
+        "obo_id": "CUSTOM:1812b4c0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "L5-S1 intervertebral disc (IVD) compression in ILBP children with increasing backpack load",
+      "id": "CUSTOM:63f63225",
+      "label": "L5-S1 interverteb...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.826198",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "L5-S1 intervertebral disc (IVD) compression in ILBP children with increasing backpack load",
+        "last_seen": "2025-10-05T07:29:02.826198",
+        "obo_id": "CUSTOM:63f63225"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "748",
+      "source": "PMC3947616",
+      "target": "CUSTOM:40585de8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "746",
+      "source": "PMC3947616",
+      "target": "CUSTOM:ec1822d8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "744",
+      "source": "PMC3947616",
+      "target": "CUSTOM:1812b4c0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "742",
+      "source": "PMC3947616",
+      "target": "CUSTOM:63f63225",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

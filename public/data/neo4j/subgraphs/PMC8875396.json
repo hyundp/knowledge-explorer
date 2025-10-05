@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC8875396",
+  "nodes": [
+    {
+      "fullLabel": "PMC8875396",
+      "id": "PMC8875396",
+      "label": "PMC8875396",
+      "properties": {
+        "pmcid": "PMC8875396",
+        "first_seen": "2025-10-05T07:29:02.185846",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.203992"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Presence of genes responsible for cell morphogenesis and UVC resistance",
+      "id": "CUSTOM:595b461e",
+      "label": "Presence of genes...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.205514",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of genes responsible for cell morphogenesis and UVC resistance",
+        "last_seen": "2025-10-05T07:29:02.205514",
+        "obo_id": "CUSTOM:595b461e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Novel species status determined by phylogenetic analysis",
+      "id": "CUSTOM:71c3acee",
+      "label": "Novel species sta...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.201731",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Novel species status determined by phylogenetic analysis",
+        "last_seen": "2025-10-05T07:29:02.201731",
+        "obo_id": "CUSTOM:71c3acee"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Bud scar shedding trait",
+      "id": "CUSTOM:7e926c29",
+      "label": "Bud scar shedding...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.198018",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Bud scar shedding trait",
+        "last_seen": "2025-10-05T07:29:02.198018",
+        "obo_id": "CUSTOM:7e926c29"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cell wall thickness",
+      "id": "CUSTOM:f55ff5fa",
+      "label": "Cell wall thickness",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.194527",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cell wall thickness",
+        "last_seen": "2025-10-05T07:29:02.194527",
+        "obo_id": "CUSTOM:f55ff5fa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Production of giant Titan like cells",
+      "id": "CUSTOM:ff7dea08",
+      "label": "Production of gia...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.190856",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Production of giant Titan like cells",
+        "last_seen": "2025-10-05T07:29:02.190856",
+        "obo_id": "CUSTOM:ff7dea08"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Isolation of a novel yeast from the International Space Station (ISS) environmental surfaces",
+      "id": "CUSTOM:eb8f6587",
+      "label": "Isolation of a no...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.187272",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Isolation of a novel yeast from the International Space Station (ISS) environmental surfaces",
+        "last_seen": "2025-10-05T07:29:02.187272",
+        "obo_id": "CUSTOM:eb8f6587"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "506",
+      "source": "PMC8875396",
+      "target": "CUSTOM:595b461e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "504",
+      "source": "PMC8875396",
+      "target": "CUSTOM:71c3acee",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "502",
+      "source": "PMC8875396",
+      "target": "CUSTOM:7e926c29",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "500",
+      "source": "PMC8875396",
+      "target": "CUSTOM:f55ff5fa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "498",
+      "source": "PMC8875396",
+      "target": "CUSTOM:ff7dea08",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "496",
+      "source": "PMC8875396",
+      "target": "CUSTOM:eb8f6587",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

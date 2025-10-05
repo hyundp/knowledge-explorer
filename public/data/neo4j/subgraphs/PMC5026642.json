@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC5026642",
+  "nodes": [
+    {
+      "fullLabel": "PMC5026642",
+      "id": "PMC5026642",
+      "label": "PMC5026642",
+      "properties": {
+        "pmcid": "PMC5026642",
+        "first_seen": "2025-10-05T07:29:02.784618",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.808108"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "age-related impairment of overall muscle quality and sarcopenia",
+      "id": "CUSTOM:6da5c826",
+      "label": "age-related impai...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.809799",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "age-related impairment of overall muscle quality and sarcopenia",
+        "last_seen": "2025-10-05T07:29:02.809799",
+        "obo_id": "CUSTOM:6da5c826"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "aging-associated reduction in relative muscle weight and CSA (magnitude of reduction abrogated)",
+      "id": "CUSTOM:d01c3e64",
+      "label": "aging-associated ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.805075",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "aging-associated reduction in relative muscle weight and CSA (magnitude of reduction abrogated)",
+        "last_seen": "2025-10-05T07:29:02.805075",
+        "obo_id": "CUSTOM:d01c3e64"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cross-sectional area (CSA)",
+      "id": "CUSTOM:7c47aef0",
+      "label": "cross-sectional a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.800650",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cross-sectional area (CSA)",
+        "last_seen": "2025-10-05T07:29:02.800650",
+        "obo_id": "CUSTOM:7c47aef0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "relative muscle weight",
+      "id": "CUSTOM:6f9ba869",
+      "label": "relative muscle w...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.796726",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "relative muscle weight",
+        "last_seen": "2025-10-05T07:29:02.796726",
+        "obo_id": "CUSTOM:6f9ba869"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "age-related perturbations in dystrophin glycoprotein complex (DGC) proteins, membrane repair proteins, and Nox2 subunits",
+      "id": "CUSTOM:bf457ca3",
+      "label": "age-related pertu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.791965",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "age-related perturbations in dystrophin glycoprotein complex (DGC) proteins, membrane repair proteins, and Nox2 subunits",
+        "last_seen": "2025-10-05T07:29:02.791965",
+        "obo_id": "CUSTOM:bf457ca3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "membrane environment disruption and altered sarcolemmal expression of dystrophin glycoprotein complex proteins, membrane repair proteins, and Nox2 subunits",
+      "id": "CUSTOM:4898ad45",
+      "label": "membrane environm...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.786922",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "membrane environment disruption and altered sarcolemmal expression of dystrophin glycoprotein complex proteins, membrane repair proteins, and Nox2 subunits",
+        "last_seen": "2025-10-05T07:29:02.786922",
+        "obo_id": "CUSTOM:4898ad45"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "734",
+      "source": "PMC5026642",
+      "target": "CUSTOM:6da5c826",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "732",
+      "source": "PMC5026642",
+      "target": "CUSTOM:d01c3e64",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "730",
+      "source": "PMC5026642",
+      "target": "CUSTOM:7c47aef0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "728",
+      "source": "PMC5026642",
+      "target": "CUSTOM:6f9ba869",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "726",
+      "source": "PMC5026642",
+      "target": "CUSTOM:bf457ca3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "724",
+      "source": "PMC5026642",
+      "target": "CUSTOM:4898ad45",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

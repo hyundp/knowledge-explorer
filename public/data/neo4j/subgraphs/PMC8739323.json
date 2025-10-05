@@ -1,0 +1,395 @@
+{
+  "pmcid": "PMC8739323",
+  "nodes": [
+    {
+      "fullLabel": "PMC8739323",
+      "id": "PMC8739323",
+      "label": "PMC8739323",
+      "properties": {
+        "pmcid": "PMC8739323",
+        "first_seen": "2025-10-05T07:29:05.274510",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.358473"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Need for research into effects of space conditions on biomining and bioremediation and into organotrophic, cyanobacteria and community based bioleaching mechanisms, anaerobic biomining, and synthetic biology",
+      "id": "CUSTOM:a1bafcfb",
+      "label": "Need for research...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.360938",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Need for research into effects of space conditions on biomining and bioremediation and into organotrophic, cyanobacteria and community based bioleaching mechanisms, anaerobic biomining, and synthetic biology",
+        "last_seen": "2025-10-05T07:29:05.360938",
+        "obo_id": "CUSTOM:a1bafcfb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Biomining as an approach to achieve in situ resource utilization (ISRU)",
+      "id": "CUSTOM:f2541265",
+      "label": "Biomining as an a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.353768",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Biomining as an approach to achieve in situ resource utilization (ISRU)",
+        "last_seen": "2025-10-05T07:29:05.353768",
+        "obo_id": "CUSTOM:f2541265"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Availability of oxygen in space (oxygen will be a commodity)",
+      "id": "CUSTOM:0465ee46",
+      "label": "Availability of o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.346924",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Availability of oxygen in space (oxygen will be a commodity)",
+        "last_seen": "2025-10-05T07:29:05.346924",
+        "obo_id": "CUSTOM:0465ee46"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Prevalence of aerobic bioleaching reactions",
+      "id": "CUSTOM:2ca7153f",
+      "label": "Prevalence of aer...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.340181",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Prevalence of aerobic bioleaching reactions",
+        "last_seen": "2025-10-05T07:29:05.340181",
+        "obo_id": "CUSTOM:2ca7153f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Requirement of organic compounds by heterotrophic microorganisms",
+      "id": "CUSTOM:b7c8dce3",
+      "label": "Requirement of or...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.333569",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Requirement of organic compounds by heterotrophic microorganisms",
+        "last_seen": "2025-10-05T07:29:05.333569",
+        "obo_id": "CUSTOM:b7c8dce3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Suitability of heterotrophic microorganisms for biomining when sulphur content is low",
+      "id": "CUSTOM:45a2432b",
+      "label": "Suitability of he...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.327820",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Suitability of heterotrophic microorganisms for biomining when sulphur content is low",
+        "last_seen": "2025-10-05T07:29:05.327820",
+        "obo_id": "CUSTOM:45a2432b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Sulphur content of many rocks in the Solar System",
+      "id": "CUSTOM:e870be49",
+      "label": "Sulphur content o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.322368",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Sulphur content of many rocks in the Solar System",
+        "last_seen": "2025-10-05T07:29:05.322368",
+        "obo_id": "CUSTOM:e870be49"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Basis of most terrestrial biomining knowledge (autotrophic microorganisms breaking down sulphidic minerals without need of carbon compounds)",
+      "id": "CUSTOM:2e88550e",
+      "label": "Basis of most ter...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.317792",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Basis of most terrestrial biomining knowledge (autotrophic microorganisms breaking down sulphidic minerals without need of carbon compounds)",
+        "last_seen": "2025-10-05T07:29:05.317792",
+        "obo_id": "CUSTOM:2e88550e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Engineering requirements for space biomining reactors (temperature controls, aeration and stirring under complex and harsh conditions)",
+      "id": "CUSTOM:2d47b2a0",
+      "label": "Engineering requi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.312765",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Engineering requirements for space biomining reactors (temperature controls, aeration and stirring under complex and harsh conditions)",
+        "last_seen": "2025-10-05T07:29:05.312765",
+        "obo_id": "CUSTOM:2d47b2a0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Applicability of established terrestrial biomining techniques to extraterrestrial conditions",
+      "id": "CUSTOM:7f1b7714",
+      "label": "Applicability of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.308033",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Applicability of established terrestrial biomining techniques to extraterrestrial conditions",
+        "last_seen": "2025-10-05T07:29:05.308033",
+        "obo_id": "CUSTOM:7f1b7714"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Maturity of the science around space biomining",
+      "id": "CUSTOM:4ed41123",
+      "label": "Maturity of the s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.303817",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Maturity of the science around space biomining",
+        "last_seen": "2025-10-05T07:29:05.303817",
+        "obo_id": "CUSTOM:4ed41123"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Potential applications of bioleaching microorganisms (bioremediation, recycling of waste, support BLSS)",
+      "id": "CUSTOM:d0a27429",
+      "label": "Potential applica...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.299177",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential applications of bioleaching microorganisms (bioremediation, recycling of waste, support BLSS)",
+        "last_seen": "2025-10-05T07:29:05.299177",
+        "obo_id": "CUSTOM:d0a27429"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Use of biomining on Earth to process mine waste, dumps and tailings",
+      "id": "CUSTOM:4edaeede",
+      "label": "Use of biomining ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.294179",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Use of biomining on Earth to process mine waste, dumps and tailings",
+        "last_seen": "2025-10-05T07:29:05.294179",
+        "obo_id": "CUSTOM:4edaeede"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ore grade of many Solar System rocks relative to terrestrial standards",
+      "id": "CUSTOM:67794407",
+      "label": "Ore grade of many...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.289383",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ore grade of many Solar System rocks relative to terrestrial standards",
+        "last_seen": "2025-10-05T07:29:05.289383",
+        "obo_id": "CUSTOM:67794407"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Sustainability of terrestrial biomining (economic and environmental)",
+      "id": "CUSTOM:5295f187",
+      "label": "Sustainability of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.285166",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Sustainability of terrestrial biomining (economic and environmental)",
+        "last_seen": "2025-10-05T07:29:05.285166",
+        "obo_id": "CUSTOM:5295f187"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Recognition of biomining potential by main space agencies",
+      "id": "CUSTOM:c842b93a",
+      "label": "Recognition of bi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.280720",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Recognition of biomining potential by main space agencies",
+        "last_seen": "2025-10-05T07:29:05.280720",
+        "obo_id": "CUSTOM:c842b93a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Interest in space biomining",
+      "id": "CUSTOM:b775eb35",
+      "label": "Interest in space...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.276120",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Interest in space biomining",
+        "last_seen": "2025-10-05T07:29:05.276120",
+        "obo_id": "CUSTOM:b775eb35"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1572",
+      "source": "PMC8739323",
+      "target": "CUSTOM:a1bafcfb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1570",
+      "source": "PMC8739323",
+      "target": "CUSTOM:f2541265",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1568",
+      "source": "PMC8739323",
+      "target": "CUSTOM:0465ee46",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1566",
+      "source": "PMC8739323",
+      "target": "CUSTOM:2ca7153f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1564",
+      "source": "PMC8739323",
+      "target": "CUSTOM:b7c8dce3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1562",
+      "source": "PMC8739323",
+      "target": "CUSTOM:45a2432b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1560",
+      "source": "PMC8739323",
+      "target": "CUSTOM:e870be49",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1558",
+      "source": "PMC8739323",
+      "target": "CUSTOM:2e88550e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1556",
+      "source": "PMC8739323",
+      "target": "CUSTOM:2d47b2a0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1554",
+      "source": "PMC8739323",
+      "target": "CUSTOM:7f1b7714",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1552",
+      "source": "PMC8739323",
+      "target": "CUSTOM:4ed41123",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1550",
+      "source": "PMC8739323",
+      "target": "CUSTOM:d0a27429",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1548",
+      "source": "PMC8739323",
+      "target": "CUSTOM:4edaeede",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1546",
+      "source": "PMC8739323",
+      "target": "CUSTOM:67794407",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1544",
+      "source": "PMC8739323",
+      "target": "CUSTOM:5295f187",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1542",
+      "source": "PMC8739323",
+      "target": "CUSTOM:c842b93a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1540",
+      "source": "PMC8739323",
+      "target": "CUSTOM:b775eb35",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 18,
+  "num_edges": 17
+}

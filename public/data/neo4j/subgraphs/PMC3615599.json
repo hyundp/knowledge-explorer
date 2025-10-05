@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC3615599",
+  "nodes": [
+    {
+      "fullLabel": "PMC3615599",
+      "id": "PMC3615599",
+      "label": "PMC3615599",
+      "properties": {
+        "pmcid": "PMC3615599",
+        "first_seen": "2025-10-05T07:29:11.485394",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:11.529620"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "ability to redistribute blood flow to the active muscles during exercise",
+      "id": "CUSTOM:f751f54c",
+      "label": "ability to redist...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.531625",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ability to redistribute blood flow to the active muscles during exercise",
+        "last_seen": "2025-10-05T07:29:11.531625",
+        "obo_id": "CUSTOM:f751f54c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "spatial overperfusion of AT during exercise",
+      "id": "CUSTOM:b9fb246e",
+      "label": "spatial overperfu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.525463",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "spatial overperfusion of AT during exercise",
+        "last_seen": "2025-10-05T07:29:11.525463",
+        "obo_id": "CUSTOM:b9fb246e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "baroreflex buffering",
+      "id": "CUSTOM:b661486b",
+      "label": "baroreflex buffering",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.518512",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "baroreflex buffering",
+        "last_seen": "2025-10-05T07:29:11.518512",
+        "obo_id": "CUSTOM:b661486b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adipose blood flow during exercise",
+      "id": "CUSTOM:3146a191",
+      "label": "adipose blood flo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.512162",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adipose blood flow during exercise",
+        "last_seen": "2025-10-05T07:29:11.512162",
+        "obo_id": "CUSTOM:3146a191"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adrenergic vasoconstriction in adipose arteries",
+      "id": "CUSTOM:da909aee",
+      "label": "adrenergic vasoco...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.506298",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adrenergic vasoconstriction in adipose arteries",
+        "last_seen": "2025-10-05T07:29:11.506298",
+        "obo_id": "CUSTOM:da909aee"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "AT blood flow during exercise",
+      "id": "CUSTOM:b12dfc7f",
+      "label": "AT blood flow dur...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.500950",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "AT blood flow during exercise",
+        "last_seen": "2025-10-05T07:29:11.500950",
+        "obo_id": "CUSTOM:b12dfc7f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "myogenic vasoconstriction in AT resistance arteries",
+      "id": "CUSTOM:fb54fa77",
+      "label": "myogenic vasocons...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.493542",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "myogenic vasoconstriction in AT resistance arteries",
+        "last_seen": "2025-10-05T07:29:11.493542",
+        "obo_id": "CUSTOM:fb54fa77"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "alpha adrenergic receptor mediated vasoconstriction in AT resistance arteries",
+      "id": "CUSTOM:b8bec15c",
+      "label": "alpha adrenergic ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.487247",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "alpha adrenergic receptor mediated vasoconstriction in AT resistance arteries",
+        "last_seen": "2025-10-05T07:29:11.487247",
+        "obo_id": "CUSTOM:b8bec15c"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3338",
+      "source": "PMC3615599",
+      "target": "CUSTOM:f751f54c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3336",
+      "source": "PMC3615599",
+      "target": "CUSTOM:b9fb246e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3334",
+      "source": "PMC3615599",
+      "target": "CUSTOM:b661486b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3332",
+      "source": "PMC3615599",
+      "target": "CUSTOM:3146a191",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3330",
+      "source": "PMC3615599",
+      "target": "CUSTOM:da909aee",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3328",
+      "source": "PMC3615599",
+      "target": "CUSTOM:b12dfc7f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3326",
+      "source": "PMC3615599",
+      "target": "CUSTOM:fb54fa77",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3324",
+      "source": "PMC3615599",
+      "target": "CUSTOM:b8bec15c",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

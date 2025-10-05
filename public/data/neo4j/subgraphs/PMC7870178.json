@@ -1,0 +1,65 @@
+{
+  "pmcid": "PMC7870178",
+  "nodes": [
+    {
+      "fullLabel": "PMC7870178",
+      "id": "PMC7870178",
+      "label": "PMC7870178",
+      "properties": {
+        "pmcid": "PMC7870178",
+        "first_seen": "2025-10-05T07:29:07.686398",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:07.692333"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "viability of long term human crewed space missions",
+      "id": "CUSTOM:b90fb18d",
+      "label": "viability of long...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.694442",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "viability of long term human crewed space missions",
+        "last_seen": "2025-10-05T07:29:07.694442",
+        "obo_id": "CUSTOM:b90fb18d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mitochondrial dysregulation",
+      "id": "CUSTOM:d8e0a2e3",
+      "label": "mitochondrial dys...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.688510",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mitochondrial dysregulation",
+        "last_seen": "2025-10-05T07:29:07.688510",
+        "obo_id": "CUSTOM:d8e0a2e3"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2308",
+      "source": "PMC7870178",
+      "target": "CUSTOM:b90fb18d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2306",
+      "source": "PMC7870178",
+      "target": "CUSTOM:d8e0a2e3",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 3,
+  "num_edges": 2
+}

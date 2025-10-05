@@ -1,0 +1,351 @@
+{
+  "pmcid": "PMC7251690",
+  "nodes": [
+    {
+      "fullLabel": "PMC7251690",
+      "id": "PMC7251690",
+      "label": "PMC7251690",
+      "properties": {
+        "pmcid": "PMC7251690",
+        "first_seen": "2025-10-05T07:29:13.388807",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:13.502102"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "availability of phosphoenriched proteomics for plant response characterization",
+      "id": "CUSTOM:4feac6be",
+      "label": "availability of p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.504014",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "availability of phosphoenriched proteomics for plant response characterization",
+        "last_seen": "2025-10-05T07:29:13.504014",
+        "obo_id": "CUSTOM:4feac6be"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adequacy of transcriptomic studies alone to address spaceflight physiology",
+      "id": "CUSTOM:eb978233",
+      "label": "adequacy of trans...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.498196",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adequacy of transcriptomic studies alone to address spaceflight physiology",
+        "last_seen": "2025-10-05T07:29:13.498196",
+        "obo_id": "CUSTOM:eb978233"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mRNA turnover, silencing, splicing, initiation/elongation of protein translation, and protein turnover (post-transcriptional regulatory processes)",
+      "id": "CUSTOM:e6b69b5e",
+      "label": "mRNA turnover, si...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.491856",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mRNA turnover, silencing, splicing, initiation/elongation of protein translation, and protein turnover (post-transcriptional regulatory processes)",
+        "last_seen": "2025-10-05T07:29:13.491856",
+        "obo_id": "CUSTOM:e6b69b5e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "structural integrity of cells in absence of gravity",
+      "id": "CUSTOM:befdb923",
+      "label": "structural integr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.485601",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "structural integrity of cells in absence of gravity",
+        "last_seen": "2025-10-05T07:29:13.485601",
+        "obo_id": "CUSTOM:befdb923"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "oxidative stress (altered)",
+      "id": "CUSTOM:dfa30c3f",
+      "label": "oxidative stress ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.478841",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "oxidative stress (altered)",
+        "last_seen": "2025-10-05T07:29:13.478841",
+        "obo_id": "CUSTOM:dfa30c3f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "microtubule stability (altered regulation)",
+      "id": "CUSTOM:832d3e56",
+      "label": "microtubule stabi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.472390",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "microtubule stability (altered regulation)",
+        "last_seen": "2025-10-05T07:29:13.472390",
+        "obo_id": "CUSTOM:832d3e56"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "potential regulation of CESA1 and AHA2 by SHOU4 and FERONIA, respectively",
+      "id": "CUSTOM:d173be6a",
+      "label": "potential regulat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.466293",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "potential regulation of CESA1 and AHA2 by SHOU4 and FERONIA, respectively",
+        "last_seen": "2025-10-05T07:29:13.466293",
+        "obo_id": "CUSTOM:d173be6a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cellulose deposition",
+      "id": "CUSTOM:82b84fc2",
+      "label": "cellulose deposition",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.458924",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cellulose deposition",
+        "last_seen": "2025-10-05T07:29:13.458924",
+        "obo_id": "CUSTOM:82b84fc2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cell wall synthesis (elements of cell wall synthesis)",
+      "id": "CUSTOM:678b80a9",
+      "label": "cell wall synthes...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.452998",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cell wall synthesis (elements of cell wall synthesis)",
+        "last_seen": "2025-10-05T07:29:13.452998",
+        "obo_id": "CUSTOM:678b80a9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "production / transcription of plastid gene transcripts",
+      "id": "CUSTOM:e2bfb879",
+      "label": "production / tran...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.446536",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "production / transcription of plastid gene transcripts",
+        "last_seen": "2025-10-05T07:29:13.446536",
+        "obo_id": "CUSTOM:e2bfb879"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "redox homeostasis",
+      "id": "CUSTOM:026b3b72",
+      "label": "redox homeostasis",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.439505",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "redox homeostasis",
+        "last_seen": "2025-10-05T07:29:13.439505",
+        "obo_id": "CUSTOM:026b3b72"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "post transcriptional regulation",
+      "id": "CUSTOM:15693912",
+      "label": "post transcriptio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.433114",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "post transcriptional regulation",
+        "last_seen": "2025-10-05T07:29:13.433114",
+        "obo_id": "CUSTOM:15693912"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "oxidation in soluble proteins",
+      "id": "CUSTOM:140bcfa4",
+      "label": "oxidation in solu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.425920",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "oxidation in soluble proteins",
+        "last_seen": "2025-10-05T07:29:13.425920",
+        "obo_id": "CUSTOM:140bcfa4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "levels of several extracellular peroxidase proteins",
+      "id": "CUSTOM:aad1d8bf",
+      "label": "levels of several...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.398311",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "levels of several extracellular peroxidase proteins",
+        "last_seen": "2025-10-05T07:29:13.398311",
+        "obo_id": "CUSTOM:aad1d8bf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "oxidation (overall trend)",
+      "id": "CUSTOM:4dbc89a8",
+      "label": "oxidation (overal...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.391221",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "oxidation (overall trend)",
+        "last_seen": "2025-10-05T07:29:13.391221",
+        "obo_id": "CUSTOM:4dbc89a8"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3824",
+      "source": "PMC7251690",
+      "target": "CUSTOM:4feac6be",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3822",
+      "source": "PMC7251690",
+      "target": "CUSTOM:eb978233",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3820",
+      "source": "PMC7251690",
+      "target": "CUSTOM:e6b69b5e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3818",
+      "source": "PMC7251690",
+      "target": "CUSTOM:befdb923",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3816",
+      "source": "PMC7251690",
+      "target": "CUSTOM:dfa30c3f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3814",
+      "source": "PMC7251690",
+      "target": "CUSTOM:832d3e56",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3812",
+      "source": "PMC7251690",
+      "target": "CUSTOM:d173be6a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3810",
+      "source": "PMC7251690",
+      "target": "CUSTOM:82b84fc2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3808",
+      "source": "PMC7251690",
+      "target": "CUSTOM:678b80a9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3806",
+      "source": "PMC7251690",
+      "target": "CUSTOM:e2bfb879",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3804",
+      "source": "PMC7251690",
+      "target": "CUSTOM:026b3b72",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3802",
+      "source": "PMC7251690",
+      "target": "CUSTOM:15693912",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3800",
+      "source": "PMC7251690",
+      "target": "CUSTOM:140bcfa4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3798",
+      "source": "PMC7251690",
+      "target": "CUSTOM:aad1d8bf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3796",
+      "source": "PMC7251690",
+      "target": "CUSTOM:4dbc89a8",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 16,
+  "num_edges": 15
+}

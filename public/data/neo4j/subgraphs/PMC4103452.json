@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC4103452",
+  "nodes": [
+    {
+      "fullLabel": "PMC4103452",
+      "id": "PMC4103452",
+      "label": "PMC4103452",
+      "properties": {
+        "pmcid": "PMC4103452",
+        "first_seen": "2025-10-05T07:29:02.647700",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.667449"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "experimental flexibility when the main objective is not imaging",
+      "id": "CUSTOM:6408e762",
+      "label": "experimental flex...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.668933",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "experimental flexibility when the main objective is not imaging",
+        "last_seen": "2025-10-05T07:29:02.668933",
+        "obo_id": "CUSTOM:6408e762"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "morphological opportunities for samples previously wasted due to improper fixation",
+      "id": "CUSTOM:37de458c",
+      "label": "morphological opp...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.664898",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "morphological opportunities for samples previously wasted due to improper fixation",
+        "last_seen": "2025-10-05T07:29:02.664898",
+        "obo_id": "CUSTOM:37de458c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "physical tissue integrity when sputter coating is performed prior to CPD",
+      "id": "CUSTOM:72ef5ee1",
+      "label": "physical tissue i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.661001",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "physical tissue integrity when sputter coating is performed prior to CPD",
+        "last_seen": "2025-10-05T07:29:02.661001",
+        "obo_id": "CUSTOM:72ef5ee1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "tissue integrity during the cryo analog plunge after desalination",
+      "id": "CUSTOM:d0cae455",
+      "label": "tissue integrity ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.656899",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "tissue integrity during the cryo analog plunge after desalination",
+        "last_seen": "2025-10-05T07:29:02.656899",
+        "obo_id": "CUSTOM:d0cae455"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "tissue robustness",
+      "id": "CUSTOM:d0b6db6e",
+      "label": "tissue robustness",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.653019",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "tissue robustness",
+        "last_seen": "2025-10-05T07:29:02.653019",
+        "obo_id": "CUSTOM:d0b6db6e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "image quality from Arabidopsis plants retrieved from RNAlater without a dedicated morphologic fixative",
+      "id": "CUSTOM:e896fb68",
+      "label": "image quality fro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.649191",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "image quality from Arabidopsis plants retrieved from RNAlater without a dedicated morphologic fixative",
+        "last_seen": "2025-10-05T07:29:02.649191",
+        "obo_id": "CUSTOM:e896fb68"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "674",
+      "source": "PMC4103452",
+      "target": "CUSTOM:6408e762",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "672",
+      "source": "PMC4103452",
+      "target": "CUSTOM:37de458c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "670",
+      "source": "PMC4103452",
+      "target": "CUSTOM:72ef5ee1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "668",
+      "source": "PMC4103452",
+      "target": "CUSTOM:d0cae455",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "666",
+      "source": "PMC4103452",
+      "target": "CUSTOM:d0b6db6e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "664",
+      "source": "PMC4103452",
+      "target": "CUSTOM:e896fb68",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

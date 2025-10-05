@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC9258157",
+  "nodes": [
+    {
+      "fullLabel": "PMC9258157",
+      "id": "PMC9258157",
+      "label": "PMC9258157",
+      "properties": {
+        "pmcid": "PMC9258157",
+        "first_seen": "2025-10-05T07:29:05.765486",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.785044"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Generality and extensibility of the methodology to predict microbial interactions and generate testable hypotheses",
+      "id": "CUSTOM:2ea4c078",
+      "label": "Generality and ex...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.786596",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Generality and extensibility of the methodology to predict microbial interactions and generate testable hypotheses",
+        "last_seen": "2025-10-05T07:29:05.786596",
+        "obo_id": "CUSTOM:2ea4c078"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Feasibility of interventions relying on targeted disinfection of surfaces aboard the ISS",
+      "id": "CUSTOM:d577ed36",
+      "label": "Feasibility of in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.782394",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Feasibility of interventions relying on targeted disinfection of surfaces aboard the ISS",
+        "last_seen": "2025-10-05T07:29:05.782394",
+        "obo_id": "CUSTOM:d577ed36"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Existence of key dependencies of microorganisms in various locations on the ISS",
+      "id": "CUSTOM:8a59fbdd",
+      "label": "Existence of key ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.777721",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Existence of key dependencies of microorganisms in various locations on the ISS",
+        "last_seen": "2025-10-05T07:29:05.777721",
+        "obo_id": "CUSTOM:8a59fbdd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Comprehensiveness of metabolic modeling in depicting possible microbial interactions",
+      "id": "CUSTOM:490f12eb",
+      "label": "Comprehensiveness...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.772522",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Comprehensiveness of metabolic modeling in depicting possible microbial interactions",
+        "last_seen": "2025-10-05T07:29:05.772522",
+        "obo_id": "CUSTOM:490f12eb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Mediation of metabolic interactions between microorganisms in the ISS by Klebsiella and other Enterobacteriaceae",
+      "id": "CUSTOM:e99b23fd",
+      "label": "Mediation of meta...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.767257",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mediation of metabolic interactions between microorganisms in the ISS by Klebsiella and other Enterobacteriaceae",
+        "last_seen": "2025-10-05T07:29:05.767257",
+        "obo_id": "CUSTOM:e99b23fd"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1696",
+      "source": "PMC9258157",
+      "target": "CUSTOM:2ea4c078",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1694",
+      "source": "PMC9258157",
+      "target": "CUSTOM:d577ed36",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1692",
+      "source": "PMC9258157",
+      "target": "CUSTOM:8a59fbdd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1690",
+      "source": "PMC9258157",
+      "target": "CUSTOM:490f12eb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1688",
+      "source": "PMC9258157",
+      "target": "CUSTOM:e99b23fd",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

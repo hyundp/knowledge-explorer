@@ -1,0 +1,373 @@
+{
+  "pmcid": "PMC9693084",
+  "nodes": [
+    {
+      "fullLabel": "PMC9693084",
+      "id": "PMC9693084",
+      "label": "PMC9693084",
+      "properties": {
+        "pmcid": "PMC9693084",
+        "first_seen": "2025-10-05T07:29:02.523140",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.622938"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Method of prepping biology to be housed in KFTs provides a tractable initialization of hands on research in suborbital space",
+      "id": "CUSTOM:c3673908",
+      "label": "Method of preppin...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.624503",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Method of prepping biology to be housed in KFTs provides a tractable initialization of hands on research in suborbital space",
+        "last_seen": "2025-10-05T07:29:02.624503",
+        "obo_id": "CUSTOM:c3673908"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Plants within KFTs exhibited robust changes in gene expression when clinorotated during simulated microgravity",
+      "id": "CUSTOM:a717b8fd",
+      "label": "Plants within KFT...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.620058",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Plants within KFTs exhibited robust changes in gene expression when clinorotated during simulated microgravity",
+        "last_seen": "2025-10-05T07:29:02.620058",
+        "obo_id": "CUSTOM:a717b8fd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Changes in plant biology occur upon sealing within the KFTs but are manageable within flight timelines and experiment profile",
+      "id": "CUSTOM:bc5d1be7",
+      "label": "Changes in plant ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.615531",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Changes in plant biology occur upon sealing within the KFTs but are manageable within flight timelines and experiment profile",
+        "last_seen": "2025-10-05T07:29:02.615531",
+        "obo_id": "CUSTOM:bc5d1be7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Plants grown in thoroughly enclosed KFTs maintain consistent plant health",
+      "id": "CUSTOM:8745bb15",
+      "label": "Plants grown in t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.610720",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Plants grown in thoroughly enclosed KFTs maintain consistent plant health",
+        "last_seen": "2025-10-05T07:29:02.610720",
+        "obo_id": "CUSTOM:8745bb15"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "KFTs can be adapted for carrying biological samples to space in a safely contained fashion",
+      "id": "CUSTOM:85855b56",
+      "label": "KFTs can be adapt...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.605505",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "KFTs can be adapted for carrying biological samples to space in a safely contained fashion",
+        "last_seen": "2025-10-05T07:29:02.605505",
+        "obo_id": "CUSTOM:85855b56"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Clinorotation of the KFT can capture gravity-associated responses",
+      "id": "CUSTOM:50eff60b",
+      "label": "Clinorotation of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.599520",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Clinorotation of the KFT can capture gravity-associated responses",
+        "last_seen": "2025-10-05T07:29:02.599520",
+        "obo_id": "CUSTOM:50eff60b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Plants adhere to gel matrix during suborbital flight and sustain no damage",
+      "id": "CUSTOM:c7e3ce35",
+      "label": "Plants adhere to ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.594316",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Plants adhere to gel matrix during suborbital flight and sustain no damage",
+        "last_seen": "2025-10-05T07:29:02.594316",
+        "obo_id": "CUSTOM:c7e3ce35"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Pooled controls reveal gene expression trends and eliminate confounding responses similar to well-coordinated control",
+      "id": "CUSTOM:15844515",
+      "label": "Pooled controls r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.566464",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pooled controls reveal gene expression trends and eliminate confounding responses similar to well-coordinated control",
+        "last_seen": "2025-10-05T07:29:02.566464",
+        "obo_id": "CUSTOM:15844515"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Pooling controls from multiple time points can assay short term spaceflight responses",
+      "id": "CUSTOM:66b3549d",
+      "label": "Pooling controls ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.561639",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pooling controls from multiple time points can assay short term spaceflight responses",
+        "last_seen": "2025-10-05T07:29:02.561639",
+        "obo_id": "CUSTOM:66b3549d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Differentially expressed genes detected in leaves in at least one comparison",
+      "id": "CUSTOM:2b82db83",
+      "label": "Differentially ex...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.556615",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Differentially expressed genes detected in leaves in at least one comparison",
+        "last_seen": "2025-10-05T07:29:02.556615",
+        "obo_id": "CUSTOM:2b82db83"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Impact of control selection on capturing the clinorotation response",
+      "id": "CUSTOM:75b2e7bf",
+      "label": "Impact of control...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.551868",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Impact of control selection on capturing the clinorotation response",
+        "last_seen": "2025-10-05T07:29:02.551868",
+        "obo_id": "CUSTOM:75b2e7bf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Enrichment of cell wall and detoxification pathways",
+      "id": "CUSTOM:1a014c20",
+      "label": "Enrichment of cel...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.545525",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Enrichment of cell wall and detoxification pathways",
+        "last_seen": "2025-10-05T07:29:02.545525",
+        "obo_id": "CUSTOM:1a014c20"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Enrichment of defense-related pathways",
+      "id": "CUSTOM:1f07eccd",
+      "label": "Enrichment of def...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.539645",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Enrichment of defense-related pathways",
+        "last_seen": "2025-10-05T07:29:02.539645",
+        "obo_id": "CUSTOM:1f07eccd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Unique genes in CL vs. Q1L comparison",
+      "id": "CUSTOM:c61fe839",
+      "label": "Unique genes in C...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.534639",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Unique genes in CL vs. Q1L comparison",
+        "last_seen": "2025-10-05T07:29:02.534639",
+        "obo_id": "CUSTOM:c61fe839"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Genes shared by at least two comparisons",
+      "id": "CUSTOM:7bc10bf1",
+      "label": "Genes shared by a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.530108",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Genes shared by at least two comparisons",
+        "last_seen": "2025-10-05T07:29:02.530108",
+        "obo_id": "CUSTOM:7bc10bf1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Genes shared across all comparisons",
+      "id": "CUSTOM:1ce133a5",
+      "label": "Genes shared acro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.525557",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Genes shared across all comparisons",
+        "last_seen": "2025-10-05T07:29:02.525557",
+        "obo_id": "CUSTOM:1ce133a5"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "652",
+      "source": "PMC9693084",
+      "target": "CUSTOM:c3673908",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "650",
+      "source": "PMC9693084",
+      "target": "CUSTOM:a717b8fd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "648",
+      "source": "PMC9693084",
+      "target": "CUSTOM:bc5d1be7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "646",
+      "source": "PMC9693084",
+      "target": "CUSTOM:8745bb15",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "644",
+      "source": "PMC9693084",
+      "target": "CUSTOM:85855b56",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "642",
+      "source": "PMC9693084",
+      "target": "CUSTOM:50eff60b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "640",
+      "source": "PMC9693084",
+      "target": "CUSTOM:c7e3ce35",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "638",
+      "source": "PMC9693084",
+      "target": "CUSTOM:15844515",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "636",
+      "source": "PMC9693084",
+      "target": "CUSTOM:66b3549d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "634",
+      "source": "PMC9693084",
+      "target": "CUSTOM:2b82db83",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "632",
+      "source": "PMC9693084",
+      "target": "CUSTOM:75b2e7bf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "630",
+      "source": "PMC9693084",
+      "target": "CUSTOM:1a014c20",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "628",
+      "source": "PMC9693084",
+      "target": "CUSTOM:1f07eccd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "626",
+      "source": "PMC9693084",
+      "target": "CUSTOM:c61fe839",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "624",
+      "source": "PMC9693084",
+      "target": "CUSTOM:7bc10bf1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "622",
+      "source": "PMC9693084",
+      "target": "CUSTOM:1ce133a5",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 17,
+  "num_edges": 16
+}

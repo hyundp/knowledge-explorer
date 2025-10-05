@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC6462350",
+  "nodes": [
+    {
+      "fullLabel": "PMC6462350",
+      "id": "PMC6462350",
+      "label": "PMC6462350",
+      "properties": {
+        "pmcid": "PMC6462350",
+        "first_seen": "2025-10-05T07:29:03.649897",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.661809"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "SPM biosynthetic pathway markers",
+      "id": "CUSTOM:b031b628",
+      "label": "SPM biosynthetic ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.663708",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "SPM biosynthetic pathway markers",
+        "last_seen": "2025-10-05T07:29:03.663708",
+        "obo_id": "CUSTOM:b031b628"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "specialized pro-resolving mediators (SPMs)",
+      "id": "CUSTOM:64c88593",
+      "label": "specialized pro-r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.658408",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "specialized pro-resolving mediators (SPMs)",
+        "last_seen": "2025-10-05T07:29:03.658408",
+        "obo_id": "CUSTOM:64c88593"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "omega 3 index",
+      "id": "CUSTOM:ff9a89cf",
+      "label": "omega 3 index",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.652000",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "omega 3 index",
+        "last_seen": "2025-10-05T07:29:03.652000",
+        "obo_id": "CUSTOM:ff9a89cf"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1002",
+      "source": "PMC6462350",
+      "target": "CUSTOM:b031b628",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1000",
+      "source": "PMC6462350",
+      "target": "CUSTOM:64c88593",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "998",
+      "source": "PMC6462350",
+      "target": "CUSTOM:ff9a89cf",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

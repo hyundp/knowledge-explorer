@@ -1,0 +1,307 @@
+{
+  "pmcid": "PMC4453782",
+  "nodes": [
+    {
+      "fullLabel": "PMC4453782",
+      "id": "PMC4453782",
+      "label": "PMC4453782",
+      "properties": {
+        "pmcid": "PMC4453782",
+        "first_seen": "2025-10-05T07:29:13.834246",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:13.918006"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Difficulty of establishing correlative light and electron microscopy techniques for studies on plants",
+      "id": "CUSTOM:39a04e47",
+      "label": "Difficulty of est...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.920868",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Difficulty of establishing correlative light and electron microscopy techniques for studies on plants",
+        "last_seen": "2025-10-05T07:29:13.920868",
+        "obo_id": "CUSTOM:39a04e47"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Necessity of correlative light and electron microscopy to capture complexity of bidirectional ER–Golgi traffic in plant cells",
+      "id": "CUSTOM:ceb25f51",
+      "label": "Necessity of corr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.912725",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Necessity of correlative light and electron microscopy to capture complexity of bidirectional ER–Golgi traffic in plant cells",
+        "last_seen": "2025-10-05T07:29:13.912725",
+        "obo_id": "CUSTOM:ceb25f51"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Comparability of tobacco BY2 cells to leaf epidermal cells regarding ER–Golgi situation",
+      "id": "CUSTOM:5f5b2d0f",
+      "label": "Comparability of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.905238",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Comparability of tobacco BY2 cells to leaf epidermal cells regarding ER–Golgi situation",
+        "last_seen": "2025-10-05T07:29:13.905238",
+        "obo_id": "CUSTOM:5f5b2d0f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Suitability of high cytoplasm/cell volume ratio cell types (e.g., meristem/endosperm) for electron microscopy studies",
+      "id": "CUSTOM:3289c0ce",
+      "label": "Suitability of hi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.898898",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Suitability of high cytoplasm/cell volume ratio cell types (e.g., meristem/endosperm) for electron microscopy studies",
+        "last_seen": "2025-10-05T07:29:13.898898",
+        "obo_id": "CUSTOM:3289c0ce"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability to detect close spatial relationship between ER and Golgi stacks and to assess Golgi motility in meristem or endosperm (during cellularization) by conventional live cell imaging",
+      "id": "CUSTOM:360d5589",
+      "label": "Ability to detect...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.889582",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability to detect close spatial relationship between ER and Golgi stacks and to assess Golgi motility in meristem or endosperm (during cellularization) by conventional live cell imaging",
+        "last_seen": "2025-10-05T07:29:13.889582",
+        "obo_id": "CUSTOM:360d5589"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Suitability of leaf epidermal cells for ultra rapid freezing",
+      "id": "CUSTOM:17c70c35",
+      "label": "Suitability of le...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.883035",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Suitability of leaf epidermal cells for ultra rapid freezing",
+        "last_seen": "2025-10-05T07:29:13.883035",
+        "obo_id": "CUSTOM:17c70c35"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Suitability of leaf epidermal cells for live cell imaging",
+      "id": "CUSTOM:569d21f1",
+      "label": "Suitability of le...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.876074",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Suitability of leaf epidermal cells for live cell imaging",
+        "last_seen": "2025-10-05T07:29:13.876074",
+        "obo_id": "CUSTOM:569d21f1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Throughput/coverage of electron microscopy for visualizing Golgi stacks",
+      "id": "CUSTOM:03fff211",
+      "label": "Throughput/covera...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.868294",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Throughput/coverage of electron microscopy for visualizing Golgi stacks",
+        "last_seen": "2025-10-05T07:29:13.868294",
+        "obo_id": "CUSTOM:03fff211"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Effectiveness of electron microscopy to solve finer structural details of the ER–Golgi interface",
+      "id": "CUSTOM:e5d58d86",
+      "label": "Effectiveness of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.860974",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effectiveness of electron microscopy to solve finer structural details of the ER–Golgi interface",
+        "last_seen": "2025-10-05T07:29:13.860974",
+        "obo_id": "CUSTOM:e5d58d86"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Potential of SCLIM for higher superresolution in space and time",
+      "id": "CUSTOM:359ed968",
+      "label": "Potential of SCLI...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.854850",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential of SCLIM for higher superresolution in space and time",
+        "last_seen": "2025-10-05T07:29:13.854850",
+        "obo_id": "CUSTOM:359ed968"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability of present superresolution fluorescence microscopic techniques to unequivocally identify discrete individual COPII vesicles",
+      "id": "CUSTOM:faddd750",
+      "label": "Ability of presen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.848634",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability of present superresolution fluorescence microscopic techniques to unequivocally identify discrete individual COPII vesicles",
+        "last_seen": "2025-10-05T07:29:13.848634",
+        "obo_id": "CUSTOM:faddd750"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Role of vesicles as vectors of bidirectional ER-Golgi traffic",
+      "id": "CUSTOM:0c0f4c3e",
+      "label": "Role of vesicles ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.842289",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Role of vesicles as vectors of bidirectional ER-Golgi traffic",
+        "last_seen": "2025-10-05T07:29:13.842289",
+        "obo_id": "CUSTOM:0c0f4c3e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Requirement of COPII proteins for ER-Golgi membrane traffic",
+      "id": "CUSTOM:ec663d0b",
+      "label": "Requirement of CO...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.836376",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Requirement of COPII proteins for ER-Golgi membrane traffic",
+        "last_seen": "2025-10-05T07:29:13.836376",
+        "obo_id": "CUSTOM:ec663d0b"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3932",
+      "source": "PMC4453782",
+      "target": "CUSTOM:39a04e47",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3930",
+      "source": "PMC4453782",
+      "target": "CUSTOM:ceb25f51",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3928",
+      "source": "PMC4453782",
+      "target": "CUSTOM:5f5b2d0f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3926",
+      "source": "PMC4453782",
+      "target": "CUSTOM:3289c0ce",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3924",
+      "source": "PMC4453782",
+      "target": "CUSTOM:360d5589",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3922",
+      "source": "PMC4453782",
+      "target": "CUSTOM:17c70c35",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3920",
+      "source": "PMC4453782",
+      "target": "CUSTOM:569d21f1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3918",
+      "source": "PMC4453782",
+      "target": "CUSTOM:03fff211",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3916",
+      "source": "PMC4453782",
+      "target": "CUSTOM:e5d58d86",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3914",
+      "source": "PMC4453782",
+      "target": "CUSTOM:359ed968",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3912",
+      "source": "PMC4453782",
+      "target": "CUSTOM:faddd750",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3910",
+      "source": "PMC4453782",
+      "target": "CUSTOM:0c0f4c3e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3908",
+      "source": "PMC4453782",
+      "target": "CUSTOM:ec663d0b",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 14,
+  "num_edges": 13
+}

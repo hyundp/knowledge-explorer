@@ -1,0 +1,65 @@
+{
+  "pmcid": "PMC9400218",
+  "nodes": [
+    {
+      "fullLabel": "PMC9400218",
+      "id": "PMC9400218",
+      "label": "PMC9400218",
+      "properties": {
+        "pmcid": "PMC9400218",
+        "first_seen": "2025-10-05T07:29:01.972381",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.976447"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Understanding of the ISS environmental microbiomes and their pathogenic potential in humans",
+      "id": "CUSTOM:1c7c6a11",
+      "label": "Understanding of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.977883",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Understanding of the ISS environmental microbiomes and their pathogenic potential in humans",
+        "last_seen": "2025-10-05T07:29:01.977883",
+        "obo_id": "CUSTOM:1c7c6a11"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Uncover concealed AMR determinants in metagenomics datasets",
+      "id": "CUSTOM:68380480",
+      "label": "Uncover concealed...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.973885",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Uncover concealed AMR determinants in metagenomics datasets",
+        "last_seen": "2025-10-05T07:29:01.973885",
+        "obo_id": "CUSTOM:68380480"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "430",
+      "source": "PMC9400218",
+      "target": "CUSTOM:1c7c6a11",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "428",
+      "source": "PMC9400218",
+      "target": "CUSTOM:68380480",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 3,
+  "num_edges": 2
+}

@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC11748630",
+  "nodes": [
+    {
+      "fullLabel": "PMC11748630",
+      "id": "PMC11748630",
+      "label": "PMC11748630",
+      "properties": {
+        "pmcid": "PMC11748630",
+        "first_seen": "2025-10-05T07:29:05.687346",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.760585"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "current sample size",
+      "id": "CUSTOM:3ff3ecdb",
+      "label": "current sample size",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.762198",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "current sample size",
+        "last_seen": "2025-10-05T07:29:05.762198",
+        "obo_id": "CUSTOM:3ff3ecdb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "difference in spaceflight response between mouse strains (Balb/c vs C57BL6)",
+      "id": "CUSTOM:bbb7045d",
+      "label": "difference in spa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.757673",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "difference in spaceflight response between mouse strains (Balb/c vs C57BL6)",
+        "last_seen": "2025-10-05T07:29:05.757673",
+        "obo_id": "CUSTOM:bbb7045d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "association of CRISP gene result set with MASLD (disease ontology)",
+      "id": "CUSTOM:9675c3c0",
+      "label": "association of CR...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.753015",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "association of CRISP gene result set with MASLD (disease ontology)",
+        "last_seen": "2025-10-05T07:29:05.753015",
+        "obo_id": "CUSTOM:9675c3c0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NAFLD pathway enrichment by CRISP gene set (includes Cyp2e1, Fasn, Scd1)",
+      "id": "CUSTOM:37a46504",
+      "label": "NAFLD pathway enr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.748315",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NAFLD pathway enrichment by CRISP gene set (includes Cyp2e1, Fasn, Scd1)",
+        "last_seen": "2025-10-05T07:29:05.748315",
+        "obo_id": "CUSTOM:37a46504"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "enrichment of lipid metabolism pathways (cholesterol, fatty acid, NAFLD) by CRISP gene set",
+      "id": "CUSTOM:94b4c445",
+      "label": "enrichment of lip...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.723339",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "enrichment of lipid metabolism pathways (cholesterol, fatty acid, NAFLD) by CRISP gene set",
+        "last_seen": "2025-10-05T07:29:05.723339",
+        "obo_id": "CUSTOM:94b4c445"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "genes significantly correlated to lipid density (EdgeR)",
+      "id": "CUSTOM:57792a8a",
+      "label": "genes significant...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.717852",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "genes significantly correlated to lipid density (EdgeR)",
+        "last_seen": "2025-10-05T07:29:05.717852",
+        "obo_id": "CUSTOM:57792a8a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "genes significantly correlated to lipid density (DESeq2)",
+      "id": "CUSTOM:0a998336",
+      "label": "genes significant...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.712182",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "genes significantly correlated to lipid density (DESeq2)",
+        "last_seen": "2025-10-05T07:29:05.712182",
+        "obo_id": "CUSTOM:0a998336"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "held out test accuracy of random forest classifier in predicting lipid density",
+      "id": "CUSTOM:70080823",
+      "label": "held out test acc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.705765",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "held out test accuracy of random forest classifier in predicting lipid density",
+        "last_seen": "2025-10-05T07:29:05.705765",
+        "obo_id": "CUSTOM:70080823"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "biological relevance of top 20 genes to lipid metabolism (random forest)",
+      "id": "CUSTOM:807551af",
+      "label": "biological releva...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.700549",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "biological relevance of top 20 genes to lipid metabolism (random forest)",
+        "last_seen": "2025-10-05T07:29:05.700549",
+        "obo_id": "CUSTOM:807551af"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "association with NAFLD or similar liver dysfunction gene sets/pathways",
+      "id": "CUSTOM:47f851f3",
+      "label": "association with ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.694934",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "association with NAFLD or similar liver dysfunction gene sets/pathways",
+        "last_seen": "2025-10-05T07:29:05.694934",
+        "obo_id": "CUSTOM:47f851f3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "lipid density (high vs low)",
+      "id": "CUSTOM:41077d48",
+      "label": "lipid density (hi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.688956",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "lipid density (high vs low)",
+        "last_seen": "2025-10-05T07:29:05.688956",
+        "obo_id": "CUSTOM:41077d48"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1686",
+      "source": "PMC11748630",
+      "target": "CUSTOM:3ff3ecdb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1684",
+      "source": "PMC11748630",
+      "target": "CUSTOM:bbb7045d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1682",
+      "source": "PMC11748630",
+      "target": "CUSTOM:9675c3c0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1680",
+      "source": "PMC11748630",
+      "target": "CUSTOM:37a46504",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1678",
+      "source": "PMC11748630",
+      "target": "CUSTOM:94b4c445",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1676",
+      "source": "PMC11748630",
+      "target": "CUSTOM:57792a8a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1674",
+      "source": "PMC11748630",
+      "target": "CUSTOM:0a998336",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1672",
+      "source": "PMC11748630",
+      "target": "CUSTOM:70080823",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1670",
+      "source": "PMC11748630",
+      "target": "CUSTOM:807551af",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1668",
+      "source": "PMC11748630",
+      "target": "CUSTOM:47f851f3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1666",
+      "source": "PMC11748630",
+      "target": "CUSTOM:41077d48",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

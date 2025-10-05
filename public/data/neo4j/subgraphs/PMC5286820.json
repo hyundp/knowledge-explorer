@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC5286820",
+  "nodes": [
+    {
+      "fullLabel": "PMC5286820",
+      "id": "PMC5286820",
+      "label": "PMC5286820",
+      "properties": {
+        "pmcid": "PMC5286820",
+        "first_seen": "2025-10-05T07:29:14.256349",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:14.304503"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Some HPSGC may be responses to the altered phenotype rather than the basis of the phenotype",
+      "id": "CUSTOM:cae18283",
+      "label": "Some HPSGC may be...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.308561",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Some HPSGC may be responses to the altered phenotype rather than the basis of the phenotype",
+        "last_seen": "2025-10-05T07:29:14.308561",
+        "obo_id": "CUSTOM:cae18283"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Pathways that respond to disparate signals from the root local environment may drive the root behavior of skewing",
+      "id": "CUSTOM:095ae83a",
+      "label": "Pathways that res...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.297627",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pathways that respond to disparate signals from the root local environment may drive the root behavior of skewing",
+        "last_seen": "2025-10-05T07:29:14.297627",
+        "obo_id": "CUSTOM:095ae83a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "HPSGC are upstream of physical growth differences",
+      "id": "CUSTOM:1aae1d91",
+      "label": "HPSGC are upstrea...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.288117",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "HPSGC are upstream of physical growth differences",
+        "last_seen": "2025-10-05T07:29:14.288117",
+        "obo_id": "CUSTOM:1aae1d91"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Majority of highly probable skew gene candidates (HPSGC) are associated with environmental sensing",
+      "id": "CUSTOM:0fbde418",
+      "label": "Majority of highl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.280327",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Majority of highly probable skew gene candidates (HPSGC) are associated with environmental sensing",
+        "last_seen": "2025-10-05T07:29:14.280327",
+        "obo_id": "CUSTOM:0fbde418"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Transcripts differ between the WS and Col 0 genotypes",
+      "id": "CUSTOM:1fb26143",
+      "label": "Transcripts diffe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.273410",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Transcripts differ between the WS and Col 0 genotypes",
+        "last_seen": "2025-10-05T07:29:14.273410",
+        "obo_id": "CUSTOM:1fb26143"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Genes responded to the angle of growth (Agp) during the process of skewing within WS",
+      "id": "CUSTOM:d8431f40",
+      "label": "Genes responded t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.266317",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Genes responded to the angle of growth (Agp) during the process of skewing within WS",
+        "last_seen": "2025-10-05T07:29:14.266317",
+        "obo_id": "CUSTOM:d8431f40"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Transcriptional differences between skewing and non skewing roots",
+      "id": "CUSTOM:8d7c534d",
+      "label": "Transcriptional d...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.259026",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Transcriptional differences between skewing and non skewing roots",
+        "last_seen": "2025-10-05T07:29:14.259026",
+        "obo_id": "CUSTOM:8d7c534d"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4030",
+      "source": "PMC5286820",
+      "target": "CUSTOM:cae18283",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4028",
+      "source": "PMC5286820",
+      "target": "CUSTOM:095ae83a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4026",
+      "source": "PMC5286820",
+      "target": "CUSTOM:1aae1d91",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4024",
+      "source": "PMC5286820",
+      "target": "CUSTOM:0fbde418",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4022",
+      "source": "PMC5286820",
+      "target": "CUSTOM:1fb26143",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4020",
+      "source": "PMC5286820",
+      "target": "CUSTOM:d8431f40",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4018",
+      "source": "PMC5286820",
+      "target": "CUSTOM:8d7c534d",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

@@ -1,0 +1,27 @@
+{
+  "pmcid": "PMC5391430",
+  "title": "Draft Genome Sequences of Several Fungal Strains Selected for Exposure to Microgravity at the International Space Station",
+  "authors": [
+    "Nitin K Singh",
+    "Adriana Blachowicz",
+    "Jillian Romsdahl",
+    "Clay Wang",
+    "Tamas Torok",
+    "Kasthuri Venkateswaran"
+  ],
+  "year": "2017",
+  "journal": "Genome Announcements",
+  "doi": "10.1128/genomeA.01602 16",
+  "sections": {
+    "abstract": "The whole genome sequences of eight fungal strains that were selected for exposure to microgravity at the International Space Station are presented here. These baseline sequences will help to understand the observed production of novel bioactive compounds.",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:07:34.554771",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391430/"
+  }
+}

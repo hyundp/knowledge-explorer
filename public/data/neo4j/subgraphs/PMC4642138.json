@@ -1,0 +1,65 @@
+{
+  "pmcid": "PMC4642138",
+  "nodes": [
+    {
+      "fullLabel": "PMC4642138",
+      "id": "PMC4642138",
+      "label": "PMC4642138",
+      "properties": {
+        "pmcid": "PMC4642138",
+        "first_seen": "2025-10-05T07:29:05.463647",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.469491"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Bulk endocytosis and membrane flow from the plasma membrane to the TGN",
+      "id": "CUSTOM:47590eca",
+      "label": "Bulk endocytosis ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.471408",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Bulk endocytosis and membrane flow from the plasma membrane to the TGN",
+        "last_seen": "2025-10-05T07:29:05.471408",
+        "obo_id": "CUSTOM:47590eca"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "FM4 64 staining of BFA bodies",
+      "id": "CUSTOM:15ffb13d",
+      "label": "FM4 64 staining o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.465689",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "FM4 64 staining of BFA bodies",
+        "last_seen": "2025-10-05T07:29:05.465689",
+        "obo_id": "CUSTOM:15ffb13d"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1594",
+      "source": "PMC4642138",
+      "target": "CUSTOM:47590eca",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1592",
+      "source": "PMC4642138",
+      "target": "CUSTOM:15ffb13d",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 3,
+  "num_edges": 2
+}

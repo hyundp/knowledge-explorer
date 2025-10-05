@@ -1,0 +1,307 @@
+{
+  "pmcid": "PMC11126634",
+  "nodes": [
+    {
+      "fullLabel": "PMC11126634",
+      "id": "PMC11126634",
+      "label": "PMC11126634",
+      "properties": {
+        "pmcid": "PMC11126634",
+        "first_seen": "2025-10-05T07:29:07.088640",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:07.156590"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "DNA-based analysis used in the study cannot determine viability of organisms",
+      "id": "CUSTOM:98932e06",
+      "label": "DNA-based analysi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.158456",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "DNA-based analysis used in the study cannot determine viability of organisms",
+        "last_seen": "2025-10-05T07:29:07.158456",
+        "obo_id": "CUSTOM:98932e06"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Earth dust samples were incubated embedded in carpet and vacuumed again before molecular analysis; ISS samples were not",
+      "id": "CUSTOM:a89b3b3c",
+      "label": "Earth dust sample...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.152904",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Earth dust samples were incubated embedded in carpet and vacuumed again before molecular analysis; ISS samples were not",
+        "last_seen": "2025-10-05T07:29:07.152904",
+        "obo_id": "CUSTOM:a89b3b3c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ISS dust incubations were performed on Earth, not in space",
+      "id": "CUSTOM:e4268029",
+      "label": "ISS dust incubati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.147270",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ISS dust incubations were performed on Earth, not in space",
+        "last_seen": "2025-10-05T07:29:07.147270",
+        "obo_id": "CUSTOM:e4268029"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ISS dust was not sieved prior to incubation/analysis",
+      "id": "CUSTOM:b07c5f4c",
+      "label": "ISS dust was not ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.141685",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ISS dust was not sieved prior to incubation/analysis",
+        "last_seen": "2025-10-05T07:29:07.141685",
+        "obo_id": "CUSTOM:b07c5f4c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Starting dust mass for Earth samples",
+      "id": "CUSTOM:1183fa42",
+      "label": "Starting dust mas...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.135981",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Starting dust mass for Earth samples",
+        "last_seen": "2025-10-05T07:29:07.135981",
+        "obo_id": "CUSTOM:1183fa42"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Starting dust mass for ISS samples",
+      "id": "CUSTOM:a6621441",
+      "label": "Starting dust mas...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.130741",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Starting dust mass for ISS samples",
+        "last_seen": "2025-10-05T07:29:07.130741",
+        "obo_id": "CUSTOM:a6621441"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Community differences result in changes in microbial growth upon exposure to moisture",
+      "id": "CUSTOM:39a6a443",
+      "label": "Community differe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.125244",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Community differences result in changes in microbial growth upon exposure to moisture",
+        "last_seen": "2025-10-05T07:29:07.125244",
+        "obo_id": "CUSTOM:39a6a443"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Microbial diversity of dust from Earth-based indoor environments is higher than that of the ISS",
+      "id": "CUSTOM:044d5d4f",
+      "label": "Microbial diversi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.119883",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microbial diversity of dust from Earth-based indoor environments is higher than that of the ISS",
+        "last_seen": "2025-10-05T07:29:07.119883",
+        "obo_id": "CUSTOM:044d5d4f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of Epicocum sp. is a major distinguishing fungal genus in Earth-based house dust compared to ISS dust",
+      "id": "CUSTOM:f9fef0a8",
+      "label": "Presence of Epico...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.114022",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of Epicocum sp. is a major distinguishing fungal genus in Earth-based house dust compared to ISS dust",
+        "last_seen": "2025-10-05T07:29:07.114022",
+        "obo_id": "CUSTOM:f9fef0a8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Aspergillus dominates the fungal community in ISS dust",
+      "id": "CUSTOM:9610cf14",
+      "label": "Aspergillus domin...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.108514",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Aspergillus dominates the fungal community in ISS dust",
+        "last_seen": "2025-10-05T07:29:07.108514",
+        "obo_id": "CUSTOM:9610cf14"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Rate of change of fungal communities with varying moisture conditions is greater in ISS dust compared to Earth house dust",
+      "id": "CUSTOM:1dae30ff",
+      "label": "Rate of change of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.103076",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Rate of change of fungal communities with varying moisture conditions is greater in ISS dust compared to Earth house dust",
+        "last_seen": "2025-10-05T07:29:07.103076",
+        "obo_id": "CUSTOM:1dae30ff"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Fungal community differences are more pronounced than bacterial differences, especially under elevated moisture conditions",
+      "id": "CUSTOM:b79ee458",
+      "label": "Fungal community ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.096644",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Fungal community differences are more pronounced than bacterial differences, especially under elevated moisture conditions",
+        "last_seen": "2025-10-05T07:29:07.096644",
+        "obo_id": "CUSTOM:b79ee458"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Bacterial and fungal community composition in dust differs between Earth-based residential homes and the ISS",
+      "id": "CUSTOM:f1f70623",
+      "label": "Bacterial and fun...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.090685",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Bacterial and fungal community composition in dust differs between Earth-based residential homes and the ISS",
+        "last_seen": "2025-10-05T07:29:07.090685",
+        "obo_id": "CUSTOM:f1f70623"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2146",
+      "source": "PMC11126634",
+      "target": "CUSTOM:98932e06",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2144",
+      "source": "PMC11126634",
+      "target": "CUSTOM:a89b3b3c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2142",
+      "source": "PMC11126634",
+      "target": "CUSTOM:e4268029",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2140",
+      "source": "PMC11126634",
+      "target": "CUSTOM:b07c5f4c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2138",
+      "source": "PMC11126634",
+      "target": "CUSTOM:1183fa42",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2136",
+      "source": "PMC11126634",
+      "target": "CUSTOM:a6621441",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2134",
+      "source": "PMC11126634",
+      "target": "CUSTOM:39a6a443",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2132",
+      "source": "PMC11126634",
+      "target": "CUSTOM:044d5d4f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2130",
+      "source": "PMC11126634",
+      "target": "CUSTOM:f9fef0a8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2128",
+      "source": "PMC11126634",
+      "target": "CUSTOM:9610cf14",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2126",
+      "source": "PMC11126634",
+      "target": "CUSTOM:1dae30ff",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2124",
+      "source": "PMC11126634",
+      "target": "CUSTOM:b79ee458",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2122",
+      "source": "PMC11126634",
+      "target": "CUSTOM:f1f70623",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 14,
+  "num_edges": 13
+}

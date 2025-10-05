@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC8537831",
+  "nodes": [
+    {
+      "fullLabel": "PMC8537831",
+      "id": "PMC8537831",
+      "label": "PMC8537831",
+      "properties": {
+        "pmcid": "PMC8537831",
+        "first_seen": "2025-10-05T07:29:09.355023",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:09.407547"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Identification of Janthinobacterium in red romaine in VEG 03D",
+      "id": "CUSTOM:f30a8812",
+      "label": "Identification of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.409859",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Identification of Janthinobacterium in red romaine in VEG 03D",
+        "last_seen": "2025-10-05T07:29:09.409859",
+        "obo_id": "CUSTOM:f30a8812"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Identification of Methylobacterium in red romaine lettuce and mizuna in VEG 03D",
+      "id": "CUSTOM:444e9cf1",
+      "label": "Identification of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.401214",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Identification of Methylobacterium in red romaine lettuce and mizuna in VEG 03D",
+        "last_seen": "2025-10-05T07:29:09.401214",
+        "obo_id": "CUSTOM:444e9cf1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Identification of Enterobacter, Chitinophaga, Novosphingobium and Bradyrhizobium in Veg 03D and some VEG 03F samples",
+      "id": "CUSTOM:972f28ff",
+      "label": "Identification of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.393650",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Identification of Enterobacter, Chitinophaga, Novosphingobium and Bradyrhizobium in Veg 03D and some VEG 03F samples",
+        "last_seen": "2025-10-05T07:29:09.393650",
+        "obo_id": "CUSTOM:972f28ff"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Several genera present in VEG 03D and VEG 03F but not in VEG 03E",
+      "id": "CUSTOM:e8df4ec9",
+      "label": "Several genera pr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.387536",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Several genera present in VEG 03D and VEG 03F but not in VEG 03E",
+        "last_seen": "2025-10-05T07:29:09.387536",
+        "obo_id": "CUSTOM:e8df4ec9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of Ralstonia and Pseudomonas in samples",
+      "id": "CUSTOM:6b6c3ca6",
+      "label": "Presence of Ralst...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.382255",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of Ralstonia and Pseudomonas in samples",
+        "last_seen": "2025-10-05T07:29:09.382255",
+        "obo_id": "CUSTOM:6b6c3ca6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Detection of Pseudomonas in leaf tissue",
+      "id": "CUSTOM:ee0a4480",
+      "label": "Detection of Pseu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.376705",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Detection of Pseudomonas in leaf tissue",
+        "last_seen": "2025-10-05T07:29:09.376705",
+        "obo_id": "CUSTOM:ee0a4480"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Prevalence of Pseudomonas in wick materials",
+      "id": "CUSTOM:679ca49d",
+      "label": "Prevalence of Pse...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.370340",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Prevalence of Pseudomonas in wick materials",
+        "last_seen": "2025-10-05T07:29:09.370340",
+        "obo_id": "CUSTOM:679ca49d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Variation in bacterial genera in the wick and leaf in VEG 03F compared to VEG 03D and E",
+      "id": "CUSTOM:6e6dfa21",
+      "label": "Variation in bact...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.363765",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Variation in bacterial genera in the wick and leaf in VEG 03F compared to VEG 03D and E",
+        "last_seen": "2025-10-05T07:29:09.363765",
+        "obo_id": "CUSTOM:6e6dfa21"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Variability in bacterial genera detected in wick material",
+      "id": "CUSTOM:68393490",
+      "label": "Variability in ba...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.357286",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Variability in bacterial genera detected in wick material",
+        "last_seen": "2025-10-05T07:29:09.357286",
+        "obo_id": "CUSTOM:68393490"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2800",
+      "source": "PMC8537831",
+      "target": "CUSTOM:f30a8812",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2798",
+      "source": "PMC8537831",
+      "target": "CUSTOM:444e9cf1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2796",
+      "source": "PMC8537831",
+      "target": "CUSTOM:972f28ff",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2794",
+      "source": "PMC8537831",
+      "target": "CUSTOM:e8df4ec9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2792",
+      "source": "PMC8537831",
+      "target": "CUSTOM:6b6c3ca6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2790",
+      "source": "PMC8537831",
+      "target": "CUSTOM:ee0a4480",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2788",
+      "source": "PMC8537831",
+      "target": "CUSTOM:679ca49d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2786",
+      "source": "PMC8537831",
+      "target": "CUSTOM:6e6dfa21",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2784",
+      "source": "PMC8537831",
+      "target": "CUSTOM:68393490",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

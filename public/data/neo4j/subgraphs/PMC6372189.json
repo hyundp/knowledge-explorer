@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC6372189",
+  "nodes": [
+    {
+      "fullLabel": "PMC6372189",
+      "id": "PMC6372189",
+      "label": "PMC6372189",
+      "properties": {
+        "pmcid": "PMC6372189",
+        "first_seen": "2025-10-05T07:29:02.414342",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.458180"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Possibility that a CYP450 enzyme could synthesize 5-HETE in Drosophila (alternative to lipoxygenase)",
+      "id": "CUSTOM:0d9bda6c",
+      "label": "Possibility that ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.459996",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Possibility that a CYP450 enzyme could synthesize 5-HETE in Drosophila (alternative to lipoxygenase)",
+        "last_seen": "2025-10-05T07:29:02.459996",
+        "obo_id": "CUSTOM:0d9bda6c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Observed in vivo effects of aspirin and prostaglandins in oogenesis (may be explained by predicted enzymes)",
+      "id": "CUSTOM:89c96a1e",
+      "label": "Observed in vivo ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.455293",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Observed in vivo effects of aspirin and prostaglandins in oogenesis (may be explained by predicted enzymes)",
+        "last_seen": "2025-10-05T07:29:02.455293",
+        "obo_id": "CUSTOM:89c96a1e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Reports of prostaglandin-like molecules in D.melanogaster extracts",
+      "id": "CUSTOM:922721ee",
+      "label": "Reports of prosta...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.449589",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Reports of prostaglandin-like molecules in D.melanogaster extracts",
+        "last_seen": "2025-10-05T07:29:02.449589",
+        "obo_id": "CUSTOM:922721ee"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of 9- and 13-HODEs detected in D.melanogaster extracts",
+      "id": "CUSTOM:c2d9eb1a",
+      "label": "Presence of 9- an...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.445317",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of 9- and 13-HODEs detected in D.melanogaster extracts",
+        "last_seen": "2025-10-05T07:29:02.445317",
+        "obo_id": "CUSTOM:c2d9eb1a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Health/viability of flies when raised in absence of 20 carbon PUFAs for several generations",
+      "id": "CUSTOM:ca2a67ad",
+      "label": "Health/viability ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.440829",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Health/viability of flies when raised in absence of 20 carbon PUFAs for several generations",
+        "last_seen": "2025-10-05T07:29:02.440829",
+        "obo_id": "CUSTOM:ca2a67ad"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Apparent lack of homologs for mammalian 5 and 6 desaturases",
+      "id": "CUSTOM:4601d61f",
+      "label": "Apparent lack of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.436930",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Apparent lack of homologs for mammalian 5 and 6 desaturases",
+        "last_seen": "2025-10-05T07:29:02.436930",
+        "obo_id": "CUSTOM:4601d61f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Modeling indicates candidates share overall fold and matches for known or predicted catalytic residues",
+      "id": "CUSTOM:1c6c7ec6",
+      "label": "Modeling indicate...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.432495",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Modeling indicates candidates share overall fold and matches for known or predicted catalytic residues",
+        "last_seen": "2025-10-05T07:29:02.432495",
+        "obo_id": "CUSTOM:1c6c7ec6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of potential orthologs for downstream leukotriene processing enzymes",
+      "id": "CUSTOM:f899bb59",
+      "label": "Presence of poten...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.429021",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of potential orthologs for downstream leukotriene processing enzymes",
+        "last_seen": "2025-10-05T07:29:02.429021",
+        "obo_id": "CUSTOM:f899bb59"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Failure to identify a potential lipoxygenase in genome searches",
+      "id": "CUSTOM:49750c1d",
+      "label": "Failure to identi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.425546",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Failure to identify a potential lipoxygenase in genome searches",
+        "last_seen": "2025-10-05T07:29:02.425546",
+        "obo_id": "CUSTOM:49750c1d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Identification of potential orthologs for thromboxane A synthase",
+      "id": "CUSTOM:6846447a",
+      "label": "Identification of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.421076",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Identification of potential orthologs for thromboxane A synthase",
+        "last_seen": "2025-10-05T07:29:02.421076",
+        "obo_id": "CUSTOM:6846447a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of a full complement of prostaglandin synthesis enzymes (predicted)",
+      "id": "CUSTOM:6103c6cf",
+      "label": "Presence of a ful...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.416439",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of a full complement of prostaglandin synthesis enzymes (predicted)",
+        "last_seen": "2025-10-05T07:29:02.416439",
+        "obo_id": "CUSTOM:6103c6cf"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "602",
+      "source": "PMC6372189",
+      "target": "CUSTOM:0d9bda6c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "600",
+      "source": "PMC6372189",
+      "target": "CUSTOM:89c96a1e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "598",
+      "source": "PMC6372189",
+      "target": "CUSTOM:922721ee",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "596",
+      "source": "PMC6372189",
+      "target": "CUSTOM:c2d9eb1a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "594",
+      "source": "PMC6372189",
+      "target": "CUSTOM:ca2a67ad",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "592",
+      "source": "PMC6372189",
+      "target": "CUSTOM:4601d61f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "590",
+      "source": "PMC6372189",
+      "target": "CUSTOM:1c6c7ec6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "588",
+      "source": "PMC6372189",
+      "target": "CUSTOM:f899bb59",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "586",
+      "source": "PMC6372189",
+      "target": "CUSTOM:49750c1d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "584",
+      "source": "PMC6372189",
+      "target": "CUSTOM:6846447a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "582",
+      "source": "PMC6372189",
+      "target": "CUSTOM:6103c6cf",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

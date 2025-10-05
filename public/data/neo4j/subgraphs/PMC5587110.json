@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC5587110",
+  "nodes": [
+    {
+      "fullLabel": "PMC5587110",
+      "id": "PMC5587110",
+      "label": "PMC5587110",
+      "properties": {
+        "pmcid": "PMC5587110",
+        "first_seen": "2025-10-05T07:29:06.170231",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.225131"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Use of intron-spanning primers and DNase to control gDNA contamination",
+      "id": "CUSTOM:3703f6ef",
+      "label": "Use of intron-spa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.226885",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Use of intron-spanning primers and DNase to control gDNA contamination",
+        "last_seen": "2025-10-05T07:29:06.226885",
+        "obo_id": "CUSTOM:3703f6ef"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Selection rationale for TaqMan assays over SYBRGreen",
+      "id": "CUSTOM:1d96a23f",
+      "label": "Selection rationa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.221308",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Selection rationale for TaqMan assays over SYBRGreen",
+        "last_seen": "2025-10-05T07:29:06.221308",
+        "obo_id": "CUSTOM:1d96a23f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "qPCR can be conducted in the SmartCycler using TaqMan assays in microgravity",
+      "id": "CUSTOM:7ee28c67",
+      "label": "qPCR can be condu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.216542",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "qPCR can be conducted in the SmartCycler using TaqMan assays in microgravity",
+        "last_seen": "2025-10-05T07:29:06.216542",
+        "obo_id": "CUSTOM:7ee28c67"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Use of standard commercial (solid) caps reduces bubble formation and decreases qPCR variability",
+      "id": "CUSTOM:aeaddca9",
+      "label": "Use of standard c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.211492",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Use of standard commercial (solid) caps reduces bubble formation and decreases qPCR variability",
+        "last_seen": "2025-10-05T07:29:06.211492",
+        "obo_id": "CUSTOM:aeaddca9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Longevity of loaded SPM reagents (no degradation)",
+      "id": "CUSTOM:b9dac205",
+      "label": "Longevity of load...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.206219",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Longevity of loaded SPM reagents (no degradation)",
+        "last_seen": "2025-10-05T07:29:06.206219",
+        "obo_id": "CUSTOM:b9dac205"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Shelf life of refrigerated lyophilized assays",
+      "id": "CUSTOM:cbb099bc",
+      "label": "Shelf life of ref...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.201533",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Shelf life of refrigerated lyophilized assays",
+        "last_seen": "2025-10-05T07:29:06.201533",
+        "obo_id": "CUSTOM:cbb099bc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Performance of lyophilized assays vs commercial non-lyophilized assays",
+      "id": "CUSTOM:bccdc1ad",
+      "label": "Performance of ly...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.196209",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Performance of lyophilized assays vs commercial non-lyophilized assays",
+        "last_seen": "2025-10-05T07:29:06.196209",
+        "obo_id": "CUSTOM:bccdc1ad"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Effect of degassing bubbles on fluorescence detection / amplification curves",
+      "id": "CUSTOM:5b0175b5",
+      "label": "Effect of degassi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.190695",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effect of degassing bubbles on fluorescence detection / amplification curves",
+        "last_seen": "2025-10-05T07:29:06.190695",
+        "obo_id": "CUSTOM:5b0175b5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "qPCR amplification variability in microgravity",
+      "id": "CUSTOM:1cf952da",
+      "label": "qPCR amplificatio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.184652",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "qPCR amplification variability in microgravity",
+        "last_seen": "2025-10-05T07:29:06.184652",
+        "obo_id": "CUSTOM:1cf952da"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "qPCR amplification success from biological samples on orbit (RNA isolation + RT qPCR)",
+      "id": "CUSTOM:f8f30353",
+      "label": "qPCR amplificatio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.177857",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "qPCR amplification success from biological samples on orbit (RNA isolation + RT qPCR)",
+        "last_seen": "2025-10-05T07:29:06.177857",
+        "obo_id": "CUSTOM:f8f30353"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "qPCR Ct values in microgravity",
+      "id": "CUSTOM:3a3aca8b",
+      "label": "qPCR Ct values in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.172312",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "qPCR Ct values in microgravity",
+        "last_seen": "2025-10-05T07:29:06.172312",
+        "obo_id": "CUSTOM:3a3aca8b"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1846",
+      "source": "PMC5587110",
+      "target": "CUSTOM:3703f6ef",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1844",
+      "source": "PMC5587110",
+      "target": "CUSTOM:1d96a23f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1842",
+      "source": "PMC5587110",
+      "target": "CUSTOM:7ee28c67",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1840",
+      "source": "PMC5587110",
+      "target": "CUSTOM:aeaddca9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1838",
+      "source": "PMC5587110",
+      "target": "CUSTOM:b9dac205",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1836",
+      "source": "PMC5587110",
+      "target": "CUSTOM:cbb099bc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1834",
+      "source": "PMC5587110",
+      "target": "CUSTOM:bccdc1ad",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1832",
+      "source": "PMC5587110",
+      "target": "CUSTOM:5b0175b5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1830",
+      "source": "PMC5587110",
+      "target": "CUSTOM:1cf952da",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1828",
+      "source": "PMC5587110",
+      "target": "CUSTOM:f8f30353",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1826",
+      "source": "PMC5587110",
+      "target": "CUSTOM:3a3aca8b",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

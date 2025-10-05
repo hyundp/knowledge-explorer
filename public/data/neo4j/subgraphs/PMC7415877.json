@@ -1,0 +1,351 @@
+{
+  "pmcid": "PMC7415877",
+  "nodes": [
+    {
+      "fullLabel": "PMC7415877",
+      "id": "PMC7415877",
+      "label": "PMC7415877",
+      "properties": {
+        "pmcid": "PMC7415877",
+        "first_seen": "2025-10-05T07:29:09.130239",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:09.224537"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Validations provide a platform for MME and future investigators to successfully and efficiently conduct experiments onboard the ISS",
+      "id": "CUSTOM:4de23206",
+      "label": "Validations provi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.226700",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Validations provide a platform for MME and future investigators to successfully and efficiently conduct experiments onboard the ISS",
+        "last_seen": "2025-10-05T07:29:09.226700",
+        "obo_id": "CUSTOM:4de23206"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Updated flight hardware and upload conditions available to support C. elegans experiments onboard the ISS",
+      "id": "CUSTOM:8ae27eab",
+      "label": "Updated flight ha...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.219906",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Updated flight hardware and upload conditions available to support C. elegans experiments onboard the ISS",
+        "last_seen": "2025-10-05T07:29:09.219906",
+        "obo_id": "CUSTOM:8ae27eab"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Temperature profile provided by phase change material compared to active temperature control",
+      "id": "CUSTOM:a7a9f0d8",
+      "label": "Temperature profi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.212714",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Temperature profile provided by phase change material compared to active temperature control",
+        "last_seen": "2025-10-05T07:29:09.212714",
+        "obo_id": "CUSTOM:a7a9f0d8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Phase change material (PCM) removing need for active temperature control during upload",
+      "id": "CUSTOM:657012c8",
+      "label": "Phase change mate...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.205812",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Phase change material (PCM) removing need for active temperature control during upload",
+        "last_seen": "2025-10-05T07:29:09.205812",
+        "obo_id": "CUSTOM:657012c8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability to keep a C. elegans payload in stasis during cold upload at 8–12 degreesC, with subsequent effective growth and reproduction",
+      "id": "CUSTOM:39da835c",
+      "label": "Ability to keep a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.198789",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability to keep a C. elegans payload in stasis during cold upload at 8–12 degreesC, with subsequent effective growth and reproduction",
+        "last_seen": "2025-10-05T07:29:09.198789",
+        "obo_id": "CUSTOM:39da835c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Principal limiting component for gas exchange between the C. elegans culture and the ISS",
+      "id": "CUSTOM:9b7d4e4a",
+      "label": "Principal limitin...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.191579",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Principal limiting component for gas exchange between the C. elegans culture and the ISS",
+        "last_seen": "2025-10-05T07:29:09.191579",
+        "obo_id": "CUSTOM:9b7d4e4a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Performance/development of new ECs with respect to gas exchange and experiment viability",
+      "id": "CUSTOM:6101550c",
+      "label": "Performance/devel...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.184698",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Performance/development of new ECs with respect to gas exchange and experiment viability",
+        "last_seen": "2025-10-05T07:29:09.184698",
+        "obo_id": "CUSTOM:6101550c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Propensity of CeMM to become contaminated",
+      "id": "CUSTOM:d2cc8109",
+      "label": "Propensity of CeM...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.178764",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Propensity of CeMM to become contaminated",
+        "last_seen": "2025-10-05T07:29:09.178764",
+        "obo_id": "CUSTOM:d2cc8109"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Use of CeMM rather than OP50 may reduce oxygen exchange requirement and increase viability in plastic culture bags",
+      "id": "CUSTOM:4cdc4dbb",
+      "label": "Use of CeMM rathe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.172313",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Use of CeMM rather than OP50 may reduce oxygen exchange requirement and increase viability in plastic culture bags",
+        "last_seen": "2025-10-05T07:29:09.172313",
+        "obo_id": "CUSTOM:4cdc4dbb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Viability of worm experiments conducted in plastic culture bags",
+      "id": "CUSTOM:8669a92d",
+      "label": "Viability of worm...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.165552",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Viability of worm experiments conducted in plastic culture bags",
+        "last_seen": "2025-10-05T07:29:09.165552",
+        "obo_id": "CUSTOM:8669a92d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Oxygen consumption of worms grown in CeMM diet",
+      "id": "CUSTOM:f5d4e392",
+      "label": "Oxygen consumptio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.158862",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Oxygen consumption of worms grown in CeMM diet",
+        "last_seen": "2025-10-05T07:29:09.158862",
+        "obo_id": "CUSTOM:f5d4e392"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Effect of culture volume to gas exchange surface area on culture growth",
+      "id": "CUSTOM:bbb71066",
+      "label": "Effect of culture...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.152559",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effect of culture volume to gas exchange surface area on culture growth",
+        "last_seen": "2025-10-05T07:29:09.152559",
+        "obo_id": "CUSTOM:bbb71066"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Thickness of PE bags relative to FEP bags and resulting gas exchange performance",
+      "id": "CUSTOM:425105a9",
+      "label": "Thickness of PE b...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.145218",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Thickness of PE bags relative to FEP bags and resulting gas exchange performance",
+        "last_seen": "2025-10-05T07:29:09.145218",
+        "obo_id": "CUSTOM:425105a9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Compatibility of FEP culture bag with worm growth",
+      "id": "CUSTOM:f85bb2ad",
+      "label": "Compatibility of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.138775",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Compatibility of FEP culture bag with worm growth",
+        "last_seen": "2025-10-05T07:29:09.138775",
+        "obo_id": "CUSTOM:f85bb2ad"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Performance of two culture bags selected to replicate bags used in previous flight",
+      "id": "CUSTOM:bc2105c2",
+      "label": "Performance of tw...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.132206",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Performance of two culture bags selected to replicate bags used in previous flight",
+        "last_seen": "2025-10-05T07:29:09.132206",
+        "obo_id": "CUSTOM:bc2105c2"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2750",
+      "source": "PMC7415877",
+      "target": "CUSTOM:4de23206",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2748",
+      "source": "PMC7415877",
+      "target": "CUSTOM:8ae27eab",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2746",
+      "source": "PMC7415877",
+      "target": "CUSTOM:a7a9f0d8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2744",
+      "source": "PMC7415877",
+      "target": "CUSTOM:657012c8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2742",
+      "source": "PMC7415877",
+      "target": "CUSTOM:39da835c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2740",
+      "source": "PMC7415877",
+      "target": "CUSTOM:9b7d4e4a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2738",
+      "source": "PMC7415877",
+      "target": "CUSTOM:6101550c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2736",
+      "source": "PMC7415877",
+      "target": "CUSTOM:d2cc8109",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2734",
+      "source": "PMC7415877",
+      "target": "CUSTOM:4cdc4dbb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2732",
+      "source": "PMC7415877",
+      "target": "CUSTOM:8669a92d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2730",
+      "source": "PMC7415877",
+      "target": "CUSTOM:f5d4e392",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2728",
+      "source": "PMC7415877",
+      "target": "CUSTOM:bbb71066",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2726",
+      "source": "PMC7415877",
+      "target": "CUSTOM:425105a9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2724",
+      "source": "PMC7415877",
+      "target": "CUSTOM:f85bb2ad",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2722",
+      "source": "PMC7415877",
+      "target": "CUSTOM:bc2105c2",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 16,
+  "num_edges": 15
+}

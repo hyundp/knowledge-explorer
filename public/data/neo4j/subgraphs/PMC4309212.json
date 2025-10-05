@@ -1,0 +1,285 @@
+{
+  "pmcid": "PMC4309212",
+  "nodes": [
+    {
+      "fullLabel": "PMC4309212",
+      "id": "PMC4309212",
+      "label": "PMC4309212",
+      "properties": {
+        "pmcid": "PMC4309212",
+        "first_seen": "2025-10-05T07:29:16.787739",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:16.864731"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "redox state",
+      "id": "CUSTOM:d8ee13e0",
+      "label": "redox state",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.867006",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "redox state",
+        "last_seen": "2025-10-05T07:29:16.867006",
+        "obo_id": "CUSTOM:d8ee13e0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "reactive oxygen species (ROS)",
+      "id": "CUSTOM:3d8b8cf2",
+      "label": "reactive oxygen s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.860416",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "reactive oxygen species (ROS)",
+        "last_seen": "2025-10-05T07:29:16.860416",
+        "obo_id": "CUSTOM:3d8b8cf2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "binding of electrophilic toxins",
+      "id": "CUSTOM:e7b24f84",
+      "label": "binding of electr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.853822",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "binding of electrophilic toxins",
+        "last_seen": "2025-10-05T07:29:16.853822",
+        "obo_id": "CUSTOM:e7b24f84"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "glutathione S transferase (GST) levels or activity",
+      "id": "CUSTOM:f2a249b6",
+      "label": "glutathione S tra...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.846962",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "glutathione S transferase (GST) levels or activity",
+        "last_seen": "2025-10-05T07:29:16.846962",
+        "obo_id": "CUSTOM:f2a249b6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "DNA and RNA damage",
+      "id": "CUSTOM:a582f006",
+      "label": "DNA and RNA damage",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.840356",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "DNA and RNA damage",
+        "last_seen": "2025-10-05T07:29:16.840356",
+        "obo_id": "CUSTOM:a582f006"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mitochondrial function",
+      "id": "CUSTOM:55c5f9f4",
+      "label": "mitochondrial fun...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.832673",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mitochondrial function",
+        "last_seen": "2025-10-05T07:29:16.832673",
+        "obo_id": "CUSTOM:55c5f9f4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "control of gene expression",
+      "id": "CUSTOM:cbb40222",
+      "label": "control of gene e...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.825425",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "control of gene expression",
+        "last_seen": "2025-10-05T07:29:16.825425",
+        "obo_id": "CUSTOM:cbb40222"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "response to pH signaling",
+      "id": "CUSTOM:8a99c0dc",
+      "label": "response to pH si...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.818385",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "response to pH signaling",
+        "last_seen": "2025-10-05T07:29:16.818385",
+        "obo_id": "CUSTOM:8a99c0dc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "DNA repair and replication",
+      "id": "CUSTOM:fa8a51cb",
+      "label": "DNA repair and re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.811368",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "DNA repair and replication",
+        "last_seen": "2025-10-05T07:29:16.811368",
+        "obo_id": "CUSTOM:fa8a51cb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "modification and decay pathways",
+      "id": "CUSTOM:860fe7e9",
+      "label": "modification and ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.804768",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "modification and decay pathways",
+        "last_seen": "2025-10-05T07:29:16.804768",
+        "obo_id": "CUSTOM:860fe7e9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "metabolism",
+      "id": "CUSTOM:2b8b7e47",
+      "label": "metabolism",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.797714",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "metabolism",
+        "last_seen": "2025-10-05T07:29:16.797714",
+        "obo_id": "CUSTOM:2b8b7e47"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "growth control via RNA and ribosomal biogenesis",
+      "id": "CUSTOM:eec84eb0",
+      "label": "growth control vi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.790374",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "growth control via RNA and ribosomal biogenesis",
+        "last_seen": "2025-10-05T07:29:16.790374",
+        "obo_id": "CUSTOM:eec84eb0"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4626",
+      "source": "PMC4309212",
+      "target": "CUSTOM:d8ee13e0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4624",
+      "source": "PMC4309212",
+      "target": "CUSTOM:3d8b8cf2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4622",
+      "source": "PMC4309212",
+      "target": "CUSTOM:e7b24f84",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4620",
+      "source": "PMC4309212",
+      "target": "CUSTOM:f2a249b6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4618",
+      "source": "PMC4309212",
+      "target": "CUSTOM:a582f006",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4616",
+      "source": "PMC4309212",
+      "target": "CUSTOM:55c5f9f4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4614",
+      "source": "PMC4309212",
+      "target": "CUSTOM:cbb40222",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4612",
+      "source": "PMC4309212",
+      "target": "CUSTOM:8a99c0dc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4610",
+      "source": "PMC4309212",
+      "target": "CUSTOM:fa8a51cb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4608",
+      "source": "PMC4309212",
+      "target": "CUSTOM:860fe7e9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4606",
+      "source": "PMC4309212",
+      "target": "CUSTOM:2b8b7e47",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4604",
+      "source": "PMC4309212",
+      "target": "CUSTOM:eec84eb0",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 13,
+  "num_edges": 12
+}

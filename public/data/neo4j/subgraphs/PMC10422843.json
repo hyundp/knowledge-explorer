@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC10422843",
+  "nodes": [
+    {
+      "fullLabel": "PMC10422843",
+      "id": "PMC10422843",
+      "label": "PMC10422843",
+      "properties": {
+        "pmcid": "PMC10422843",
+        "first_seen": "2025-10-05T07:29:08.250544",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.294944"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Genomic indications of potential for survival in harsh conditions via genes linked with desiccation tolerance and UV resistance",
+      "id": "CUSTOM:6321d7ca",
+      "label": "Genomic indicatio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.296951",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Genomic indications of potential for survival in harsh conditions via genes linked with desiccation tolerance and UV resistance",
+        "last_seen": "2025-10-05T07:29:08.296951",
+        "obo_id": "CUSTOM:6321d7ca"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of cold adapted yeasts in SAF with implications for future missions to icy moons",
+      "id": "CUSTOM:8463a514",
+      "label": "Presence of cold ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.291081",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of cold adapted yeasts in SAF with implications for future missions to icy moons",
+        "last_seen": "2025-10-05T07:29:08.291081",
+        "obo_id": "CUSTOM:8463a514"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Potential contamination of extraterrestrial environments by UV C resistant yeasts, posing risks to life detection missions",
+      "id": "CUSTOM:c2bc1451",
+      "label": "Potential contami...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.285050",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential contamination of extraterrestrial environments by UV C resistant yeasts, posing risks to life detection missions",
+        "last_seen": "2025-10-05T07:29:08.285050",
+        "obo_id": "CUSTOM:c2bc1451"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "UV C resistance in yeasts, including high altitude, cold adapted N. onofrii and two other NASA cleanroom species",
+      "id": "CUSTOM:aada841f",
+      "label": "UV C resistance i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.277878",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "UV C resistance in yeasts, including high altitude, cold adapted N. onofrii and two other NASA cleanroom species",
+        "last_seen": "2025-10-05T07:29:08.277878",
+        "obo_id": "CUSTOM:aada841f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Recommendation to use more precise identification techniques (MLSA and WGS) for complex genera like Naganishia",
+      "id": "CUSTOM:cdcdb60f",
+      "label": "Recommendation to...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.271846",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Recommendation to use more precise identification techniques (MLSA and WGS) for complex genera like Naganishia",
+        "last_seen": "2025-10-05T07:29:08.271846",
+        "obo_id": "CUSTOM:cdcdb60f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Adequacy of traditional yeast identification methods",
+      "id": "CUSTOM:8363849b",
+      "label": "Adequacy of tradi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.265179",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Adequacy of traditional yeast identification methods",
+        "last_seen": "2025-10-05T07:29:08.265179",
+        "obo_id": "CUSTOM:8363849b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Potential presence of various microbes, including significant yeast species, in NASA cleanrooms",
+      "id": "CUSTOM:194996f5",
+      "label": "Potential presenc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.258409",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential presence of various microbes, including significant yeast species, in NASA cleanrooms",
+        "last_seen": "2025-10-05T07:29:08.258409",
+        "obo_id": "CUSTOM:194996f5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Extreme, oligotrophic conditions in meticulously maintained NASA cleanrooms",
+      "id": "CUSTOM:0f16133d",
+      "label": "Extreme, oligotro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.252571",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Extreme, oligotrophic conditions in meticulously maintained NASA cleanrooms",
+        "last_seen": "2025-10-05T07:29:08.252571",
+        "obo_id": "CUSTOM:0f16133d"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2486",
+      "source": "PMC10422843",
+      "target": "CUSTOM:6321d7ca",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2484",
+      "source": "PMC10422843",
+      "target": "CUSTOM:8463a514",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2482",
+      "source": "PMC10422843",
+      "target": "CUSTOM:c2bc1451",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2480",
+      "source": "PMC10422843",
+      "target": "CUSTOM:aada841f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2478",
+      "source": "PMC10422843",
+      "target": "CUSTOM:cdcdb60f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2476",
+      "source": "PMC10422843",
+      "target": "CUSTOM:8363849b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2474",
+      "source": "PMC10422843",
+      "target": "CUSTOM:194996f5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2472",
+      "source": "PMC10422843",
+      "target": "CUSTOM:0f16133d",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

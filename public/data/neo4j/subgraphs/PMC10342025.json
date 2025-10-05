@@ -1,0 +1,351 @@
+{
+  "pmcid": "PMC10342025",
+  "nodes": [
+    {
+      "fullLabel": "PMC10342025",
+      "id": "PMC10342025",
+      "label": "PMC10342025",
+      "properties": {
+        "pmcid": "PMC10342025",
+        "first_seen": "2025-10-05T07:29:12.814599",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:12.953529"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "H2O2 production in immobilized mice (previous study)",
+      "id": "CUSTOM:391407b3",
+      "label": "H2O2 production i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.955892",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "H2O2 production in immobilized mice (previous study)",
+        "last_seen": "2025-10-05T07:29:12.955892",
+        "obo_id": "CUSTOM:391407b3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mitochondrial capacities (general) in SRT2104 treated rats",
+      "id": "CUSTOM:caced26c",
+      "label": "mitochondrial cap...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.948324",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mitochondrial capacities (general) in SRT2104 treated rats",
+        "last_seen": "2025-10-05T07:29:12.948324",
+        "obo_id": "CUSTOM:caced26c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mitochondrial oxidative phosphorylation and electron transfer capacities in soleus",
+      "id": "CUSTOM:d593b133",
+      "label": "mitochondrial oxi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.929881",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mitochondrial oxidative phosphorylation and electron transfer capacities in soleus",
+        "last_seen": "2025-10-05T07:29:12.929881",
+        "obo_id": "CUSTOM:d593b133"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "LEAK contribution to maximal electron transfer",
+      "id": "CUSTOM:4924f7aa",
+      "label": "LEAK contribution...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.922920",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "LEAK contribution to maximal electron transfer",
+        "last_seen": "2025-10-05T07:29:12.922920",
+        "obo_id": "CUSTOM:4924f7aa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "complex I contribution to oxidative phosphorylation (to maximal electron transfer)",
+      "id": "CUSTOM:2d0c6a7f",
+      "label": "complex I contrib...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.915699",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "complex I contribution to oxidative phosphorylation (to maximal electron transfer)",
+        "last_seen": "2025-10-05T07:29:12.915699",
+        "obo_id": "CUSTOM:2d0c6a7f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "intrinsic maximal electron transfer capacity (mitochondrial ETS maximal capacity)",
+      "id": "CUSTOM:f40d43fa",
+      "label": "intrinsic maximal...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.906942",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "intrinsic maximal electron transfer capacity (mitochondrial ETS maximal capacity)",
+        "last_seen": "2025-10-05T07:29:12.906942",
+        "obo_id": "CUSTOM:f40d43fa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "skeletal muscle atrophy / muscle mass",
+      "id": "CUSTOM:e19393cb",
+      "label": "skeletal muscle a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.897726",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "skeletal muscle atrophy / muscle mass",
+        "last_seen": "2025-10-05T07:29:12.897726",
+        "obo_id": "CUSTOM:e19393cb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "glutathione peroxidase (GPx) activity",
+      "id": "CUSTOM:5ed4487d",
+      "label": "glutathione perox...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.891380",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "glutathione peroxidase (GPx) activity",
+        "last_seen": "2025-10-05T07:29:12.891380",
+        "obo_id": "CUSTOM:5ed4487d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "superoxide dismutase (SOD) activity",
+      "id": "CUSTOM:616709de",
+      "label": "superoxide dismut...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.884904",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "superoxide dismutase (SOD) activity",
+        "last_seen": "2025-10-05T07:29:12.884904",
+        "obo_id": "CUSTOM:616709de"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "H2O2 flux and concentration",
+      "id": "CUSTOM:e7cfc07e",
+      "label": "H2O2 flux and con...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.877211",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "H2O2 flux and concentration",
+        "last_seen": "2025-10-05T07:29:12.877211",
+        "obo_id": "CUSTOM:e7cfc07e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "FCR leak (flux control ratio leak)",
+      "id": "CUSTOM:fb1f0086",
+      "label": "FCR leak (flux co...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.846781",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "FCR leak (flux control ratio leak)",
+        "last_seen": "2025-10-05T07:29:12.846781",
+        "obo_id": "CUSTOM:fb1f0086"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "intrinsic O2 flux (intrinsic mitochondrial O2 flux)",
+      "id": "CUSTOM:59bc2ff0",
+      "label": "intrinsic O2 flux...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.838676",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "intrinsic O2 flux (intrinsic mitochondrial O2 flux)",
+        "last_seen": "2025-10-05T07:29:12.838676",
+        "obo_id": "CUSTOM:59bc2ff0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "citrate synthase activity",
+      "id": "CUSTOM:6039390d",
+      "label": "citrate synthase ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.832065",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "citrate synthase activity",
+        "last_seen": "2025-10-05T07:29:12.832065",
+        "obo_id": "CUSTOM:6039390d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cytochrome c oxidase activity",
+      "id": "CUSTOM:526dd000",
+      "label": "cytochrome c oxid...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.825186",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cytochrome c oxidase activity",
+        "last_seen": "2025-10-05T07:29:12.825186",
+        "obo_id": "CUSTOM:526dd000"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "integrative proton leak",
+      "id": "CUSTOM:a59297a0",
+      "label": "integrative proto...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.817368",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "integrative proton leak",
+        "last_seen": "2025-10-05T07:29:12.817368",
+        "obo_id": "CUSTOM:a59297a0"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3680",
+      "source": "PMC10342025",
+      "target": "CUSTOM:391407b3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3678",
+      "source": "PMC10342025",
+      "target": "CUSTOM:caced26c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3676",
+      "source": "PMC10342025",
+      "target": "CUSTOM:d593b133",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3674",
+      "source": "PMC10342025",
+      "target": "CUSTOM:4924f7aa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3672",
+      "source": "PMC10342025",
+      "target": "CUSTOM:2d0c6a7f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3670",
+      "source": "PMC10342025",
+      "target": "CUSTOM:f40d43fa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3668",
+      "source": "PMC10342025",
+      "target": "CUSTOM:e19393cb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3666",
+      "source": "PMC10342025",
+      "target": "CUSTOM:5ed4487d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3664",
+      "source": "PMC10342025",
+      "target": "CUSTOM:616709de",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3662",
+      "source": "PMC10342025",
+      "target": "CUSTOM:e7cfc07e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3660",
+      "source": "PMC10342025",
+      "target": "CUSTOM:fb1f0086",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3658",
+      "source": "PMC10342025",
+      "target": "CUSTOM:59bc2ff0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3656",
+      "source": "PMC10342025",
+      "target": "CUSTOM:6039390d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3654",
+      "source": "PMC10342025",
+      "target": "CUSTOM:526dd000",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3652",
+      "source": "PMC10342025",
+      "target": "CUSTOM:a59297a0",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 16,
+  "num_edges": 15
+}

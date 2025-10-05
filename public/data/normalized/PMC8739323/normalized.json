@@ -1,0 +1,24 @@
+{
+  "pmcid": "PMC8739323",
+  "title": "The smallest space miners: principles of space biomining",
+  "authors": [
+    "Rosa Santomartino",
+    "Luis Zea",
+    "Charles S Cockell"
+  ],
+  "year": "2022",
+  "journal": "Extremophiles",
+  "doi": "10.1007/s00792 021 01253 w",
+  "sections": {
+    "abstract": "As we aim to expand human presence in space, we need to find viable approaches to achieve independence from terrestrial resources. Space biomining of the Moon, Mars and asteroids has been indicated as one of the promising approaches to achieve in situ resource utilization by the main space agencies. Structural and expensive metals, essential mineral nutrients, water, oxygen and volatiles could be potentially extracted from extraterrestrial regolith and rocks using microbial based biotechnologies. The use of bioleaching microorganisms could also be applied to space bioremediation, recycling of waste and to reinforce regenerative life support systems. However, the science around space biomining is still young. Relevant differences between terrestrial and extraterrestrial conditions exist, including the rock types and ores available for mining, and a direct application of established terrestrial biomining techniques may not be a possibility. It is, therefore, necessary to invest in terrestrial and space based research of specific methods for space applications to learn the effects of space conditions on biomining and bioremediation, expand our knowledge on organotrophic and community based bioleaching mechanisms, as well as on anaerobic biomining, and investigate the use of synthetic biology to overcome limitations posed by the space environments.\n\nKeywords:Space biomining, ISRU, Space bioleaching, BLSS, Space microbiology, Bioremediation, Space sustainability",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "As the goal for space exploration expands toward establishing permanent settlements in space, space biomining is generating an increasing interest. The main space agencies have recognized its potential in their roadmaps. Many are the advantages, as terrestrial biomining is considered a sustainable approach in both the economic and environmental terms (Jerez2017a). Moreover, many rocks in the Solar System would be considered low grade ores for terrestrial standards (Cockell and Santomartino, in press), and biomining on Earth is commonly used to process mine waste, dumps and tailings (Bosecker1997; Mishra and Rhee2014). The use of bioleaching microorganisms could also be applied to bioremediation, recycling of waste and to support BLSS.\n\nAlthough promising, the science around space biomining is still relatively young. Considering the differences between terrestrial and extraterrestrial conditions, including rock type and ore availability, a direct application of established terrestrial biomining techniques may not be always possible. Energetic and metabolic demands need to be taken into account. Engineering requirements for space biomining reactors will require temperature controls, aeration and stirring under complex and harsh conditions. While most terrestrial biomining knowledge is based on autotrophic microorganisms able to break down sulphidic minerals without the need of carbon compounds, many rocks in the Solar Systems may present a low sulphur content. In these cases, heterotrophic microorganisms could be a better choice, but they would require organic compounds. Moreover, most bioleaching reactions are aerobic, and oxygen itself will be a commodity in space. A careful selection of the most appropriate techniques and microorganisms will be required for any given application, and the optimal solution could include complementary systems (Averesch2021). Ethic and planetary protection discussions are outside of the aim of this review. Nevertheless, it is necessary to take them into account when planning the preferred method for mining or ISRU in a specific region or planetary body, as they could pose a further limitation.\n\nBiomining is one of the possible approaches to achieve ISRU, and its selection over other methods should at least consider all the parameters discussed here. Nevertheless, its advantages make it pivotal to invest in terrestrial and space based research of specific methods for space applications. This includes learning more on the effects of space conditions on biomining and bioremediation, expanding our knowledge on organotrophic, cyanobacteria and community based bioleaching mechanisms, on anaerobic biomining, and investigating the use of synthetic biology to overcome limitations."
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:08:25.974397",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8739323/"
+  }
+}

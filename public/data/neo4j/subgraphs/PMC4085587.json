@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC4085587",
+  "nodes": [
+    {
+      "fullLabel": "PMC4085587",
+      "id": "PMC4085587",
+      "label": "PMC4085587",
+      "properties": {
+        "pmcid": "PMC4085587",
+        "first_seen": "2025-10-05T07:29:05.242553",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.256441"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "applications using the LSMMG environment have the potential to be targeted to a range of Entrobacteriaceae genera",
+      "id": "CUSTOM:0e558d2a",
+      "label": "applications usin...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.258018",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "applications using the LSMMG environment have the potential to be targeted to a range of Entrobacteriaceae genera",
+        "last_seen": "2025-10-05T07:29:05.258018",
+        "obo_id": "CUSTOM:0e558d2a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "direction of LSMMG-induced regulation of phenotypes and gene expression varies depending on genus",
+      "id": "CUSTOM:841d8017",
+      "label": "direction of LSMM...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.253792",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "direction of LSMMG-induced regulation of phenotypes and gene expression varies depending on genus",
+        "last_seen": "2025-10-05T07:29:05.253792",
+        "obo_id": "CUSTOM:841d8017"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "pathways and mechanisms for sensing the LSMMG environmental signal are present in different cells",
+      "id": "CUSTOM:bc99509f",
+      "label": "pathways and mech...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.249654",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "pathways and mechanisms for sensing the LSMMG environmental signal are present in different cells",
+        "last_seen": "2025-10-05T07:29:05.249654",
+        "obo_id": "CUSTOM:bc99509f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "response to the LSMMG growth environment is conserved across Enterobacteriaceae",
+      "id": "CUSTOM:fa13da2b",
+      "label": "response to the L...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.244228",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "response to the LSMMG growth environment is conserved across Enterobacteriaceae",
+        "last_seen": "2025-10-05T07:29:05.244228",
+        "obo_id": "CUSTOM:fa13da2b"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1532",
+      "source": "PMC4085587",
+      "target": "CUSTOM:0e558d2a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1530",
+      "source": "PMC4085587",
+      "target": "CUSTOM:841d8017",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1528",
+      "source": "PMC4085587",
+      "target": "CUSTOM:bc99509f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1526",
+      "source": "PMC4085587",
+      "target": "CUSTOM:fa13da2b",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

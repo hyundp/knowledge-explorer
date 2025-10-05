@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC11167063",
+  "nodes": [
+    {
+      "fullLabel": "PMC11167063",
+      "id": "PMC11167063",
+      "label": "PMC11167063",
+      "properties": {
+        "pmcid": "PMC11167063",
+        "first_seen": "2025-10-05T07:29:01.348851",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.384898"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Presence of TERRA foci after RNaseA+H treatment",
+      "id": "CUSTOM:27b8a3a1",
+      "label": "Presence of TERRA...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.386756",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of TERRA foci after RNaseA+H treatment",
+        "last_seen": "2025-10-05T07:29:01.386756",
+        "obo_id": "CUSTOM:27b8a3a1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Colocalization of transfection-induced TERRA foci with gamma H2AX at telomeres",
+      "id": "CUSTOM:79024787",
+      "label": "Colocalization of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.380965",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Colocalization of transfection-induced TERRA foci with gamma H2AX at telomeres",
+        "last_seen": "2025-10-05T07:29:01.380965",
+        "obo_id": "CUSTOM:79024787"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "TERRA levels in response to the cellular stress of transfection (empty vector)",
+      "id": "CUSTOM:d7c0625e",
+      "label": "TERRA levels in r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.376690",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "TERRA levels in response to the cellular stress of transfection (empty vector)",
+        "last_seen": "2025-10-05T07:29:01.376690",
+        "obo_id": "CUSTOM:d7c0625e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "DNA damage induced G2 block",
+      "id": "CUSTOM:0af11be1",
+      "label": "DNA damage induce...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.372388",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "DNA damage induced G2 block",
+        "last_seen": "2025-10-05T07:29:01.372388",
+        "obo_id": "CUSTOM:0af11be1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "TERRA accumulation in G2 phase",
+      "id": "CUSTOM:02095d26",
+      "label": "TERRA accumulatio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.367886",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "TERRA accumulation in G2 phase",
+        "last_seen": "2025-10-05T07:29:01.367886",
+        "obo_id": "CUSTOM:02095d26"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Recruitment of free TERRA to telomere specific DSBs (EN T, TRF1 only)",
+      "id": "CUSTOM:d64b79c5",
+      "label": "Recruitment of fr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.350358",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Recruitment of free TERRA to telomere specific DSBs (EN T, TRF1 only)",
+        "last_seen": "2025-10-05T07:29:01.350358",
+        "obo_id": "CUSTOM:d64b79c5"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "224",
+      "source": "PMC11167063",
+      "target": "CUSTOM:27b8a3a1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "222",
+      "source": "PMC11167063",
+      "target": "CUSTOM:79024787",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "220",
+      "source": "PMC11167063",
+      "target": "CUSTOM:d7c0625e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "218",
+      "source": "PMC11167063",
+      "target": "CUSTOM:0af11be1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "216",
+      "source": "PMC11167063",
+      "target": "CUSTOM:02095d26",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "214",
+      "source": "PMC11167063",
+      "target": "CUSTOM:d64b79c5",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

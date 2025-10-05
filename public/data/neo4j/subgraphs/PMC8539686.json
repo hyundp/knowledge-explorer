@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC8539686",
+  "nodes": [
+    {
+      "fullLabel": "PMC8539686",
+      "id": "PMC8539686",
+      "label": "PMC8539686",
+      "properties": {
+        "pmcid": "PMC8539686",
+        "first_seen": "2025-10-05T07:29:04.497791",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.612124"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "plant pathogen virulence in space",
+      "id": "CUSTOM:65b80215",
+      "label": "plant pathogen vi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.613661",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "plant pathogen virulence in space",
+        "last_seen": "2025-10-05T07:29:04.613661",
+        "obo_id": "CUSTOM:65b80215"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "plant defense responses in space",
+      "id": "CUSTOM:f49af291",
+      "label": "plant defense res...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.609365",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "plant defense responses in space",
+        "last_seen": "2025-10-05T07:29:04.609365",
+        "obo_id": "CUSTOM:f49af291"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "enrichment of biological functions (transcription, cell wall modification, biotic interactions, heat shock responses)",
+      "id": "CUSTOM:d9bd33ed",
+      "label": "enrichment of bio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.604349",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "enrichment of biological functions (transcription, cell wall modification, biotic interactions, heat shock responses)",
+        "last_seen": "2025-10-05T07:29:04.604349",
+        "obo_id": "CUSTOM:d9bd33ed"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "patterns of gene expression",
+      "id": "CUSTOM:766dfbab",
+      "label": "patterns of gene ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.595890",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "patterns of gene expression",
+        "last_seen": "2025-10-05T07:29:04.595890",
+        "obo_id": "CUSTOM:766dfbab"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "gene expression response to a fractional gravity gradient",
+      "id": "CUSTOM:6707353f",
+      "label": "gene expression r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.591177",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "gene expression response to a fractional gravity gradient",
+        "last_seen": "2025-10-05T07:29:04.591177",
+        "obo_id": "CUSTOM:6707353f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "overlap_between_this_dataset_and_Villacampa_et_al_dataset",
+      "id": "CUSTOM:b8b3b7a5",
+      "label": "overlap_between_t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.567057",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "overlap_between_this_dataset_and_Villacampa_et_al_dataset",
+        "last_seen": "2025-10-05T07:29:04.567057",
+        "obo_id": "CUSTOM:b8b3b7a5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "genes_shared_with_genes_downregulated_at_low_g",
+      "id": "CUSTOM:124743ee",
+      "label": "genes_shared_with...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.561123",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "genes_shared_with_genes_downregulated_at_low_g",
+        "last_seen": "2025-10-05T07:29:04.561123",
+        "obo_id": "CUSTOM:124743ee"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "shared_transcription_factor_genes_between_this_study_and_Harranz_et_al",
+      "id": "CUSTOM:da8d2ef4",
+      "label": "shared_transcript...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.534298",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "shared_transcription_factor_genes_between_this_study_and_Harranz_et_al",
+        "last_seen": "2025-10-05T07:29:04.534298",
+        "obo_id": "CUSTOM:da8d2ef4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "number_of_common_genes_between_partial_g_experiments_and_our_dataset",
+      "id": "CUSTOM:02d2fc45",
+      "label": "number_of_common_...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.508452",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "number_of_common_genes_between_partial_g_experiments_and_our_dataset",
+        "last_seen": "2025-10-05T07:29:04.508452",
+        "obo_id": "CUSTOM:02d2fc45"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "comparability_between_experiments_due_to_differences_in_experimental_conditions",
+      "id": "CUSTOM:f3861012",
+      "label": "comparability_bet...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.503961",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "comparability_between_experiments_due_to_differences_in_experimental_conditions",
+        "last_seen": "2025-10-05T07:29:04.503961",
+        "obo_id": "CUSTOM:f3861012"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "g_level_range_overlap_between_plant_signaling_and_other_flight_experiments",
+      "id": "CUSTOM:12ec6940",
+      "label": "g_level_range_ove...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.499410",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "g_level_range_overlap_between_plant_signaling_and_other_flight_experiments",
+        "last_seen": "2025-10-05T07:29:04.499410",
+        "obo_id": "CUSTOM:12ec6940"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1320",
+      "source": "PMC8539686",
+      "target": "CUSTOM:65b80215",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1318",
+      "source": "PMC8539686",
+      "target": "CUSTOM:f49af291",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1316",
+      "source": "PMC8539686",
+      "target": "CUSTOM:d9bd33ed",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1314",
+      "source": "PMC8539686",
+      "target": "CUSTOM:766dfbab",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1312",
+      "source": "PMC8539686",
+      "target": "CUSTOM:6707353f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1310",
+      "source": "PMC8539686",
+      "target": "CUSTOM:b8b3b7a5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1308",
+      "source": "PMC8539686",
+      "target": "CUSTOM:124743ee",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1306",
+      "source": "PMC8539686",
+      "target": "CUSTOM:da8d2ef4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1304",
+      "source": "PMC8539686",
+      "target": "CUSTOM:02d2fc45",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1302",
+      "source": "PMC8539686",
+      "target": "CUSTOM:f3861012",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1300",
+      "source": "PMC8539686",
+      "target": "CUSTOM:12ec6940",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

@@ -1,0 +1,65 @@
+{
+  "pmcid": "PMC11477029",
+  "nodes": [
+    {
+      "fullLabel": "PMC11477029",
+      "id": "PMC11477029",
+      "label": "PMC11477029",
+      "properties": {
+        "pmcid": "PMC11477029",
+        "first_seen": "2025-10-05T07:29:09.473495",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:09.480727"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Direct effect of space radiation on reactivation of herpesviruses",
+      "id": "CUSTOM:01a87f20",
+      "label": "Direct effect of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.482942",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Direct effect of space radiation on reactivation of herpesviruses",
+        "last_seen": "2025-10-05T07:29:09.482942",
+        "obo_id": "CUSTOM:01a87f20"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Reactivation of herpesviruses from latency upon space travel",
+      "id": "CUSTOM:6e6820f2",
+      "label": "Reactivation of h...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.475905",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Reactivation of herpesviruses from latency upon space travel",
+        "last_seen": "2025-10-05T07:29:09.475905",
+        "obo_id": "CUSTOM:6e6820f2"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2820",
+      "source": "PMC11477029",
+      "target": "CUSTOM:01a87f20",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2818",
+      "source": "PMC11477029",
+      "target": "CUSTOM:6e6820f2",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 3,
+  "num_edges": 2
+}

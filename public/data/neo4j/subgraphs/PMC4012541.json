@@ -1,0 +1,65 @@
+{
+  "pmcid": "PMC4012541",
+  "nodes": [
+    {
+      "fullLabel": "PMC4012541",
+      "id": "PMC4012541",
+      "label": "PMC4012541",
+      "properties": {
+        "pmcid": "PMC4012541",
+        "first_seen": "2025-10-05T07:29:16.034530",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:16.041476"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "expression of mesenchymal and cytoskeletal genes",
+      "id": "CUSTOM:ddbfd04c",
+      "label": "expression of mes...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.059962",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "expression of mesenchymal and cytoskeletal genes",
+        "last_seen": "2025-10-05T07:29:16.059962",
+        "obo_id": "CUSTOM:ddbfd04c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "maintenance of differentiated hepatocyte functions",
+      "id": "CUSTOM:1c6a2f60",
+      "label": "maintenance of di...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.037013",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "maintenance of differentiated hepatocyte functions",
+        "last_seen": "2025-10-05T07:29:16.037013",
+        "obo_id": "CUSTOM:1c6a2f60"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4412",
+      "source": "PMC4012541",
+      "target": "CUSTOM:ddbfd04c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4410",
+      "source": "PMC4012541",
+      "target": "CUSTOM:1c6a2f60",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 3,
+  "num_edges": 2
+}

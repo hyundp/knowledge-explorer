@@ -1,0 +1,43 @@
+{
+  "pmcid": "PMC11953390",
+  "nodes": [
+    {
+      "fullLabel": "PMC11953390",
+      "id": "PMC11953390",
+      "label": "PMC11953390",
+      "properties": {
+        "pmcid": "PMC11953390",
+        "first_seen": "2025-10-05T07:29:04.277458",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.277458"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "CKD risk",
+      "id": "CUSTOM:f9d6249e",
+      "label": "CKD risk",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.299307",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CKD risk",
+        "last_seen": "2025-10-05T07:29:04.299307",
+        "obo_id": "CUSTOM:f9d6249e"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1226",
+      "source": "PMC11953390",
+      "target": "CUSTOM:f9d6249e",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 2,
+  "num_edges": 1
+}

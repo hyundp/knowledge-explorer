@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC7339929",
+  "nodes": [
+    {
+      "fullLabel": "PMC7339929",
+      "id": "PMC7339929",
+      "label": "PMC7339929",
+      "properties": {
+        "pmcid": "PMC7339929",
+        "first_seen": "2025-10-05T07:29:03.969225",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.991487"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Orthostatic intolerance following a return to Earth (conditional/speculative for humans)",
+      "id": "CUSTOM:3bfc8ace",
+      "label": "Orthostatic intol...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.992934",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Orthostatic intolerance following a return to Earth (conditional/speculative for humans)",
+        "last_seen": "2025-10-05T07:29:03.992934",
+        "obo_id": "CUSTOM:3bfc8ace"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Reduced vascular resistance following a return to Earth (conditional/speculative for humans)",
+      "id": "CUSTOM:eb8c2e1a",
+      "label": "Reduced vascular ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.989239",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Reduced vascular resistance following a return to Earth (conditional/speculative for humans)",
+        "last_seen": "2025-10-05T07:29:03.989239",
+        "obo_id": "CUSTOM:eb8c2e1a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Weaker arterial vasoconstriction during activation of the sympathetic nerves (conditional/speculative for humans)",
+      "id": "CUSTOM:53b8b109",
+      "label": "Weaker arterial v...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.985413",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Weaker arterial vasoconstriction during activation of the sympathetic nerves (conditional/speculative for humans)",
+        "last_seen": "2025-10-05T07:29:03.985413",
+        "obo_id": "CUSTOM:53b8b109"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Functional changes in the densely innervated cutaneous arteries governed by the effect of transmural pressure on periarterial sympathetic innervation",
+      "id": "CUSTOM:25682c40",
+      "label": "Functional change...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.981599",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Functional changes in the densely innervated cutaneous arteries governed by the effect of transmural pressure on periarterial sympathetic innervation",
+        "last_seen": "2025-10-05T07:29:03.981599",
+        "obo_id": "CUSTOM:25682c40"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Gross structural remodeling of sparsely innervated skeletal muscle arteries induced by direct effects of physical forces on smooth muscle or endothelial cells",
+      "id": "CUSTOM:03a9dc32",
+      "label": "Gross structural ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.977991",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Gross structural remodeling of sparsely innervated skeletal muscle arteries induced by direct effects of physical forces on smooth muscle or endothelial cells",
+        "last_seen": "2025-10-05T07:29:03.977991",
+        "obo_id": "CUSTOM:03a9dc32"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Functional alterations in the vasoconstrictor responses of sparsely innervated skeletal muscle arteries",
+      "id": "CUSTOM:300da077",
+      "label": "Functional altera...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.974178",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Functional alterations in the vasoconstrictor responses of sparsely innervated skeletal muscle arteries",
+        "last_seen": "2025-10-05T07:29:03.974178",
+        "obo_id": "CUSTOM:300da077"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Simulated microgravity differentially affects the skin and skeletal muscle arteries in the hindlimb",
+      "id": "CUSTOM:64af8cb4",
+      "label": "Simulated microgr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.970723",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Simulated microgravity differentially affects the skin and skeletal muscle arteries in the hindlimb",
+        "last_seen": "2025-10-05T07:29:03.970723",
+        "obo_id": "CUSTOM:64af8cb4"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1124",
+      "source": "PMC7339929",
+      "target": "CUSTOM:3bfc8ace",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1122",
+      "source": "PMC7339929",
+      "target": "CUSTOM:eb8c2e1a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1120",
+      "source": "PMC7339929",
+      "target": "CUSTOM:53b8b109",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1118",
+      "source": "PMC7339929",
+      "target": "CUSTOM:25682c40",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1116",
+      "source": "PMC7339929",
+      "target": "CUSTOM:03a9dc32",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1114",
+      "source": "PMC7339929",
+      "target": "CUSTOM:300da077",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1112",
+      "source": "PMC7339929",
+      "target": "CUSTOM:64af8cb4",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

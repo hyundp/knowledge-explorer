@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC11357997",
+  "nodes": [
+    {
+      "fullLabel": "PMC11357997",
+      "id": "PMC11357997",
+      "label": "PMC11357997",
+      "properties": {
+        "pmcid": "PMC11357997",
+        "first_seen": "2025-10-05T07:29:16.606429",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:16.659374"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "long-term management and envisioned use of participant consent/release forms, datasets and samples under oversight",
+      "id": "CUSTOM:43cd9f49",
+      "label": "long-term managem...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.661496",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "long-term management and envisioned use of participant consent/release forms, datasets and samples under oversight",
+        "last_seen": "2025-10-05T07:29:16.661496",
+        "obo_id": "CUSTOM:43cd9f49"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "data ingestion, cross-institute sharing and standardization for future cross-mission analyses and AI/ML use",
+      "id": "CUSTOM:1724f024",
+      "label": "data ingestion, c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.654856",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "data ingestion, cross-institute sharing and standardization for future cross-mission analyses and AI/ML use",
+        "last_seen": "2025-10-05T07:29:16.654856",
+        "obo_id": "CUSTOM:1724f024"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "simplicity of subject consenting",
+      "id": "CUSTOM:10f53903",
+      "label": "simplicity of sub...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.648393",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "simplicity of subject consenting",
+        "last_seen": "2025-10-05T07:29:16.648393",
+        "obo_id": "CUSTOM:10f53903"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "coordination among diverse research teams",
+      "id": "CUSTOM:2f40b8be",
+      "label": "coordination amon...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.641626",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "coordination among diverse research teams",
+        "last_seen": "2025-10-05T07:29:16.641626",
+        "obo_id": "CUSTOM:2f40b8be"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ability to delineate short and long term impacts of spaceflight through follow-up of the same astronauts on future missions and long term studies",
+      "id": "CUSTOM:a9ac6f37",
+      "label": "ability to deline...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.634522",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ability to delineate short and long term impacts of spaceflight through follow-up of the same astronauts on future missions and long term studies",
+        "last_seen": "2025-10-05T07:29:16.634522",
+        "obo_id": "CUSTOM:a9ac6f37"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "inclusion of telemedicine, autonomous data collection, and in-flight next generation sequencing based omics assays in future missions",
+      "id": "CUSTOM:f50ca605",
+      "label": "inclusion of tele...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.626868",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "inclusion of telemedicine, autonomous data collection, and in-flight next generation sequencing based omics assays in future missions",
+        "last_seen": "2025-10-05T07:29:16.626868",
+        "obo_id": "CUSTOM:f50ca605"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "value of the Inspiration4 dataset as a foundation for scaling and enhancing the knowledge base on early phases of space physiology",
+      "id": "CUSTOM:a01368a2",
+      "label": "value of the Insp...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.618548",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "value of the Inspiration4 dataset as a foundation for scaling and enhancing the knowledge base on early phases of space physiology",
+        "last_seen": "2025-10-05T07:29:16.618548",
+        "obo_id": "CUSTOM:a01368a2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ability to draw confident conclusions on many physiological variables",
+      "id": "CUSTOM:c4bc740b",
+      "label": "ability to draw c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.608749",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ability to draw confident conclusions on many physiological variables",
+        "last_seen": "2025-10-05T07:29:16.608749",
+        "obo_id": "CUSTOM:c4bc740b"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4570",
+      "source": "PMC11357997",
+      "target": "CUSTOM:43cd9f49",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4568",
+      "source": "PMC11357997",
+      "target": "CUSTOM:1724f024",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4566",
+      "source": "PMC11357997",
+      "target": "CUSTOM:10f53903",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4564",
+      "source": "PMC11357997",
+      "target": "CUSTOM:2f40b8be",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4562",
+      "source": "PMC11357997",
+      "target": "CUSTOM:a9ac6f37",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4560",
+      "source": "PMC11357997",
+      "target": "CUSTOM:f50ca605",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4558",
+      "source": "PMC11357997",
+      "target": "CUSTOM:a01368a2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4556",
+      "source": "PMC11357997",
+      "target": "CUSTOM:c4bc740b",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

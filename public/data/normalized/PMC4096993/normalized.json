@@ -1,0 +1,24 @@
+{
+  "pmcid": "PMC4096993",
+  "title": "Mimicking the host and its microenvironment in vitro for studying mucosal infections by Pseudomonas aeruginosa",
+  "authors": [
+    "Aurlie Crabb",
+    "Maria A Ledesma",
+    "Cheryl A Nickerson"
+  ],
+  "year": "2014",
+  "journal": "Pathogens and disease",
+  "doi": "10.1111/2049 632X.12180",
+  "sections": {
+    "abstract": "Why is a healthy person protected fromPseudomonas aeruginosainfections, while individuals with cystic fibrosis or damaged epithelium are particularly susceptible to this opportunistic pathogen? In order to address this question, it is essential to thoroughly understand the dynamic interplay between the host microenvironment andP. aeruginosa. Therefore, using modeI systems that represent key aspects of human mucosal tissues in health and disease allows recreatingin vivohost pathogen interactions in a physiologically relevant manner. In this review, we discuss how factors of mucosal tissues, such as apical basolateral polarity, junctional complexes, extracellular matrix proteins, mucus, multicellular complexity (including indigenous microbiota), and other physicochemical factors affectP. aeruginosapathogenesis and are thus important to mimicin vitro. We highlightin vitrocell and tissue culture model systems of increasing complexity that have been used over the past 35 years to study the infectious disease process ofP. aeruginosa, mainly focusing on lung models, and their respective advantages and limitations. Continued improvements ofin vitromodels based on our expanding knowledge of host microenvironmental factors that participate inP. aeruginosapathogenesis will help advance fundamental understanding of pathogenic mechanisms and increase the translational potential of research findings from bench to the patient's bedside.",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "In vitro cell culture models have layed the foundation for various novel antimicrobial approaches, of which some were tested in the clinic ( Kohler, et al. , 2010 , Hoiby, 2011 , Doring, et al. , 2012 ). However, most of these new approaches against P. aeruginosa have failed during clinical trials, hereby reiterating the complexity of host physiology in health and disease. This reality emphasizes the need to develop and focus research efforts towards more differentiated physiologically relevant cell culture models. Appropriately representing the human host in a cell culture model is essential to capture complex reciprocal and dynamic interactions between the host, its microenvironment, and the pathogen, which govern the outcome of the infection process. With regard to in vitro cell culture models for studying P. aeruginosa pathogenesis, areas that need improvement include (i) enhancing host cell viability upon P. aeruginosa infection (especially in the context of chronic biofilm and adaptation studies), (ii) increasing the multicellular complexity (including immune cells and members of the indigenous microbiota), (iii) incorporating relevant ECM proteins, (iv) reconciling paracrine, endocrine and cellular factors, and (v) integrating physical forces to mimic multi organ signaling and interactions that naturally occur within the context of the specific tissue microenvironment of interest. On the other hand, researchers currently have state of the art, simplified models available that mimic the minimal functional unit of the differentiated tissue in vivo and remain to be fully explored for P. aeruginosa pathogenesis and drug design. In this regard, detailed knowledge of the in vivo characteristics of a given in vitro model is key to understanding whether a specific model system is suitable to answer the experimental question being asked, and to accurately understand the data gathered and extrapolate these to the in vivo disease process. With our continuously expanding understanding of the host microenvironmental factors that contribute to disease by P. aeruginosa , and our knowledge database and bioengineering abilities, in vitro model systems can and will continue to be improved to reconcile more physiological traits. Hence, antimicrobial therapies can be designed that are effective against the host associated P. aeruginosa phenotype, and function in the unique, and sometimes chemically challenging in vivo conditions. Applying these valuable in vitro platforms to study P. aeruginosa pathogenesis will increase the translation of research findings from bench to clinic."
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:05:15.817230",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4096993/"
+  }
+}

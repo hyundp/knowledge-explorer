@@ -1,0 +1,241 @@
+{
+  "pmcid": "PMC7072278",
+  "nodes": [
+    {
+      "fullLabel": "PMC7072278",
+      "id": "PMC7072278",
+      "label": "PMC7072278",
+      "properties": {
+        "pmcid": "PMC7072278",
+        "first_seen": "2025-10-05T07:29:07.894508",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:07.962311"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "comprehensiveness of analysis of significantly impacted biological factors",
+      "id": "CUSTOM:422065ef",
+      "label": "comprehensiveness...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.964121",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "comprehensiveness of analysis of significantly impacted biological factors",
+        "last_seen": "2025-10-05T07:29:07.964121",
+        "obo_id": "CUSTOM:422065ef"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "dose-dependent perturbations of cellular function",
+      "id": "CUSTOM:8f7209fe",
+      "label": "dose-dependent pe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.958593",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "dose-dependent perturbations of cellular function",
+        "last_seen": "2025-10-05T07:29:07.958593",
+        "obo_id": "CUSTOM:8f7209fe"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Involvement of the identified pathways in GSEA analysis as a function of dose",
+      "id": "CUSTOM:a5dc271f",
+      "label": "Involvement of th...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.953843",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Involvement of the identified pathways in GSEA analysis as a function of dose",
+        "last_seen": "2025-10-05T07:29:07.953843",
+        "obo_id": "CUSTOM:a5dc271f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Association of the nine common genes with specific pathways and predicted functions",
+      "id": "CUSTOM:96eca56a",
+      "label": "Association of th...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.949116",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Association of the nine common genes with specific pathways and predicted functions",
+        "last_seen": "2025-10-05T07:29:07.949116",
+        "obo_id": "CUSTOM:96eca56a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Differential expression of a subset of nine genes in muscle tissue datasets",
+      "id": "CUSTOM:3e5cfaa7",
+      "label": "Differential expr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.943654",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Differential expression of a subset of nine genes in muscle tissue datasets",
+        "last_seen": "2025-10-05T07:29:07.943654",
+        "obo_id": "CUSTOM:3e5cfaa7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression fluctuations of the identified gene sets in spaceflight-only studies",
+      "id": "CUSTOM:7d644b45",
+      "label": "Expression fluctu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.937886",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression fluctuations of the identified gene sets in spaceflight-only studies",
+        "last_seen": "2025-10-05T07:29:07.937886",
+        "obo_id": "CUSTOM:7d644b45"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression deviation of the nine common genes at higher doses",
+      "id": "CUSTOM:3b099640",
+      "label": "Expression deviat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.912996",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression deviation of the nine common genes at higher doses",
+        "last_seen": "2025-10-05T07:29:07.912996",
+        "obo_id": "CUSTOM:3b099640"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of nine common genes (COPB2, UBE2D3, LYPLA2, ARF1, COPB1, CAPNS1, PHB2, DAD1, PRPF8) across spaceflight missions and ground studies",
+      "id": "CUSTOM:7b365934",
+      "label": "Expression of nin...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.907289",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of nine common genes (COPB2, UBE2D3, LYPLA2, ARF1, COPB1, CAPNS1, PHB2, DAD1, PRPF8) across spaceflight missions and ground studies",
+        "last_seen": "2025-10-05T07:29:07.907289",
+        "obo_id": "CUSTOM:7b365934"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Activation (expression) of oncogene MYC",
+      "id": "CUSTOM:91d98981",
+      "label": "Activation (expre...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.901786",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Activation (expression) of oncogene MYC",
+        "last_seen": "2025-10-05T07:29:07.901786",
+        "obo_id": "CUSTOM:91d98981"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of a cluster associated with TBK1",
+      "id": "CUSTOM:9abcecc4",
+      "label": "Expression of a c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.896502",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of a cluster associated with TBK1",
+        "last_seen": "2025-10-05T07:29:07.896502",
+        "obo_id": "CUSTOM:9abcecc4"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2386",
+      "source": "PMC7072278",
+      "target": "CUSTOM:422065ef",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2384",
+      "source": "PMC7072278",
+      "target": "CUSTOM:8f7209fe",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2382",
+      "source": "PMC7072278",
+      "target": "CUSTOM:a5dc271f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2380",
+      "source": "PMC7072278",
+      "target": "CUSTOM:96eca56a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2378",
+      "source": "PMC7072278",
+      "target": "CUSTOM:3e5cfaa7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2376",
+      "source": "PMC7072278",
+      "target": "CUSTOM:7d644b45",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2374",
+      "source": "PMC7072278",
+      "target": "CUSTOM:3b099640",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2372",
+      "source": "PMC7072278",
+      "target": "CUSTOM:7b365934",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2370",
+      "source": "PMC7072278",
+      "target": "CUSTOM:91d98981",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2368",
+      "source": "PMC7072278",
+      "target": "CUSTOM:9abcecc4",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 11,
+  "num_edges": 10
+}

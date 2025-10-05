@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC3570223",
+  "nodes": [
+    {
+      "fullLabel": "PMC3570223",
+      "id": "PMC3570223",
+      "label": "PMC3570223",
+      "properties": {
+        "pmcid": "PMC3570223",
+        "first_seen": "2025-10-05T07:29:14.316320",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:14.379567"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "direct gravitational effects on bone marrow cells",
+      "id": "CUSTOM:72b8039d",
+      "label": "direct gravitatio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.381917",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "direct gravitational effects on bone marrow cells",
+        "last_seen": "2025-10-05T07:29:14.381917",
+        "obo_id": "CUSTOM:72b8039d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "changes in bone marrow subpopulations",
+      "id": "CUSTOM:13b81daf",
+      "label": "changes in bone m...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.374532",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "changes in bone marrow subpopulations",
+        "last_seen": "2025-10-05T07:29:14.374532",
+        "obo_id": "CUSTOM:13b81daf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "surface expression of the receptor for M CSF",
+      "id": "CUSTOM:39fdfd32",
+      "label": "surface expressio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.365213",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "surface expression of the receptor for M CSF",
+        "last_seen": "2025-10-05T07:29:14.365213",
+        "obo_id": "CUSTOM:39fdfd32"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "differences in gene expression",
+      "id": "CUSTOM:0f8c911e",
+      "label": "differences in ge...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.352128",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "differences in gene expression",
+        "last_seen": "2025-10-05T07:29:14.352128",
+        "obo_id": "CUSTOM:0f8c911e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "pattern of expression of cell surface differentiation antigens",
+      "id": "CUSTOM:2fadc12b",
+      "label": "pattern of expres...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.341756",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "pattern of expression of cell surface differentiation antigens",
+        "last_seen": "2025-10-05T07:29:14.341756",
+        "obo_id": "CUSTOM:2fadc12b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cell proliferation",
+      "id": "CUSTOM:0a8e5003",
+      "label": "cell proliferation",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.330425",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cell proliferation",
+        "last_seen": "2025-10-05T07:29:14.330425",
+        "obo_id": "CUSTOM:0a8e5003"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "impact on murine bone marrow macrophages in vitro",
+      "id": "CUSTOM:43c83468",
+      "label": "impact on murine ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.319691",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "impact on murine bone marrow macrophages in vitro",
+        "last_seen": "2025-10-05T07:29:14.319691",
+        "obo_id": "CUSTOM:43c83468"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4044",
+      "source": "PMC3570223",
+      "target": "CUSTOM:72b8039d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4042",
+      "source": "PMC3570223",
+      "target": "CUSTOM:13b81daf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4040",
+      "source": "PMC3570223",
+      "target": "CUSTOM:39fdfd32",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4038",
+      "source": "PMC3570223",
+      "target": "CUSTOM:0f8c911e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4036",
+      "source": "PMC3570223",
+      "target": "CUSTOM:2fadc12b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4034",
+      "source": "PMC3570223",
+      "target": "CUSTOM:0a8e5003",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4032",
+      "source": "PMC3570223",
+      "target": "CUSTOM:43c83468",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

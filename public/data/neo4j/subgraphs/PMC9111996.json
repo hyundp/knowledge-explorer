@@ -1,0 +1,285 @@
+{
+  "pmcid": "PMC9111996",
+  "nodes": [
+    {
+      "fullLabel": "PMC9111996",
+      "id": "PMC9111996",
+      "label": "PMC9111996",
+      "properties": {
+        "pmcid": "PMC9111996",
+        "first_seen": "2025-10-05T07:29:12.006297",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:12.090181"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Suppression of asnB overexpression and correlation with increased host survival when relevant amino acids are absent from growth media",
+      "id": "CUSTOM:a3d9ad21",
+      "label": "Suppression of as...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.092398",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Suppression of asnB overexpression and correlation with increased host survival when relevant amino acids are absent from growth media",
+        "last_seen": "2025-10-05T07:29:12.092398",
+        "obo_id": "CUSTOM:a3d9ad21"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Overexpression of some L-asparaginase subunits when asnB is overexpressed in presence of aspartate and glutamine",
+      "id": "CUSTOM:47cfb436",
+      "label": "Overexpression of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.085375",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Overexpression of some L-asparaginase subunits when asnB is overexpressed in presence of aspartate and glutamine",
+        "last_seen": "2025-10-05T07:29:12.085375",
+        "obo_id": "CUSTOM:47cfb436"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Maximal increase in host lethality (mortality) requires both aspartate and glutamine present during bacterial growth",
+      "id": "CUSTOM:e8983196",
+      "label": "Maximal increase ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.078452",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Maximal increase in host lethality (mortality) requires both aspartate and glutamine present during bacterial growth",
+        "last_seen": "2025-10-05T07:29:12.078452",
+        "obo_id": "CUSTOM:e8983196"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "In vitro growth of S. marcescens in nutrient limited media with aspartate alone under LSMMG",
+      "id": "CUSTOM:53f5aad7",
+      "label": "In vitro growth o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.071868",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "In vitro growth of S. marcescens in nutrient limited media with aspartate alone under LSMMG",
+        "last_seen": "2025-10-05T07:29:12.071868",
+        "obo_id": "CUSTOM:53f5aad7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "asnB gene expression in minimal (nutrient limited) media when both aspartate and glutamine are present",
+      "id": "CUSTOM:5908cc39",
+      "label": "asnB gene express...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.065133",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "asnB gene expression in minimal (nutrient limited) media when both aspartate and glutamine are present",
+        "last_seen": "2025-10-05T07:29:12.065133",
+        "obo_id": "CUSTOM:5908cc39"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Host survival when co-infected with LSMMG-reared S. marcescens and exogenous purified L-asparaginase",
+      "id": "CUSTOM:d114eb08",
+      "label": "Host survival whe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.058327",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Host survival when co-infected with LSMMG-reared S. marcescens and exogenous purified L-asparaginase",
+        "last_seen": "2025-10-05T07:29:12.058327",
+        "obo_id": "CUSTOM:d114eb08"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Suppression of S. marcescens growth by exogenous L-asparaginase in growth medium",
+      "id": "CUSTOM:d96ea329",
+      "label": "Suppression of S....",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.051353",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Suppression of S. marcescens growth by exogenous L-asparaginase in growth medium",
+        "last_seen": "2025-10-05T07:29:12.051353",
+        "obo_id": "CUSTOM:d96ea329"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Consumption rate of extracellular glutamine in rich media by S. marcescens",
+      "id": "CUSTOM:ebde5d22",
+      "label": "Consumption rate ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.044381",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Consumption rate of extracellular glutamine in rich media by S. marcescens",
+        "last_seen": "2025-10-05T07:29:12.044381",
+        "obo_id": "CUSTOM:ebde5d22"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Consumption rate of extracellular asparagine in rich media by S. marcescens",
+      "id": "CUSTOM:bae0069a",
+      "label": "Consumption rate ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.035860",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Consumption rate of extracellular asparagine in rich media by S. marcescens",
+        "last_seen": "2025-10-05T07:29:12.035860",
+        "obo_id": "CUSTOM:bae0069a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "In vivo growth of S. marcescens after infection",
+      "id": "CUSTOM:ed45b6b2",
+      "label": "In vivo growth of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.028181",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "In vivo growth of S. marcescens after infection",
+        "last_seen": "2025-10-05T07:29:12.028181",
+        "obo_id": "CUSTOM:ed45b6b2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Host mortality (rate of host death) after infection with S. marcescens grown in LSMMG",
+      "id": "CUSTOM:d70dc037",
+      "label": "Host mortality (r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.019467",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Host mortality (rate of host death) after infection with S. marcescens grown in LSMMG",
+        "last_seen": "2025-10-05T07:29:12.019467",
+        "obo_id": "CUSTOM:d70dc037"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of asparagine synthetase B (asnB) in Serratia marcescens",
+      "id": "CUSTOM:97ec7c87",
+      "label": "Expression of asp...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.008500",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of asparagine synthetase B (asnB) in Serratia marcescens",
+        "last_seen": "2025-10-05T07:29:12.008500",
+        "obo_id": "CUSTOM:97ec7c87"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3486",
+      "source": "PMC9111996",
+      "target": "CUSTOM:a3d9ad21",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3484",
+      "source": "PMC9111996",
+      "target": "CUSTOM:47cfb436",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3482",
+      "source": "PMC9111996",
+      "target": "CUSTOM:e8983196",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3480",
+      "source": "PMC9111996",
+      "target": "CUSTOM:53f5aad7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3478",
+      "source": "PMC9111996",
+      "target": "CUSTOM:5908cc39",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3476",
+      "source": "PMC9111996",
+      "target": "CUSTOM:d114eb08",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3474",
+      "source": "PMC9111996",
+      "target": "CUSTOM:d96ea329",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3472",
+      "source": "PMC9111996",
+      "target": "CUSTOM:ebde5d22",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3470",
+      "source": "PMC9111996",
+      "target": "CUSTOM:bae0069a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3468",
+      "source": "PMC9111996",
+      "target": "CUSTOM:ed45b6b2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3466",
+      "source": "PMC9111996",
+      "target": "CUSTOM:d70dc037",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3464",
+      "source": "PMC9111996",
+      "target": "CUSTOM:97ec7c87",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 13,
+  "num_edges": 12
+}

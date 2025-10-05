@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC9605285",
+  "nodes": [
+    {
+      "fullLabel": "PMC9605285",
+      "id": "PMC9605285",
+      "label": "PMC9605285",
+      "properties": {
+        "pmcid": "PMC9605285",
+        "first_seen": "2025-10-05T07:29:01.389984",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.424310"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "responses of various mutants to the space environment",
+      "id": "CUSTOM:c3b4d318",
+      "label": "responses of vari...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.426384",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "responses of various mutants to the space environment",
+        "last_seen": "2025-10-05T07:29:01.426384",
+        "obo_id": "CUSTOM:c3b4d318"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "gravitropic orientation of roots",
+      "id": "CUSTOM:e9517e2f",
+      "label": "gravitropic orien...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.420656",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "gravitropic orientation of roots",
+        "last_seen": "2025-10-05T07:29:01.420656",
+        "obo_id": "CUSTOM:e9517e2f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "transcriptomic responses",
+      "id": "CUSTOM:92c55619",
+      "label": "transcriptomic re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.416593",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "transcriptomic responses",
+        "last_seen": "2025-10-05T07:29:01.416593",
+        "obo_id": "CUSTOM:92c55619"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adverse effects of altered gravity (on plants)",
+      "id": "CUSTOM:b7774abe",
+      "label": "adverse effects o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.411664",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adverse effects of altered gravity (on plants)",
+        "last_seen": "2025-10-05T07:29:01.411664",
+        "obo_id": "CUSTOM:b7774abe"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "phototropism induced by red and blue light illumination",
+      "id": "CUSTOM:75b20730",
+      "label": "phototropism indu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.391532",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "phototropism induced by red and blue light illumination",
+        "last_seen": "2025-10-05T07:29:01.391532",
+        "obo_id": "CUSTOM:75b20730"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "234",
+      "source": "PMC9605285",
+      "target": "CUSTOM:c3b4d318",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "232",
+      "source": "PMC9605285",
+      "target": "CUSTOM:e9517e2f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "230",
+      "source": "PMC9605285",
+      "target": "CUSTOM:92c55619",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "228",
+      "source": "PMC9605285",
+      "target": "CUSTOM:b7774abe",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "226",
+      "source": "PMC9605285",
+      "target": "CUSTOM:75b20730",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

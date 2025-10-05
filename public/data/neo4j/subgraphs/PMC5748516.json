@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC5748516",
+  "nodes": [
+    {
+      "fullLabel": "PMC5748516",
+      "id": "PMC5748516",
+      "label": "PMC5748516",
+      "properties": {
+        "pmcid": "PMC5748516",
+        "first_seen": "2025-10-05T07:29:12.961632",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:12.992710"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "red light phototropic response of hypocotyls in microgravity",
+      "id": "CUSTOM:64cd6277",
+      "label": "red light phototr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.996307",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "red light phototropic response of hypocotyls in microgravity",
+        "last_seen": "2025-10-05T07:29:12.996307",
+        "obo_id": "CUSTOM:64cd6277"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "magnitude of positive phototropic curvature in roots under blue light",
+      "id": "CUSTOM:44af3e4f",
+      "label": "magnitude of posi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.984796",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "magnitude of positive phototropic curvature in roots under blue light",
+        "last_seen": "2025-10-05T07:29:12.984796",
+        "obo_id": "CUSTOM:44af3e4f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "magnitude of positive phototropic curvature in roots under red light",
+      "id": "CUSTOM:efde7618",
+      "label": "magnitude of posi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.975274",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "magnitude of positive phototropic curvature in roots under red light",
+        "last_seen": "2025-10-05T07:29:12.975274",
+        "obo_id": "CUSTOM:efde7618"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "blue light phototropism in roots",
+      "id": "CUSTOM:cc98b618",
+      "label": "blue light photot...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.965769",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "blue light phototropism in roots",
+        "last_seen": "2025-10-05T07:29:12.965769",
+        "obo_id": "CUSTOM:cc98b618"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3688",
+      "source": "PMC5748516",
+      "target": "CUSTOM:64cd6277",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3686",
+      "source": "PMC5748516",
+      "target": "CUSTOM:44af3e4f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3684",
+      "source": "PMC5748516",
+      "target": "CUSTOM:efde7618",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3682",
+      "source": "PMC5748516",
+      "target": "CUSTOM:cc98b618",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

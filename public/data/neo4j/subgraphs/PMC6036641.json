@@ -1,0 +1,241 @@
+{
+  "pmcid": "PMC6036641",
+  "nodes": [
+    {
+      "fullLabel": "PMC6036641",
+      "id": "PMC6036641",
+      "label": "PMC6036641",
+      "properties": {
+        "pmcid": "PMC6036641",
+        "first_seen": "2025-10-05T07:29:07.161745",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:07.217594"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "identification of patients at highest risk for skeletal complications following SBRT",
+      "id": "CUSTOM:bcca5034",
+      "label": "identification of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.219949",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "identification of patients at highest risk for skeletal complications following SBRT",
+        "last_seen": "2025-10-05T07:29:07.219949",
+        "obo_id": "CUSTOM:bcca5034"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "radiation therapy induced fractures (prevention)",
+      "id": "CUSTOM:92fc140a",
+      "label": "radiation therapy...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.212411",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "radiation therapy induced fractures (prevention)",
+        "last_seen": "2025-10-05T07:29:07.212411",
+        "obo_id": "CUSTOM:92fc140a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "bone radioprotection (degree of)",
+      "id": "CUSTOM:4f664b42",
+      "label": "bone radioprotect...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.206711",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "bone radioprotection (degree of)",
+        "last_seen": "2025-10-05T07:29:07.206711",
+        "obo_id": "CUSTOM:4f664b42"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "rates of later fractures",
+      "id": "CUSTOM:35b4bb22",
+      "label": "rates of later fr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.200850",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "rates of later fractures",
+        "last_seen": "2025-10-05T07:29:07.200850",
+        "obo_id": "CUSTOM:35b4bb22"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "risk of progression or development of fractures",
+      "id": "CUSTOM:b0ac6396",
+      "label": "risk of progressi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.194926",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "risk of progression or development of fractures",
+        "last_seen": "2025-10-05T07:29:07.194926",
+        "obo_id": "CUSTOM:b0ac6396"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "osteoclast activity",
+      "id": "CUSTOM:2657dcd8",
+      "label": "osteoclast activity",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.187654",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "osteoclast activity",
+        "last_seen": "2025-10-05T07:29:07.187654",
+        "obo_id": "CUSTOM:2657dcd8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "radiation-induced bone changes (dependence)",
+      "id": "CUSTOM:f4e4c974",
+      "label": "radiation-induced...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.181066",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "radiation-induced bone changes (dependence)",
+        "last_seen": "2025-10-05T07:29:07.181066",
+        "obo_id": "CUSTOM:f4e4c974"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "radiation sensitivity",
+      "id": "CUSTOM:e25162cd",
+      "label": "radiation sensiti...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.175130",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "radiation sensitivity",
+        "last_seen": "2025-10-05T07:29:07.175130",
+        "obo_id": "CUSTOM:e25162cd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "bone mineral density (BMD)",
+      "id": "CUSTOM:385a7fc7",
+      "label": "bone mineral dens...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.169260",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "bone mineral density (BMD)",
+        "last_seen": "2025-10-05T07:29:07.169260",
+        "obo_id": "CUSTOM:385a7fc7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cortical thickness (cortical thinning)",
+      "id": "CUSTOM:ceeb7b9c",
+      "label": "cortical thicknes...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.163781",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cortical thickness (cortical thinning)",
+        "last_seen": "2025-10-05T07:29:07.163781",
+        "obo_id": "CUSTOM:ceeb7b9c"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2166",
+      "source": "PMC6036641",
+      "target": "CUSTOM:bcca5034",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2164",
+      "source": "PMC6036641",
+      "target": "CUSTOM:92fc140a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2162",
+      "source": "PMC6036641",
+      "target": "CUSTOM:4f664b42",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2160",
+      "source": "PMC6036641",
+      "target": "CUSTOM:35b4bb22",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2158",
+      "source": "PMC6036641",
+      "target": "CUSTOM:b0ac6396",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2156",
+      "source": "PMC6036641",
+      "target": "CUSTOM:2657dcd8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2154",
+      "source": "PMC6036641",
+      "target": "CUSTOM:f4e4c974",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2152",
+      "source": "PMC6036641",
+      "target": "CUSTOM:e25162cd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2150",
+      "source": "PMC6036641",
+      "target": "CUSTOM:385a7fc7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2148",
+      "source": "PMC6036641",
+      "target": "CUSTOM:ceeb7b9c",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 11,
+  "num_edges": 10
+}

@@ -1,0 +1,373 @@
+{
+  "pmcid": "PMC4378170",
+  "nodes": [
+    {
+      "fullLabel": "PMC4378170",
+      "id": "PMC4378170",
+      "label": "PMC4378170",
+      "properties": {
+        "pmcid": "PMC4378170",
+        "first_seen": "2025-10-05T07:29:10.766742",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:10.885222"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "altering wall structure affects numerous aspects of plant life",
+      "id": "CUSTOM:0edfee5e",
+      "label": "altering wall str...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.888407",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "altering wall structure affects numerous aspects of plant life",
+        "last_seen": "2025-10-05T07:29:10.888407",
+        "obo_id": "CUSTOM:0edfee5e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "altered growth and altered responses to temperature, pathogens, and salt stress in the mur3 family of mutants",
+      "id": "CUSTOM:2610bd8b",
+      "label": "altered growth an...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.879496",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "altered growth and altered responses to temperature, pathogens, and salt stress in the mur3 family of mutants",
+        "last_seen": "2025-10-05T07:29:10.879496",
+        "obo_id": "CUSTOM:2610bd8b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "near normal growth restored by increasing extent of xyloglucan galactosylation",
+      "id": "CUSTOM:91ae177c",
+      "label": "near normal growt...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.872718",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "near normal growth restored by increasing extent of xyloglucan galactosylation",
+        "last_seen": "2025-10-05T07:29:10.872718",
+        "obo_id": "CUSTOM:91ae177c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "near normal growth restored by eliminating xyloglucan",
+      "id": "CUSTOM:d0f00893",
+      "label": "near normal growt...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.866070",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "near normal growth restored by eliminating xyloglucan",
+        "last_seen": "2025-10-05T07:29:10.866070",
+        "obo_id": "CUSTOM:d0f00893"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "dysfunctional xyloglucan structure leading to numerous growth defects",
+      "id": "CUSTOM:5c40eaac",
+      "label": "dysfunctional xyl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.860277",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "dysfunctional xyloglucan structure leading to numerous growth defects",
+        "last_seen": "2025-10-05T07:29:10.860277",
+        "obo_id": "CUSTOM:5c40eaac"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "xyloglucan contains much less galactosylated Xyl than wild type xyloglucan",
+      "id": "CUSTOM:1b5fbf44",
+      "label": "xyloglucan contai...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.853873",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "xyloglucan contains much less galactosylated Xyl than wild type xyloglucan",
+        "last_seen": "2025-10-05T07:29:10.853873",
+        "obo_id": "CUSTOM:1b5fbf44"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "xyloglucan lacks F side chains",
+      "id": "CUSTOM:4e3ca91d",
+      "label": "xyloglucan lacks ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.846596",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "xyloglucan lacks F side chains",
+        "last_seen": "2025-10-05T07:29:10.846596",
+        "obo_id": "CUSTOM:4e3ca91d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Proportion of unsubstituted XXXG in xyloglucan produced by xxt2 mur3-3 and xxt5 mur3-3 double mutants",
+      "id": "CUSTOM:0e39a654",
+      "label": "Proportion of uns...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.838469",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Proportion of unsubstituted XXXG in xyloglucan produced by xxt2 mur3-3 and xxt5 mur3-3 double mutants",
+        "last_seen": "2025-10-05T07:29:10.838469",
+        "obo_id": "CUSTOM:0e39a654"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "xxt2 mur3-3 and xxt5 mur3-3 double mutants morphology",
+      "id": "CUSTOM:a91740a1",
+      "label": "xxt2 mur3-3 and x...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.810430",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "xxt2 mur3-3 and xxt5 mur3-3 double mutants morphology",
+        "last_seen": "2025-10-05T07:29:10.810430",
+        "obo_id": "CUSTOM:a91740a1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Suppression of mur3-3 phenotypes by elimination of XXT2 or XXT5",
+      "id": "CUSTOM:1fb4979c",
+      "label": "Suppression of mu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.804047",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Suppression of mur3-3 phenotypes by elimination of XXT2 or XXT5",
+        "last_seen": "2025-10-05T07:29:10.804047",
+        "obo_id": "CUSTOM:1fb4979c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability of XLT2 to replace MUR3 when expressed at normal levels",
+      "id": "CUSTOM:62ece5fb",
+      "label": "Ability of XLT2 t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.798101",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability of XLT2 to replace MUR3 when expressed at normal levels",
+        "last_seen": "2025-10-05T07:29:10.798101",
+        "obo_id": "CUSTOM:62ece5fb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Amino acid sequence identity between XLT2 and MUR3",
+      "id": "CUSTOM:571071aa",
+      "label": "Amino acid sequen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.792682",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Amino acid sequence identity between XLT2 and MUR3",
+        "last_seen": "2025-10-05T07:29:10.792682",
+        "obo_id": "CUSTOM:571071aa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mur3-1 and mur3-2 mutants are cabbage-like (absence)",
+      "id": "CUSTOM:28ba28e5",
+      "label": "mur3-1 and mur3-2...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.787550",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mur3-1 and mur3-2 mutants are cabbage-like (absence)",
+        "last_seen": "2025-10-05T07:29:10.787550",
+        "obo_id": "CUSTOM:28ba28e5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Growth defects of plants carrying loss of function mutations in MUR3",
+      "id": "CUSTOM:0da5bc52",
+      "label": "Growth defects of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.781845",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Growth defects of plants carrying loss of function mutations in MUR3",
+        "last_seen": "2025-10-05T07:29:10.781845",
+        "obo_id": "CUSTOM:0da5bc52"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of the gene encoding the wall associated kinase WAK1",
+      "id": "CUSTOM:d3fcc895",
+      "label": "Expression of the...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.776434",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of the gene encoding the wall associated kinase WAK1",
+        "last_seen": "2025-10-05T07:29:10.776434",
+        "obo_id": "CUSTOM:d3fcc895"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Reduced susceptibility of xyloglucan (XyG) to XTH",
+      "id": "CUSTOM:9db22c14",
+      "label": "Reduced susceptib...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.769396",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Reduced susceptibility of xyloglucan (XyG) to XTH",
+        "last_seen": "2025-10-05T07:29:10.769396",
+        "obo_id": "CUSTOM:9db22c14"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3170",
+      "source": "PMC4378170",
+      "target": "CUSTOM:0edfee5e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3168",
+      "source": "PMC4378170",
+      "target": "CUSTOM:2610bd8b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3166",
+      "source": "PMC4378170",
+      "target": "CUSTOM:91ae177c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3164",
+      "source": "PMC4378170",
+      "target": "CUSTOM:d0f00893",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3162",
+      "source": "PMC4378170",
+      "target": "CUSTOM:5c40eaac",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3160",
+      "source": "PMC4378170",
+      "target": "CUSTOM:1b5fbf44",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3158",
+      "source": "PMC4378170",
+      "target": "CUSTOM:4e3ca91d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3156",
+      "source": "PMC4378170",
+      "target": "CUSTOM:0e39a654",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3154",
+      "source": "PMC4378170",
+      "target": "CUSTOM:a91740a1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3152",
+      "source": "PMC4378170",
+      "target": "CUSTOM:1fb4979c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3150",
+      "source": "PMC4378170",
+      "target": "CUSTOM:62ece5fb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3148",
+      "source": "PMC4378170",
+      "target": "CUSTOM:571071aa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3146",
+      "source": "PMC4378170",
+      "target": "CUSTOM:28ba28e5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3144",
+      "source": "PMC4378170",
+      "target": "CUSTOM:0da5bc52",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3142",
+      "source": "PMC4378170",
+      "target": "CUSTOM:d3fcc895",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3140",
+      "source": "PMC4378170",
+      "target": "CUSTOM:9db22c14",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 17,
+  "num_edges": 16
+}

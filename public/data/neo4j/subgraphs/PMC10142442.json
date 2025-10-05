@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC10142442",
+  "nodes": [
+    {
+      "fullLabel": "PMC10142442",
+      "id": "PMC10142442",
+      "label": "PMC10142442",
+      "properties": {
+        "pmcid": "PMC10142442",
+        "first_seen": "2025-10-05T07:29:03.759120",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.777145"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Inhibitory potential of high molecular weight structures derived from PpFucCS",
+      "id": "CUSTOM:2b05de42",
+      "label": "Inhibitory potent...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.778697",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Inhibitory potential of high molecular weight structures derived from PpFucCS",
+        "last_seen": "2025-10-05T07:29:03.778697",
+        "obo_id": "CUSTOM:2b05de42"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Anti-HCMV activity as a function of PpFucCS molecular weight",
+      "id": "CUSTOM:4612cc99",
+      "label": "Anti-HCMV activit...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.774030",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Anti-HCMV activity as a function of PpFucCS molecular weight",
+        "last_seen": "2025-10-05T07:29:03.774030",
+        "obo_id": "CUSTOM:4612cc99"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Structural integrity of depolymerized PpFucCS oligosaccharides relative to native PpFucCS",
+      "id": "CUSTOM:de3b4bdd",
+      "label": "Structural integr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.769229",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Structural integrity of depolymerized PpFucCS oligosaccharides relative to native PpFucCS",
+        "last_seen": "2025-10-05T07:29:03.769229",
+        "obo_id": "CUSTOM:de3b4bdd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Chain length of PpFucCS oligosaccharides after depolymerization",
+      "id": "CUSTOM:ea2936e5",
+      "label": "Chain length of P...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.764774",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Chain length of PpFucCS oligosaccharides after depolymerization",
+        "last_seen": "2025-10-05T07:29:03.764774",
+        "obo_id": "CUSTOM:ea2936e5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Antiviral activity of PpFucCS against HCMV",
+      "id": "CUSTOM:c38a1c0d",
+      "label": "Antiviral activit...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.760794",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Antiviral activity of PpFucCS against HCMV",
+        "last_seen": "2025-10-05T07:29:03.760794",
+        "obo_id": "CUSTOM:c38a1c0d"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1048",
+      "source": "PMC10142442",
+      "target": "CUSTOM:2b05de42",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1046",
+      "source": "PMC10142442",
+      "target": "CUSTOM:4612cc99",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1044",
+      "source": "PMC10142442",
+      "target": "CUSTOM:de3b4bdd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1042",
+      "source": "PMC10142442",
+      "target": "CUSTOM:ea2936e5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1040",
+      "source": "PMC10142442",
+      "target": "CUSTOM:c38a1c0d",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

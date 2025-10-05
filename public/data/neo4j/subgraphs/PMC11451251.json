@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC11451251",
+  "nodes": [
+    {
+      "fullLabel": "PMC11451251",
+      "id": "PMC11451251",
+      "label": "PMC11451251",
+      "properties": {
+        "pmcid": "PMC11451251",
+        "first_seen": "2025-10-05T07:29:09.414923",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:09.467431"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "potential to serve as drug targets",
+      "id": "CUSTOM:5a7a6e5d",
+      "label": "potential to serv...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.469500",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "potential to serve as drug targets",
+        "last_seen": "2025-10-05T07:29:09.469500",
+        "obo_id": "CUSTOM:5a7a6e5d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "potential to enable bioproduction of essential biomolecules during future space missions",
+      "id": "CUSTOM:fdf97b88",
+      "label": "potential to enab...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.463024",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "potential to enable bioproduction of essential biomolecules during future space missions",
+        "last_seen": "2025-10-05T07:29:09.463024",
+        "obo_id": "CUSTOM:fdf97b88"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "convergent adaptation among diverse microorganisms",
+      "id": "CUSTOM:26297e72",
+      "label": "convergent adapta...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.456539",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "convergent adaptation among diverse microorganisms",
+        "last_seen": "2025-10-05T07:29:09.456539",
+        "obo_id": "CUSTOM:26297e72"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "presence of novel S layer oxidoreductases",
+      "id": "CUSTOM:279f37ca",
+      "label": "presence of novel...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.448540",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "presence of novel S layer oxidoreductases",
+        "last_seen": "2025-10-05T07:29:09.448540",
+        "obo_id": "CUSTOM:279f37ca"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "presence/enrichment of metallopeptidases",
+      "id": "CUSTOM:991de668",
+      "label": "presence/enrichme...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.441023",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "presence/enrichment of metallopeptidases",
+        "last_seen": "2025-10-05T07:29:09.441023",
+        "obo_id": "CUSTOM:991de668"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "DNA repair activity",
+      "id": "CUSTOM:09258e6a",
+      "label": "DNA repair activity",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.433143",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "DNA repair activity",
+        "last_seen": "2025-10-05T07:29:09.433143",
+        "obo_id": "CUSTOM:09258e6a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "presence/enrichment of mechanosensitive channel proteins",
+      "id": "CUSTOM:7a4656c1",
+      "label": "presence/enrichme...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.425479",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "presence/enrichment of mechanosensitive channel proteins",
+        "last_seen": "2025-10-05T07:29:09.425479",
+        "obo_id": "CUSTOM:7a4656c1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adaptation to life in space",
+      "id": "CUSTOM:9f43cb42",
+      "label": "adaptation to lif...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.418039",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adaptation to life in space",
+        "last_seen": "2025-10-05T07:29:09.418039",
+        "obo_id": "CUSTOM:9f43cb42"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2816",
+      "source": "PMC11451251",
+      "target": "CUSTOM:5a7a6e5d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2814",
+      "source": "PMC11451251",
+      "target": "CUSTOM:fdf97b88",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2812",
+      "source": "PMC11451251",
+      "target": "CUSTOM:26297e72",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2810",
+      "source": "PMC11451251",
+      "target": "CUSTOM:279f37ca",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2808",
+      "source": "PMC11451251",
+      "target": "CUSTOM:991de668",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2806",
+      "source": "PMC11451251",
+      "target": "CUSTOM:09258e6a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2804",
+      "source": "PMC11451251",
+      "target": "CUSTOM:7a4656c1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2802",
+      "source": "PMC11451251",
+      "target": "CUSTOM:9f43cb42",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

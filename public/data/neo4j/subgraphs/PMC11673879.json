@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC11673879",
+  "nodes": [
+    {
+      "fullLabel": "PMC11673879",
+      "id": "PMC11673879",
+      "label": "PMC11673879",
+      "properties": {
+        "pmcid": "PMC11673879",
+        "first_seen": "2025-10-05T07:29:12.648785",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:12.666746"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "constrained evolvability may affect microbial responses to global warming and, potentially, biogeochemical cycles and ecosystem stability",
+      "id": "CUSTOM:301ac3ab",
+      "label": "constrained evolv...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.668961",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "constrained evolvability may affect microbial responses to global warming and, potentially, biogeochemical cycles and ecosystem stability",
+        "last_seen": "2025-10-05T07:29:12.668961",
+        "obo_id": "CUSTOM:301ac3ab"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "immediate trade-offs present",
+      "id": "CUSTOM:d60ae73a",
+      "label": "immediate trade-o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.662780",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "immediate trade-offs present",
+        "last_seen": "2025-10-05T07:29:12.662780",
+        "obo_id": "CUSTOM:d60ae73a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "lineage-specificity of adaptation",
+      "id": "CUSTOM:b0c2990d",
+      "label": "lineage-specifici...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.656771",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "lineage-specificity of adaptation",
+        "last_seen": "2025-10-05T07:29:12.656771",
+        "obo_id": "CUSTOM:b0c2990d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "limited thermal adaptation",
+      "id": "CUSTOM:da6448dd",
+      "label": "limited thermal a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.650699",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "limited thermal adaptation",
+        "last_seen": "2025-10-05T07:29:12.650699",
+        "obo_id": "CUSTOM:da6448dd"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3616",
+      "source": "PMC11673879",
+      "target": "CUSTOM:301ac3ab",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3614",
+      "source": "PMC11673879",
+      "target": "CUSTOM:d60ae73a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3612",
+      "source": "PMC11673879",
+      "target": "CUSTOM:b0c2990d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3610",
+      "source": "PMC11673879",
+      "target": "CUSTOM:da6448dd",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC4169763",
+  "nodes": [
+    {
+      "fullLabel": "PMC4169763",
+      "id": "PMC4169763",
+      "label": "PMC4169763",
+      "properties": {
+        "pmcid": "PMC4169763",
+        "first_seen": "2025-10-05T07:29:03.019866",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.035053"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "bone integrity",
+      "id": "CUSTOM:70e98b29",
+      "label": "bone integrity",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.037006",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "bone integrity",
+        "last_seen": "2025-10-05T07:29:03.037006",
+        "obo_id": "CUSTOM:70e98b29"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "bone interstitial fluid flow",
+      "id": "CUSTOM:e24fe431",
+      "label": "bone interstitial...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.031670",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "bone interstitial fluid flow",
+        "last_seen": "2025-10-05T07:29:03.031670",
+        "obo_id": "CUSTOM:e24fe431"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "medullary pressure",
+      "id": "CUSTOM:f151e817",
+      "label": "medullary pressure",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.026762",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "medullary pressure",
+        "last_seen": "2025-10-05T07:29:03.026762",
+        "obo_id": "CUSTOM:f151e817"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "hindlimb bone and marrow blood flow",
+      "id": "CUSTOM:17360de8",
+      "label": "hindlimb bone and...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.021812",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "hindlimb bone and marrow blood flow",
+        "last_seen": "2025-10-05T07:29:03.021812",
+        "obo_id": "CUSTOM:17360de8"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "796",
+      "source": "PMC4169763",
+      "target": "CUSTOM:70e98b29",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "794",
+      "source": "PMC4169763",
+      "target": "CUSTOM:e24fe431",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "792",
+      "source": "PMC4169763",
+      "target": "CUSTOM:f151e817",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "790",
+      "source": "PMC4169763",
+      "target": "CUSTOM:17360de8",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

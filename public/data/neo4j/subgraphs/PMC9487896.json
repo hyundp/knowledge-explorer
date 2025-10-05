@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC9487896",
+  "nodes": [
+    {
+      "fullLabel": "PMC9487896",
+      "id": "PMC9487896",
+      "label": "PMC9487896",
+      "properties": {
+        "pmcid": "PMC9487896",
+        "first_seen": "2025-10-05T07:29:06.568689",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.589047"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Maintenance of inhibitory activity of MSGs against evolving SARS CoV 2 strains",
+      "id": "CUSTOM:fac9967c",
+      "label": "Maintenance of in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.590724",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Maintenance of inhibitory activity of MSGs against evolving SARS CoV 2 strains",
+        "last_seen": "2025-10-05T07:29:06.590724",
+        "obo_id": "CUSTOM:fac9967c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "No correlation between structural features and anticoronaviral activity",
+      "id": "CUSTOM:11d149e9",
+      "label": "No correlation be...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.585860",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "No correlation between structural features and anticoronaviral activity",
+        "last_seen": "2025-10-05T07:29:06.585860",
+        "obo_id": "CUSTOM:11d149e9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Inhibitory activities of the MSGs were slightly weaker against the Delta (B.1.617.2) strain",
+      "id": "CUSTOM:8082f0c1",
+      "label": "Inhibitory activi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.580822",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Inhibitory activities of the MSGs were slightly weaker against the Delta (B.1.617.2) strain",
+        "last_seen": "2025-10-05T07:29:06.580822",
+        "obo_id": "CUSTOM:8082f0c1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Inhibitory activities of the MSGs were generally similar against the Wuhan (Wuhan Hu 1) strain",
+      "id": "CUSTOM:348e4685",
+      "label": "Inhibitory activi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.575530",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Inhibitory activities of the MSGs were generally similar against the Wuhan (Wuhan Hu 1) strain",
+        "last_seen": "2025-10-05T07:29:06.575530",
+        "obo_id": "CUSTOM:348e4685"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Inhibitory capacity varied among sulfated glycans (MSGs)",
+      "id": "CUSTOM:dbf2f99a",
+      "label": "Inhibitory capaci...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.570428",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Inhibitory capacity varied among sulfated glycans (MSGs)",
+        "last_seen": "2025-10-05T07:29:06.570428",
+        "obo_id": "CUSTOM:dbf2f99a"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1956",
+      "source": "PMC9487896",
+      "target": "CUSTOM:fac9967c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1954",
+      "source": "PMC9487896",
+      "target": "CUSTOM:11d149e9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1952",
+      "source": "PMC9487896",
+      "target": "CUSTOM:8082f0c1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1950",
+      "source": "PMC9487896",
+      "target": "CUSTOM:348e4685",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1948",
+      "source": "PMC9487896",
+      "target": "CUSTOM:dbf2f99a",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC11869762",
+  "nodes": [
+    {
+      "fullLabel": "PMC11869762",
+      "id": "PMC11869762",
+      "label": "PMC11869762",
+      "properties": {
+        "pmcid": "PMC11869762",
+        "first_seen": "2025-10-05T07:29:11.113618",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:11.126514"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "relationship to the \"intestinal immune microbiota metabolic\" pathway",
+      "id": "CUSTOM:a4bea2dc",
+      "label": "relationship to t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.140383",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "relationship to the \"intestinal immune microbiota metabolic\" pathway",
+        "last_seen": "2025-10-05T07:29:11.140383",
+        "obo_id": "CUSTOM:a4bea2dc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "immune function caused by weightlessness",
+      "id": "CUSTOM:6c207374",
+      "label": "immune function c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.122356",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "immune function caused by weightlessness",
+        "last_seen": "2025-10-05T07:29:11.122356",
+        "obo_id": "CUSTOM:6c207374"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "intestinal microecological disorders",
+      "id": "CUSTOM:c5235331",
+      "label": "intestinal microe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.116053",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "intestinal microecological disorders",
+        "last_seen": "2025-10-05T07:29:11.116053",
+        "obo_id": "CUSTOM:c5235331"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3226",
+      "source": "PMC11869762",
+      "target": "CUSTOM:a4bea2dc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3224",
+      "source": "PMC11869762",
+      "target": "CUSTOM:6c207374",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3222",
+      "source": "PMC11869762",
+      "target": "CUSTOM:c5235331",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

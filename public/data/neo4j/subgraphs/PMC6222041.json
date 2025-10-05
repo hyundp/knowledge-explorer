@@ -1,0 +1,329 @@
+{
+  "pmcid": "PMC6222041",
+  "nodes": [
+    {
+      "fullLabel": "PMC6222041",
+      "id": "PMC6222041",
+      "label": "PMC6222041",
+      "properties": {
+        "pmcid": "PMC6222041",
+        "first_seen": "2025-10-05T07:29:15.193106",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:15.305055"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "machine compliance effects can be minimized by placing an extensometer across the platens",
+      "id": "CUSTOM:80ea6f4a",
+      "label": "machine complianc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.307454",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "machine compliance effects can be minimized by placing an extensometer across the platens",
+        "last_seen": "2025-10-05T07:29:15.307454",
+        "obo_id": "CUSTOM:80ea6f4a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "time required for specimen preparation, micro CT, image processing, and finite element analysis using new method",
+      "id": "CUSTOM:5c62faf7",
+      "label": "time required for...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.299961",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "time required for specimen preparation, micro CT, image processing, and finite element analysis using new method",
+        "last_seen": "2025-10-05T07:29:15.299961",
+        "obo_id": "CUSTOM:5c62faf7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "assumed effective tissue elastic modulus used in finite element analyses",
+      "id": "CUSTOM:eea5cc03",
+      "label": "assumed effective...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.292618",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "assumed effective tissue elastic modulus used in finite element analyses",
+        "last_seen": "2025-10-05T07:29:15.292618",
+        "obo_id": "CUSTOM:eea5cc03"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "initial strain value used in new method (max)",
+      "id": "CUSTOM:8cc7382b",
+      "label": "initial strain va...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.286027",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "initial strain value used in new method (max)",
+        "last_seen": "2025-10-05T07:29:15.286027",
+        "obo_id": "CUSTOM:8cc7382b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "specimen loss during testing",
+      "id": "CUSTOM:2874f47e",
+      "label": "specimen loss dur...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.278990",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "specimen loss during testing",
+        "last_seen": "2025-10-05T07:29:15.278990",
+        "obo_id": "CUSTOM:2874f47e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "stiffness and fatigue life under localized loading due to rigid platen",
+      "id": "CUSTOM:6783941b",
+      "label": "stiffness and fat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.272140",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "stiffness and fatigue life under localized loading due to rigid platen",
+        "last_seen": "2025-10-05T07:29:15.272140",
+        "obo_id": "CUSTOM:6783941b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Kelastic and fatigue life for KEXP method compared to new method",
+      "id": "CUSTOM:ba8058e6",
+      "label": "Kelastic and fati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.266070",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Kelastic and fatigue life for KEXP method compared to new method",
+        "last_seen": "2025-10-05T07:29:15.266070",
+        "obo_id": "CUSTOM:ba8058e6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "importance of pivotable (spherically seated) loading platen for uniform contact and accuracy",
+      "id": "CUSTOM:bce7a197",
+      "label": "importance of piv...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.259764",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "importance of pivotable (spherically seated) loading platen for uniform contact and accuracy",
+        "last_seen": "2025-10-05T07:29:15.259764",
+        "obo_id": "CUSTOM:bce7a197"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "strain to failure in rat whole bone vertebra (mean)",
+      "id": "CUSTOM:d09ea14a",
+      "label": "strain to failure...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.253031",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "strain to failure in rat whole bone vertebra (mean)",
+        "last_seen": "2025-10-05T07:29:15.253031",
+        "obo_id": "CUSTOM:d09ea14a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "strain to failure in bovine trabecular bone (mean)",
+      "id": "CUSTOM:a4501ee1",
+      "label": "strain to failure...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.244953",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "strain to failure in bovine trabecular bone (mean)",
+        "last_seen": "2025-10-05T07:29:15.244953",
+        "obo_id": "CUSTOM:a4501ee1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "strain to failure in human trabecular bone (mean)",
+      "id": "CUSTOM:c73d64ba",
+      "label": "strain to failure...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.237525",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "strain to failure in human trabecular bone (mean)",
+        "last_seen": "2025-10-05T07:29:15.237525",
+        "obo_id": "CUSTOM:c73d64ba"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "strain to failure (mean)",
+      "id": "CUSTOM:cb45fce6",
+      "label": "strain to failure...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.229155",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "strain to failure (mean)",
+        "last_seen": "2025-10-05T07:29:15.229155",
+        "obo_id": "CUSTOM:cb45fce6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "consistency of starting applied strain across specimens",
+      "id": "CUSTOM:5f5afcb1",
+      "label": "consistency of st...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.222225",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "consistency of starting applied strain across specimens",
+        "last_seen": "2025-10-05T07:29:15.222225",
+        "obo_id": "CUSTOM:5f5afcb1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "reproducibility of fatigue life measurements",
+      "id": "CUSTOM:46b8896f",
+      "label": "reproducibility o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.214614",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "reproducibility of fatigue life measurements",
+        "last_seen": "2025-10-05T07:29:15.214614",
+        "obo_id": "CUSTOM:46b8896f"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4232",
+      "source": "PMC6222041",
+      "target": "CUSTOM:80ea6f4a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4230",
+      "source": "PMC6222041",
+      "target": "CUSTOM:5c62faf7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4228",
+      "source": "PMC6222041",
+      "target": "CUSTOM:eea5cc03",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4226",
+      "source": "PMC6222041",
+      "target": "CUSTOM:8cc7382b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4224",
+      "source": "PMC6222041",
+      "target": "CUSTOM:2874f47e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4222",
+      "source": "PMC6222041",
+      "target": "CUSTOM:6783941b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4220",
+      "source": "PMC6222041",
+      "target": "CUSTOM:ba8058e6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4218",
+      "source": "PMC6222041",
+      "target": "CUSTOM:bce7a197",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4216",
+      "source": "PMC6222041",
+      "target": "CUSTOM:d09ea14a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4214",
+      "source": "PMC6222041",
+      "target": "CUSTOM:a4501ee1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4212",
+      "source": "PMC6222041",
+      "target": "CUSTOM:c73d64ba",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4210",
+      "source": "PMC6222041",
+      "target": "CUSTOM:cb45fce6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4208",
+      "source": "PMC6222041",
+      "target": "CUSTOM:5f5afcb1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4206",
+      "source": "PMC6222041",
+      "target": "CUSTOM:46b8896f",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 15,
+  "num_edges": 14
+}

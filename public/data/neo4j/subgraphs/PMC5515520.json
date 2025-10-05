@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC5515520",
+  "nodes": [
+    {
+      "fullLabel": "PMC5515520",
+      "id": "PMC5515520",
+      "label": "PMC5515520",
+      "properties": {
+        "pmcid": "PMC5515520",
+        "first_seen": "2025-10-05T07:29:01.429489",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.470554"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Auxin distributions of the primary root are gravity independent",
+      "id": "CUSTOM:a4df541c",
+      "label": "Auxin distributio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.472078",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Auxin distributions of the primary root are gravity independent",
+        "last_seen": "2025-10-05T07:29:01.472078",
+        "obo_id": "CUSTOM:a4df541c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Root growth patterns: waving and skewing morphologies, and patterns of cell division and elongation",
+      "id": "CUSTOM:5c73173c",
+      "label": "Root growth patte...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.467645",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Root growth patterns: waving and skewing morphologies, and patterns of cell division and elongation",
+        "last_seen": "2025-10-05T07:29:01.467645",
+        "obo_id": "CUSTOM:5c73173c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cytokinin-responsive ARR5::GFP expression distribution in root tips",
+      "id": "CUSTOM:067551dd",
+      "label": "Cytokinin-respons...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.463391",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cytokinin-responsive ARR5::GFP expression distribution in root tips",
+        "last_seen": "2025-10-05T07:29:01.463391",
+        "obo_id": "CUSTOM:067551dd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Overall state of the auxin signaling pathway in the absence of gravity",
+      "id": "CUSTOM:441f720b",
+      "label": "Overall state of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.458336",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Overall state of the auxin signaling pathway in the absence of gravity",
+        "last_seen": "2025-10-05T07:29:01.458336",
+        "obo_id": "CUSTOM:441f720b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Nuclear localization pattern / distribution of SCARECROW (SCR)",
+      "id": "CUSTOM:a139ef85",
+      "label": "Nuclear localizat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.453579",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Nuclear localization pattern / distribution of SCARECROW (SCR)",
+        "last_seen": "2025-10-05T07:29:01.453579",
+        "obo_id": "CUSTOM:a139ef85"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Auxin distribution in the primary root tip as reported by DR5r::GFP",
+      "id": "CUSTOM:5ac5e1b9",
+      "label": "Auxin distributio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.448244",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Auxin distribution in the primary root tip as reported by DR5r::GFP",
+        "last_seen": "2025-10-05T07:29:01.448244",
+        "obo_id": "CUSTOM:5ac5e1b9"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "246",
+      "source": "PMC5515520",
+      "target": "CUSTOM:a4df541c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "244",
+      "source": "PMC5515520",
+      "target": "CUSTOM:5c73173c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "242",
+      "source": "PMC5515520",
+      "target": "CUSTOM:067551dd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "240",
+      "source": "PMC5515520",
+      "target": "CUSTOM:441f720b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "238",
+      "source": "PMC5515520",
+      "target": "CUSTOM:a139ef85",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "236",
+      "source": "PMC5515520",
+      "target": "CUSTOM:5ac5e1b9",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

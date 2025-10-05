@@ -1,0 +1,23 @@
+{
+  "pmcid": "PMC7118179",
+  "title": "Identification of Metagenome Assembled Genomes Containing Antimicrobial Resistance Genes, Isolated from an Advanced Water Treatment Facility",
+  "authors": [
+    "Blake W Stamps",
+    "John R Spear"
+  ],
+  "year": "2020",
+  "journal": "Microbiology Resource Announcements",
+  "doi": "10.1128/MRA.00003 20",
+  "sections": {
+    "abstract": "Here, we present 95 metagenome assembled genomes (MAGs) that harbor antimicrobial resistance genes, isolated from samples obtained in a large advanced wastewater reclamation facility prior to microfiltration. The MAGs were not in abundance after filtration at the facility and represent a useful resource to the water treatment community at large.",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:06:42.935786",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118179/"
+  }
+}

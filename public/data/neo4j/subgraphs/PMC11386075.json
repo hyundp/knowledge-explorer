@@ -1,0 +1,329 @@
+{
+  "pmcid": "PMC11386075",
+  "nodes": [
+    {
+      "fullLabel": "PMC11386075",
+      "id": "PMC11386075",
+      "label": "PMC11386075",
+      "properties": {
+        "pmcid": "PMC11386075",
+        "first_seen": "2025-10-05T07:29:08.063958",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.147918"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Forward and/or backward microbial contamination of Earth and other celestial bodies",
+      "id": "CUSTOM:c2953eb2",
+      "label": "Forward and/or ba...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.149775",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Forward and/or backward microbial contamination of Earth and other celestial bodies",
+        "last_seen": "2025-10-05T07:29:08.149775",
+        "obo_id": "CUSTOM:c2953eb2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Protection of spacecraft integrity",
+      "id": "CUSTOM:d6de15e9",
+      "label": "Protection of spa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.143975",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Protection of spacecraft integrity",
+        "last_seen": "2025-10-05T07:29:08.143975",
+        "obo_id": "CUSTOM:d6de15e9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Protection of human health aboard spacecraft",
+      "id": "CUSTOM:348537f2",
+      "label": "Protection of hum...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.137744",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Protection of human health aboard spacecraft",
+        "last_seen": "2025-10-05T07:29:08.137744",
+        "obo_id": "CUSTOM:348537f2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Preservation of a healthy environment on spacecraft via moisture control",
+      "id": "CUSTOM:183733d2",
+      "label": "Preservation of a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.131161",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Preservation of a healthy environment on spacecraft via moisture control",
+        "last_seen": "2025-10-05T07:29:08.131161",
+        "obo_id": "CUSTOM:183733d2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Predictive ability for amount and type of microbial (fungal) growth in spacecraft dust",
+      "id": "CUSTOM:014f883b",
+      "label": "Predictive abilit...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.125006",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Predictive ability for amount and type of microbial (fungal) growth in spacecraft dust",
+        "last_seen": "2025-10-05T07:29:08.125006",
+        "obo_id": "CUSTOM:014f883b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Utility/applicability of the time of wetness framework to spaceflight environmental factors",
+      "id": "CUSTOM:1db4f6c9",
+      "label": "Utility/applicabi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.119083",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Utility/applicability of the time of wetness framework to spaceflight environmental factors",
+        "last_seen": "2025-10-05T07:29:08.119083",
+        "obo_id": "CUSTOM:1db4f6c9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Experiment conducted on Earth; not in low Earth orbit environmental conditions which may affect microbial growth and composition",
+      "id": "CUSTOM:777e5030",
+      "label": "Experiment conduc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.112828",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Experiment conducted on Earth; not in low Earth orbit environmental conditions which may affect microbial growth and composition",
+        "last_seen": "2025-10-05T07:29:08.112828",
+        "obo_id": "CUSTOM:777e5030"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Study sample size (dust returned from ISS vacuum bags)",
+      "id": "CUSTOM:739cad65",
+      "label": "Study sample size...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.105262",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Study sample size (dust returned from ISS vacuum bags)",
+        "last_seen": "2025-10-05T07:29:08.105262",
+        "obo_id": "CUSTOM:739cad65"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ISS dust fungal growth model: activation-limited at elevated RH and deactivation-limited at saturated RH",
+      "id": "CUSTOM:8467be4b",
+      "label": "ISS dust fungal g...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.098983",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ISS dust fungal growth model: activation-limited at elevated RH and deactivation-limited at saturated RH",
+        "last_seen": "2025-10-05T07:29:08.098983",
+        "obo_id": "CUSTOM:8467be4b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Earth (house) dust fungal growth followed a two-stage activation-limited growth model at elevated (85% RH) and saturated (100% RH) conditions",
+      "id": "CUSTOM:6097bb80",
+      "label": "Earth (house) dus...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.092622",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Earth (house) dust fungal growth followed a two-stage activation-limited growth model at elevated (85% RH) and saturated (100% RH) conditions",
+        "last_seen": "2025-10-05T07:29:08.092622",
+        "obo_id": "CUSTOM:6097bb80"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "High overall fungal quantity reached in both house dust and ISS dust when exposed to 100% RH for 2 weeks",
+      "id": "CUSTOM:cc1c58e1",
+      "label": "High overall fung...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.085990",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "High overall fungal quantity reached in both house dust and ISS dust when exposed to 100% RH for 2 weeks",
+        "last_seen": "2025-10-05T07:29:08.085990",
+        "obo_id": "CUSTOM:cc1c58e1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Significant bacterial growth in ISS dust at 90% ERH (compared to original dust, no ERH exposure)",
+      "id": "CUSTOM:3a2ee1f5",
+      "label": "Significant bacte...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.079758",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Significant bacterial growth in ISS dust at 90% ERH (compared to original dust, no ERH exposure)",
+        "last_seen": "2025-10-05T07:29:08.079758",
+        "obo_id": "CUSTOM:3a2ee1f5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Significant fungal growth in ISS dust at 80% ERH (compared to original dust, no ERH exposure)",
+      "id": "CUSTOM:19eed685",
+      "label": "Significant funga...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.072963",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Significant fungal growth in ISS dust at 80% ERH (compared to original dust, no ERH exposure)",
+        "last_seen": "2025-10-05T07:29:08.072963",
+        "obo_id": "CUSTOM:19eed685"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Microbial growth and community composition altered by increasing equilibrium relative humidity (ERH)",
+      "id": "CUSTOM:5d412b35",
+      "label": "Microbial growth ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.066144",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microbial growth and community composition altered by increasing equilibrium relative humidity (ERH)",
+        "last_seen": "2025-10-05T07:29:08.066144",
+        "obo_id": "CUSTOM:5d412b35"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2444",
+      "source": "PMC11386075",
+      "target": "CUSTOM:c2953eb2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2442",
+      "source": "PMC11386075",
+      "target": "CUSTOM:d6de15e9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2440",
+      "source": "PMC11386075",
+      "target": "CUSTOM:348537f2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2438",
+      "source": "PMC11386075",
+      "target": "CUSTOM:183733d2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2436",
+      "source": "PMC11386075",
+      "target": "CUSTOM:014f883b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2434",
+      "source": "PMC11386075",
+      "target": "CUSTOM:1db4f6c9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2432",
+      "source": "PMC11386075",
+      "target": "CUSTOM:777e5030",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2430",
+      "source": "PMC11386075",
+      "target": "CUSTOM:739cad65",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2428",
+      "source": "PMC11386075",
+      "target": "CUSTOM:8467be4b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2426",
+      "source": "PMC11386075",
+      "target": "CUSTOM:6097bb80",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2424",
+      "source": "PMC11386075",
+      "target": "CUSTOM:cc1c58e1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2422",
+      "source": "PMC11386075",
+      "target": "CUSTOM:3a2ee1f5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2420",
+      "source": "PMC11386075",
+      "target": "CUSTOM:19eed685",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2418",
+      "source": "PMC11386075",
+      "target": "CUSTOM:5d412b35",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 15,
+  "num_edges": 14
+}

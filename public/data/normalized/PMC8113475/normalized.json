@@ -1,0 +1,27 @@
+{
+  "pmcid": "PMC8113475",
+  "title": "Rad Bio App: a discovery environment for biologists to explore spaceflight related radiation exposures",
+  "authors": [
+    "Richard Barker",
+    "Sylvain V Costes",
+    "Jack Miller",
+    "Samrawit G Gebre",
+    "Jonathan Lombardino",
+    "Simon Gilroy"
+  ],
+  "year": "2021",
+  "journal": "NPJ Microgravity",
+  "doi": "10.1038/s41526 021 00143 x",
+  "sections": {
+    "abstract": "In addition to microgravity, spaceflight simultaneously exposes biology to a suite of other stimuli. For example, in space, organisms experience ionizing radiation environments that significantly differ in both quality and quantity from those normally experienced on Earth. However, data on radiation exposure during space missions is often complex to access and to understand, limiting progress towards defining how radiation affects organisms against the unique background of spaceflight. To help address this challenge, we have developed the Rad Bio App. This web accessible database imports radiation metadata from experiments archived in NASA's GeneLab data repository, and then allows the user to explore these experiments both in the context of their radiation exposure and through their other metadata and results. Rad Bio App provides an easy to use, graphically driven environment to enable both radiation biologists and non specialist researchers to visualize, and understand the impact of ionizing radiation on various biological systems in the context of spaceflight.\n\nSubject terms:Databases, Physiology, Plant sciences, Microbiology, Molecular biology",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "To conclude, we have introduced a data mining visualization tool, the Rad Bio App, enabling the rapid identification of omics datasets deposited in the NASA GeneLab data repository, which are relevant for a specific spaceflight radiation scenario (e.g., trip to Mars or on the lunar surface) or specific characteristics of radiation exposure. Testing this tool on a scenario of a mission on the Moon, we identified a series of experiments conducted on the ISS with similar radiation profiles. Because the Rad Bio App links to GeneLab datasets, it was then straightforward to extract processed gene expression tables from GeneLab to identify common pathways that may be modified by, in this case, the lunar surface radiation environment. As more researchers enter datasets into GeneLab related to spaceflight and radiation exposure that explore the effects of e.g., species, genetics, gender, and age, the Rad Bio App should become an increasingly powerful tool to help accelerate assessment of the effects of Space radiation environments on living entities."
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:02:26.948699",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8113475/"
+  }
+}

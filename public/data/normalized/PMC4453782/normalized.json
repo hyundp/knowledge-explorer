@@ -1,0 +1,25 @@
+{
+  "pmcid": "PMC4453782",
+  "title": "Vesicles versus Tubes: Is Endoplasmic Reticulum Golgi Transport in Plants Fundamentally Different from Other Eukaryotes?",
+  "authors": [
+    "David G Robinson",
+    "Federica Brandizzi",
+    "Chris Hawes",
+    "Akihiko Nakano"
+  ],
+  "year": "2015",
+  "journal": "Plant Physiology",
+  "doi": "10.1104/pp.15.00124",
+  "sections": {
+    "abstract": "Four leading cell biologists reflect on the controversial nature of the vector for transport between the ER and Golgi apparatus in higher plants.",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "After having gone through the information and arguments presented above, it will not come as a surprise to the reader that the authors found themselves unable to reach a consensus about the modality of membrane traffic between theERand the Golgi apparatus in higher plants. While there is no question that COPII proteins are essential for this process, doubt continues as to whether vesicles are the vectors of bidirectional traffic between the two organelles. It is clear that fluorescence microscopy, immunolabeling, and live cell imaging in combination have revolutionized our conceptual understanding of the structure and functioning of the eukaryotic Golgi apparatus and its relationship with theER. However, the present superresolution fluorescence microscopic techniques such as structured illumination microscopy, stimulated emission depletion microscopy, and photoactivated localization microscopy are not sufficient to unequivocally identify discrete individual COPII vesicles. On the other hand, new techniques such as SCLIM are emerging that have the potential for even higher superresolution not only in space, but also in time and may well bring about a breakthrough in understanding what really is going on in living cells. Of course, electron microscopy is still the most powerful technique to solve the finer structural details of the interface between theERand the Golgi whether in chemically fixed or frozen samples. Thus, perhaps a combination of ultra rapid freezing and freeze substitution combined with selective membrane staining and one of the new high resolution three dimensional scanning electron microscopy technologies such as focussed ion beam scanning electron microscopy or serial block face imaging might solve some of the mysteries of the plantER Golgi interface and help settle the controversy explored in this article. Unfortunately, irrespective of the method of preparation and the type of imaging, the downside with electron microscopy is that only single Golgi stacks can be visualized, with the caveat that the one being visualized might temporarily not be engaged in trafficking with theER.\n\nThere is also an issue with the experimental systems being used. Beautiful live cell imaging data has been obtained with the leaf epidermis system, but obviously it will be interesting to explore other cell types. While it seems that the situation in tobacco BY2 cells is not too different from that of leaf epidermal cells, there are other cell types such as in the meristem or in the endosperm during cellularization whose secretion status is unclear and where it is difficult, especially by conventional live cell imaging, to recognize a close spatial relationship between theERand Golgi stacks, let alone being able to say anything about Golgi motility due to the sheer density of the cytoplasm. On the other hand, such cell types, because of their relatively high cytoplasm/cell volume ratio, freeze well and are therefore most suitable for electron microscopy studies. The reverse is true for leaf epidermal cells, which are excellent objects for live cell imaging, but present an almost insurmountable obstacle for ultra rapid freezing. It remains to say that, even with the ideal plant cell, to capture the complexity of bidirectionalER Golgi traffic in plant cells, correlative light and electron microscopy is necessary. Establishing this technique for studies on plants is going to be a major challenge for the future."
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:00:46.566521",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4453782/"
+  }
+}

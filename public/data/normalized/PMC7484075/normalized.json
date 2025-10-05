@@ -1,0 +1,30 @@
+{
+  "pmcid": "PMC7484075",
+  "title": "Draft Genome Sequences of Enterobacteriales Strains Isolated from the International Space Station",
+  "authors": [
+    "Achintya R Bharadwaj",
+    "Robert Daudu",
+    "Nitin K Singh",
+    "Jason M Wood",
+    "Marilyne Debieu",
+    "Niamh B O'Hara",
+    "Fathi Karouia",
+    "Christopher E Mason",
+    "Kasthuri Venkateswaran"
+  ],
+  "year": "2020",
+  "journal": "Microbiology Resource Announcements",
+  "doi": "10.1128/MRA.00817 20",
+  "sections": {
+    "abstract": "The whole genome sequences of 26 strains isolated from the International Space Station were generated, and the strains were identified as being members of the orderEnterobacteriales.Characterization of these whole genome sequences might enable the identification of potential pathogenic bacteria that have been adapting to the space environment.",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:07:48.788295",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7484075/"
+  }
+}

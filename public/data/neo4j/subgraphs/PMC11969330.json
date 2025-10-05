@@ -1,0 +1,329 @@
+{
+  "pmcid": "PMC11969330",
+  "nodes": [
+    {
+      "fullLabel": "PMC11969330",
+      "id": "PMC11969330",
+      "label": "PMC11969330",
+      "properties": {
+        "pmcid": "PMC11969330",
+        "first_seen": "2025-10-05T07:29:08.787535",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.887573"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Multiplexed sensing of multiple fluorophores simultaneously",
+      "id": "CUSTOM:2dc1cbb1",
+      "label": "Multiplexed sensi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.890069",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Multiplexed sensing of multiple fluorophores simultaneously",
+        "last_seen": "2025-10-05T07:29:08.890069",
+        "obo_id": "CUSTOM:2dc1cbb1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Measurement of luminescence across the visible wavelength range by changing optical components",
+      "id": "CUSTOM:de851c9a",
+      "label": "Measurement of lu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.883167",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Measurement of luminescence across the visible wavelength range by changing optical components",
+        "last_seen": "2025-10-05T07:29:08.883167",
+        "obo_id": "CUSTOM:de851c9a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Susceptibility to electrode fouling or site saturation (compared to integrated electrochemical sensors)",
+      "id": "CUSTOM:668a2ca9",
+      "label": "Susceptibility to...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.875778",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Susceptibility to electrode fouling or site saturation (compared to integrated electrochemical sensors)",
+        "last_seen": "2025-10-05T07:29:08.875778",
+        "obo_id": "CUSTOM:668a2ca9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Direct interaction with on-chip sample",
+      "id": "CUSTOM:d933d18f",
+      "label": "Direct interactio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.868915",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Direct interaction with on-chip sample",
+        "last_seen": "2025-10-05T07:29:08.868915",
+        "obo_id": "CUSTOM:d933d18f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability to sense small changes in barrier integrity in real time",
+      "id": "CUSTOM:bf228310",
+      "label": "Ability to sense ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.859842",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability to sense small changes in barrier integrity in real time",
+        "last_seen": "2025-10-05T07:29:08.859842",
+        "obo_id": "CUSTOM:bf228310"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Automated, non-invasive barrier function measurement capability in organ-on-chip devices",
+      "id": "CUSTOM:71d82971",
+      "label": "Automated, non-in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.853242",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Automated, non-invasive barrier function measurement capability in organ-on-chip devices",
+        "last_seen": "2025-10-05T07:29:08.853242",
+        "obo_id": "CUSTOM:71d82971"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Throughput limitation due to syringe driven physiological flow in the gut on a chip (limits simultaneous OOC sensing)",
+      "id": "CUSTOM:6eed7e6f",
+      "label": "Throughput limita...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.847583",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Throughput limitation due to syringe driven physiological flow in the gut on a chip (limits simultaneous OOC sensing)",
+        "last_seen": "2025-10-05T07:29:08.847583",
+        "obo_id": "CUSTOM:6eed7e6f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Demonstrated simultaneous monitoring of barrier functions in multiple OOCs",
+      "id": "CUSTOM:f70fac52",
+      "label": "Demonstrated simu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.841135",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Demonstrated simultaneous monitoring of barrier functions in multiple OOCs",
+        "last_seen": "2025-10-05T07:29:08.841135",
+        "obo_id": "CUSTOM:f70fac52"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Platform sensing of multiple fluorophores",
+      "id": "CUSTOM:5aa52275",
+      "label": "Platform sensing ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.835146",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Platform sensing of multiple fluorophores",
+        "last_seen": "2025-10-05T07:29:08.835146",
+        "obo_id": "CUSTOM:5aa52275"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Simultaneous apical and basal channel fluorescence recording from a single camera (dual channel detection of two distinct fluorophores)",
+      "id": "CUSTOM:b90ff195",
+      "label": "Simultaneous apic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.829402",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Simultaneous apical and basal channel fluorescence recording from a single camera (dual channel detection of two distinct fluorophores)",
+        "last_seen": "2025-10-05T07:29:08.829402",
+        "obo_id": "CUSTOM:b90ff195"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Effect of net charge on apparent permeability for dextrans of equivalent size (anionic dextran)",
+      "id": "CUSTOM:8bfe15db",
+      "label": "Effect of net cha...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.824028",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effect of net charge on apparent permeability for dextrans of equivalent size (anionic dextran)",
+        "last_seen": "2025-10-05T07:29:08.824028",
+        "obo_id": "CUSTOM:8bfe15db"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Effect of net charge on apparent permeability for dextrans of equivalent size (neutral dextran)",
+      "id": "CUSTOM:0604d746",
+      "label": "Effect of net cha...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.818941",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effect of net charge on apparent permeability for dextrans of equivalent size (neutral dextran)",
+        "last_seen": "2025-10-05T07:29:08.818941",
+        "obo_id": "CUSTOM:0604d746"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Apparent permeability of 70 kDa dextran across OOC semi permeable membrane",
+      "id": "CUSTOM:cdbca8e0",
+      "label": "Apparent permeabi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.812260",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Apparent permeability of 70 kDa dextran across OOC semi permeable membrane",
+        "last_seen": "2025-10-05T07:29:08.812260",
+        "obo_id": "CUSTOM:cdbca8e0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Apparent permeability of 10 kDa dextran across OOC semi permeable membrane",
+      "id": "CUSTOM:564351b3",
+      "label": "Apparent permeabi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.806645",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Apparent permeability of 10 kDa dextran across OOC semi permeable membrane",
+        "last_seen": "2025-10-05T07:29:08.806645",
+        "obo_id": "CUSTOM:564351b3"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2662",
+      "source": "PMC11969330",
+      "target": "CUSTOM:2dc1cbb1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2660",
+      "source": "PMC11969330",
+      "target": "CUSTOM:de851c9a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2658",
+      "source": "PMC11969330",
+      "target": "CUSTOM:668a2ca9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2656",
+      "source": "PMC11969330",
+      "target": "CUSTOM:d933d18f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2654",
+      "source": "PMC11969330",
+      "target": "CUSTOM:bf228310",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2652",
+      "source": "PMC11969330",
+      "target": "CUSTOM:71d82971",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2650",
+      "source": "PMC11969330",
+      "target": "CUSTOM:6eed7e6f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2648",
+      "source": "PMC11969330",
+      "target": "CUSTOM:f70fac52",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2646",
+      "source": "PMC11969330",
+      "target": "CUSTOM:5aa52275",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2644",
+      "source": "PMC11969330",
+      "target": "CUSTOM:b90ff195",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2642",
+      "source": "PMC11969330",
+      "target": "CUSTOM:8bfe15db",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2640",
+      "source": "PMC11969330",
+      "target": "CUSTOM:0604d746",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2638",
+      "source": "PMC11969330",
+      "target": "CUSTOM:cdbca8e0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2636",
+      "source": "PMC11969330",
+      "target": "CUSTOM:564351b3",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 15,
+  "num_edges": 14
+}

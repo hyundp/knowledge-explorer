@@ -1,0 +1,571 @@
+{
+  "pmcid": "PMC7064724",
+  "nodes": [
+    {
+      "fullLabel": "PMC7064724",
+      "id": "PMC7064724",
+      "label": "PMC7064724",
+      "properties": {
+        "pmcid": "PMC7064724",
+        "first_seen": "2025-10-05T07:29:06.012900",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.163302"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Large number of cell wall remodeling genes observed as differentially expressed in spaceflight",
+      "id": "CUSTOM:c0ca9883",
+      "label": "Large number of c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.165692",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Large number of cell wall remodeling genes observed as differentially expressed in spaceflight",
+        "last_seen": "2025-10-05T07:29:06.165692",
+        "obo_id": "CUSTOM:c0ca9883"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Effects of spr1 and sku5 mutations lie in processes that direct morphology and structure rather than in growth",
+      "id": "CUSTOM:af145ab6",
+      "label": "Effects of spr1 a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.159176",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effects of spr1 and sku5 mutations lie in processes that direct morphology and structure rather than in growth",
+        "last_seen": "2025-10-05T07:29:06.159176",
+        "obo_id": "CUSTOM:af145ab6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Root lengths of spr1 and sku5 are not altered by spaceflight",
+      "id": "CUSTOM:3a45c91e",
+      "label": "Root lengths of s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.153594",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Root lengths of spr1 and sku5 are not altered by spaceflight",
+        "last_seen": "2025-10-05T07:29:06.153594",
+        "obo_id": "CUSTOM:3a45c91e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Lipid raft nanodomains of the plasma membrane and their associated GPI APs play important roles in spaceflight physiological adaptation (inferred from sku5 responses)",
+      "id": "CUSTOM:049b898a",
+      "label": "Lipid raft nanodo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.147734",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Lipid raft nanodomains of the plasma membrane and their associated GPI APs play important roles in spaceflight physiological adaptation (inferred from sku5 responses)",
+        "last_seen": "2025-10-05T07:29:06.147734",
+        "obo_id": "CUSTOM:049b898a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Gene expression patterns of sku5 and spr1 are markedly different in spaceflight",
+      "id": "CUSTOM:d059c8d5",
+      "label": "Gene expression p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.141774",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Gene expression patterns of sku5 and spr1 are markedly different in spaceflight",
+        "last_seen": "2025-10-05T07:29:06.141774",
+        "obo_id": "CUSTOM:d059c8d5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Extended spaceflight response required for sku5 to accomplish acclimation, including initiation of classic deep stress responses",
+      "id": "CUSTOM:3db451f8",
+      "label": "Extended spacefli...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.135492",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Extended spaceflight response required for sku5 to accomplish acclimation, including initiation of classic deep stress responses",
+        "last_seen": "2025-10-05T07:29:06.135492",
+        "obo_id": "CUSTOM:3db451f8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability for rapid spaceflight acclimation conferred by spr1 mutation",
+      "id": "CUSTOM:48d0ae4c",
+      "label": "Ability for rapid...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.130005",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability for rapid spaceflight acclimation conferred by spr1 mutation",
+        "last_seen": "2025-10-05T07:29:06.130005",
+        "obo_id": "CUSTOM:48d0ae4c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Number of differentially expressed genes (DEGs) in spr1 compared to Col 0 during spaceflight",
+      "id": "CUSTOM:6f289ead",
+      "label": "Number of differe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.125679",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Number of differentially expressed genes (DEGs) in spr1 compared to Col 0 during spaceflight",
+        "last_seen": "2025-10-05T07:29:06.125679",
+        "obo_id": "CUSTOM:6f289ead"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Strong induction of LEAs and other genes associated with seed development in sku5 during spaceflight",
+      "id": "CUSTOM:4152a983",
+      "label": "Strong induction ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.121007",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Strong induction of LEAs and other genes associated with seed development in sku5 during spaceflight",
+        "last_seen": "2025-10-05T07:29:06.121007",
+        "obo_id": "CUSTOM:4152a983"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Powerful stress responses during physiological adaptation of sku5 to spaceflight",
+      "id": "CUSTOM:794d180b",
+      "label": "Powerful stress r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.116439",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Powerful stress responses during physiological adaptation of sku5 to spaceflight",
+        "last_seen": "2025-10-05T07:29:06.116439",
+        "obo_id": "CUSTOM:794d180b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Connections between environmental and senescence signaling and root skewing are reinforced",
+      "id": "CUSTOM:a49d28b2",
+      "label": "Connections betwe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.111234",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Connections between environmental and senescence signaling and root skewing are reinforced",
+        "last_seen": "2025-10-05T07:29:06.111234",
+        "obo_id": "CUSTOM:a49d28b2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Loss of MORE AXILLARY BRANCHES 2 (MAX2) exacerbates the skewing phenotype of sku5 in a sku5 max2 line",
+      "id": "CUSTOM:b237ae1a",
+      "label": "Loss of MORE AXIL...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.106201",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Loss of MORE AXILLARY BRANCHES 2 (MAX2) exacerbates the skewing phenotype of sku5 in a sku5 max2 line",
+        "last_seen": "2025-10-05T07:29:06.106201",
+        "obo_id": "CUSTOM:b237ae1a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "SKU5 expression peaks in M phase (M phase peak of SKU5 expression)",
+      "id": "CUSTOM:b2ec7e1f",
+      "label": "SKU5 expression p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.100894",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "SKU5 expression peaks in M phase (M phase peak of SKU5 expression)",
+        "last_seen": "2025-10-05T07:29:06.100894",
+        "obo_id": "CUSTOM:b2ec7e1f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Meristematic competence and cell cycle progression are affected in spaceflight",
+      "id": "CUSTOM:a04dd636",
+      "label": "Meristematic comp...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.073270",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Meristematic competence and cell cycle progression are affected in spaceflight",
+        "last_seen": "2025-10-05T07:29:06.073270",
+        "obo_id": "CUSTOM:a04dd636"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "SKU5 and SPR1 can affect microtubule reorganizing pathways",
+      "id": "CUSTOM:8fe26f62",
+      "label": "SKU5 and SPR1 can...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.068465",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "SKU5 and SPR1 can affect microtubule reorganizing pathways",
+        "last_seen": "2025-10-05T07:29:06.068465",
+        "obo_id": "CUSTOM:8fe26f62"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "SKU5 protein endocytosis through different pathways in the root tip dependent on local auxin signals and perceived stress conditions",
+      "id": "CUSTOM:d272217a",
+      "label": "SKU5 protein endo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.063372",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "SKU5 protein endocytosis through different pathways in the root tip dependent on local auxin signals and perceived stress conditions",
+        "last_seen": "2025-10-05T07:29:06.063372",
+        "obo_id": "CUSTOM:d272217a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Induction (increased expression) of ASPARAGINE SYNTHETASE 1 (ASN1) in spaceflight",
+      "id": "CUSTOM:02868dc8",
+      "label": "Induction (increa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.058316",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Induction (increased expression) of ASPARAGINE SYNTHETASE 1 (ASN1) in spaceflight",
+        "last_seen": "2025-10-05T07:29:06.058316",
+        "obo_id": "CUSTOM:02868dc8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Induction (increased expression) of SENESCENCE 1 (SEN1) in spaceflight",
+      "id": "CUSTOM:9a5e95ac",
+      "label": "Induction (increa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.053624",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Induction (increased expression) of SENESCENCE 1 (SEN1) in spaceflight",
+        "last_seen": "2025-10-05T07:29:06.053624",
+        "obo_id": "CUSTOM:9a5e95ac"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Differential expression in spaceflight of genes associated with integrative signaling of root skewing in both spr1 and sku5 mutants",
+      "id": "CUSTOM:0a53b4fb",
+      "label": "Differential expr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.048505",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Differential expression in spaceflight of genes associated with integrative signaling of root skewing in both spr1 and sku5 mutants",
+        "last_seen": "2025-10-05T07:29:06.048505",
+        "obo_id": "CUSTOM:0a53b4fb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Capability for remodeling of microtubule networks in spr1 mutant in response to environmental stress",
+      "id": "CUSTOM:4bec72d0",
+      "label": "Capability for re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.043002",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Capability for remodeling of microtubule networks in spr1 mutant in response to environmental stress",
+        "last_seen": "2025-10-05T07:29:06.043002",
+        "obo_id": "CUSTOM:4bec72d0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Microtubule stability in spr1 mutant",
+      "id": "CUSTOM:85b73aef",
+      "label": "Microtubule stabi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.036272",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microtubule stability in spr1 mutant",
+        "last_seen": "2025-10-05T07:29:06.036272",
+        "obo_id": "CUSTOM:85b73aef"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Microtubule reorientation contributes to cell elongation in the spaceflight response of hypocotyls",
+      "id": "CUSTOM:97ecc6b9",
+      "label": "Microtubule reori...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.030966",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microtubule reorientation contributes to cell elongation in the spaceflight response of hypocotyls",
+        "last_seen": "2025-10-05T07:29:06.030966",
+        "obo_id": "CUSTOM:97ecc6b9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "26S proteasome-mediated degradation of SPR1 required for salt stress tolerance",
+      "id": "CUSTOM:e7c7b094",
+      "label": "26S proteasome-me...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.025652",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "26S proteasome-mediated degradation of SPR1 required for salt stress tolerance",
+        "last_seen": "2025-10-05T07:29:06.025652",
+        "obo_id": "CUSTOM:e7c7b094"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Enrichment of genes associated with responses to oxidative stress among upregulated genes in FLT inspr1 compared to Col 0",
+      "id": "CUSTOM:56a81784",
+      "label": "Enrichment of gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.019800",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Enrichment of genes associated with responses to oxidative stress among upregulated genes in FLT inspr1 compared to Col 0",
+        "last_seen": "2025-10-05T07:29:06.019800",
+        "obo_id": "CUSTOM:56a81784"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability to mediate reactive oxygen species (ROS) generated in spaceflight through redistribution of limited resources early in development",
+      "id": "CUSTOM:180ed5e3",
+      "label": "Ability to mediat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.014600",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability to mediate reactive oxygen species (ROS) generated in spaceflight through redistribution of limited resources early in development",
+        "last_seen": "2025-10-05T07:29:06.014600",
+        "obo_id": "CUSTOM:180ed5e3"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1824",
+      "source": "PMC7064724",
+      "target": "CUSTOM:c0ca9883",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1822",
+      "source": "PMC7064724",
+      "target": "CUSTOM:af145ab6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1820",
+      "source": "PMC7064724",
+      "target": "CUSTOM:3a45c91e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1818",
+      "source": "PMC7064724",
+      "target": "CUSTOM:049b898a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1816",
+      "source": "PMC7064724",
+      "target": "CUSTOM:d059c8d5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1814",
+      "source": "PMC7064724",
+      "target": "CUSTOM:3db451f8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1812",
+      "source": "PMC7064724",
+      "target": "CUSTOM:48d0ae4c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1810",
+      "source": "PMC7064724",
+      "target": "CUSTOM:6f289ead",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1808",
+      "source": "PMC7064724",
+      "target": "CUSTOM:4152a983",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1806",
+      "source": "PMC7064724",
+      "target": "CUSTOM:794d180b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1804",
+      "source": "PMC7064724",
+      "target": "CUSTOM:a49d28b2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1802",
+      "source": "PMC7064724",
+      "target": "CUSTOM:b237ae1a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1800",
+      "source": "PMC7064724",
+      "target": "CUSTOM:b2ec7e1f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1798",
+      "source": "PMC7064724",
+      "target": "CUSTOM:a04dd636",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1796",
+      "source": "PMC7064724",
+      "target": "CUSTOM:8fe26f62",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1794",
+      "source": "PMC7064724",
+      "target": "CUSTOM:d272217a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1792",
+      "source": "PMC7064724",
+      "target": "CUSTOM:02868dc8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1790",
+      "source": "PMC7064724",
+      "target": "CUSTOM:9a5e95ac",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1788",
+      "source": "PMC7064724",
+      "target": "CUSTOM:0a53b4fb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1786",
+      "source": "PMC7064724",
+      "target": "CUSTOM:4bec72d0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1784",
+      "source": "PMC7064724",
+      "target": "CUSTOM:85b73aef",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1782",
+      "source": "PMC7064724",
+      "target": "CUSTOM:97ecc6b9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1780",
+      "source": "PMC7064724",
+      "target": "CUSTOM:e7c7b094",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1778",
+      "source": "PMC7064724",
+      "target": "CUSTOM:56a81784",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1776",
+      "source": "PMC7064724",
+      "target": "CUSTOM:180ed5e3",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 26,
+  "num_edges": 25
+}

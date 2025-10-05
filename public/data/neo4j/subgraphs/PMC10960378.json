@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC10960378",
+  "nodes": [
+    {
+      "fullLabel": "PMC10960378",
+      "id": "PMC10960378",
+      "label": "PMC10960378",
+      "properties": {
+        "pmcid": "PMC10960378",
+        "first_seen": "2025-10-05T07:29:13.925703",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:13.952089"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Findings provide a foundation for deeper understanding of microbial dynamics in extreme environments and for future hypotheses",
+      "id": "CUSTOM:cab440e3",
+      "label": "Findings provide ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.954139",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Findings provide a foundation for deeper understanding of microbial dynamics in extreme environments and for future hypotheses",
+        "last_seen": "2025-10-05T07:29:13.954139",
+        "obo_id": "CUSTOM:cab440e3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "The approach has promise for broader applications in terrestrial controlled settings",
+      "id": "CUSTOM:3eb4c981",
+      "label": "The approach has ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.947806",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "The approach has promise for broader applications in terrestrial controlled settings",
+        "last_seen": "2025-10-05T07:29:13.947806",
+        "obo_id": "CUSTOM:3eb4c981"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Potential strategies employed by E.bugandensis for adaptation and persistence in the ISS ecosystem",
+      "id": "CUSTOM:4b8e7432",
+      "label": "Potential strateg...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.941787",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential strategies employed by E.bugandensis for adaptation and persistence in the ISS ecosystem",
+        "last_seen": "2025-10-05T07:29:13.941787",
+        "obo_id": "CUSTOM:4b8e7432"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Use of a synergistic integration of genomics, metagenomics, and metabolic modelling to unravel potential strategies",
+      "id": "CUSTOM:746042c8",
+      "label": "Use of a synergis...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.934936",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Use of a synergistic integration of genomics, metagenomics, and metabolic modelling to unravel potential strategies",
+        "last_seen": "2025-10-05T07:29:13.934936",
+        "obo_id": "CUSTOM:746042c8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "A robust and comprehensive methodology to decipher the survival mechanisms of E.bugandensis within the challenging environment of the ISS",
+      "id": "CUSTOM:3a2bbf98",
+      "label": "A robust and comp...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.927965",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "A robust and comprehensive methodology to decipher the survival mechanisms of E.bugandensis within the challenging environment of the ISS",
+        "last_seen": "2025-10-05T07:29:13.927965",
+        "obo_id": "CUSTOM:3a2bbf98"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3942",
+      "source": "PMC10960378",
+      "target": "CUSTOM:cab440e3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3940",
+      "source": "PMC10960378",
+      "target": "CUSTOM:3eb4c981",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3938",
+      "source": "PMC10960378",
+      "target": "CUSTOM:4b8e7432",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3936",
+      "source": "PMC10960378",
+      "target": "CUSTOM:746042c8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3934",
+      "source": "PMC10960378",
+      "target": "CUSTOM:3a2bbf98",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

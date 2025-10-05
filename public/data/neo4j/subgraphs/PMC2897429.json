@@ -1,0 +1,307 @@
+{
+  "pmcid": "PMC2897429",
+  "nodes": [
+    {
+      "fullLabel": "PMC2897429",
+      "id": "PMC2897429",
+      "label": "PMC2897429",
+      "properties": {
+        "pmcid": "PMC2897429",
+        "first_seen": "2025-10-05T07:29:08.960183",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:09.064531"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "The BioFlux device is likely to be useful in HTP screening of other biofilm parameters such as expression of fluorescently tagged proteins under different conditions (e.g., fluid shear) and determination of extracellular matrix formation or elimination using poly N acetylglucosamine binding wheat germ agglutinin Alexa Fluor 488 conjugate",
+      "id": "CUSTOM:4b8337b7",
+      "label": "The BioFlux devic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.067165",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "The BioFlux device is likely to be useful in HTP screening of other biofilm parameters such as expression of fluorescently tagged proteins under different conditions (e.g., fluid shear) and determination of extracellular matrix formation or elimination using poly N acetylglucosamine binding wheat germ agglutinin Alexa Fluor 488 conjugate",
+        "last_seen": "2025-10-05T07:29:09.067165",
+        "obo_id": "CUSTOM:4b8337b7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "The limitation of the BacLight method appears to limit use of the BioFlux to bacteria capable of expressing GFP",
+      "id": "CUSTOM:ca55406b",
+      "label": "The limitation of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.058980",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "The limitation of the BacLight method appears to limit use of the BioFlux to bacteria capable of expressing GFP",
+        "last_seen": "2025-10-05T07:29:09.058980",
+        "obo_id": "CUSTOM:ca55406b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "The LIVE/DEAD stain is accurate for determination of viability where the level of killing is high",
+      "id": "CUSTOM:34fa808a",
+      "label": "The LIVE/DEAD sta...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.051050",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "The LIVE/DEAD stain is accurate for determination of viability where the level of killing is high",
+        "last_seen": "2025-10-05T07:29:09.051050",
+        "obo_id": "CUSTOM:34fa808a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "The BacLight viability method is limited to treatments causing a relatively higher level of killing (confirmed for biofilms and reported previously for planktonic cells)",
+      "id": "CUSTOM:d4661d79",
+      "label": "The BacLight viab...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.043136",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "The BacLight viability method is limited to treatments causing a relatively higher level of killing (confirmed for biofilms and reported previously for planktonic cells)",
+        "last_seen": "2025-10-05T07:29:09.043136",
+        "obo_id": "CUSTOM:d4661d79"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "The plate reader based BioFlux viability screening method relied on the use of bacterial strains expressing GFP; non-GFP bacteria require another method such as LIVE/DEADBacLight staining",
+      "id": "CUSTOM:02fc1cd5",
+      "label": "The plate reader ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.034288",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "The plate reader based BioFlux viability screening method relied on the use of bacterial strains expressing GFP; non-GFP bacteria require another method such as LIVE/DEADBacLight staining",
+        "last_seen": "2025-10-05T07:29:09.034288",
+        "obo_id": "CUSTOM:02fc1cd5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "BioFlux + GFP PI viability assessment is an excellent method for initial HTP screening of flow biofilms and was successfully used for HTP screening of PAO1 biofilms for sensitivity to antimicrobials",
+      "id": "CUSTOM:54d04c6b",
+      "label": "BioFlux + GFP PI ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.025524",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "BioFlux + GFP PI viability assessment is an excellent method for initial HTP screening of flow biofilms and was successfully used for HTP screening of PAO1 biofilms for sensitivity to antimicrobials",
+        "last_seen": "2025-10-05T07:29:09.025524",
+        "obo_id": "CUSTOM:54d04c6b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Measurement of GFP PI fluorescence with a plate reader reliably reflects biofilm viability as verified by plate counting and fluorescence microscope images",
+      "id": "CUSTOM:5d4e4e6f",
+      "label": "Measurement of GF...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.017544",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Measurement of GFP PI fluorescence with a plate reader reliably reflects biofilm viability as verified by plate counting and fluorescence microscope images",
+        "last_seen": "2025-10-05T07:29:09.017544",
+        "obo_id": "CUSTOM:5d4e4e6f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Rapid determination of biofilm viability by measuring fluorescence with a plate reader eliminates the need for labor intensive analyses",
+      "id": "CUSTOM:b156bcc9",
+      "label": "Rapid determinati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.009064",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Rapid determination of biofilm viability by measuring fluorescence with a plate reader eliminates the need for labor intensive analyses",
+        "last_seen": "2025-10-05T07:29:09.009064",
+        "obo_id": "CUSTOM:b156bcc9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "The BioFlux device accurately controls fluid flow and permits simultaneous growth of multiple biofilms with a large range of precisely controlled flow rates",
+      "id": "CUSTOM:763e4e9f",
+      "label": "The BioFlux devic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.999767",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "The BioFlux device accurately controls fluid flow and permits simultaneous growth of multiple biofilms with a large range of precisely controlled flow rates",
+        "last_seen": "2025-10-05T07:29:08.999767",
+        "obo_id": "CUSTOM:763e4e9f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "HTP screening of viability by colony counting in flow cells is not feasible because it would require a prohibitively large number of flow cells",
+      "id": "CUSTOM:9315a6fc",
+      "label": "HTP screening of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.990598",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "HTP screening of viability by colony counting in flow cells is not feasible because it would require a prohibitively large number of flow cells",
+        "last_seen": "2025-10-05T07:29:08.990598",
+        "obo_id": "CUSTOM:9315a6fc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Colony counting of flow biofilms is particularly difficult because flow biofilms cannot be easily removed from the flow cells",
+      "id": "CUSTOM:ede4df84",
+      "label": "Colony counting o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.981232",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Colony counting of flow biofilms is particularly difficult because flow biofilms cannot be easily removed from the flow cells",
+        "last_seen": "2025-10-05T07:29:08.981232",
+        "obo_id": "CUSTOM:ede4df84"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Viability determination by quantification of microscopic fluorescent images or by colony counting is time consuming",
+      "id": "CUSTOM:0c2552ce",
+      "label": "Viability determi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.972289",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Viability determination by quantification of microscopic fluorescent images or by colony counting is time consuming",
+        "last_seen": "2025-10-05T07:29:08.972289",
+        "obo_id": "CUSTOM:0c2552ce"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Flow biofilms are commonly cultivated in flow cells",
+      "id": "CUSTOM:981a477f",
+      "label": "Flow biofilms are...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.963307",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Flow biofilms are commonly cultivated in flow cells",
+        "last_seen": "2025-10-05T07:29:08.963307",
+        "obo_id": "CUSTOM:981a477f"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2704",
+      "source": "PMC2897429",
+      "target": "CUSTOM:4b8337b7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2702",
+      "source": "PMC2897429",
+      "target": "CUSTOM:ca55406b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2700",
+      "source": "PMC2897429",
+      "target": "CUSTOM:34fa808a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2698",
+      "source": "PMC2897429",
+      "target": "CUSTOM:d4661d79",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2696",
+      "source": "PMC2897429",
+      "target": "CUSTOM:02fc1cd5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2694",
+      "source": "PMC2897429",
+      "target": "CUSTOM:54d04c6b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2692",
+      "source": "PMC2897429",
+      "target": "CUSTOM:5d4e4e6f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2690",
+      "source": "PMC2897429",
+      "target": "CUSTOM:b156bcc9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2688",
+      "source": "PMC2897429",
+      "target": "CUSTOM:763e4e9f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2686",
+      "source": "PMC2897429",
+      "target": "CUSTOM:9315a6fc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2684",
+      "source": "PMC2897429",
+      "target": "CUSTOM:ede4df84",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2682",
+      "source": "PMC2897429",
+      "target": "CUSTOM:0c2552ce",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2680",
+      "source": "PMC2897429",
+      "target": "CUSTOM:981a477f",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 14,
+  "num_edges": 13
+}

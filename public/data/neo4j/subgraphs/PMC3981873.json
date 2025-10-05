@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC3981873",
+  "nodes": [
+    {
+      "fullLabel": "PMC3981873",
+      "id": "PMC3981873",
+      "label": "PMC3981873",
+      "properties": {
+        "pmcid": "PMC3981873",
+        "first_seen": "2025-10-05T07:29:04.214360",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.272882"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Regulatory relationship between the UPR and auxin response in plants",
+      "id": "CUSTOM:97500330",
+      "label": "Regulatory relati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.274374",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Regulatory relationship between the UPR and auxin response in plants",
+        "last_seen": "2025-10-05T07:29:04.274374",
+        "obo_id": "CUSTOM:97500330"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Mechanisms by which IRE1 regulates the UPR",
+      "id": "CUSTOM:9bc62aef",
+      "label": "Mechanisms by whi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.270381",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mechanisms by which IRE1 regulates the UPR",
+        "last_seen": "2025-10-05T07:29:04.270381",
+        "obo_id": "CUSTOM:9bc62aef"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Free auxin levels in pin5 mutant (root tissues assayed)",
+      "id": "CUSTOM:76085064",
+      "label": "Free auxin levels...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.265786",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Free auxin levels in pin5 mutant (root tissues assayed)",
+        "last_seen": "2025-10-05T07:29:04.265786",
+        "obo_id": "CUSTOM:76085064"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Effect of PIN5 mutation on the atire1a atire1b mutant phenotype in UPR activation",
+      "id": "CUSTOM:b8cac37d",
+      "label": "Effect of PIN5 mu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.260789",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effect of PIN5 mutation on the atire1a atire1b mutant phenotype in UPR activation",
+        "last_seen": "2025-10-05T07:29:04.260789",
+        "obo_id": "CUSTOM:b8cac37d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Requirement of PIN5 for optimal induction of UPR activation",
+      "id": "CUSTOM:f468344d",
+      "label": "Requirement of PI...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.254148",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Requirement of PIN5 for optimal induction of UPR activation",
+        "last_seen": "2025-10-05T07:29:04.254148",
+        "obo_id": "CUSTOM:f468344d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "PIN5 transcriptional response to exogenous auxin and to ER stress",
+      "id": "CUSTOM:fef13eca",
+      "label": "PIN5 transcriptio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.245790",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "PIN5 transcriptional response to exogenous auxin and to ER stress",
+        "last_seen": "2025-10-05T07:29:04.245790",
+        "obo_id": "CUSTOM:fef13eca"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Requirement of ER-localized versus PM-localized auxin transporters for optimal UPR activation",
+      "id": "CUSTOM:4a013391",
+      "label": "Requirement of ER...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.241089",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Requirement of ER-localized versus PM-localized auxin transporters for optimal UPR activation",
+        "last_seen": "2025-10-05T07:29:04.241089",
+        "obo_id": "CUSTOM:4a013391"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Induction of UPR target genes (UPR activation)",
+      "id": "CUSTOM:6f745882",
+      "label": "Induction of UPR ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.234898",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Induction of UPR target genes (UPR activation)",
+        "last_seen": "2025-10-05T07:29:04.234898",
+        "obo_id": "CUSTOM:6f745882"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Role of IRE1 in ER stress-induced down regulation of auxin regulators",
+      "id": "CUSTOM:e9194b47",
+      "label": "Role of IRE1 in E...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.227200",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Role of IRE1 in ER stress-induced down regulation of auxin regulators",
+        "last_seen": "2025-10-05T07:29:04.227200",
+        "obo_id": "CUSTOM:e9194b47"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression/levels of auxin receptors (TIR1/AFBs) and auxin transporters (ER- and PM-localized PINs) upon ER stress",
+      "id": "CUSTOM:841c0ede",
+      "label": "Expression/levels...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.221397",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression/levels of auxin receptors (TIR1/AFBs) and auxin transporters (ER- and PM-localized PINs) upon ER stress",
+        "last_seen": "2025-10-05T07:29:04.221397",
+        "obo_id": "CUSTOM:841c0ede"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Auxin response upon external (exogenously applied) auxin",
+      "id": "CUSTOM:7b100f71",
+      "label": "Auxin response up...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.216065",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Auxin response upon external (exogenously applied) auxin",
+        "last_seen": "2025-10-05T07:29:04.216065",
+        "obo_id": "CUSTOM:7b100f71"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1224",
+      "source": "PMC3981873",
+      "target": "CUSTOM:97500330",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1222",
+      "source": "PMC3981873",
+      "target": "CUSTOM:9bc62aef",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1220",
+      "source": "PMC3981873",
+      "target": "CUSTOM:76085064",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1218",
+      "source": "PMC3981873",
+      "target": "CUSTOM:b8cac37d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1216",
+      "source": "PMC3981873",
+      "target": "CUSTOM:f468344d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1214",
+      "source": "PMC3981873",
+      "target": "CUSTOM:fef13eca",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1212",
+      "source": "PMC3981873",
+      "target": "CUSTOM:4a013391",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1210",
+      "source": "PMC3981873",
+      "target": "CUSTOM:6f745882",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1208",
+      "source": "PMC3981873",
+      "target": "CUSTOM:e9194b47",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1206",
+      "source": "PMC3981873",
+      "target": "CUSTOM:841c0ede",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1204",
+      "source": "PMC3981873",
+      "target": "CUSTOM:7b100f71",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

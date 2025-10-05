@@ -1,0 +1,285 @@
+{
+  "pmcid": "PMC4337661",
+  "nodes": [
+    {
+      "fullLabel": "PMC4337661",
+      "id": "PMC4337661",
+      "label": "PMC4337661",
+      "properties": {
+        "pmcid": "PMC4337661",
+        "first_seen": "2025-10-05T07:29:15.311805",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:15.411364"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "femoral mid shaft circularity",
+      "id": "CUSTOM:5252d8c0",
+      "label": "femoral mid shaft...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.413218",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "femoral mid shaft circularity",
+        "last_seen": "2025-10-05T07:29:15.413218",
+        "obo_id": "CUSTOM:5252d8c0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Imax/Imin bending strength index (longitudinal change in unloading group)",
+      "id": "CUSTOM:a477798e",
+      "label": "Imax/Imin bending...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.406977",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Imax/Imin bending strength index (longitudinal change in unloading group)",
+        "last_seen": "2025-10-05T07:29:15.406977",
+        "obo_id": "CUSTOM:a477798e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Imax/Imin bending strength index (longitudinal change in controls)",
+      "id": "CUSTOM:28c60d32",
+      "label": "Imax/Imin bending...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.400308",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Imax/Imin bending strength index (longitudinal change in controls)",
+        "last_seen": "2025-10-05T07:29:15.400308",
+        "obo_id": "CUSTOM:28c60d32"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "femoral mid shaft Imin (unloading vs controls)",
+      "id": "CUSTOM:e0d1d6e2",
+      "label": "femoral mid shaft...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.382921",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "femoral mid shaft Imin (unloading vs controls)",
+        "last_seen": "2025-10-05T07:29:15.382921",
+        "obo_id": "CUSTOM:e0d1d6e2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "femoral mid shaft Imax (unloading vs controls)",
+      "id": "CUSTOM:dcd0f770",
+      "label": "femoral mid shaft...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.375699",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "femoral mid shaft Imax (unloading vs controls)",
+        "last_seen": "2025-10-05T07:29:15.375699",
+        "obo_id": "CUSTOM:dcd0f770"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "femoral mid shaft Imin (hindlimb unloading longitudinal change)",
+      "id": "CUSTOM:8a08ed93",
+      "label": "femoral mid shaft...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.367980",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "femoral mid shaft Imin (hindlimb unloading longitudinal change)",
+        "last_seen": "2025-10-05T07:29:15.367980",
+        "obo_id": "CUSTOM:8a08ed93"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "femoral mid shaft Imax (hindlimb unloading longitudinal change)",
+      "id": "CUSTOM:348dc17d",
+      "label": "femoral mid shaft...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.361626",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "femoral mid shaft Imax (hindlimb unloading longitudinal change)",
+        "last_seen": "2025-10-05T07:29:15.361626",
+        "obo_id": "CUSTOM:348dc17d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "femoral mid shaft Imin (longitudinal change in controls)",
+      "id": "CUSTOM:b0606d96",
+      "label": "femoral mid shaft...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.355540",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "femoral mid shaft Imin (longitudinal change in controls)",
+        "last_seen": "2025-10-05T07:29:15.355540",
+        "obo_id": "CUSTOM:b0606d96"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "femoral mid shaft Imax (longitudinal change in controls)",
+      "id": "CUSTOM:60fdad82",
+      "label": "femoral mid shaft...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.347751",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "femoral mid shaft Imax (longitudinal change in controls)",
+        "last_seen": "2025-10-05T07:29:15.347751",
+        "obo_id": "CUSTOM:60fdad82"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Imax/Imin bending strength index",
+      "id": "CUSTOM:c575bb6d",
+      "label": "Imax/Imin bending...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.328655",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Imax/Imin bending strength index",
+        "last_seen": "2025-10-05T07:29:15.328655",
+        "obo_id": "CUSTOM:c575bb6d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "femoral mid shaft Imin",
+      "id": "CUSTOM:409d31d3",
+      "label": "femoral mid shaft...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.321393",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "femoral mid shaft Imin",
+        "last_seen": "2025-10-05T07:29:15.321393",
+        "obo_id": "CUSTOM:409d31d3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "femoral mid shaft Imax",
+      "id": "CUSTOM:3f92b41d",
+      "label": "femoral mid shaft...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.314012",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "femoral mid shaft Imax",
+        "last_seen": "2025-10-05T07:29:15.314012",
+        "obo_id": "CUSTOM:3f92b41d"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4256",
+      "source": "PMC4337661",
+      "target": "CUSTOM:5252d8c0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4254",
+      "source": "PMC4337661",
+      "target": "CUSTOM:a477798e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4252",
+      "source": "PMC4337661",
+      "target": "CUSTOM:28c60d32",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4250",
+      "source": "PMC4337661",
+      "target": "CUSTOM:e0d1d6e2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4248",
+      "source": "PMC4337661",
+      "target": "CUSTOM:dcd0f770",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4246",
+      "source": "PMC4337661",
+      "target": "CUSTOM:8a08ed93",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4244",
+      "source": "PMC4337661",
+      "target": "CUSTOM:348dc17d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4242",
+      "source": "PMC4337661",
+      "target": "CUSTOM:b0606d96",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4240",
+      "source": "PMC4337661",
+      "target": "CUSTOM:60fdad82",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4238",
+      "source": "PMC4337661",
+      "target": "CUSTOM:c575bb6d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4236",
+      "source": "PMC4337661",
+      "target": "CUSTOM:409d31d3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4234",
+      "source": "PMC4337661",
+      "target": "CUSTOM:3f92b41d",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 13,
+  "num_edges": 12
+}

@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC9144607",
+  "nodes": [
+    {
+      "fullLabel": "PMC9144607",
+      "id": "PMC9144607",
+      "label": "PMC9144607",
+      "properties": {
+        "pmcid": "PMC9144607",
+        "first_seen": "2025-10-05T07:29:06.652410",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.684717"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "influence of a microbial cell's immediate physical environment on population and community behaviors",
+      "id": "CUSTOM:4cd656a8",
+      "label": "influence of a mi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.686654",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "influence of a microbial cell's immediate physical environment on population and community behaviors",
+        "last_seen": "2025-10-05T07:29:06.686654",
+        "obo_id": "CUSTOM:4cd656a8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "population growth rate (RWV effect)",
+      "id": "CUSTOM:da076f45",
+      "label": "population growth...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.681357",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "population growth rate (RWV effect)",
+        "last_seen": "2025-10-05T07:29:06.681357",
+        "obo_id": "CUSTOM:da076f45"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "computational overhead",
+      "id": "CUSTOM:cff84d0d",
+      "label": "computational ove...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.675028",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "computational overhead",
+        "last_seen": "2025-10-05T07:29:06.675028",
+        "obo_id": "CUSTOM:cff84d0d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "timescale of simulation",
+      "id": "CUSTOM:e7eb1da2",
+      "label": "timescale of simu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.670244",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "timescale of simulation",
+        "last_seen": "2025-10-05T07:29:06.670244",
+        "obo_id": "CUSTOM:e7eb1da2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "sedimentation",
+      "id": "CUSTOM:01a0f0e7",
+      "label": "sedimentation",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.664820",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "sedimentation",
+        "last_seen": "2025-10-05T07:29:06.664820",
+        "obo_id": "CUSTOM:01a0f0e7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "metabolite uptake",
+      "id": "CUSTOM:4c44bb48",
+      "label": "metabolite uptake",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.660026",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "metabolite uptake",
+        "last_seen": "2025-10-05T07:29:06.660026",
+        "obo_id": "CUSTOM:4c44bb48"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mass transfer",
+      "id": "CUSTOM:7bfd0640",
+      "label": "mass transfer",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.654306",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mass transfer",
+        "last_seen": "2025-10-05T07:29:06.654306",
+        "obo_id": "CUSTOM:7bfd0640"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1992",
+      "source": "PMC9144607",
+      "target": "CUSTOM:4cd656a8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1990",
+      "source": "PMC9144607",
+      "target": "CUSTOM:da076f45",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1988",
+      "source": "PMC9144607",
+      "target": "CUSTOM:cff84d0d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1986",
+      "source": "PMC9144607",
+      "target": "CUSTOM:e7eb1da2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1984",
+      "source": "PMC9144607",
+      "target": "CUSTOM:01a0f0e7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1982",
+      "source": "PMC9144607",
+      "target": "CUSTOM:4c44bb48",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1980",
+      "source": "PMC9144607",
+      "target": "CUSTOM:7bfd0640",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

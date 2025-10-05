@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC11302229",
+  "nodes": [
+    {
+      "fullLabel": "PMC11302229",
+      "id": "PMC11302229",
+      "label": "PMC11302229",
+      "properties": {
+        "pmcid": "PMC11302229",
+        "first_seen": "2025-10-05T07:29:03.740809",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.753362"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "increased abundance of JUb19 (putative gut resident microbe) in srf 3 mutant",
+      "id": "CUSTOM:62d37db8",
+      "label": "increased abundan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.755488",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "increased abundance of JUb19 (putative gut resident microbe) in srf 3 mutant",
+        "last_seen": "2025-10-05T07:29:03.755488",
+        "obo_id": "CUSTOM:62d37db8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "increased abundance of JUb19 (putative gut resident microbe) in dpy 8 mutant",
+      "id": "CUSTOM:5fe34d7a",
+      "label": "increased abundan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.748781",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "increased abundance of JUb19 (putative gut resident microbe) in dpy 8 mutant",
+        "last_seen": "2025-10-05T07:29:03.748781",
+        "obo_id": "CUSTOM:5fe34d7a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "increased abundance of JUb19 (putative gut resident microbe) in bus 8 mutant",
+      "id": "CUSTOM:4c1d5026",
+      "label": "increased abundan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.742856",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "increased abundance of JUb19 (putative gut resident microbe) in bus 8 mutant",
+        "last_seen": "2025-10-05T07:29:03.742856",
+        "obo_id": "CUSTOM:4c1d5026"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1038",
+      "source": "PMC11302229",
+      "target": "CUSTOM:62d37db8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1036",
+      "source": "PMC11302229",
+      "target": "CUSTOM:5fe34d7a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1034",
+      "source": "PMC11302229",
+      "target": "CUSTOM:4c1d5026",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

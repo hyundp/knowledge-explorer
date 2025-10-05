@@ -1,0 +1,527 @@
+{
+  "pmcid": "PMC8953707",
+  "nodes": [
+    {
+      "fullLabel": "PMC8953707",
+      "id": "PMC8953707",
+      "label": "PMC8953707",
+      "properties": {
+        "pmcid": "PMC8953707",
+        "first_seen": "2025-10-05T07:29:11.759997",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:11.935140"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "scalability and expandability of networks for identifying repurposable drugs",
+      "id": "CUSTOM:d2ccd118",
+      "label": "scalability and e...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.937354",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "scalability and expandability of networks for identifying repurposable drugs",
+        "last_seen": "2025-10-05T07:29:11.937354",
+        "obo_id": "CUSTOM:d2ccd118"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "GeneLab datasets mined",
+      "id": "CUSTOM:99d5ae54",
+      "label": "GeneLab datasets ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.929708",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "GeneLab datasets mined",
+        "last_seen": "2025-10-05T07:29:11.929708",
+        "obo_id": "CUSTOM:99d5ae54"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "top-ranking drugs identified as novel candidates for management of skeletal muscle atrophy in spaceflight microgravity",
+      "id": "CUSTOM:bd6a07f9",
+      "label": "top-ranking drugs...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.923773",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "top-ranking drugs identified as novel candidates for management of skeletal muscle atrophy in spaceflight microgravity",
+        "last_seen": "2025-10-05T07:29:11.923773",
+        "obo_id": "CUSTOM:bd6a07f9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "activation of main gene regulators of skeletal muscle atrophy in other diseases",
+      "id": "CUSTOM:d9db80b0",
+      "label": "activation of mai...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.917976",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "activation of main gene regulators of skeletal muscle atrophy in other diseases",
+        "last_seen": "2025-10-05T07:29:11.917976",
+        "obo_id": "CUSTOM:d9db80b0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "key genes that give rise to skeletal muscle atrophy in spaceflight microgravity (identified)",
+      "id": "CUSTOM:f9514c69",
+      "label": "key genes that gi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.912204",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "key genes that give rise to skeletal muscle atrophy in spaceflight microgravity (identified)",
+        "last_seen": "2025-10-05T07:29:11.912204",
+        "obo_id": "CUSTOM:f9514c69"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "skeletal muscle atrophy severity in animal models flown in spaceflight missions",
+      "id": "CUSTOM:0cf7cb07",
+      "label": "skeletal muscle a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.906019",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "skeletal muscle atrophy severity in animal models flown in spaceflight missions",
+        "last_seen": "2025-10-05T07:29:11.906019",
+        "obo_id": "CUSTOM:0cf7cb07"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "availability of approved drugs for skeletal muscle atrophy",
+      "id": "CUSTOM:c7f1b06f",
+      "label": "availability of a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.900308",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "availability of approved drugs for skeletal muscle atrophy",
+        "last_seen": "2025-10-05T07:29:11.900308",
+        "obo_id": "CUSTOM:c7f1b06f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mortality",
+      "id": "CUSTOM:5e1447cd",
+      "label": "mortality",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.894164",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mortality",
+        "last_seen": "2025-10-05T07:29:11.894164",
+        "obo_id": "CUSTOM:5e1447cd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "morbidity",
+      "id": "CUSTOM:cc0c79e7",
+      "label": "morbidity",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.875610",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "morbidity",
+        "last_seen": "2025-10-05T07:29:11.875610",
+        "obo_id": "CUSTOM:cc0c79e7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "relative performance of GCN versus other ML methods for link prediction in GDKG and DDKG",
+      "id": "CUSTOM:fef64fd4",
+      "label": "relative performa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.867607",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "relative performance of GCN versus other ML methods for link prediction in GDKG and DDKG",
+        "last_seen": "2025-10-05T07:29:11.867607",
+        "obo_id": "CUSTOM:fef64fd4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "accuracy of preferential attachment link prediction on the DDKG",
+      "id": "CUSTOM:86dba972",
+      "label": "accuracy of prefe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.860404",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "accuracy of preferential attachment link prediction on the DDKG",
+        "last_seen": "2025-10-05T07:29:11.860404",
+        "obo_id": "CUSTOM:86dba972"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "accuracy of preferential attachment link prediction on the GDKG",
+      "id": "CUSTOM:7e66b07c",
+      "label": "accuracy of prefe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.853491",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "accuracy of preferential attachment link prediction on the GDKG",
+        "last_seen": "2025-10-05T07:29:11.853491",
+        "obo_id": "CUSTOM:7e66b07c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "testing fraction used for link prediction on the Disease Drug Knowledge Graph (DDKG)",
+      "id": "CUSTOM:361180fc",
+      "label": "testing fraction ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.845844",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "testing fraction used for link prediction on the Disease Drug Knowledge Graph (DDKG)",
+        "last_seen": "2025-10-05T07:29:11.845844",
+        "obo_id": "CUSTOM:361180fc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "training fraction used for link prediction on the Disease Drug Knowledge Graph (DDKG)",
+      "id": "CUSTOM:d3c1a347",
+      "label": "training fraction...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.839839",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "training fraction used for link prediction on the Disease Drug Knowledge Graph (DDKG)",
+        "last_seen": "2025-10-05T07:29:11.839839",
+        "obo_id": "CUSTOM:d3c1a347"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "testing fraction used for link prediction on the Gene Disease Knowledge Graph (GDKG)",
+      "id": "CUSTOM:d9db2b5f",
+      "label": "testing fraction ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.831716",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "testing fraction used for link prediction on the Gene Disease Knowledge Graph (GDKG)",
+        "last_seen": "2025-10-05T07:29:11.831716",
+        "obo_id": "CUSTOM:d9db2b5f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "training fraction used for link prediction on the Gene Disease Knowledge Graph (GDKG)",
+      "id": "CUSTOM:128bfda9",
+      "label": "training fraction...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.811485",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "training fraction used for link prediction on the Gene Disease Knowledge Graph (GDKG)",
+        "last_seen": "2025-10-05T07:29:11.811485",
+        "obo_id": "CUSTOM:128bfda9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "new gene-disease associations predicted by the GCN",
+      "id": "CUSTOM:eb50932a",
+      "label": "new gene-disease ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.804346",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "new gene-disease associations predicted by the GCN",
+        "last_seen": "2025-10-05T07:29:11.804346",
+        "obo_id": "CUSTOM:eb50932a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "diseases related to muscle atrophy identified using SPOKE",
+      "id": "CUSTOM:6c7c61db",
+      "label": "diseases related ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.795372",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "diseases related to muscle atrophy identified using SPOKE",
+        "last_seen": "2025-10-05T07:29:11.795372",
+        "obo_id": "CUSTOM:6c7c61db"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "genes identified by Incremental Association Markov Blanket (IAMB) (type of relation identified)",
+      "id": "CUSTOM:142879a6",
+      "label": "genes identified ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.788946",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "genes identified by Incremental Association Markov Blanket (IAMB) (type of relation identified)",
+        "last_seen": "2025-10-05T07:29:11.788946",
+        "obo_id": "CUSTOM:142879a6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "genes identified by Pearson correlation (type of relation identified)",
+      "id": "CUSTOM:3447be0c",
+      "label": "genes identified ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.782097",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "genes identified by Pearson correlation (type of relation identified)",
+        "last_seen": "2025-10-05T07:29:11.782097",
+        "obo_id": "CUSTOM:3447be0c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "role of the 473 genes as regulators of skeletal muscle atrophy in spaceflight",
+      "id": "CUSTOM:b791b591",
+      "label": "role of the 473 g...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.775545",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "role of the 473 genes as regulators of skeletal muscle atrophy in spaceflight",
+        "last_seen": "2025-10-05T07:29:11.775545",
+        "obo_id": "CUSTOM:b791b591"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "most significantly regulated genes identified from the seven datasets",
+      "id": "CUSTOM:36f26231",
+      "label": "most significantl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.768757",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "most significantly regulated genes identified from the seven datasets",
+        "last_seen": "2025-10-05T07:29:11.768757",
+        "obo_id": "CUSTOM:36f26231"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "gene expression datasets expression value count per dataset",
+      "id": "CUSTOM:5ff118a2",
+      "label": "gene expression d...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.761904",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "gene expression datasets expression value count per dataset",
+        "last_seen": "2025-10-05T07:29:11.761904",
+        "obo_id": "CUSTOM:5ff118a2"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3444",
+      "source": "PMC8953707",
+      "target": "CUSTOM:d2ccd118",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3442",
+      "source": "PMC8953707",
+      "target": "CUSTOM:99d5ae54",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3440",
+      "source": "PMC8953707",
+      "target": "CUSTOM:bd6a07f9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3438",
+      "source": "PMC8953707",
+      "target": "CUSTOM:d9db80b0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3436",
+      "source": "PMC8953707",
+      "target": "CUSTOM:f9514c69",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3434",
+      "source": "PMC8953707",
+      "target": "CUSTOM:0cf7cb07",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3432",
+      "source": "PMC8953707",
+      "target": "CUSTOM:c7f1b06f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3430",
+      "source": "PMC8953707",
+      "target": "CUSTOM:5e1447cd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3428",
+      "source": "PMC8953707",
+      "target": "CUSTOM:cc0c79e7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3426",
+      "source": "PMC8953707",
+      "target": "CUSTOM:fef64fd4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3424",
+      "source": "PMC8953707",
+      "target": "CUSTOM:86dba972",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3422",
+      "source": "PMC8953707",
+      "target": "CUSTOM:7e66b07c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3420",
+      "source": "PMC8953707",
+      "target": "CUSTOM:361180fc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3418",
+      "source": "PMC8953707",
+      "target": "CUSTOM:d3c1a347",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3416",
+      "source": "PMC8953707",
+      "target": "CUSTOM:d9db2b5f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3414",
+      "source": "PMC8953707",
+      "target": "CUSTOM:128bfda9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3412",
+      "source": "PMC8953707",
+      "target": "CUSTOM:eb50932a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3410",
+      "source": "PMC8953707",
+      "target": "CUSTOM:6c7c61db",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3408",
+      "source": "PMC8953707",
+      "target": "CUSTOM:142879a6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3406",
+      "source": "PMC8953707",
+      "target": "CUSTOM:3447be0c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3404",
+      "source": "PMC8953707",
+      "target": "CUSTOM:b791b591",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3402",
+      "source": "PMC8953707",
+      "target": "CUSTOM:36f26231",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3400",
+      "source": "PMC8953707",
+      "target": "CUSTOM:5ff118a2",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 24,
+  "num_edges": 23
+}

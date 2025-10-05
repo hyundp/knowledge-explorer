@@ -1,0 +1,23 @@
+{
+  "pmcid": "PMC7825584",
+  "title": "Mechanotransduction in Prokaryotes: A Possible Mechanism of Spaceflight Adaptation",
+  "authors": [
+    "Patricia Fajardo Cavazos",
+    "Wayne L Nicholson"
+  ],
+  "year": "2021",
+  "journal": "Life",
+  "doi": "10.3390/life11010033",
+  "sections": {
+    "abstract": "Our understanding of the mechanisms of microgravity perception and response in prokaryotes (Bacteria and Archaea) lag behind those which have been elucidated in eukaryotic organisms. In this hypothesis paper, we: (i) review how eukaryotic cells sense and respond to microgravity using various pathways responsive to unloading of mechanical stress; (ii) we observe that prokaryotic cells possess many structures analogous to mechanosensitive structures in eukaryotes; (iii) we review current evidence indicating that prokaryotes also possess active mechanosensing and mechanotransduction mechanisms; and (iv) we propose a complete mechanotransduction model including mechanisms by which mechanical signals may be transduced to the gene expression apparatus through alterations in bacterial nucleoid architecture, DNA supercoiling, and epigenetic pathways.\n\nKeywords:bacteria, gravity, mechanosensing, mechanotransduction",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:05:00.087634",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7825584/"
+  }
+}

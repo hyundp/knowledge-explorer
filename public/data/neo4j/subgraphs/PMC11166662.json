@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC11166662",
+  "nodes": [
+    {
+      "fullLabel": "PMC11166662",
+      "id": "PMC11166662",
+      "label": "PMC11166662",
+      "properties": {
+        "pmcid": "PMC11166662",
+        "first_seen": "2025-10-05T07:29:15.530647",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:15.643062"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "performance of select, targeted clinical lab measures immediately after sample collection",
+      "id": "CUSTOM:4d2b9c3a",
+      "label": "performance of se...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.656372",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "performance of select, targeted clinical lab measures immediately after sample collection",
+        "last_seen": "2025-10-05T07:29:15.656372",
+        "obo_id": "CUSTOM:4d2b9c3a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "recommended optimal storage temperature for samples",
+      "id": "CUSTOM:46c27c0d",
+      "label": "recommended optim...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.637423",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "recommended optimal storage temperature for samples",
+        "last_seen": "2025-10-05T07:29:15.637423",
+        "obo_id": "CUSTOM:46c27c0d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "risk of amplification of noise, overfitting, and false discoveries in multi-omic studies with small subject numbers",
+      "id": "CUSTOM:0b3b8342",
+      "label": "risk of amplifica...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.614030",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "risk of amplification of noise, overfitting, and false discoveries in multi-omic studies with small subject numbers",
+        "last_seen": "2025-10-05T07:29:15.614030",
+        "obo_id": "CUSTOM:0b3b8342"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "experimental variance introduced by freeze-thaw cycles",
+      "id": "CUSTOM:8b2037ba",
+      "label": "experimental vari...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.607099",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "experimental variance introduced by freeze-thaw cycles",
+        "last_seen": "2025-10-05T07:29:15.607099",
+        "obo_id": "CUSTOM:8b2037ba"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "statistical power when assessing changes attributable to spaceflight from longitudinal sampling",
+      "id": "CUSTOM:263c1f79",
+      "label": "statistical power...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.600187",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "statistical power when assessing changes attributable to spaceflight from longitudinal sampling",
+        "last_seen": "2025-10-05T07:29:15.600187",
+        "obo_id": "CUSTOM:263c1f79"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "temperature exposure of biospecimens during flight",
+      "id": "CUSTOM:c88bc96f",
+      "label": "temperature expos...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.583210",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "temperature exposure of biospecimens during flight",
+        "last_seen": "2025-10-05T07:29:15.583210",
+        "obo_id": "CUSTOM:c88bc96f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "profile of saliva samples collected during flight",
+      "id": "CUSTOM:0ac4136a",
+      "label": "profile of saliva...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.576017",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "profile of saliva samples collected during flight",
+        "last_seen": "2025-10-05T07:29:15.576017",
+        "obo_id": "CUSTOM:0ac4136a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "stability of capillary blood collected on dried blood spot cards at room temperature during flight",
+      "id": "CUSTOM:dba5c1cf",
+      "label": "stability of capi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.568616",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "stability of capillary blood collected on dried blood spot cards at room temperature during flight",
+        "last_seen": "2025-10-05T07:29:15.568616",
+        "obo_id": "CUSTOM:dba5c1cf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "stability of skin/capsule swabs stored in DNA/RNA shield at room temperature during flight",
+      "id": "CUSTOM:93fda342",
+      "label": "stability of skin...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.550636",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "stability of skin/capsule swabs stored in DNA/RNA shield at room temperature during flight",
+        "last_seen": "2025-10-05T07:29:15.550636",
+        "obo_id": "CUSTOM:93fda342"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4306",
+      "source": "PMC11166662",
+      "target": "CUSTOM:4d2b9c3a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4304",
+      "source": "PMC11166662",
+      "target": "CUSTOM:46c27c0d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4302",
+      "source": "PMC11166662",
+      "target": "CUSTOM:0b3b8342",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4300",
+      "source": "PMC11166662",
+      "target": "CUSTOM:8b2037ba",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4298",
+      "source": "PMC11166662",
+      "target": "CUSTOM:263c1f79",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4296",
+      "source": "PMC11166662",
+      "target": "CUSTOM:c88bc96f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4294",
+      "source": "PMC11166662",
+      "target": "CUSTOM:0ac4136a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4292",
+      "source": "PMC11166662",
+      "target": "CUSTOM:dba5c1cf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4290",
+      "source": "PMC11166662",
+      "target": "CUSTOM:93fda342",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

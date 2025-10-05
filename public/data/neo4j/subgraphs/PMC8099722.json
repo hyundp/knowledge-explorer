@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC8099722",
+  "nodes": [
+    {
+      "fullLabel": "PMC8099722",
+      "id": "PMC8099722",
+      "label": "PMC8099722",
+      "properties": {
+        "pmcid": "PMC8099722",
+        "first_seen": "2025-10-05T07:29:14.178618",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:14.248867"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Microbiome health (impact of long term confinement)",
+      "id": "CUSTOM:79cf28b1",
+      "label": "Microbiome health...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.251238",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microbiome health (impact of long term confinement)",
+        "last_seen": "2025-10-05T07:29:14.251238",
+        "obo_id": "CUSTOM:79cf28b1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Species-level microbiome alterations aligning with astronaut symptoms (across international Mars500 studies)",
+      "id": "CUSTOM:2b120b9d",
+      "label": "Species-level mic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.242759",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Species-level microbiome alterations aligning with astronaut symptoms (across international Mars500 studies)",
+        "last_seen": "2025-10-05T07:29:14.242759",
+        "obo_id": "CUSTOM:2b120b9d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Associations between gut (faecal) and environmental microbiomes",
+      "id": "CUSTOM:8408f84a",
+      "label": "Associations betw...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.233414",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Associations between gut (faecal) and environmental microbiomes",
+        "last_seen": "2025-10-05T07:29:14.233414",
+        "obo_id": "CUSTOM:8408f84a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Insulin resistance (symptom)",
+      "id": "CUSTOM:9e6afc16",
+      "label": "Insulin resistanc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.225248",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Insulin resistance (symptom)",
+        "last_seen": "2025-10-05T07:29:14.225248",
+        "obo_id": "CUSTOM:9e6afc16"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Intestinal inflammation (symptom)",
+      "id": "CUSTOM:e5cc8275",
+      "label": "Intestinal inflam...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.216574",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Intestinal inflammation (symptom)",
+        "last_seen": "2025-10-05T07:29:14.216574",
+        "obo_id": "CUSTOM:e5cc8275"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Major anti inflammatory gastrointestinal tract bacteria (abundance)",
+      "id": "CUSTOM:07d7b9b9",
+      "label": "Major anti inflam...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.207132",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Major anti inflammatory gastrointestinal tract bacteria (abundance)",
+        "last_seen": "2025-10-05T07:29:14.207132",
+        "obo_id": "CUSTOM:07d7b9b9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Abundance of unknown microbiome species",
+      "id": "CUSTOM:2e5f5d1d",
+      "label": "Abundance of unkn...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.200345",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Abundance of unknown microbiome species",
+        "last_seen": "2025-10-05T07:29:14.200345",
+        "obo_id": "CUSTOM:2e5f5d1d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Abundance of known bacteria (microbiome)",
+      "id": "CUSTOM:b624cad7",
+      "label": "Abundance of know...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.191245",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Abundance of known bacteria (microbiome)",
+        "last_seen": "2025-10-05T07:29:14.191245",
+        "obo_id": "CUSTOM:b624cad7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Relative abundance of astronaut microbiome species",
+      "id": "CUSTOM:40f81ad8",
+      "label": "Relative abundanc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.181069",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Relative abundance of astronaut microbiome species",
+        "last_seen": "2025-10-05T07:29:14.181069",
+        "obo_id": "CUSTOM:40f81ad8"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4016",
+      "source": "PMC8099722",
+      "target": "CUSTOM:79cf28b1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4014",
+      "source": "PMC8099722",
+      "target": "CUSTOM:2b120b9d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4012",
+      "source": "PMC8099722",
+      "target": "CUSTOM:8408f84a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4010",
+      "source": "PMC8099722",
+      "target": "CUSTOM:9e6afc16",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4008",
+      "source": "PMC8099722",
+      "target": "CUSTOM:e5cc8275",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4006",
+      "source": "PMC8099722",
+      "target": "CUSTOM:07d7b9b9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4004",
+      "source": "PMC8099722",
+      "target": "CUSTOM:2e5f5d1d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4002",
+      "source": "PMC8099722",
+      "target": "CUSTOM:b624cad7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4000",
+      "source": "PMC8099722",
+      "target": "CUSTOM:40f81ad8",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

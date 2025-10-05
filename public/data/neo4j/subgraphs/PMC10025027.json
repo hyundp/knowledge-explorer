@@ -1,0 +1,241 @@
+{
+  "pmcid": "PMC10025027",
+  "nodes": [
+    {
+      "fullLabel": "PMC10025027",
+      "id": "PMC10025027",
+      "label": "PMC10025027",
+      "properties": {
+        "pmcid": "PMC10025027",
+        "first_seen": "2025-10-05T07:29:16.665948",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:16.730084"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "performance of cauliflower crops",
+      "id": "CUSTOM:c73aa023",
+      "label": "performance of ca...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.732162",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "performance of cauliflower crops",
+        "last_seen": "2025-10-05T07:29:16.732162",
+        "obo_id": "CUSTOM:c73aa023"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "metabolite activation",
+      "id": "CUSTOM:8a8f8371",
+      "label": "metabolite activa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.725429",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "metabolite activation",
+        "last_seen": "2025-10-05T07:29:16.725429",
+        "obo_id": "CUSTOM:8a8f8371"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "synchronized growth",
+      "id": "CUSTOM:aad8ca2e",
+      "label": "synchronized growth",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.717702",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "synchronized growth",
+        "last_seen": "2025-10-05T07:29:16.717702",
+        "obo_id": "CUSTOM:aad8ca2e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "germination rate",
+      "id": "CUSTOM:87216ea4",
+      "label": "germination rate",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.710880",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "germination rate",
+        "last_seen": "2025-10-05T07:29:16.710880",
+        "obo_id": "CUSTOM:87216ea4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "photosynthetic pigments",
+      "id": "CUSTOM:4629d02f",
+      "label": "photosynthetic pi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.703442",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "photosynthetic pigments",
+        "last_seen": "2025-10-05T07:29:16.703442",
+        "obo_id": "CUSTOM:4629d02f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "total soluble protein",
+      "id": "CUSTOM:bad6b157",
+      "label": "total soluble pro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.695601",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "total soluble protein",
+        "last_seen": "2025-10-05T07:29:16.695601",
+        "obo_id": "CUSTOM:bad6b157"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "lipid peroxidation (membrane damage)",
+      "id": "CUSTOM:c4fa6b47",
+      "label": "lipid peroxidatio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.688843",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "lipid peroxidation (membrane damage)",
+        "last_seen": "2025-10-05T07:29:16.688843",
+        "obo_id": "CUSTOM:c4fa6b47"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "MDA levels",
+      "id": "CUSTOM:fdb5ca2e",
+      "label": "MDA levels",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.682325",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "MDA levels",
+        "last_seen": "2025-10-05T07:29:16.682325",
+        "obo_id": "CUSTOM:fdb5ca2e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "proline accumulation",
+      "id": "CUSTOM:ef3027d7",
+      "label": "proline accumulation",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.675366",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "proline accumulation",
+        "last_seen": "2025-10-05T07:29:16.675366",
+        "obo_id": "CUSTOM:ef3027d7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "germination indices and other morphophysiological traits",
+      "id": "CUSTOM:bb138dd1",
+      "label": "germination indic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.668530",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "germination indices and other morphophysiological traits",
+        "last_seen": "2025-10-05T07:29:16.668530",
+        "obo_id": "CUSTOM:bb138dd1"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4590",
+      "source": "PMC10025027",
+      "target": "CUSTOM:c73aa023",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4588",
+      "source": "PMC10025027",
+      "target": "CUSTOM:8a8f8371",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4586",
+      "source": "PMC10025027",
+      "target": "CUSTOM:aad8ca2e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4584",
+      "source": "PMC10025027",
+      "target": "CUSTOM:87216ea4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4582",
+      "source": "PMC10025027",
+      "target": "CUSTOM:4629d02f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4580",
+      "source": "PMC10025027",
+      "target": "CUSTOM:bad6b157",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4578",
+      "source": "PMC10025027",
+      "target": "CUSTOM:c4fa6b47",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4576",
+      "source": "PMC10025027",
+      "target": "CUSTOM:fdb5ca2e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4574",
+      "source": "PMC10025027",
+      "target": "CUSTOM:ef3027d7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4572",
+      "source": "PMC10025027",
+      "target": "CUSTOM:bb138dd1",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 11,
+  "num_edges": 10
+}

@@ -1,0 +1,65 @@
+{
+  "pmcid": "PMC5421618",
+  "nodes": [
+    {
+      "fullLabel": "PMC5421618",
+      "id": "PMC5421618",
+      "label": "PMC5421618",
+      "properties": {
+        "pmcid": "PMC5421618",
+        "first_seen": "2025-10-05T07:29:03.781700",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.786202"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "confounding of interpretation of studies utilizing mice as preclinical models for osteoporosis",
+      "id": "CUSTOM:3ca4510b",
+      "label": "confounding of in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.788129",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "confounding of interpretation of studies utilizing mice as preclinical models for osteoporosis",
+        "last_seen": "2025-10-05T07:29:03.788129",
+        "obo_id": "CUSTOM:3ca4510b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "premature cancellous bone loss",
+      "id": "CUSTOM:f0f99960",
+      "label": "premature cancell...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.783408",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "premature cancellous bone loss",
+        "last_seen": "2025-10-05T07:29:03.783408",
+        "obo_id": "CUSTOM:f0f99960"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1052",
+      "source": "PMC5421618",
+      "target": "CUSTOM:3ca4510b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1050",
+      "source": "PMC5421618",
+      "target": "CUSTOM:f0f99960",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 3,
+  "num_edges": 2
+}

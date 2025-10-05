@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC10344948",
+  "nodes": [
+    {
+      "fullLabel": "PMC10344948",
+      "id": "PMC10344948",
+      "label": "PMC10344948",
+      "properties": {
+        "pmcid": "PMC10344948",
+        "first_seen": "2025-10-05T07:29:03.057693",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.092674"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Major transcriptional signatures reproducible despite differences in culturing conditions",
+      "id": "CUSTOM:af10bb02",
+      "label": "Major transcripti...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.094519",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Major transcriptional signatures reproducible despite differences in culturing conditions",
+        "last_seen": "2025-10-05T07:29:03.094519",
+        "obo_id": "CUSTOM:af10bb02"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Muscle decline (pathophysiological phenotype associated with microgravity)",
+      "id": "CUSTOM:dc911216",
+      "label": "Muscle decline (p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.089162",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Muscle decline (pathophysiological phenotype associated with microgravity)",
+        "last_seen": "2025-10-05T07:29:03.089162",
+        "obo_id": "CUSTOM:dc911216"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Abundance of metabolic proteins",
+      "id": "CUSTOM:c656ba0a",
+      "label": "Abundance of meta...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.083001",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Abundance of metabolic proteins",
+        "last_seen": "2025-10-05T07:29:03.083001",
+        "obo_id": "CUSTOM:c656ba0a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Abundance of cytoskeletal proteins",
+      "id": "CUSTOM:0c79b302",
+      "label": "Abundance of cyto...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.076045",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Abundance of cytoskeletal proteins",
+        "last_seen": "2025-10-05T07:29:03.076045",
+        "obo_id": "CUSTOM:0c79b302"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Regulation of genes related to muscle locomotion and metabolism (transcriptional responses)",
+      "id": "CUSTOM:b35aac27",
+      "label": "Regulation of gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.070419",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Regulation of genes related to muscle locomotion and metabolism (transcriptional responses)",
+        "last_seen": "2025-10-05T07:29:03.070419",
+        "obo_id": "CUSTOM:b35aac27"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Responses to microgravity at the level of the transcriptome, proteome, and epigenome",
+      "id": "CUSTOM:807eee07",
+      "label": "Responses to micr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.064686",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Responses to microgravity at the level of the transcriptome, proteome, and epigenome",
+        "last_seen": "2025-10-05T07:29:03.064686",
+        "obo_id": "CUSTOM:807eee07"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "C. elegans is a cheap and feasible organism to study the mechanisms regulating phenotypic adaptations in response to microgravity",
+      "id": "CUSTOM:b8e5a31b",
+      "label": "C. elegans is a c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.059706",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "C. elegans is a cheap and feasible organism to study the mechanisms regulating phenotypic adaptations in response to microgravity",
+        "last_seen": "2025-10-05T07:29:03.059706",
+        "obo_id": "CUSTOM:b8e5a31b"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "816",
+      "source": "PMC10344948",
+      "target": "CUSTOM:af10bb02",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "814",
+      "source": "PMC10344948",
+      "target": "CUSTOM:dc911216",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "812",
+      "source": "PMC10344948",
+      "target": "CUSTOM:c656ba0a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "810",
+      "source": "PMC10344948",
+      "target": "CUSTOM:0c79b302",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "808",
+      "source": "PMC10344948",
+      "target": "CUSTOM:b35aac27",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "806",
+      "source": "PMC10344948",
+      "target": "CUSTOM:807eee07",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "804",
+      "source": "PMC10344948",
+      "target": "CUSTOM:b8e5a31b",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC10764921",
+  "nodes": [
+    {
+      "fullLabel": "PMC10764921",
+      "id": "PMC10764921",
+      "label": "PMC10764921",
+      "properties": {
+        "pmcid": "PMC10764921",
+        "first_seen": "2025-10-05T07:29:15.114962",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:15.168320"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "relative growth rate compared to other higher plants (example: lettuce)",
+      "id": "CUSTOM:505439a9",
+      "label": "relative growth r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.187821",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "relative growth rate compared to other higher plants (example: lettuce)",
+        "last_seen": "2025-10-05T07:29:15.187821",
+        "obo_id": "CUSTOM:505439a9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "frond elongation (shape ratio relative to longer side)",
+      "id": "CUSTOM:f95b0abc",
+      "label": "frond elongation ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.163303",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "frond elongation (shape ratio relative to longer side)",
+        "last_seen": "2025-10-05T07:29:15.163303",
+        "obo_id": "CUSTOM:f95b0abc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "frond length (long and short sides)",
+      "id": "CUSTOM:54447e3e",
+      "label": "frond length (lon...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.153618",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "frond length (long and short sides)",
+        "last_seen": "2025-10-05T07:29:15.153618",
+        "obo_id": "CUSTOM:54447e3e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "growth rate",
+      "id": "CUSTOM:da49917b",
+      "label": "growth rate",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.144847",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "growth rate",
+        "last_seen": "2025-10-05T07:29:15.144847",
+        "obo_id": "CUSTOM:da49917b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "relative growth rate (control)",
+      "id": "CUSTOM:94314887",
+      "label": "relative growth r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.135797",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "relative growth rate (control)",
+        "last_seen": "2025-10-05T07:29:15.135797",
+        "obo_id": "CUSTOM:94314887"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "relative growth rate",
+      "id": "CUSTOM:c104657c",
+      "label": "relative growth rate",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.125564",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "relative growth rate",
+        "last_seen": "2025-10-05T07:29:15.125564",
+        "obo_id": "CUSTOM:c104657c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "relative growth rate",
+      "id": "CUSTOM:f606c1b7",
+      "label": "relative growth rate",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.117327",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "relative growth rate",
+        "last_seen": "2025-10-05T07:29:15.117327",
+        "obo_id": "CUSTOM:f606c1b7"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4204",
+      "source": "PMC10764921",
+      "target": "CUSTOM:505439a9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4202",
+      "source": "PMC10764921",
+      "target": "CUSTOM:f95b0abc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4200",
+      "source": "PMC10764921",
+      "target": "CUSTOM:54447e3e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4198",
+      "source": "PMC10764921",
+      "target": "CUSTOM:da49917b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4196",
+      "source": "PMC10764921",
+      "target": "CUSTOM:94314887",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4194",
+      "source": "PMC10764921",
+      "target": "CUSTOM:c104657c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4192",
+      "source": "PMC10764921",
+      "target": "CUSTOM:f606c1b7",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

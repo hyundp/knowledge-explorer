@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC6638264",
+  "nodes": [
+    {
+      "fullLabel": "PMC6638264",
+      "id": "PMC6638264",
+      "label": "PMC6638264",
+      "properties": {
+        "pmcid": "PMC6638264",
+        "first_seen": "2025-10-05T07:29:08.153316",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.221571"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "effectiveness of Magnaporthe oryzae to infect rice after pretreatment with antipsychotic drugs that inhibit ectoNTPDases",
+      "id": "CUSTOM:5b7dcb29",
+      "label": "effectiveness of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.223507",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "effectiveness of Magnaporthe oryzae to infect rice after pretreatment with antipsychotic drugs that inhibit ectoNTPDases",
+        "last_seen": "2025-10-05T07:29:08.223507",
+        "obo_id": "CUSTOM:5b7dcb29"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "effectiveness of tebuconazole to prevent fungal growth on infected wheat seeds when combined with apyrase inhibitor AI.1",
+      "id": "CUSTOM:dd11f252",
+      "label": "effectiveness of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.218159",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "effectiveness of tebuconazole to prevent fungal growth on infected wheat seeds when combined with apyrase inhibitor AI.1",
+        "last_seen": "2025-10-05T07:29:08.218159",
+        "obo_id": "CUSTOM:dd11f252"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "relative inhibitory effectiveness of the four inhibitors against apyrase versus other phosphatases",
+      "id": "CUSTOM:aa7498d5",
+      "label": "relative inhibito...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.192094",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "relative inhibitory effectiveness of the four inhibitors against apyrase versus other phosphatases",
+        "last_seen": "2025-10-05T07:29:08.192094",
+        "obo_id": "CUSTOM:aa7498d5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "apyrase activity in extracts from B. cinerea and F. oxysporum growth media when treated with inhibitors AI.1 and AI.13",
+      "id": "CUSTOM:e0102f5b",
+      "label": "apyrase activity ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.186032",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "apyrase activity in extracts from B. cinerea and F. oxysporum growth media when treated with inhibitors AI.1 and AI.13",
+        "last_seen": "2025-10-05T07:29:08.186032",
+        "obo_id": "CUSTOM:e0102f5b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "potency of fungicides when ATP or ATPgammaS is added to media with fungicides",
+      "id": "CUSTOM:c44610e5",
+      "label": "potency of fungic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.179835",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "potency of fungicides when ATP or ATPgammaS is added to media with fungicides",
+        "last_seen": "2025-10-05T07:29:08.179835",
+        "obo_id": "CUSTOM:c44610e5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "extracellular ATP concentration ([eATP]) in media where fungi were growing following treatment with apyrase inhibitors",
+      "id": "CUSTOM:f6cae399",
+      "label": "extracellular ATP...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.173404",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "extracellular ATP concentration ([eATP]) in media where fungi were growing following treatment with apyrase inhibitors",
+        "last_seen": "2025-10-05T07:29:08.173404",
+        "obo_id": "CUSTOM:f6cae399"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "retention of fungicide inside fungal hyphae",
+      "id": "CUSTOM:4928d70e",
+      "label": "retention of fung...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.167270",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "retention of fungicide inside fungal hyphae",
+        "last_seen": "2025-10-05T07:29:08.167270",
+        "obo_id": "CUSTOM:4928d70e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "growth of fungi when treated with apyrase inhibitors alone",
+      "id": "CUSTOM:a08516d9",
+      "label": "growth of fungi w...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.161070",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "growth of fungi when treated with apyrase inhibitors alone",
+        "last_seen": "2025-10-05T07:29:08.161070",
+        "obo_id": "CUSTOM:a08516d9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "potency of fungicides (when combined with apyrase inhibitors)",
+      "id": "CUSTOM:872dd730",
+      "label": "potency of fungic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.155236",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "potency of fungicides (when combined with apyrase inhibitors)",
+        "last_seen": "2025-10-05T07:29:08.155236",
+        "obo_id": "CUSTOM:872dd730"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2462",
+      "source": "PMC6638264",
+      "target": "CUSTOM:5b7dcb29",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2460",
+      "source": "PMC6638264",
+      "target": "CUSTOM:dd11f252",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2458",
+      "source": "PMC6638264",
+      "target": "CUSTOM:aa7498d5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2456",
+      "source": "PMC6638264",
+      "target": "CUSTOM:e0102f5b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2454",
+      "source": "PMC6638264",
+      "target": "CUSTOM:c44610e5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2452",
+      "source": "PMC6638264",
+      "target": "CUSTOM:f6cae399",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2450",
+      "source": "PMC6638264",
+      "target": "CUSTOM:4928d70e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2448",
+      "source": "PMC6638264",
+      "target": "CUSTOM:a08516d9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2446",
+      "source": "PMC6638264",
+      "target": "CUSTOM:872dd730",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

@@ -1,0 +1,417 @@
+{
+  "pmcid": "PMC8671758",
+  "nodes": [
+    {
+      "fullLabel": "PMC8671758",
+      "id": "PMC8671758",
+      "label": "PMC8671758",
+      "properties": {
+        "pmcid": "PMC8671758",
+        "first_seen": "2025-10-05T07:29:08.404801",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.508818"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Effect of leptin supplementation on femoral length in ob/ob mice (prior studies)",
+      "id": "CUSTOM:c68cd274",
+      "label": "Effect of leptin ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.510724",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effect of leptin supplementation on femoral length in ob/ob mice (prior studies)",
+        "last_seen": "2025-10-05T07:29:08.510724",
+        "obo_id": "CUSTOM:c68cd274"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Serum estradiol level in ob/ob mice during puberty",
+      "id": "CUSTOM:fd525fd0",
+      "label": "Serum estradiol l...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.504303",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Serum estradiol level in ob/ob mice during puberty",
+        "last_seen": "2025-10-05T07:29:08.504303",
+        "obo_id": "CUSTOM:fd525fd0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Effect of selective ER antagonists on longitudinal growth in ob/ob mice",
+      "id": "CUSTOM:9dfcfb21",
+      "label": "Effect of selecti...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.497392",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effect of selective ER antagonists on longitudinal growth in ob/ob mice",
+        "last_seen": "2025-10-05T07:29:08.497392",
+        "obo_id": "CUSTOM:9dfcfb21"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Effect of ERbeta antagonist on appendicular (limb) longitudinal growth in WT mice",
+      "id": "CUSTOM:4c0366e7",
+      "label": "Effect of ERbeta ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.491815",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effect of ERbeta antagonist on appendicular (limb) longitudinal growth in WT mice",
+        "last_seen": "2025-10-05T07:29:08.491815",
+        "obo_id": "CUSTOM:4c0366e7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Effect of ERalpha antagonist on appendicular (limb) longitudinal growth in WT mice",
+      "id": "CUSTOM:35d9a7fb",
+      "label": "Effect of ERalpha...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.485960",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effect of ERalpha antagonist on appendicular (limb) longitudinal growth in WT mice",
+        "last_seen": "2025-10-05T07:29:08.485960",
+        "obo_id": "CUSTOM:35d9a7fb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Correlation between body length and ERalpha expression",
+      "id": "CUSTOM:330a5251",
+      "label": "Correlation betwe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.480226",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Correlation between body length and ERalpha expression",
+        "last_seen": "2025-10-05T07:29:08.480226",
+        "obo_id": "CUSTOM:330a5251"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ERbeta expression in femoral and spinal GP",
+      "id": "CUSTOM:4b8bd1da",
+      "label": "ERbeta expression...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.473522",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ERbeta expression in femoral and spinal GP",
+        "last_seen": "2025-10-05T07:29:08.473522",
+        "obo_id": "CUSTOM:4b8bd1da"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ERalpha expression in spinal GP",
+      "id": "CUSTOM:72e5dab5",
+      "label": "ERalpha expressio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.467652",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ERalpha expression in spinal GP",
+        "last_seen": "2025-10-05T07:29:08.467652",
+        "obo_id": "CUSTOM:72e5dab5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ERalpha expression in femoral GP",
+      "id": "CUSTOM:ec839046",
+      "label": "ERalpha expressio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.462164",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ERalpha expression in femoral GP",
+        "last_seen": "2025-10-05T07:29:08.462164",
+        "obo_id": "CUSTOM:ec839046"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of extracellular matrix marker proteins in spinal GP",
+      "id": "CUSTOM:1ad4ad9c",
+      "label": "Expression of ext...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.456625",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of extracellular matrix marker proteins in spinal GP",
+        "last_seen": "2025-10-05T07:29:08.456625",
+        "obo_id": "CUSTOM:1ad4ad9c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of extracellular matrix marker proteins in femoral GP",
+      "id": "CUSTOM:59f2ba28",
+      "label": "Expression of ext...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.451167",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of extracellular matrix marker proteins in femoral GP",
+        "last_seen": "2025-10-05T07:29:08.451167",
+        "obo_id": "CUSTOM:59f2ba28"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ratio of hypertrophic/proliferative zone in femoral GP",
+      "id": "CUSTOM:d8be1a89",
+      "label": "Ratio of hypertro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.445502",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ratio of hypertrophic/proliferative zone in femoral GP",
+        "last_seen": "2025-10-05T07:29:08.445502",
+        "obo_id": "CUSTOM:d8be1a89"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Height of hypertrophic zone in femoral GP",
+      "id": "CUSTOM:4cfc90b0",
+      "label": "Height of hypertr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.439719",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Height of hypertrophic zone in femoral GP",
+        "last_seen": "2025-10-05T07:29:08.439719",
+        "obo_id": "CUSTOM:4cfc90b0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Height of proliferative zone in femoral GP",
+      "id": "CUSTOM:b5fd9e6c",
+      "label": "Height of prolife...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.434108",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Height of proliferative zone in femoral GP",
+        "last_seen": "2025-10-05T07:29:08.434108",
+        "obo_id": "CUSTOM:b5fd9e6c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Spinal growth plate (GP) thickness",
+      "id": "CUSTOM:60e10dce",
+      "label": "Spinal growth pla...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.427775",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Spinal growth plate (GP) thickness",
+        "last_seen": "2025-10-05T07:29:08.427775",
+        "obo_id": "CUSTOM:60e10dce"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Femoral growth plate (GP) thickness",
+      "id": "CUSTOM:ec0a1224",
+      "label": "Femoral growth pl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.420648",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Femoral growth plate (GP) thickness",
+        "last_seen": "2025-10-05T07:29:08.420648",
+        "obo_id": "CUSTOM:ec0a1224"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Spinal length (vertebrae length) in ob/ob mice compared with WT mice",
+      "id": "CUSTOM:7fe6bc6b",
+      "label": "Spinal length (ve...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.413558",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Spinal length (vertebrae length) in ob/ob mice compared with WT mice",
+        "last_seen": "2025-10-05T07:29:08.413558",
+        "obo_id": "CUSTOM:7fe6bc6b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Femur length (appendicular bone length) in ob/ob mice compared with WT mice",
+      "id": "CUSTOM:79380f25",
+      "label": "Femur length (app...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.407471",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Femur length (appendicular bone length) in ob/ob mice compared with WT mice",
+        "last_seen": "2025-10-05T07:29:08.407471",
+        "obo_id": "CUSTOM:79380f25"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2556",
+      "source": "PMC8671758",
+      "target": "CUSTOM:c68cd274",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2554",
+      "source": "PMC8671758",
+      "target": "CUSTOM:fd525fd0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2552",
+      "source": "PMC8671758",
+      "target": "CUSTOM:9dfcfb21",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2550",
+      "source": "PMC8671758",
+      "target": "CUSTOM:4c0366e7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2548",
+      "source": "PMC8671758",
+      "target": "CUSTOM:35d9a7fb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2546",
+      "source": "PMC8671758",
+      "target": "CUSTOM:330a5251",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2544",
+      "source": "PMC8671758",
+      "target": "CUSTOM:4b8bd1da",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2542",
+      "source": "PMC8671758",
+      "target": "CUSTOM:72e5dab5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2540",
+      "source": "PMC8671758",
+      "target": "CUSTOM:ec839046",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2538",
+      "source": "PMC8671758",
+      "target": "CUSTOM:1ad4ad9c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2536",
+      "source": "PMC8671758",
+      "target": "CUSTOM:59f2ba28",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2534",
+      "source": "PMC8671758",
+      "target": "CUSTOM:d8be1a89",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2532",
+      "source": "PMC8671758",
+      "target": "CUSTOM:4cfc90b0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2530",
+      "source": "PMC8671758",
+      "target": "CUSTOM:b5fd9e6c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2528",
+      "source": "PMC8671758",
+      "target": "CUSTOM:60e10dce",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2526",
+      "source": "PMC8671758",
+      "target": "CUSTOM:ec0a1224",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2524",
+      "source": "PMC8671758",
+      "target": "CUSTOM:7fe6bc6b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2522",
+      "source": "PMC8671758",
+      "target": "CUSTOM:79380f25",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 19,
+  "num_edges": 18
+}

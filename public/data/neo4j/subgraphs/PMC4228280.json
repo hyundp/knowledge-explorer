@@ -1,0 +1,65 @@
+{
+  "pmcid": "PMC4228280",
+  "nodes": [
+    {
+      "fullLabel": "PMC4228280",
+      "id": "PMC4228280",
+      "label": "PMC4228280",
+      "properties": {
+        "pmcid": "PMC4228280",
+        "first_seen": "2025-10-05T07:29:05.474925",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.481563"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "final cell densities differences between spaceflight and normal gravity",
+      "id": "CUSTOM:d1213df6",
+      "label": "final cell densit...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.484645",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "final cell densities differences between spaceflight and normal gravity",
+        "last_seen": "2025-10-05T07:29:05.484645",
+        "obo_id": "CUSTOM:d1213df6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cell growth with limited resources",
+      "id": "CUSTOM:4a64f83f",
+      "label": "cell growth with ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.476790",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cell growth with limited resources",
+        "last_seen": "2025-10-05T07:29:05.476790",
+        "obo_id": "CUSTOM:4a64f83f"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1598",
+      "source": "PMC4228280",
+      "target": "CUSTOM:d1213df6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1596",
+      "source": "PMC4228280",
+      "target": "CUSTOM:4a64f83f",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 3,
+  "num_edges": 2
+}

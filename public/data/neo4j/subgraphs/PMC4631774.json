@@ -1,0 +1,329 @@
+{
+  "pmcid": "PMC4631774",
+  "nodes": [
+    {
+      "fullLabel": "PMC4631774",
+      "id": "PMC4631774",
+      "label": "PMC4631774",
+      "properties": {
+        "pmcid": "PMC4631774",
+        "first_seen": "2025-10-05T07:29:13.093524",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:13.197786"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Cortical growth location (periosteal vs endosteal)",
+      "id": "CUSTOM:eab81e7f",
+      "label": "Cortical growth l...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.200005",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cortical growth location (periosteal vs endosteal)",
+        "last_seen": "2025-10-05T07:29:13.200005",
+        "obo_id": "CUSTOM:eab81e7f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Number of MSCs in humerus (exercise vs control)",
+      "id": "CUSTOM:1b3028bd",
+      "label": "Number of MSCs in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.193265",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Number of MSCs in humerus (exercise vs control)",
+        "last_seen": "2025-10-05T07:29:13.193265",
+        "obo_id": "CUSTOM:1b3028bd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Number of MSCs in femora (exercise vs control)",
+      "id": "CUSTOM:4b43de9a",
+      "label": "Number of MSCs in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.186721",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Number of MSCs in femora (exercise vs control)",
+        "last_seen": "2025-10-05T07:29:13.186721",
+        "obo_id": "CUSTOM:4b43de9a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Density of MSCs per unit volume of marrow space (control comparison humerus vs femur)",
+      "id": "CUSTOM:8cd4d502",
+      "label": "Density of MSCs p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.180059",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Density of MSCs per unit volume of marrow space (control comparison humerus vs femur)",
+        "last_seen": "2025-10-05T07:29:13.180059",
+        "obo_id": "CUSTOM:8cd4d502"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Peak external limb force (forelimb vs hindlimb)",
+      "id": "CUSTOM:83aff1f8",
+      "label": "Peak external lim...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.171664",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Peak external limb force (forelimb vs hindlimb)",
+        "last_seen": "2025-10-05T07:29:13.171664",
+        "obo_id": "CUSTOM:83aff1f8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cranial bone morphology",
+      "id": "CUSTOM:7e84cd9c",
+      "label": "Cranial bone morp...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.163046",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cranial bone morphology",
+        "last_seen": "2025-10-05T07:29:13.163046",
+        "obo_id": "CUSTOM:7e84cd9c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Anabolic response (trabecular/cancellous) to exercise",
+      "id": "CUSTOM:b6bad03f",
+      "label": "Anabolic response...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.153549",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Anabolic response (trabecular/cancellous) to exercise",
+        "last_seen": "2025-10-05T07:29:13.153549",
+        "obo_id": "CUSTOM:b6bad03f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Trabecular bone structure",
+      "id": "CUSTOM:10b77502",
+      "label": "Trabecular bone s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.143122",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Trabecular bone structure",
+        "last_seen": "2025-10-05T07:29:13.143122",
+        "obo_id": "CUSTOM:10b77502"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Trabecular bone structure",
+      "id": "CUSTOM:f6844116",
+      "label": "Trabecular bone s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.135619",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Trabecular bone structure",
+        "last_seen": "2025-10-05T07:29:13.135619",
+        "obo_id": "CUSTOM:f6844116"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cortical bone structure response",
+      "id": "CUSTOM:2d7b1fd6",
+      "label": "Cortical bone str...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.128525",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cortical bone structure response",
+        "last_seen": "2025-10-05T07:29:13.128525",
+        "obo_id": "CUSTOM:2d7b1fd6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cortical bone structure response",
+      "id": "CUSTOM:817113fb",
+      "label": "Cortical bone str...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.120362",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cortical bone structure response",
+        "last_seen": "2025-10-05T07:29:13.120362",
+        "obo_id": "CUSTOM:817113fb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cortical bone structural enhancement",
+      "id": "CUSTOM:dfb2876f",
+      "label": "Cortical bone str...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.112313",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cortical bone structural enhancement",
+        "last_seen": "2025-10-05T07:29:13.112313",
+        "obo_id": "CUSTOM:dfb2876f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cortical bone structural enhancement",
+      "id": "CUSTOM:c8f6c6f2",
+      "label": "Cortical bone str...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.105359",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cortical bone structural enhancement",
+        "last_seen": "2025-10-05T07:29:13.105359",
+        "obo_id": "CUSTOM:c8f6c6f2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cortical bone structural enhancement",
+      "id": "CUSTOM:c24e59c1",
+      "label": "Cortical bone str...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.096438",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cortical bone structural enhancement",
+        "last_seen": "2025-10-05T07:29:13.096438",
+        "obo_id": "CUSTOM:c24e59c1"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3738",
+      "source": "PMC4631774",
+      "target": "CUSTOM:eab81e7f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3736",
+      "source": "PMC4631774",
+      "target": "CUSTOM:1b3028bd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3734",
+      "source": "PMC4631774",
+      "target": "CUSTOM:4b43de9a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3732",
+      "source": "PMC4631774",
+      "target": "CUSTOM:8cd4d502",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3730",
+      "source": "PMC4631774",
+      "target": "CUSTOM:83aff1f8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3728",
+      "source": "PMC4631774",
+      "target": "CUSTOM:7e84cd9c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3726",
+      "source": "PMC4631774",
+      "target": "CUSTOM:b6bad03f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3724",
+      "source": "PMC4631774",
+      "target": "CUSTOM:10b77502",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3722",
+      "source": "PMC4631774",
+      "target": "CUSTOM:f6844116",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3720",
+      "source": "PMC4631774",
+      "target": "CUSTOM:2d7b1fd6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3718",
+      "source": "PMC4631774",
+      "target": "CUSTOM:817113fb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3716",
+      "source": "PMC4631774",
+      "target": "CUSTOM:dfb2876f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3714",
+      "source": "PMC4631774",
+      "target": "CUSTOM:c8f6c6f2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3712",
+      "source": "PMC4631774",
+      "target": "CUSTOM:c24e59c1",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 15,
+  "num_edges": 14
+}

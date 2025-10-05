@@ -1,0 +1,241 @@
+{
+  "pmcid": "PMC8430797",
+  "nodes": [
+    {
+      "fullLabel": "PMC8430797",
+      "id": "PMC8430797",
+      "label": "PMC8430797",
+      "properties": {
+        "pmcid": "PMC8430797",
+        "first_seen": "2025-10-05T07:29:01.934996",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.968610"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Alterations in glucose homeostasis and circadian rhythm in muscles from rodent spaceflight and human bedrest studies",
+      "id": "CUSTOM:deebadf9",
+      "label": "Alterations in gl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.969916",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Alterations in glucose homeostasis and circadian rhythm in muscles from rodent spaceflight and human bedrest studies",
+        "last_seen": "2025-10-05T07:29:01.969916",
+        "obo_id": "CUSTOM:deebadf9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Adult D. melanogaster transcriptomic response similarity to fast twitch EDL",
+      "id": "CUSTOM:c4c04502",
+      "label": "Adult D. melanoga...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.966165",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Adult D. melanogaster transcriptomic response similarity to fast twitch EDL",
+        "last_seen": "2025-10-05T07:29:01.966165",
+        "obo_id": "CUSTOM:c4c04502"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Larval D. melanogaster transcriptomic signature similarity to slow twitch soleus",
+      "id": "CUSTOM:5f781943",
+      "label": "Larval D. melanog...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.962789",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Larval D. melanogaster transcriptomic signature similarity to slow twitch soleus",
+        "last_seen": "2025-10-05T07:29:01.962789",
+        "obo_id": "CUSTOM:5f781943"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "C. elegans molecular signature similarity to EDL in response to spaceflight",
+      "id": "CUSTOM:08de4295",
+      "label": "C. elegans molecu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.958657",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "C. elegans molecular signature similarity to EDL in response to spaceflight",
+        "last_seen": "2025-10-05T07:29:01.958657",
+        "obo_id": "CUSTOM:08de4295"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Downregulation of muscle-specific ubiquitin E ligase Fbxo40 across models for muscle atrophy",
+      "id": "CUSTOM:91948434",
+      "label": "Downregulation of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.955305",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Downregulation of muscle-specific ubiquitin E ligase Fbxo40 across models for muscle atrophy",
+        "last_seen": "2025-10-05T07:29:01.955305",
+        "obo_id": "CUSTOM:91948434"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Association of Pde2a with atrophy resistance in EDL",
+      "id": "CUSTOM:1b3ff007",
+      "label": "Association of Pd...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.951564",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Association of Pde2a with atrophy resistance in EDL",
+        "last_seen": "2025-10-05T07:29:01.951564",
+        "obo_id": "CUSTOM:1b3ff007"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Differences in transcriptomic response of genes involved in ER stress mechanisms",
+      "id": "CUSTOM:903849e3",
+      "label": "Differences in tr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.947903",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Differences in transcriptomic response of genes involved in ER stress mechanisms",
+        "last_seen": "2025-10-05T07:29:01.947903",
+        "obo_id": "CUSTOM:903849e3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Differential regulation of immune function and cellular growth (greater in EDL vs soleus)",
+      "id": "CUSTOM:ce67a26e",
+      "label": "Differential regu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.944378",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Differential regulation of immune function and cellular growth (greater in EDL vs soleus)",
+        "last_seen": "2025-10-05T07:29:01.944378",
+        "obo_id": "CUSTOM:ce67a26e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Altered expression of genes involved in GC stress responses and the circadian rhythm",
+      "id": "CUSTOM:0a368d33",
+      "label": "Altered expressio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.940219",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Altered expression of genes involved in GC stress responses and the circadian rhythm",
+        "last_seen": "2025-10-05T07:29:01.940219",
+        "obo_id": "CUSTOM:0a368d33"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Transcriptomic responses in slow and fast twitch muscles (soleus and EDL)",
+      "id": "CUSTOM:6f478e9a",
+      "label": "Transcriptomic re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.936468",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Transcriptomic responses in slow and fast twitch muscles (soleus and EDL)",
+        "last_seen": "2025-10-05T07:29:01.936468",
+        "obo_id": "CUSTOM:6f478e9a"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "426",
+      "source": "PMC8430797",
+      "target": "CUSTOM:deebadf9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "424",
+      "source": "PMC8430797",
+      "target": "CUSTOM:c4c04502",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "422",
+      "source": "PMC8430797",
+      "target": "CUSTOM:5f781943",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "420",
+      "source": "PMC8430797",
+      "target": "CUSTOM:08de4295",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "418",
+      "source": "PMC8430797",
+      "target": "CUSTOM:91948434",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "416",
+      "source": "PMC8430797",
+      "target": "CUSTOM:1b3ff007",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "414",
+      "source": "PMC8430797",
+      "target": "CUSTOM:903849e3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "412",
+      "source": "PMC8430797",
+      "target": "CUSTOM:ce67a26e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "410",
+      "source": "PMC8430797",
+      "target": "CUSTOM:0a368d33",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "408",
+      "source": "PMC8430797",
+      "target": "CUSTOM:6f478e9a",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 11,
+  "num_edges": 10
+}

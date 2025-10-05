@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC7503278",
+  "nodes": [
+    {
+      "fullLabel": "PMC7503278",
+      "id": "PMC7503278",
+      "label": "PMC7503278",
+      "properties": {
+        "pmcid": "PMC7503278",
+        "first_seen": "2025-10-05T07:29:06.986898",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:07.013178"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Peak of ATP induced [Ca2+]cyt increase in the endodermis was higher in UBQ10:GCaMP3 compared to SCR:GCaMP3",
+      "id": "CUSTOM:022e07f5",
+      "label": "Peak of ATP induc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.015350",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Peak of ATP induced [Ca2+]cyt increase in the endodermis was higher in UBQ10:GCaMP3 compared to SCR:GCaMP3",
+        "last_seen": "2025-10-05T07:29:07.015350",
+        "obo_id": "CUSTOM:022e07f5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ATP induced [Ca2+]cyt signature from the presumptive columella region of UBQ10:GCaMP3 lines was transient",
+      "id": "CUSTOM:6381bec4",
+      "label": "ATP induced [Ca2+...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.009134",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ATP induced [Ca2+]cyt signature from the presumptive columella region of UBQ10:GCaMP3 lines was transient",
+        "last_seen": "2025-10-05T07:29:07.009134",
+        "obo_id": "CUSTOM:6381bec4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ATHB8:GCaMP3 lines displayed an ATP triggered [Ca2+]cyt signature with a sustained peak",
+      "id": "CUSTOM:dd3da3ee",
+      "label": "ATHB8:GCaMP3 line...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.002215",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ATHB8:GCaMP3 lines displayed an ATP triggered [Ca2+]cyt signature with a sustained peak",
+        "last_seen": "2025-10-05T07:29:07.002215",
+        "obo_id": "CUSTOM:dd3da3ee"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ATP induced cytosolic Ca2+ ([Ca2+]cyt) signature had a much greater amplitude in the meristem of PIN2:GCaMP3 lines",
+      "id": "CUSTOM:e6750c47",
+      "label": "ATP induced cytos...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.995354",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ATP induced cytosolic Ca2+ ([Ca2+]cyt) signature had a much greater amplitude in the meristem of PIN2:GCaMP3 lines",
+        "last_seen": "2025-10-05T07:29:06.995354",
+        "obo_id": "CUSTOM:e6750c47"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ATP induced cytosolic Ca2+ ([Ca2+]cyt) signatures of UBQ10:GCaMP3 in all root developmental regions were identical to those in the distal and central elongation zone of PIN2:GCaMP3 lines",
+      "id": "CUSTOM:82778377",
+      "label": "ATP induced cytos...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.988932",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ATP induced cytosolic Ca2+ ([Ca2+]cyt) signatures of UBQ10:GCaMP3 in all root developmental regions were identical to those in the distal and central elongation zone of PIN2:GCaMP3 lines",
+        "last_seen": "2025-10-05T07:29:06.988932",
+        "obo_id": "CUSTOM:82778377"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2098",
+      "source": "PMC7503278",
+      "target": "CUSTOM:022e07f5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2096",
+      "source": "PMC7503278",
+      "target": "CUSTOM:6381bec4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2094",
+      "source": "PMC7503278",
+      "target": "CUSTOM:dd3da3ee",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2092",
+      "source": "PMC7503278",
+      "target": "CUSTOM:e6750c47",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2090",
+      "source": "PMC7503278",
+      "target": "CUSTOM:82778377",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

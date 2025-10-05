@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC6386654",
+  "nodes": [
+    {
+      "fullLabel": "PMC6386654",
+      "id": "PMC6386654",
+      "label": "PMC6386654",
+      "properties": {
+        "pmcid": "PMC6386654",
+        "first_seen": "2025-10-05T07:29:01.032568",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.068367"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "unique genomic architecture that may have contributed to innovations in the general cephalopod body plan",
+      "id": "CUSTOM:cd2d92a0",
+      "label": "unique genomic ar...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.069958",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "unique genomic architecture that may have contributed to innovations in the general cephalopod body plan",
+        "last_seen": "2025-10-05T07:29:01.069958",
+        "obo_id": "CUSTOM:cd2d92a0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "prevalence of taxon specific (orphan) gene expression in the ANG",
+      "id": "CUSTOM:de844601",
+      "label": "prevalence of tax...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.064625",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "prevalence of taxon specific (orphan) gene expression in the ANG",
+        "last_seen": "2025-10-05T07:29:01.064625",
+        "obo_id": "CUSTOM:de844601"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "expansion of genes associated with immunity and light production in the light organ (LO)",
+      "id": "CUSTOM:c13e9ad3",
+      "label": "expansion of gene...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.056195",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "expansion of genes associated with immunity and light production in the light organ (LO)",
+        "last_seen": "2025-10-05T07:29:01.056195",
+        "obo_id": "CUSTOM:c13e9ad3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "large scale genome reorganization preceded the coleoid cephalopod radiation",
+      "id": "CUSTOM:d14d07cf",
+      "label": "large scale genom...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.049327",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "large scale genome reorganization preceded the coleoid cephalopod radiation",
+        "last_seen": "2025-10-05T07:29:01.049327",
+        "obo_id": "CUSTOM:d14d07cf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "genome size (increase) through repetitive element expansions",
+      "id": "CUSTOM:18dbe74e",
+      "label": "genome size (incr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.043408",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "genome size (increase) through repetitive element expansions",
+        "last_seen": "2025-10-05T07:29:01.043408",
+        "obo_id": "CUSTOM:18dbe74e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "loss of ancient bilaterian microsynteny",
+      "id": "CUSTOM:d0718e83",
+      "label": "loss of ancient b...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.036725",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "loss of ancient bilaterian microsynteny",
+        "last_seen": "2025-10-05T07:29:01.036725",
+        "obo_id": "CUSTOM:d0718e83"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "124",
+      "source": "PMC6386654",
+      "target": "CUSTOM:cd2d92a0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "122",
+      "source": "PMC6386654",
+      "target": "CUSTOM:de844601",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "120",
+      "source": "PMC6386654",
+      "target": "CUSTOM:c13e9ad3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "118",
+      "source": "PMC6386654",
+      "target": "CUSTOM:d14d07cf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "116",
+      "source": "PMC6386654",
+      "target": "CUSTOM:18dbe74e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "114",
+      "source": "PMC6386654",
+      "target": "CUSTOM:d0718e83",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

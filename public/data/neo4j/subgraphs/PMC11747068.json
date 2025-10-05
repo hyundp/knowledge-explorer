@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC11747068",
+  "nodes": [
+    {
+      "fullLabel": "PMC11747068",
+      "id": "PMC11747068",
+      "label": "PMC11747068",
+      "properties": {
+        "pmcid": "PMC11747068",
+        "first_seen": "2025-10-05T07:29:01.603565",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.612809"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Analysis focused on fibroblasts, immune cells, and subclusters within major arterial cell types",
+      "id": "CUSTOM:e6535b47",
+      "label": "Analysis focused ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.615543",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Analysis focused on fibroblasts, immune cells, and subclusters within major arterial cell types",
+        "last_seen": "2025-10-05T07:29:01.615543",
+        "obo_id": "CUSTOM:e6535b47"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Region-specific and artery-specific transcriptomic changes and commonalities identified between CA and FA",
+      "id": "CUSTOM:e44dc9ef",
+      "label": "Region-specific a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.609747",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Region-specific and artery-specific transcriptomic changes and commonalities identified between CA and FA",
+        "last_seen": "2025-10-05T07:29:01.609747",
+        "obo_id": "CUSTOM:e44dc9ef"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Comprehensive single-cell compendium of the vascular remodeling process at the molecular level",
+      "id": "CUSTOM:aab050cd",
+      "label": "Comprehensive sin...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.605350",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Comprehensive single-cell compendium of the vascular remodeling process at the molecular level",
+        "last_seen": "2025-10-05T07:29:01.605350",
+        "obo_id": "CUSTOM:aab050cd"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "308",
+      "source": "PMC11747068",
+      "target": "CUSTOM:e6535b47",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "306",
+      "source": "PMC11747068",
+      "target": "CUSTOM:e44dc9ef",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "304",
+      "source": "PMC11747068",
+      "target": "CUSTOM:aab050cd",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

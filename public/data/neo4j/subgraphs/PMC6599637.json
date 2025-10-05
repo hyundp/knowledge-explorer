@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC6599637",
+  "nodes": [
+    {
+      "fullLabel": "PMC6599637",
+      "id": "PMC6599637",
+      "label": "PMC6599637",
+      "properties": {
+        "pmcid": "PMC6599637",
+        "first_seen": "2025-10-05T07:29:03.323814",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.337758"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Long-term consequences to joint health after long duration spaceflight are not yet elucidated",
+      "id": "CUSTOM:c29528ab",
+      "label": "Long-term consequ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.339862",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Long-term consequences to joint health after long duration spaceflight are not yet elucidated",
+        "last_seen": "2025-10-05T07:29:03.339862",
+        "obo_id": "CUSTOM:c29528ab"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Joint health affected by spaceflight simulated doses of radiation",
+      "id": "CUSTOM:8ea185ae",
+      "label": "Joint health affe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.333021",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Joint health affected by spaceflight simulated doses of radiation",
+        "last_seen": "2025-10-05T07:29:03.333021",
+        "obo_id": "CUSTOM:8ea185ae"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Joint health affected by unloading",
+      "id": "CUSTOM:849f46ef",
+      "label": "Joint health affe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.325882",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Joint health affected by unloading",
+        "last_seen": "2025-10-05T07:29:03.325882",
+        "obo_id": "CUSTOM:849f46ef"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "906",
+      "source": "PMC6599637",
+      "target": "CUSTOM:c29528ab",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "904",
+      "source": "PMC6599637",
+      "target": "CUSTOM:8ea185ae",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "902",
+      "source": "PMC6599637",
+      "target": "CUSTOM:849f46ef",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

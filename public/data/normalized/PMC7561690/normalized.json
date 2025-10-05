@@ -1,0 +1,29 @@
+{
+  "pmcid": "PMC7561690",
+  "title": "Draft Genome Sequences of Klebsiella Species Isolated from the International Space Station",
+  "authors": [
+    "Samuel A Solomon",
+    "Achintya R Bharadwaj",
+    "Nitin K Singh",
+    "Jason M Wood",
+    "Marilyne Debieu",
+    "Niamh B O'Hara",
+    "Christopher E Mason",
+    "Kasthuri Venkateswaran"
+  ],
+  "year": "2020",
+  "journal": "Microbiology Resource Announcements",
+  "doi": "10.1128/MRA.00923 20",
+  "sections": {
+    "abstract": "Isolated across four locations aboard the International Space Station (ISS), 10 bacterial strains were compared using whole genome sequencing analysis and were phylogenetically identified asKlebsiella. The whole genome sequences will aid in comparative genomic studies of ISSKlebsiellastrains with Earth counterparts, to gain insight into their adaptation to space conditions.",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:07:50.100459",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7561690/"
+  }
+}

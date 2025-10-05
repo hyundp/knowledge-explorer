@@ -1,0 +1,29 @@
+{
+  "pmcid": "PMC7393961",
+  "title": "Draft Genome Sequences of Rhodotorula mucilaginosa Strains Isolated from the International Space Station",
+  "authors": [
+    "Robert Daudu",
+    "Ceth W Parker",
+    "Nitin K Singh",
+    "Jason M Wood",
+    "Marilyne Debieu",
+    "Niamh B O'Hara",
+    "Christopher E Mason",
+    "Kasthuri Venkateswaran"
+  ],
+  "year": "2020",
+  "journal": "Microbiology Resource Announcements",
+  "doi": "10.1128/MRA.00570 20",
+  "sections": {
+    "abstract": "The whole genome sequences (WGS) of 28 isolates from the International Space Station were generated and identified asRhodotorula mucilaginosa, a pigmented yeast that has been classified as an emerging human pathogen in recent times. These WGS enable the identification of genes responsible for synthesizing compounds with biological implications.",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:07:47.917692",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7393961/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "pmcid": "PMC9695138",
+  "nodes": [
+    {
+      "fullLabel": "PMC9695138",
+      "id": "PMC9695138",
+      "label": "PMC9695138",
+      "properties": {
+        "pmcid": "PMC9695138",
+        "first_seen": "2025-10-05T07:29:16.871821",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:16.871821"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Functional domains of membranes influence signal integration and responses",
+      "id": "CUSTOM:875ededf",
+      "label": "Functional domain...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.874166",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Functional domains of membranes influence signal integration and responses",
+        "last_seen": "2025-10-05T07:29:16.874166",
+        "obo_id": "CUSTOM:875ededf"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4628",
+      "source": "PMC9695138",
+      "target": "CUSTOM:875ededf",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 2,
+  "num_edges": 1
+}

@@ -1,0 +1,65 @@
+{
+  "pmcid": "PMC6289879",
+  "nodes": [
+    {
+      "fullLabel": "PMC6289879",
+      "id": "PMC6289879",
+      "label": "PMC6289879",
+      "properties": {
+        "pmcid": "PMC6289879",
+        "first_seen": "2025-10-05T07:29:11.652216",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:11.678103"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Statistical significance between groups indicated by letters above data points",
+      "id": "CUSTOM:14b2af42",
+      "label": "Statistical signi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.680688",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Statistical significance between groups indicated by letters above data points",
+        "last_seen": "2025-10-05T07:29:11.680688",
+        "obo_id": "CUSTOM:14b2af42"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Reported mean and standard error of the data",
+      "id": "CUSTOM:ec53a682",
+      "label": "Reported mean and...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:11.673270",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Reported mean and standard error of the data",
+        "last_seen": "2025-10-05T07:29:11.673270",
+        "obo_id": "CUSTOM:ec53a682"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3376",
+      "source": "PMC6289879",
+      "target": "CUSTOM:14b2af42",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3374",
+      "source": "PMC6289879",
+      "target": "CUSTOM:ec53a682",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 3,
+  "num_edges": 2
+}

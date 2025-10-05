@@ -1,0 +1,439 @@
+{
+  "pmcid": "PMC3289768",
+  "nodes": [
+    {
+      "fullLabel": "PMC3289768",
+      "id": "PMC3289768",
+      "label": "PMC3289768",
+      "properties": {
+        "pmcid": "PMC3289768",
+        "first_seen": "2025-10-05T07:29:13.263106",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:13.382617"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "TM2/CB linker serves as a molecular sieve",
+      "id": "CUSTOM:c5c0857a",
+      "label": "TM2/CB linker ser...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.384623",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "TM2/CB linker serves as a molecular sieve",
+        "last_seen": "2025-10-05T07:29:13.384623",
+        "obo_id": "CUSTOM:c5c0857a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "reversibility of decreased pore size when linker is constrained",
+      "id": "CUSTOM:a203b3cf",
+      "label": "reversibility of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.377986",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "reversibility of decreased pore size when linker is constrained",
+        "last_seen": "2025-10-05T07:29:13.377986",
+        "obo_id": "CUSTOM:a203b3cf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "conductance",
+      "id": "CUSTOM:628b8cd1",
+      "label": "conductance",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.370464",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "conductance",
+        "last_seen": "2025-10-05T07:29:13.370464",
+        "obo_id": "CUSTOM:628b8cd1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "pore size",
+      "id": "CUSTOM:b69110c7",
+      "label": "pore size",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.364174",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "pore size",
+        "last_seen": "2025-10-05T07:29:13.364174",
+        "obo_id": "CUSTOM:b69110c7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "CB stability upon channel opening",
+      "id": "CUSTOM:6e2124e4",
+      "label": "CB stability upon...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.358085",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CB stability upon channel opening",
+        "last_seen": "2025-10-05T07:29:13.358085",
+        "obo_id": "CUSTOM:6e2124e4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Primary conductance reduction by Zn coordination of 110H or 112H",
+      "id": "CUSTOM:7d0cc4cd",
+      "label": "Primary conductan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.352444",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Primary conductance reduction by Zn coordination of 110H or 112H",
+        "last_seen": "2025-10-05T07:29:13.352444",
+        "obo_id": "CUSTOM:7d0cc4cd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cross linking at A110H or A112H by heavy metal coordination decreases conductance (general statement)",
+      "id": "CUSTOM:97fb35be",
+      "label": "Cross linking at ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.346372",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cross linking at A110H or A112H by heavy metal coordination decreases conductance (general statement)",
+        "last_seen": "2025-10-05T07:29:13.346372",
+        "obo_id": "CUSTOM:97fb35be"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Conductance and pressure threshold of wild type MscL with ZnCl2 treatment",
+      "id": "CUSTOM:5302e914",
+      "label": "Conductance and p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.338997",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Conductance and pressure threshold of wild type MscL with ZnCl2 treatment",
+        "last_seen": "2025-10-05T07:29:13.338997",
+        "obo_id": "CUSTOM:5302e914"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Pressure sensitivity (pressure required to open) for MscL A112H before and after ZnCl2 treatment",
+      "id": "CUSTOM:e3cfc819",
+      "label": "Pressure sensitiv...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.333084",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pressure sensitivity (pressure required to open) for MscL A112H before and after ZnCl2 treatment",
+        "last_seen": "2025-10-05T07:29:13.333084",
+        "obo_id": "CUSTOM:e3cfc819"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Pressure required to open MscL A110H before and after ZnCl2 treatment",
+      "id": "CUSTOM:c3b51410",
+      "label": "Pressure required...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.327087",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pressure required to open MscL A110H before and after ZnCl2 treatment",
+        "last_seen": "2025-10-05T07:29:13.327087",
+        "obo_id": "CUSTOM:c3b51410"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Effect of ZnCl2 on the conductance of both mutants after washout (reversibility)",
+      "id": "CUSTOM:9e546bcf",
+      "label": "Effect of ZnCl2 o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.321300",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Effect of ZnCl2 on the conductance of both mutants after washout (reversibility)",
+        "last_seen": "2025-10-05T07:29:13.321300",
+        "obo_id": "CUSTOM:9e546bcf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Open dwell time of the main opening of MscL after ZnCl2 treatment",
+      "id": "CUSTOM:5697d3a6",
+      "label": "Open dwell time o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.315066",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Open dwell time of the main opening of MscL after ZnCl2 treatment",
+        "last_seen": "2025-10-05T07:29:13.315066",
+        "obo_id": "CUSTOM:5697d3a6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Single channel current of MscL A112H after ZnCl2 treatment",
+      "id": "CUSTOM:af4b2ded",
+      "label": "Single channel cu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.307915",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Single channel current of MscL A112H after ZnCl2 treatment",
+        "last_seen": "2025-10-05T07:29:13.307915",
+        "obo_id": "CUSTOM:af4b2ded"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Single channel current of MscL A110H after ZnCl2 treatment",
+      "id": "CUSTOM:919cd92c",
+      "label": "Single channel cu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.299641",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Single channel current of MscL A110H after ZnCl2 treatment",
+        "last_seen": "2025-10-05T07:29:13.299641",
+        "obo_id": "CUSTOM:919cd92c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Primary channel conductance of MscL when 110H or 112H is coordinated by Zn",
+      "id": "CUSTOM:dbb48066",
+      "label": "Primary channel c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.293129",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Primary channel conductance of MscL when 110H or 112H is coordinated by Zn",
+        "last_seen": "2025-10-05T07:29:13.293129",
+        "obo_id": "CUSTOM:dbb48066"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "MscL reconstituted and shown to function in a tethered lipid bilayer microchip device",
+      "id": "CUSTOM:35c57c70",
+      "label": "MscL reconstitute...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.284726",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "MscL reconstituted and shown to function in a tethered lipid bilayer microchip device",
+        "last_seen": "2025-10-05T07:29:13.284726",
+        "obo_id": "CUSTOM:35c57c70"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Stimulus-dependent differential release of drugs or other payloads through engineered MscL nanovalves in a vesicular nanodevice",
+      "id": "CUSTOM:176e71c7",
+      "label": "Stimulus-dependen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.278749",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Stimulus-dependent differential release of drugs or other payloads through engineered MscL nanovalves in a vesicular nanodevice",
+        "last_seen": "2025-10-05T07:29:13.278749",
+        "obo_id": "CUSTOM:176e71c7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Pore size can be throttled by modifying the length of the cytoplasmic linker resulting in passage of only smaller molecules",
+      "id": "CUSTOM:ad95a3b3",
+      "label": "Pore size can be ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.272511",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pore size can be throttled by modifying the length of the cytoplasmic linker resulting in passage of only smaller molecules",
+        "last_seen": "2025-10-05T07:29:13.272511",
+        "obo_id": "CUSTOM:ad95a3b3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Wild type MscL channel pore size (described as huge)",
+      "id": "CUSTOM:a03b97fa",
+      "label": "Wild type MscL ch...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.265340",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Wild type MscL channel pore size (described as huge)",
+        "last_seen": "2025-10-05T07:29:13.265340",
+        "obo_id": "CUSTOM:a03b97fa"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3794",
+      "source": "PMC3289768",
+      "target": "CUSTOM:c5c0857a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3792",
+      "source": "PMC3289768",
+      "target": "CUSTOM:a203b3cf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3790",
+      "source": "PMC3289768",
+      "target": "CUSTOM:628b8cd1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3788",
+      "source": "PMC3289768",
+      "target": "CUSTOM:b69110c7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3786",
+      "source": "PMC3289768",
+      "target": "CUSTOM:6e2124e4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3784",
+      "source": "PMC3289768",
+      "target": "CUSTOM:7d0cc4cd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3782",
+      "source": "PMC3289768",
+      "target": "CUSTOM:97fb35be",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3780",
+      "source": "PMC3289768",
+      "target": "CUSTOM:5302e914",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3778",
+      "source": "PMC3289768",
+      "target": "CUSTOM:e3cfc819",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3776",
+      "source": "PMC3289768",
+      "target": "CUSTOM:c3b51410",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3774",
+      "source": "PMC3289768",
+      "target": "CUSTOM:9e546bcf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3772",
+      "source": "PMC3289768",
+      "target": "CUSTOM:5697d3a6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3770",
+      "source": "PMC3289768",
+      "target": "CUSTOM:af4b2ded",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3768",
+      "source": "PMC3289768",
+      "target": "CUSTOM:919cd92c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3766",
+      "source": "PMC3289768",
+      "target": "CUSTOM:dbb48066",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3764",
+      "source": "PMC3289768",
+      "target": "CUSTOM:35c57c70",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3762",
+      "source": "PMC3289768",
+      "target": "CUSTOM:176e71c7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3760",
+      "source": "PMC3289768",
+      "target": "CUSTOM:ad95a3b3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3758",
+      "source": "PMC3289768",
+      "target": "CUSTOM:a03b97fa",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 20,
+  "num_edges": 19
+}

@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC4211383",
+  "nodes": [
+    {
+      "fullLabel": "PMC4211383",
+      "id": "PMC4211383",
+      "label": "PMC4211383",
+      "properties": {
+        "pmcid": "PMC4211383",
+        "first_seen": "2025-10-05T07:29:03.041763",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.052928"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Factors enhanced by phytochrome-mediated photostimulation coincide with factors decoupled under gravitational stress (leading to disruption of meristematic competence)",
+      "id": "CUSTOM:140ca1cf",
+      "label": "Factors enhanced ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.054647",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Factors enhanced by phytochrome-mediated photostimulation coincide with factors decoupled under gravitational stress (leading to disruption of meristematic competence)",
+        "last_seen": "2025-10-05T07:29:03.054647",
+        "obo_id": "CUSTOM:140ca1cf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Restoration (activating effect) of meristematic competence by light",
+      "id": "CUSTOM:243f3eb8",
+      "label": "Restoration (acti...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.050362",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Restoration (activating effect) of meristematic competence by light",
+        "last_seen": "2025-10-05T07:29:03.050362",
+        "obo_id": "CUSTOM:243f3eb8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Disruption of meristematic competence",
+      "id": "CUSTOM:27abe3eb",
+      "label": "Disruption of mer...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.043912",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Disruption of meristematic competence",
+        "last_seen": "2025-10-05T07:29:03.043912",
+        "obo_id": "CUSTOM:27abe3eb"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "802",
+      "source": "PMC4211383",
+      "target": "CUSTOM:140ca1cf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "800",
+      "source": "PMC4211383",
+      "target": "CUSTOM:243f3eb8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "798",
+      "source": "PMC4211383",
+      "target": "CUSTOM:27abe3eb",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

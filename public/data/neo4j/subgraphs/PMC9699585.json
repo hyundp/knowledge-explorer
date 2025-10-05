@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC9699585",
+  "nodes": [
+    {
+      "fullLabel": "PMC9699585",
+      "id": "PMC9699585",
+      "label": "PMC9699585",
+      "properties": {
+        "pmcid": "PMC9699585",
+        "first_seen": "2025-10-05T07:29:06.954110",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.980952"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "SPARC is the most enriched molecule in the secretome of NSCs flown to space (increased secretion/enrichment)",
+      "id": "CUSTOM:488f27c9",
+      "label": "SPARC is the most...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.982912",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "SPARC is the most enriched molecule in the secretome of NSCs flown to space (increased secretion/enrichment)",
+        "last_seen": "2025-10-05T07:29:06.982912",
+        "obo_id": "CUSTOM:488f27c9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Instances of abnormalities in single cell division, particularly ICD and MDCD",
+      "id": "CUSTOM:96c42a5d",
+      "label": "Instances of abno...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.977201",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Instances of abnormalities in single cell division, particularly ICD and MDCD",
+        "last_seen": "2025-10-05T07:29:06.977201",
+        "obo_id": "CUSTOM:96c42a5d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Asymmetric cell division (ACD) induced in naive NSCs by secretome from SPC NSCs",
+      "id": "CUSTOM:a7c75064",
+      "label": "Asymmetric cell d...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.971482",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Asymmetric cell division (ACD) induced in naive NSCs by secretome from SPC NSCs",
+        "last_seen": "2025-10-05T07:29:06.971482",
+        "obo_id": "CUSTOM:a7c75064"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Instances of abnormal cell division (general)",
+      "id": "CUSTOM:779e8fbf",
+      "label": "Instances of abno...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.966342",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Instances of abnormal cell division (general)",
+        "last_seen": "2025-10-05T07:29:06.966342",
+        "obo_id": "CUSTOM:779e8fbf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NSC cell size (hypertrophy / increased cell size)",
+      "id": "CUSTOM:24f5e942",
+      "label": "NSC cell size (hy...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.961319",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NSC cell size (hypertrophy / increased cell size)",
+        "last_seen": "2025-10-05T07:29:06.961319",
+        "obo_id": "CUSTOM:24f5e942"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NSC proliferative potential (enhanced proliferation)",
+      "id": "CUSTOM:e0992efb",
+      "label": "NSC proliferative...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.956046",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NSC proliferative potential (enhanced proliferation)",
+        "last_seen": "2025-10-05T07:29:06.956046",
+        "obo_id": "CUSTOM:e0992efb"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2088",
+      "source": "PMC9699585",
+      "target": "CUSTOM:488f27c9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2086",
+      "source": "PMC9699585",
+      "target": "CUSTOM:96c42a5d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2084",
+      "source": "PMC9699585",
+      "target": "CUSTOM:a7c75064",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2082",
+      "source": "PMC9699585",
+      "target": "CUSTOM:779e8fbf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2080",
+      "source": "PMC9699585",
+      "target": "CUSTOM:24f5e942",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2078",
+      "source": "PMC9699585",
+      "target": "CUSTOM:e0992efb",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

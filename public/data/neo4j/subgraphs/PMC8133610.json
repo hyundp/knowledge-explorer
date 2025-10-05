@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC8133610",
+  "nodes": [
+    {
+      "fullLabel": "PMC8133610",
+      "id": "PMC8133610",
+      "label": "PMC8133610",
+      "properties": {
+        "pmcid": "PMC8133610",
+        "first_seen": "2025-10-05T07:29:03.555005",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.605715"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "The electrical, ROS-based, ionic, and hydraulic systemic signaling system(s) in plants propagate rapidly",
+      "id": "CUSTOM:086fe264",
+      "label": "The electrical, R...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.607551",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "The electrical, ROS-based, ionic, and hydraulic systemic signaling system(s) in plants propagate rapidly",
+        "last_seen": "2025-10-05T07:29:03.607551",
+        "obo_id": "CUSTOM:086fe264"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Glutamate leakage to the apoplast after cellular damage can trigger GLR action and support Ca2+ fluxes involved in systemic signal propagation",
+      "id": "CUSTOM:2424a876",
+      "label": "Glutamate leakage...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.603075",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Glutamate leakage to the apoplast after cellular damage can trigger GLR action and support Ca2+ fluxes involved in systemic signal propagation",
+        "last_seen": "2025-10-05T07:29:03.603075",
+        "obo_id": "CUSTOM:2424a876"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Local application of glutamate triggers systemic spread of a Ca2+ increase and activation of jasmonic acid (JA) defense responses throughout the plant in a GLR3.3- and GLR3.6-dependent manner",
+      "id": "CUSTOM:ff326947",
+      "label": "Local application...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.598128",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Local application of glutamate triggers systemic spread of a Ca2+ increase and activation of jasmonic acid (JA) defense responses throughout the plant in a GLR3.3- and GLR3.6-dependent manner",
+        "last_seen": "2025-10-05T07:29:03.598128",
+        "obo_id": "CUSTOM:ff326947"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Endoplasmic reticulum (ER) and vacuole are important signaling hubs in plants",
+      "id": "CUSTOM:30f102a6",
+      "label": "Endoplasmic retic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.592538",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Endoplasmic reticulum (ER) and vacuole are important signaling hubs in plants",
+        "last_seen": "2025-10-05T07:29:03.592538",
+        "obo_id": "CUSTOM:30f102a6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Vacuolar ion channel TPC1 and GLRs located on intracellular membranes (tonoplast and ER) have important roles in systemic signaling, highlighting organelles' role in propagating these events",
+      "id": "CUSTOM:1910fa67",
+      "label": "Vacuolar ion chan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.586974",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Vacuolar ion channel TPC1 and GLRs located on intracellular membranes (tonoplast and ER) have important roles in systemic signaling, highlighting organelles' role in propagating these events",
+        "last_seen": "2025-10-05T07:29:03.586974",
+        "obo_id": "CUSTOM:1910fa67"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Action potentials (APs) and variation potentials (VPs) are linked to plasma membrane-related events reflecting ion movements across the plasma membrane",
+      "id": "CUSTOM:09699b79",
+      "label": "Action potentials...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.580712",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Action potentials (APs) and variation potentials (VPs) are linked to plasma membrane-related events reflecting ion movements across the plasma membrane",
+        "last_seen": "2025-10-05T07:29:03.580712",
+        "obo_id": "CUSTOM:09699b79"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Rapid, systemic signaling systems operate in a wide variety of plants in response to local high light stress",
+      "id": "CUSTOM:1f4af442",
+      "label": "Rapid, systemic s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.572537",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Rapid, systemic signaling systems operate in a wide variety of plants in response to local high light stress",
+        "last_seen": "2025-10-05T07:29:03.572537",
+        "obo_id": "CUSTOM:1f4af442"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Rapid, systemic signaling systems operate in a wide variety of plants in response to leaf wounding (insect herbivory)",
+      "id": "CUSTOM:e26ab97f",
+      "label": "Rapid, systemic s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.563062",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Rapid, systemic signaling systems operate in a wide variety of plants in response to leaf wounding (insect herbivory)",
+        "last_seen": "2025-10-05T07:29:03.563062",
+        "obo_id": "CUSTOM:e26ab97f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Leaflet movements in Mimosa are associated with electrical changes",
+      "id": "CUSTOM:d0d2c104",
+      "label": "Leaflet movements...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.556488",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Leaflet movements in Mimosa are associated with electrical changes",
+        "last_seen": "2025-10-05T07:29:03.556488",
+        "obo_id": "CUSTOM:d0d2c104"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "982",
+      "source": "PMC8133610",
+      "target": "CUSTOM:086fe264",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "980",
+      "source": "PMC8133610",
+      "target": "CUSTOM:2424a876",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "978",
+      "source": "PMC8133610",
+      "target": "CUSTOM:ff326947",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "976",
+      "source": "PMC8133610",
+      "target": "CUSTOM:30f102a6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "974",
+      "source": "PMC8133610",
+      "target": "CUSTOM:1910fa67",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "972",
+      "source": "PMC8133610",
+      "target": "CUSTOM:09699b79",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "970",
+      "source": "PMC8133610",
+      "target": "CUSTOM:1f4af442",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "968",
+      "source": "PMC8133610",
+      "target": "CUSTOM:e26ab97f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "966",
+      "source": "PMC8133610",
+      "target": "CUSTOM:d0d2c104",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

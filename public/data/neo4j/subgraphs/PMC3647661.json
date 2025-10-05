@@ -1,0 +1,241 @@
+{
+  "pmcid": "PMC3647661",
+  "nodes": [
+    {
+      "fullLabel": "PMC3647661",
+      "id": "PMC3647661",
+      "label": "PMC3647661",
+      "properties": {
+        "pmcid": "PMC3647661",
+        "first_seen": "2025-10-05T07:29:12.726220",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:12.807775"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "ability of murine Norovirus (NoV) to infect primary immune cells (comparison statement)",
+      "id": "CUSTOM:a78bf7de",
+      "label": "ability of murine...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.809912",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ability of murine Norovirus (NoV) to infect primary immune cells (comparison statement)",
+        "last_seen": "2025-10-05T07:29:12.809912",
+        "obo_id": "CUSTOM:a78bf7de"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "support of NV infection by primary human macrophages and dendritic cells from secretor positive donors",
+      "id": "CUSTOM:589604ee",
+      "label": "support of NV inf...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.803366",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "support of NV infection by primary human macrophages and dendritic cells from secretor positive donors",
+        "last_seen": "2025-10-05T07:29:12.803366",
+        "obo_id": "CUSTOM:589604ee"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NV replication and synthesis of NV proteins after transfection with NV RNA",
+      "id": "CUSTOM:a5845fb4",
+      "label": "NV replication an...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.796915",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NV replication and synthesis of NV proteins after transfection with NV RNA",
+        "last_seen": "2025-10-05T07:29:12.796915",
+        "obo_id": "CUSTOM:a5845fb4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NV infection and replication following increased particle binding (in FUT2-overexpressing or differentiated cells)",
+      "id": "CUSTOM:437a8e06",
+      "label": "NV infection and ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.789984",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NV infection and replication following increased particle binding (in FUT2-overexpressing or differentiated cells)",
+        "last_seen": "2025-10-05T07:29:12.789984",
+        "obo_id": "CUSTOM:437a8e06"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NV particle binding after overexpression of FUT2",
+      "id": "CUSTOM:67fca287",
+      "label": "NV particle bindi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.783302",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NV particle binding after overexpression of FUT2",
+        "last_seen": "2025-10-05T07:29:12.783302",
+        "obo_id": "CUSTOM:67fca287"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "HBGA carbohydrate expression on the surface of intestinal cells (putative NV receptor)",
+      "id": "CUSTOM:d88224ed",
+      "label": "HBGA carbohydrate...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.777180",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "HBGA carbohydrate expression on the surface of intestinal cells (putative NV receptor)",
+        "last_seen": "2025-10-05T07:29:12.777180",
+        "obo_id": "CUSTOM:d88224ed"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "viral (structural or nonstructural) protein levels",
+      "id": "CUSTOM:77f13c6e",
+      "label": "viral (structural...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.768621",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "viral (structural or nonstructural) protein levels",
+        "last_seen": "2025-10-05T07:29:12.768621",
+        "obo_id": "CUSTOM:77f13c6e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "CPE-like effects induced by lipopolysaccharide (LPS)",
+      "id": "CUSTOM:1c53535b",
+      "label": "CPE-like effects ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.759792",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CPE-like effects induced by lipopolysaccharide (LPS)",
+        "last_seen": "2025-10-05T07:29:12.759792",
+        "obo_id": "CUSTOM:1c53535b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "viral RNA levels",
+      "id": "CUSTOM:cef31f7c",
+      "label": "viral RNA levels",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.751215",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "viral RNA levels",
+        "last_seen": "2025-10-05T07:29:12.751215",
+        "obo_id": "CUSTOM:cef31f7c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "CPE-like morphologic changes in 3D intestinal aggregates",
+      "id": "CUSTOM:2c762a23",
+      "label": "CPE-like morpholo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.742581",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CPE-like morphologic changes in 3D intestinal aggregates",
+        "last_seen": "2025-10-05T07:29:12.742581",
+        "obo_id": "CUSTOM:2c762a23"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3650",
+      "source": "PMC3647661",
+      "target": "CUSTOM:a78bf7de",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3648",
+      "source": "PMC3647661",
+      "target": "CUSTOM:589604ee",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3646",
+      "source": "PMC3647661",
+      "target": "CUSTOM:a5845fb4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3644",
+      "source": "PMC3647661",
+      "target": "CUSTOM:437a8e06",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3642",
+      "source": "PMC3647661",
+      "target": "CUSTOM:67fca287",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3640",
+      "source": "PMC3647661",
+      "target": "CUSTOM:d88224ed",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3638",
+      "source": "PMC3647661",
+      "target": "CUSTOM:77f13c6e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3636",
+      "source": "PMC3647661",
+      "target": "CUSTOM:1c53535b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3634",
+      "source": "PMC3647661",
+      "target": "CUSTOM:cef31f7c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3632",
+      "source": "PMC3647661",
+      "target": "CUSTOM:2c762a23",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 11,
+  "num_edges": 10
+}

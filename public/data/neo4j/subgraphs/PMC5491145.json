@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC5491145",
+  "nodes": [
+    {
+      "fullLabel": "PMC5491145",
+      "id": "PMC5491145",
+      "label": "PMC5491145",
+      "properties": {
+        "pmcid": "PMC5491145",
+        "first_seen": "2025-10-05T07:29:03.266569",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.310986"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Plants grown on petri plates in spaceflight represent a likely benign growth system with reduced water-management stress relative to larger plant production systems on orbit; larger units may exhibit more stress responses.",
+      "id": "CUSTOM:0a97e919",
+      "label": "Plants grown on p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.313751",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Plants grown on petri plates in spaceflight represent a likely benign growth system with reduced water-management stress relative to larger plant production systems on orbit; larger units may exhibit more stress responses.",
+        "last_seen": "2025-10-05T07:29:03.313751",
+        "obo_id": "CUSTOM:0a97e919"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cell wall remodeling genes consistently characterize the plant spaceflight transcriptome response and are richly represented in this experiment.",
+      "id": "CUSTOM:38d92dad",
+      "label": "Cell wall remodel...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.307669",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cell wall remodeling genes consistently characterize the plant spaceflight transcriptome response and are richly represented in this experiment.",
+        "last_seen": "2025-10-05T07:29:03.307669",
+        "obo_id": "CUSTOM:38d92dad"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "The differential expression observed is often at the level of categories of genes rather than individual genes, which could indicate certain categories are necessary or a common consequence of interpreting the novel environment.",
+      "id": "CUSTOM:1a7fce90",
+      "label": "The differential ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.301848",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "The differential expression observed is often at the level of categories of genes rather than individual genes, which could indicate certain categories are necessary or a common consequence of interpreting the novel environment.",
+        "last_seen": "2025-10-05T07:29:03.301848",
+        "obo_id": "CUSTOM:1a7fce90"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "There is no overt indication that specific genes will be differentially expressed in all spaceflight plants.",
+      "id": "CUSTOM:4f6d2bce",
+      "label": "There is no overt...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.294033",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "There is no overt indication that specific genes will be differentially expressed in all spaceflight plants.",
+        "last_seen": "2025-10-05T07:29:03.294033",
+        "obo_id": "CUSTOM:4f6d2bce"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Spaceflight-induced differential gene expression is highly organ specific; roots and leaves share few spaceflight differential genes in common.",
+      "id": "CUSTOM:b6ea9464",
+      "label": "Spaceflight-induc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.288425",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Spaceflight-induced differential gene expression is highly organ specific; roots and leaves share few spaceflight differential genes in common.",
+        "last_seen": "2025-10-05T07:29:03.288425",
+        "obo_id": "CUSTOM:b6ea9464"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "There is no single, fundamental spaceflight response that characterizes plant physiological adaptation; adaptive response depends on genotype and specific environment.",
+      "id": "CUSTOM:40ebf720",
+      "label": "There is no singl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.281689",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "There is no single, fundamental spaceflight response that characterizes plant physiological adaptation; adaptive response depends on genotype and specific environment.",
+        "last_seen": "2025-10-05T07:29:03.281689",
+        "obo_id": "CUSTOM:40ebf720"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Genetic manipulation can produce varieties better adapted to growth in spaceflight through elimination of unnecessary responses.",
+      "id": "CUSTOM:b7d2c30a",
+      "label": "Genetic manipulat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.273532",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Genetic manipulation can produce varieties better adapted to growth in spaceflight through elimination of unnecessary responses.",
+        "last_seen": "2025-10-05T07:29:03.273532",
+        "obo_id": "CUSTOM:b7d2c30a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Gene expression responses to spaceflight are potentially non-adaptive and can be genetically eliminated without overtly compromising growth in space.",
+      "id": "CUSTOM:678a6351",
+      "label": "Gene expression r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.268451",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Gene expression responses to spaceflight are potentially non-adaptive and can be genetically eliminated without overtly compromising growth in space.",
+        "last_seen": "2025-10-05T07:29:03.268451",
+        "obo_id": "CUSTOM:678a6351"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "898",
+      "source": "PMC5491145",
+      "target": "CUSTOM:0a97e919",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "896",
+      "source": "PMC5491145",
+      "target": "CUSTOM:38d92dad",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "894",
+      "source": "PMC5491145",
+      "target": "CUSTOM:1a7fce90",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "892",
+      "source": "PMC5491145",
+      "target": "CUSTOM:4f6d2bce",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "890",
+      "source": "PMC5491145",
+      "target": "CUSTOM:b6ea9464",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "888",
+      "source": "PMC5491145",
+      "target": "CUSTOM:40ebf720",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "886",
+      "source": "PMC5491145",
+      "target": "CUSTOM:b7d2c30a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "884",
+      "source": "PMC5491145",
+      "target": "CUSTOM:678a6351",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

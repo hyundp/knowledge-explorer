@@ -1,0 +1,483 @@
+{
+  "pmcid": "PMC4902601",
+  "nodes": [
+    {
+      "fullLabel": "PMC4902601",
+      "id": "PMC4902601",
+      "label": "PMC4902601",
+      "properties": {
+        "pmcid": "PMC4902601",
+        "first_seen": "2025-10-05T07:29:10.587494",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:10.760038"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "cell wall plasticity (cell wall composition) influencing photosynthetic processes",
+      "id": "CUSTOM:a1d4e3f2",
+      "label": "cell wall plastic...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.762212",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cell wall plasticity (cell wall composition) influencing photosynthetic processes",
+        "last_seen": "2025-10-05T07:29:10.762212",
+        "obo_id": "CUSTOM:a1d4e3f2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "area based photosynthesis rates (as cause of observed growth differences)",
+      "id": "CUSTOM:2d2d355b",
+      "label": "area based photos...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.755984",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "area based photosynthesis rates (as cause of observed growth differences)",
+        "last_seen": "2025-10-05T07:29:10.755984",
+        "obo_id": "CUSTOM:2d2d355b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "carbon partitioning to leaf area growth and LMA growth",
+      "id": "CUSTOM:fd1884d6",
+      "label": "carbon partitioni...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.750219",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "carbon partitioning to leaf area growth and LMA growth",
+        "last_seen": "2025-10-05T07:29:10.750219",
+        "obo_id": "CUSTOM:fd1884d6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "plant growth (suppression of CGR2 and CGR3)",
+      "id": "CUSTOM:02d21900",
+      "label": "plant growth (sup...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.744846",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "plant growth (suppression of CGR2 and CGR3)",
+        "last_seen": "2025-10-05T07:29:10.744846",
+        "obo_id": "CUSTOM:02d21900"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "leaf area (suppression of CGR2 and CGR3)",
+      "id": "CUSTOM:e923a7bf",
+      "label": "leaf area (suppre...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.739073",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "leaf area (suppression of CGR2 and CGR3)",
+        "last_seen": "2025-10-05T07:29:10.739073",
+        "obo_id": "CUSTOM:e923a7bf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "leaf mass per area (LMA) (suppression of CGR2 and CGR3)",
+      "id": "CUSTOM:d6c6569b",
+      "label": "leaf mass per are...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.733760",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "leaf mass per area (LMA) (suppression of CGR2 and CGR3)",
+        "last_seen": "2025-10-05T07:29:10.733760",
+        "obo_id": "CUSTOM:d6c6569b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "plant growth (overexpression of CGR2)",
+      "id": "CUSTOM:7f0974e5",
+      "label": "plant growth (ove...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.727719",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "plant growth (overexpression of CGR2)",
+        "last_seen": "2025-10-05T07:29:10.727719",
+        "obo_id": "CUSTOM:7f0974e5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "leaf area (overexpression of CGR2)",
+      "id": "CUSTOM:c3840f3b",
+      "label": "leaf area (overex...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.722132",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "leaf area (overexpression of CGR2)",
+        "last_seen": "2025-10-05T07:29:10.722132",
+        "obo_id": "CUSTOM:c3840f3b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "internal conductance (S mes and S c) and carboxylation rates associated with sufficient intercellular air spaces",
+      "id": "CUSTOM:e16fe828",
+      "label": "internal conducta...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.716770",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "internal conductance (S mes and S c) and carboxylation rates associated with sufficient intercellular air spaces",
+        "last_seen": "2025-10-05T07:29:10.716770",
+        "obo_id": "CUSTOM:e16fe828"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "leaf mass per area (LMA) in thin leaves",
+      "id": "CUSTOM:9e53960e",
+      "label": "leaf mass per are...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.710895",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "leaf mass per area (LMA) in thin leaves",
+        "last_seen": "2025-10-05T07:29:10.710895",
+        "obo_id": "CUSTOM:9e53960e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cell expansion, cell size, and adhesion qualities",
+      "id": "CUSTOM:5f83cba4",
+      "label": "cell expansion, c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.705218",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cell expansion, cell size, and adhesion qualities",
+        "last_seen": "2025-10-05T07:29:10.705218",
+        "obo_id": "CUSTOM:5f83cba4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "light capture through larger leaf area (affecting plant based photosynthesis)",
+      "id": "CUSTOM:60657af2",
+      "label": "light capture thr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.698081",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "light capture through larger leaf area (affecting plant based photosynthesis)",
+        "last_seen": "2025-10-05T07:29:10.698081",
+        "obo_id": "CUSTOM:60657af2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "area based photosynthesis via CO2 availability at Rubisco",
+      "id": "CUSTOM:77298ac7",
+      "label": "area based photos...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.677612",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "area based photosynthesis via CO2 availability at Rubisco",
+        "last_seen": "2025-10-05T07:29:10.677612",
+        "obo_id": "CUSTOM:77298ac7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "area based respiration",
+      "id": "CUSTOM:ee7b6a25",
+      "label": "area based respir...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.668765",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "area based respiration",
+        "last_seen": "2025-10-05T07:29:10.668765",
+        "obo_id": "CUSTOM:ee7b6a25"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "leaf mass per area (LMA)",
+      "id": "CUSTOM:ff87dbdf",
+      "label": "leaf mass per are...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.659942",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "leaf mass per area (LMA)",
+        "last_seen": "2025-10-05T07:29:10.659942",
+        "obo_id": "CUSTOM:ff87dbdf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "area based photosynthesis and respiration",
+      "id": "CUSTOM:412e8aed",
+      "label": "area based photos...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.651277",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "area based photosynthesis and respiration",
+        "last_seen": "2025-10-05T07:29:10.651277",
+        "obo_id": "CUSTOM:412e8aed"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ability to reproduce observed growth changes by substituting partitioning coefficients only during early vegetative growth phase",
+      "id": "CUSTOM:a98a4369",
+      "label": "ability to reprod...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.627327",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ability to reproduce observed growth changes by substituting partitioning coefficients only during early vegetative growth phase",
+        "last_seen": "2025-10-05T07:29:10.627327",
+        "obo_id": "CUSTOM:a98a4369"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "C partitioning to growth (in terms of leaf area and LMA) explaining observed growth differences",
+      "id": "CUSTOM:9552783b",
+      "label": "C partitioning to...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.618822",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "C partitioning to growth (in terms of leaf area and LMA) explaining observed growth differences",
+        "last_seen": "2025-10-05T07:29:10.618822",
+        "obo_id": "CUSTOM:9552783b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "effect of photosynthetic (area-based) rates on observed plant growth differences in CGR2OX and cgr2/3",
+      "id": "CUSTOM:8f91aab2",
+      "label": "effect of photosy...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.602065",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "effect of photosynthetic (area-based) rates on observed plant growth differences in CGR2OX and cgr2/3",
+        "last_seen": "2025-10-05T07:29:10.602065",
+        "obo_id": "CUSTOM:8f91aab2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "modeled plant growth when Col 0 partitioning coefficients are replaced by those of cgr2/3 (area-based photosynthesis rates of Col 0 unchanged)",
+      "id": "CUSTOM:0ec8391a",
+      "label": "modeled plant gro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.595839",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "modeled plant growth when Col 0 partitioning coefficients are replaced by those of cgr2/3 (area-based photosynthesis rates of Col 0 unchanged)",
+        "last_seen": "2025-10-05T07:29:10.595839",
+        "obo_id": "CUSTOM:0ec8391a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "modeled plant growth when Col 0 partitioning coefficients are replaced by those of CGR2OX (area-based photosynthesis rates of Col 0 unchanged)",
+      "id": "CUSTOM:ce2fd836",
+      "label": "modeled plant gro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.589761",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "modeled plant growth when Col 0 partitioning coefficients are replaced by those of CGR2OX (area-based photosynthesis rates of Col 0 unchanged)",
+        "last_seen": "2025-10-05T07:29:10.589761",
+        "obo_id": "CUSTOM:ce2fd836"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3138",
+      "source": "PMC4902601",
+      "target": "CUSTOM:a1d4e3f2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3136",
+      "source": "PMC4902601",
+      "target": "CUSTOM:2d2d355b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3134",
+      "source": "PMC4902601",
+      "target": "CUSTOM:fd1884d6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3132",
+      "source": "PMC4902601",
+      "target": "CUSTOM:02d21900",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3130",
+      "source": "PMC4902601",
+      "target": "CUSTOM:e923a7bf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3128",
+      "source": "PMC4902601",
+      "target": "CUSTOM:d6c6569b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3126",
+      "source": "PMC4902601",
+      "target": "CUSTOM:7f0974e5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3124",
+      "source": "PMC4902601",
+      "target": "CUSTOM:c3840f3b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3122",
+      "source": "PMC4902601",
+      "target": "CUSTOM:e16fe828",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3120",
+      "source": "PMC4902601",
+      "target": "CUSTOM:9e53960e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3118",
+      "source": "PMC4902601",
+      "target": "CUSTOM:5f83cba4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3116",
+      "source": "PMC4902601",
+      "target": "CUSTOM:60657af2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3114",
+      "source": "PMC4902601",
+      "target": "CUSTOM:77298ac7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3112",
+      "source": "PMC4902601",
+      "target": "CUSTOM:ee7b6a25",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3110",
+      "source": "PMC4902601",
+      "target": "CUSTOM:ff87dbdf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3108",
+      "source": "PMC4902601",
+      "target": "CUSTOM:412e8aed",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3106",
+      "source": "PMC4902601",
+      "target": "CUSTOM:a98a4369",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3104",
+      "source": "PMC4902601",
+      "target": "CUSTOM:9552783b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3102",
+      "source": "PMC4902601",
+      "target": "CUSTOM:8f91aab2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3100",
+      "source": "PMC4902601",
+      "target": "CUSTOM:0ec8391a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3098",
+      "source": "PMC4902601",
+      "target": "CUSTOM:ce2fd836",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 22,
+  "num_edges": 21
+}

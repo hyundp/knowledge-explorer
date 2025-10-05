@@ -1,0 +1,25 @@
+{
+  "pmcid": "PMC9832585",
+  "title": "Inter agency perspective: Translating advances in biomarker discovery and medical countermeasures development between terrestrial and space radiation environments",
+  "authors": [
+    "Andrea L DiCarlo",
+    "Lisa S Carnell",
+    "Carmen I Rios",
+    "Pataje G Prasanna"
+  ],
+  "year": "2022",
+  "journal": "Life sciences in space research",
+  "doi": "10.1016/j.lssr.2022.06.004",
+  "sections": {
+    "abstract": "Over the past 20+ years, the U.S. Government has made significant strides in establishing research funding and initiating a portfolio consisting of subject matter experts on radiation induced biological effects in normal tissues. Research supported by the National Cancer Institute (NCI) provided much of the early findings on identifying cellular pathways involved in radiation injuries, due to the need to push the boundaries to kill tumor cells while minimizing damage to intervening normal tissues. By protecting normal tissue surrounding the tumors, physicians can deliver a higher radiation dose to tumors and reduce adverse effects related to the treatment. Initially relying on this critical NCI research, the National Institute of Allergy and Infectious Diseases (NIAID), first tasked with developing radiation medical countermeasures in 2004, has provided bridge funding to move basic research toward advanced development and translation. The goal of the NIAID program is to fund approaches that can one day be employed to protect civilian populations during a radiological or nuclear incident. In addition, with the reality of long term space flights and the possibility of radiation exposures to both acute, high intensity, and chronic lower dose levels, the National Aeronautics and Space Administration (NASA) has identified requirements to discover and develop radioprotectors and mitigators to protect their astronauts during space missions. In sustained partnership with sister agencies, these three organizations must continue to leverage funding and findings in their overlapping research areas to accelerate biomarker identification and product development to help safeguard these different and yet undeniably similar human populations   cancer patients, public citizens, and astronauts.\n\nKeywords:Space, Radiation, Medical countermeasures, Chronic, Cancer, Biomarkers",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "There are several terrestrial based radiation injury prevention products, either in routine clinical use or undergoing testing through other U.S. government programs such as NCI and NIAID, that could be used to address the health needs of humans in space and vice versa. Fortunately, careful coordination between funding agencies and scientists in the field has enabled the advancement of many approaches that could be useful for both NIH and NASA needs. Looking to the future, commercial space tourism is already a reality for sub orbital flights and low earth orbits, with private astronaut missions to the International Space Station currently underway, and moon trips expected during the next few decades. Although exposures may be limited due to shorter flight times, people in the general population will still be exposed to space radiation during these flights. As there are diverse tissue specific cancer risk rankings across sex and race, including sex specific organ risks, all of these factors will need to be considered as more people take these flights (Cucinotta and Saganti, 2022). Continued collaboration between organizations tasked with developing approaches to address radiation induced injuries will ensure that products with the greatest promise are studied across all agencies' mission specific requirements and that human health will be well addressed by NASA for their future long term space flights. Similarly, advances made by NASA and their funded investigators can help NIH in their efforts to address radiotherapy complications and protection of civilians from other unintended radiation exposures."
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:00:56.839149",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9832585/"
+  }
+}

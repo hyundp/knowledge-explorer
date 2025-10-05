@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC10848226",
+  "nodes": [
+    {
+      "fullLabel": "PMC10848226",
+      "id": "PMC10848226",
+      "label": "PMC10848226",
+      "properties": {
+        "pmcid": "PMC10848226",
+        "first_seen": "2025-10-05T07:29:16.737365",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:16.778633"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Potential for pathogen accumulation and transmission risk in shared spaces such as hallways or visitor areas",
+      "id": "CUSTOM:dac5e417",
+      "label": "Potential for pat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.781087",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential for pathogen accumulation and transmission risk in shared spaces such as hallways or visitor areas",
+        "last_seen": "2025-10-05T07:29:16.781087",
+        "obo_id": "CUSTOM:dac5e417"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Primary focus of intervention studies on patient rooms and bathrooms",
+      "id": "CUSTOM:01e919fa",
+      "label": "Primary focus of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.773132",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Primary focus of intervention studies on patient rooms and bathrooms",
+        "last_seen": "2025-10-05T07:29:16.773132",
+        "obo_id": "CUSTOM:01e919fa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Enabling printing of ceramics or hard plastics with improved utility as building materials using new 3D printing approaches",
+      "id": "CUSTOM:25b0ef4c",
+      "label": "Enabling printing...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.763627",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Enabling printing of ceramics or hard plastics with improved utility as building materials using new 3D printing approaches",
+        "last_seen": "2025-10-05T07:29:16.763627",
+        "obo_id": "CUSTOM:25b0ef4c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Survival (not harmed) of spores and live bacteria during low temperature 3D printing assembly processes",
+      "id": "CUSTOM:be885871",
+      "label": "Survival (not har...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.754497",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Survival (not harmed) of spores and live bacteria during low temperature 3D printing assembly processes",
+        "last_seen": "2025-10-05T07:29:16.754497",
+        "obo_id": "CUSTOM:be885871"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Inhibition of probiotic and phage cleaners by harsh cleaning treatments using bleach",
+      "id": "CUSTOM:5aa22228",
+      "label": "Inhibition of pro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.747623",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Inhibition of probiotic and phage cleaners by harsh cleaning treatments using bleach",
+        "last_seen": "2025-10-05T07:29:16.747623",
+        "obo_id": "CUSTOM:5aa22228"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Potential to revolutionize cleaning approaches in healthcare facilities from probiotic intervention studies",
+      "id": "CUSTOM:4123be1d",
+      "label": "Potential to revo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.740049",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential to revolutionize cleaning approaches in healthcare facilities from probiotic intervention studies",
+        "last_seen": "2025-10-05T07:29:16.740049",
+        "obo_id": "CUSTOM:4123be1d"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4602",
+      "source": "PMC10848226",
+      "target": "CUSTOM:dac5e417",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4600",
+      "source": "PMC10848226",
+      "target": "CUSTOM:01e919fa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4598",
+      "source": "PMC10848226",
+      "target": "CUSTOM:25b0ef4c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4596",
+      "source": "PMC10848226",
+      "target": "CUSTOM:be885871",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4594",
+      "source": "PMC10848226",
+      "target": "CUSTOM:5aa22228",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4592",
+      "source": "PMC10848226",
+      "target": "CUSTOM:4123be1d",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

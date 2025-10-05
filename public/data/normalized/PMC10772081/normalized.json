@@ -1,0 +1,41 @@
+{
+  "pmcid": "PMC10772081",
+  "title": "A comprehensive SARS CoV 2 and COVID 19 review, Part 2: host extracellular to systemic effects of SARS CoV 2 infection",
+  "authors": [
+    "S Anand Narayanan",
+    "David A Jamison, Jr",
+    "Joseph W Guarnieri",
+    "Victoria Zaksas",
+    "Michael Topper",
+    "Andrew P Koutnik",
+    "Jiwoon Park",
+    "Kevin B Clark",
+    "Francisco J Enguita",
+    "Ana Lcia Leito",
+    "Saswati Das",
+    "Pedro M Moraes Vieira",
+    "Diego Galeano",
+    "Christopher E Mason",
+    "Ndia S Trovo",
+    "Robert E Schwartz",
+    "Jonathan C Schisler",
+    "Jordana G A Coelho dos Reis",
+    "Eve Syrkin Wurtele",
+    "Afshin Beheshti"
+  ],
+  "year": "2023",
+  "journal": "European Journal of Human Genetics",
+  "doi": "10.1038/s41431 023 01462 1",
+  "sections": {
+    "abstract": "COVID 19, the disease caused by SARS CoV 2, has caused significant morbidity and mortality worldwide. The betacoronavirus continues to evolve with global health implications as we race to learn more to curb its transmission, evolution, and sequelae. The focus of this review, the second of a three part series, is on the biological effects of the SARS CoV 2 virus on post acute disease in the context of tissue and organ adaptations and damage. We highlight the current knowledge and describe how virological, animal, and clinical studies have shed light on the mechanisms driving the varied clinical diagnoses and observations of COVID 19 patients. Moreover, we describe how investigations into SARS CoV 2 effects have informed the understanding of viral pathogenesis and provide innovative pathways for future research on the mechanisms of viral diseases.\n\nSubject terms:Viral infection, Diagnostic markers, Pathology, Chronic inflammation",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "SARS CoV 2 and its resultant acute and chronic diseases, COVID 19 and PASC, have caused significant impacts worldwide. Here we describe and review the latest knowledge about the viral effect on our physiology, as well as the latest research on relevant whole body metabolism pathways, circulating biological components (e.g., RNA, cytokine, hormones, etc.), and affected organ systems and their physiological adaptations consequent to SARS CoV 2 infection.\n\nCOVID 19 is a pleiotropic, complex, and dynamic condition (Fig.4). The viral insults and cellular adaptations differ depending on the context, from cellular to organ systems, and intricate biochemistry ties and integrates these systems together. Herein, we have attempted to capture the prevalent host responses, as well as highlight gaps of knowledge that could be addressed with future research. We have also touched on relevant biochemical targets with potential for mitigating COVID 19 in the human host, and we will describe current and in development treatment modalities that affect these in Part 3 of our review.\n\nThe multi faceted and multiplex physiological adaptations resulting from SARS CoV 2 infection, including the different cells, tissues, and organs that respond to viral infection. The airway milieu refers to the viral factors contained from inhalation and response to these factors in the lungs, while the systemic milieu refers to the viral factors transported through the circulation system and across body, and in turn, the physiological responses to these factors."
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T02:59:57.615758",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10772081/"
+  }
+}

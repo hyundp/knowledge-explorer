@@ -1,0 +1,307 @@
+{
+  "pmcid": "PMC3665236",
+  "nodes": [
+    {
+      "fullLabel": "PMC3665236",
+      "id": "PMC3665236",
+      "label": "PMC3665236",
+      "properties": {
+        "pmcid": "PMC3665236",
+        "first_seen": "2025-10-05T07:29:06.412403",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.520191"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "MAB suitability for long-term monitoring in complex biological liquid media and potential usefulness in in vivo biomedical research and drug-screening ion monitoring",
+      "id": "CUSTOM:1fcff43d",
+      "label": "MAB suitability f...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.521958",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "MAB suitability for long-term monitoring in complex biological liquid media and potential usefulness in in vivo biomedical research and drug-screening ion monitoring",
+        "last_seen": "2025-10-05T07:29:06.521958",
+        "obo_id": "CUSTOM:1fcff43d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Long functional working lifetime demonstrated with ISEs for H+ ions",
+      "id": "CUSTOM:2b09bd45",
+      "label": "Long functional w...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.516855",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Long functional working lifetime demonstrated with ISEs for H+ ions",
+        "last_seen": "2025-10-05T07:29:06.516855",
+        "obo_id": "CUSTOM:2b09bd45"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "CP conjugates can be functionalized with biomolecules enabling the MAB to function as a biosensor",
+      "id": "CUSTOM:f4347f2e",
+      "label": "CP conjugates can...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.511863",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CP conjugates can be functionalized with biomolecules enabling the MAB to function as a biosensor",
+        "last_seen": "2025-10-05T07:29:06.511863",
+        "obo_id": "CUSTOM:f4347f2e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Electrochemical deposition methods (cyclic voltammetric and galvanostatic) tailor physical and electrochemical properties of PEDOT conjugate and allow rapid construction of ASSISEs",
+      "id": "CUSTOM:257a28ab",
+      "label": "Electrochemical d...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.498193",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Electrochemical deposition methods (cyclic voltammetric and galvanostatic) tailor physical and electrochemical properties of PEDOT conjugate and allow rapid construction of ASSISEs",
+        "last_seen": "2025-10-05T07:29:06.498193",
+        "obo_id": "CUSTOM:257a28ab"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Replacement of PSS with CaSO4 in PEDOT results in excess Ca2+ within polymer conjugate preventing binding of measured sample Ca2+",
+      "id": "CUSTOM:8276b6ef",
+      "label": "Replacement of PS...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.492690",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Replacement of PSS with CaSO4 in PEDOT results in excess Ca2+ within polymer conjugate preventing binding of measured sample Ca2+",
+        "last_seen": "2025-10-05T07:29:06.492690",
+        "obo_id": "CUSTOM:8276b6ef"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Speciation equilibrium among H2CO3, HCO3-, CO32- and dissolved CO2 depends on pH",
+      "id": "CUSTOM:0b6d7f16",
+      "label": "Speciation equili...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.488100",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Speciation equilibrium among H2CO3, HCO3-, CO32- and dissolved CO2 depends on pH",
+        "last_seen": "2025-10-05T07:29:06.488100",
+        "obo_id": "CUSTOM:0b6d7f16"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Slope profile for decade change in CO32- concentration decreases when solution buffered at pH 8.5",
+      "id": "CUSTOM:a06458bb",
+      "label": "Slope profile for...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.482654",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Slope profile for decade change in CO32- concentration decreases when solution buffered at pH 8.5",
+        "last_seen": "2025-10-05T07:29:06.482654",
+        "obo_id": "CUSTOM:a06458bb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "CO32- measurement results similar to conventional and larger planar electrodes; electrode geometry does not alter potentiometric properties",
+      "id": "CUSTOM:f1fce617",
+      "label": "CO32- measurement...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.458446",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CO32- measurement results similar to conventional and larger planar electrodes; electrode geometry does not alter potentiometric properties",
+        "last_seen": "2025-10-05T07:29:06.458446",
+        "obo_id": "CUSTOM:f1fce617"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Requirement to measure H+ and CO32- simultaneously when measuring with microalgae",
+      "id": "CUSTOM:8021fa9c",
+      "label": "Requirement to me...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.452818",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Requirement to measure H+ and CO32- simultaneously when measuring with microalgae",
+        "last_seen": "2025-10-05T07:29:06.452818",
+        "obo_id": "CUSTOM:8021fa9c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Nonlinear slope profile of the carbonate-selective electrode due to pH dependence",
+      "id": "CUSTOM:135ce528",
+      "label": "Nonlinear slope p...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.446999",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Nonlinear slope profile of the carbonate-selective electrode due to pH dependence",
+        "last_seen": "2025-10-05T07:29:06.446999",
+        "obo_id": "CUSTOM:135ce528"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "PEDOT:PSS CP conjugate functions as a transducer for small monovalent cations (e.g. H+) and divalent anions (e.g. CO32-)",
+      "id": "CUSTOM:cdbf4417",
+      "label": "PEDOT:PSS CP conj...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.442633",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "PEDOT:PSS CP conjugate functions as a transducer for small monovalent cations (e.g. H+) and divalent anions (e.g. CO32-)",
+        "last_seen": "2025-10-05T07:29:06.442633",
+        "obo_id": "CUSTOM:cdbf4417"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "High redox capacitance of PEDOT minimizing conductive electrode polarizing effects",
+      "id": "CUSTOM:f6c1a3bb",
+      "label": "High redox capaci...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.437876",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "High redox capacitance of PEDOT minimizing conductive electrode polarizing effects",
+        "last_seen": "2025-10-05T07:29:06.437876",
+        "obo_id": "CUSTOM:f6c1a3bb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Stable redox potential of PEDOT transduction layer",
+      "id": "CUSTOM:8ec80c42",
+      "label": "Stable redox pote...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.432868",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Stable redox potential of PEDOT transduction layer",
+        "last_seen": "2025-10-05T07:29:06.432868",
+        "obo_id": "CUSTOM:8ec80c42"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1928",
+      "source": "PMC3665236",
+      "target": "CUSTOM:1fcff43d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1926",
+      "source": "PMC3665236",
+      "target": "CUSTOM:2b09bd45",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1924",
+      "source": "PMC3665236",
+      "target": "CUSTOM:f4347f2e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1922",
+      "source": "PMC3665236",
+      "target": "CUSTOM:257a28ab",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1920",
+      "source": "PMC3665236",
+      "target": "CUSTOM:8276b6ef",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1918",
+      "source": "PMC3665236",
+      "target": "CUSTOM:0b6d7f16",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1916",
+      "source": "PMC3665236",
+      "target": "CUSTOM:a06458bb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1914",
+      "source": "PMC3665236",
+      "target": "CUSTOM:f1fce617",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1912",
+      "source": "PMC3665236",
+      "target": "CUSTOM:8021fa9c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1910",
+      "source": "PMC3665236",
+      "target": "CUSTOM:135ce528",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1908",
+      "source": "PMC3665236",
+      "target": "CUSTOM:cdbf4417",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1906",
+      "source": "PMC3665236",
+      "target": "CUSTOM:f6c1a3bb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1904",
+      "source": "PMC3665236",
+      "target": "CUSTOM:8ec80c42",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 14,
+  "num_edges": 13
+}

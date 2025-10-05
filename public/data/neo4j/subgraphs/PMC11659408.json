@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC11659408",
+  "nodes": [
+    {
+      "fullLabel": "PMC11659408",
+      "id": "PMC11659408",
+      "label": "PMC11659408",
+      "properties": {
+        "pmcid": "PMC11659408",
+        "first_seen": "2025-10-05T07:29:09.230650",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:09.264018"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "GPER levels in females",
+      "id": "CUSTOM:4ea5efe7",
+      "label": "GPER levels in fe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.266642",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "GPER levels in females",
+        "last_seen": "2025-10-05T07:29:09.266642",
+        "obo_id": "CUSTOM:4ea5efe7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "arterial stiffening (sex differences)",
+      "id": "CUSTOM:42c59723",
+      "label": "arterial stiffeni...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.259166",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "arterial stiffening (sex differences)",
+        "last_seen": "2025-10-05T07:29:09.259166",
+        "obo_id": "CUSTOM:42c59723"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "association between eNOS and extracellular matrix (ECM)",
+      "id": "CUSTOM:3aa6ae5b",
+      "label": "association betwe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.252525",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "association between eNOS and extracellular matrix (ECM)",
+        "last_seen": "2025-10-05T07:29:09.252525",
+        "obo_id": "CUSTOM:3aa6ae5b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "eNOS levels",
+      "id": "CUSTOM:3523f248",
+      "label": "eNOS levels",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.245915",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "eNOS levels",
+        "last_seen": "2025-10-05T07:29:09.245915",
+        "obo_id": "CUSTOM:3523f248"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "COX 2 levels",
+      "id": "CUSTOM:f8b65dbe",
+      "label": "COX 2 levels",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.239125",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "COX 2 levels",
+        "last_seen": "2025-10-05T07:29:09.239125",
+        "obo_id": "CUSTOM:f8b65dbe"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "eNOS levels",
+      "id": "CUSTOM:fc04aa57",
+      "label": "eNOS levels",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.232887",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "eNOS levels",
+        "last_seen": "2025-10-05T07:29:09.232887",
+        "obo_id": "CUSTOM:fc04aa57"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2762",
+      "source": "PMC11659408",
+      "target": "CUSTOM:4ea5efe7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2760",
+      "source": "PMC11659408",
+      "target": "CUSTOM:42c59723",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2758",
+      "source": "PMC11659408",
+      "target": "CUSTOM:3aa6ae5b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2756",
+      "source": "PMC11659408",
+      "target": "CUSTOM:3523f248",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2754",
+      "source": "PMC11659408",
+      "target": "CUSTOM:f8b65dbe",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2752",
+      "source": "PMC11659408",
+      "target": "CUSTOM:fc04aa57",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

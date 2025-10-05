@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC3251573",
+  "nodes": [
+    {
+      "fullLabel": "PMC3251573",
+      "id": "PMC3251573",
+      "label": "PMC3251573",
+      "properties": {
+        "pmcid": "PMC3251573",
+        "first_seen": "2025-10-05T07:29:10.894353",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:10.950217"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Genotypic and phenotypic analysis revealed new insights into mechanisms of fitness and diversity of ExPEC",
+      "id": "CUSTOM:d6208bfe",
+      "label": "Genotypic and phe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.952100",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Genotypic and phenotypic analysis revealed new insights into mechanisms of fitness and diversity of ExPEC",
+        "last_seen": "2025-10-05T07:29:10.952100",
+        "obo_id": "CUSTOM:d6208bfe"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Virulence (biofilm-associated)",
+      "id": "CUSTOM:7fb9b011",
+      "label": "Virulence (biofil...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.946677",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Virulence (biofilm-associated)",
+        "last_seen": "2025-10-05T07:29:10.946677",
+        "obo_id": "CUSTOM:7fb9b011"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Acquisition of genetic material and environmental persistence (biofilm-associated)",
+      "id": "CUSTOM:14bae350",
+      "label": "Acquisition of ge...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.939733",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Acquisition of genetic material and environmental persistence (biofilm-associated)",
+        "last_seen": "2025-10-05T07:29:10.939733",
+        "obo_id": "CUSTOM:14bae350"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of multiple factor-driven biofilms at different temperatures",
+      "id": "CUSTOM:fb924494",
+      "label": "Expression of mul...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.933136",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of multiple factor-driven biofilms at different temperatures",
+        "last_seen": "2025-10-05T07:29:10.933136",
+        "obo_id": "CUSTOM:fb924494"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Formation of four different factor-driven biofilms (plasmidless-, plasmid-, rough LPS-, and O LPS-mediated)",
+      "id": "CUSTOM:f87be69b",
+      "label": "Formation of four...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.926116",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Formation of four different factor-driven biofilms (plasmidless-, plasmid-, rough LPS-, and O LPS-mediated)",
+        "last_seen": "2025-10-05T07:29:10.926116",
+        "obo_id": "CUSTOM:f87be69b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Acid tolerance",
+      "id": "CUSTOM:40078cda",
+      "label": "Acid tolerance",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.917923",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Acid tolerance",
+        "last_seen": "2025-10-05T07:29:10.917923",
+        "obo_id": "CUSTOM:40078cda"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Bile resistance",
+      "id": "CUSTOM:63c09e77",
+      "label": "Bile resistance",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.910781",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Bile resistance",
+        "last_seen": "2025-10-05T07:29:10.910781",
+        "obo_id": "CUSTOM:63c09e77"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Fitness and persistence of APEC 7122",
+      "id": "CUSTOM:7c6fb525",
+      "label": "Fitness and persi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.904461",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Fitness and persistence of APEC 7122",
+        "last_seen": "2025-10-05T07:29:10.904461",
+        "obo_id": "CUSTOM:7c6fb525"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of a novel putative sugar utilization pathway operon, an ABC iron transport system and a type IV fimbriae pil operon on plasmids",
+      "id": "CUSTOM:1a5213a2",
+      "label": "Presence of a nov...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.897300",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of a novel putative sugar utilization pathway operon, an ABC iron transport system and a type IV fimbriae pil operon on plasmids",
+        "last_seen": "2025-10-05T07:29:10.897300",
+        "obo_id": "CUSTOM:1a5213a2"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3188",
+      "source": "PMC3251573",
+      "target": "CUSTOM:d6208bfe",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3186",
+      "source": "PMC3251573",
+      "target": "CUSTOM:7fb9b011",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3184",
+      "source": "PMC3251573",
+      "target": "CUSTOM:14bae350",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3182",
+      "source": "PMC3251573",
+      "target": "CUSTOM:fb924494",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3180",
+      "source": "PMC3251573",
+      "target": "CUSTOM:f87be69b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3178",
+      "source": "PMC3251573",
+      "target": "CUSTOM:40078cda",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3176",
+      "source": "PMC3251573",
+      "target": "CUSTOM:63c09e77",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3174",
+      "source": "PMC3251573",
+      "target": "CUSTOM:7c6fb525",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3172",
+      "source": "PMC3251573",
+      "target": "CUSTOM:1a5213a2",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

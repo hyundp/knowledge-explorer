@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC10528075",
+  "nodes": [
+    {
+      "fullLabel": "PMC10528075",
+      "id": "PMC10528075",
+      "label": "PMC10528075",
+      "properties": {
+        "pmcid": "PMC10528075",
+        "first_seen": "2025-10-05T07:29:01.216022",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.256408"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "modulation of glutamate in MS patients might lead to enhanced myelination",
+      "id": "CUSTOM:52d72890",
+      "label": "modulation of glu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.258432",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "modulation of glutamate in MS patients might lead to enhanced myelination",
+        "last_seen": "2025-10-05T07:29:01.258432",
+        "obo_id": "CUSTOM:52d72890"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "maintenance of OLPs in an immature stage (potentially due to enhanced glutamate)",
+      "id": "CUSTOM:2770742c",
+      "label": "maintenance of OL...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.252713",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "maintenance of OLPs in an immature stage (potentially due to enhanced glutamate)",
+        "last_seen": "2025-10-05T07:29:01.252713",
+        "obo_id": "CUSTOM:2770742c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "glutamate production by OLPs (enhanced by space flight)",
+      "id": "CUSTOM:74083765",
+      "label": "glutamate product...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.248529",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "glutamate production by OLPs (enhanced by space flight)",
+        "last_seen": "2025-10-05T07:29:01.248529",
+        "obo_id": "CUSTOM:74083765"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "proliferation of OLPs",
+      "id": "CUSTOM:158bbc15",
+      "label": "proliferation of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.243517",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "proliferation of OLPs",
+        "last_seen": "2025-10-05T07:29:01.243517",
+        "obo_id": "CUSTOM:158bbc15"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "OLPs appear not to be deleterious and appear to remain functional in astronauts",
+      "id": "CUSTOM:bb9a1d37",
+      "label": "OLPs appear not t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.237363",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "OLPs appear not to be deleterious and appear to remain functional in astronauts",
+        "last_seen": "2025-10-05T07:29:01.237363",
+        "obo_id": "CUSTOM:bb9a1d37"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "metabolic pathways of oligodendrocyte progenitor cells (OLPs) show significant changes under microgravity",
+      "id": "CUSTOM:f9b51263",
+      "label": "metabolic pathway...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.232585",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "metabolic pathways of oligodendrocyte progenitor cells (OLPs) show significant changes under microgravity",
+        "last_seen": "2025-10-05T07:29:01.232585",
+        "obo_id": "CUSTOM:f9b51263"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "190",
+      "source": "PMC10528075",
+      "target": "CUSTOM:52d72890",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "188",
+      "source": "PMC10528075",
+      "target": "CUSTOM:2770742c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "186",
+      "source": "PMC10528075",
+      "target": "CUSTOM:74083765",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "184",
+      "source": "PMC10528075",
+      "target": "CUSTOM:158bbc15",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "182",
+      "source": "PMC10528075",
+      "target": "CUSTOM:bb9a1d37",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "180",
+      "source": "PMC10528075",
+      "target": "CUSTOM:f9b51263",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

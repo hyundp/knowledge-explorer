@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC7733933",
+  "nodes": [
+    {
+      "fullLabel": "PMC7733933",
+      "id": "PMC7733933",
+      "label": "PMC7733933",
+      "properties": {
+        "pmcid": "PMC7733933",
+        "first_seen": "2025-10-05T07:26:41.933799",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.840596"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "adaptability of Pleopeltis (epiphytic fern) to cope with environmental stress",
+      "id": "CUSTOM:5946ee6c",
+      "label": "adaptability of P...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.841816",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adaptability of Pleopeltis (epiphytic fern) to cope with environmental stress",
+        "last_seen": "2025-10-05T07:29:01.841816",
+        "obo_id": "CUSTOM:5946ee6c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "heat damage in Pleopeltis",
+      "id": "CUSTOM:a7a95462",
+      "label": "heat damage in Pl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.838198",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "heat damage in Pleopeltis",
+        "last_seen": "2025-10-05T07:29:01.838198",
+        "obo_id": "CUSTOM:a7a95462"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "thermotolerance of hydrated fronds",
+      "id": "CUSTOM:2470ac52",
+      "label": "thermotolerance o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:26:41.972466",
+        "source_count": 2,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "thermotolerance of hydrated fronds",
+        "last_seen": "2025-10-05T07:29:01.834428",
+        "obo_id": "CUSTOM:2470ac52"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "recovery of dried fronds after heat exposure",
+      "id": "CUSTOM:a5fd9fff",
+      "label": "recovery of dried...",
+      "properties": {
+        "first_seen": "2025-10-05T07:26:41.964651",
+        "source_count": 2,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "recovery of dried fronds after heat exposure",
+        "last_seen": "2025-10-05T07:29:01.830029",
+        "obo_id": "CUSTOM:a5fd9fff"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "heat stress in Pleopeltis fronds",
+      "id": "CUSTOM:7c6d91c0",
+      "label": "heat stress in Pl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:26:41.946409",
+        "source_count": 2,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "heat stress in Pleopeltis fronds",
+        "last_seen": "2025-10-05T07:29:01.816150",
+        "obo_id": "CUSTOM:7c6d91c0"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "366",
+      "source": "PMC7733933",
+      "target": "CUSTOM:5946ee6c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "364",
+      "source": "PMC7733933",
+      "target": "CUSTOM:a7a95462",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "10",
+      "source": "PMC7733933",
+      "target": "CUSTOM:2470ac52",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "8",
+      "source": "PMC7733933",
+      "target": "CUSTOM:a5fd9fff",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "6",
+      "source": "PMC7733933",
+      "target": "CUSTOM:7c6d91c0",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

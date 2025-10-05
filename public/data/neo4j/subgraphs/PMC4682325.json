@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC4682325",
+  "nodes": [
+    {
+      "fullLabel": "PMC4682325",
+      "id": "PMC4682325",
+      "label": "PMC4682325",
+      "properties": {
+        "pmcid": "PMC4682325",
+        "first_seen": "2025-10-05T07:29:10.312156",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:10.406371"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "FLA transcript responses to GA and genotype are reminiscent of responses of these genotypes to GA treatment with regards to maturation of G layers as assayed by JIM14 immunolocalization",
+      "id": "CUSTOM:4707650d",
+      "label": "FLA transcript re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.408054",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "FLA transcript responses to GA and genotype are reminiscent of responses of these genotypes to GA treatment with regards to maturation of G layers as assayed by JIM14 immunolocalization",
+        "last_seen": "2025-10-05T07:29:10.408054",
+        "obo_id": "CUSTOM:4707650d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Pink module contains potential radial signaling related genes with high wood type and module membership, including CLE13 like and SCARECROW like 8",
+      "id": "CUSTOM:233beb82",
+      "label": "Pink module conta...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.403067",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pink module contains potential radial signaling related genes with high wood type and module membership, including CLE13 like and SCARECROW like 8",
+        "last_seen": "2025-10-05T07:29:10.403067",
+        "obo_id": "CUSTOM:233beb82"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Pink module includes genes central to graviresponse and tension wood formation, including auxin-related genes (PIN1 and PIN3 orthologs), GA biosynthesis (GA20 Oxidase), and cell wall biosynthesis genes (IRREGULAR XYLEM genes and 19 FLAs)",
+      "id": "CUSTOM:4d7c1bdf",
+      "label": "Pink module inclu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.397737",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pink module includes genes central to graviresponse and tension wood formation, including auxin-related genes (PIN1 and PIN3 orthologs), GA biosynthesis (GA20 Oxidase), and cell wall biosynthesis genes (IRREGULAR XYLEM genes and 19 FLAs)",
+        "last_seen": "2025-10-05T07:29:10.397737",
+        "obo_id": "CUSTOM:4d7c1bdf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Pink module contains 11 MYB, 6 NAC, and 2 KNOX transcription factors (including orthologs of characterized genes known to regulate meristematic growth, fiber development, and/or secondary cell wall biosynthesis)",
+      "id": "CUSTOM:41641451",
+      "label": "Pink module conta...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.392332",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pink module contains 11 MYB, 6 NAC, and 2 KNOX transcription factors (including orthologs of characterized genes known to regulate meristematic growth, fiber development, and/or secondary cell wall biosynthesis)",
+        "last_seen": "2025-10-05T07:29:10.392332",
+        "obo_id": "CUSTOM:41641451"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "FLA levels are increased by GA in opposite wood of OE ARK2",
+      "id": "CUSTOM:0c12f564",
+      "label": "FLA levels are in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.386980",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "FLA levels are increased by GA in opposite wood of OE ARK2",
+        "last_seen": "2025-10-05T07:29:10.386980",
+        "obo_id": "CUSTOM:0c12f564"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "FLA levels are repressed by GA in opposite wood of wild type and miRNA ARK2 trees",
+      "id": "CUSTOM:58fd492d",
+      "label": "FLA levels are re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.381336",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "FLA levels are repressed by GA in opposite wood of wild type and miRNA ARK2 trees",
+        "last_seen": "2025-10-05T07:29:10.381336",
+        "obo_id": "CUSTOM:58fd492d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "FLA transcript levels are repressed by GA in tension wood of miRNA ARK2",
+      "id": "CUSTOM:a34be50c",
+      "label": "FLA transcript le...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.374591",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "FLA transcript levels are repressed by GA in tension wood of miRNA ARK2",
+        "last_seen": "2025-10-05T07:29:10.374591",
+        "obo_id": "CUSTOM:a34be50c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "FLA levels are induced by GA treatment in tension wood for OE ARK2 and the wild type",
+      "id": "CUSTOM:44dff5e2",
+      "label": "FLA levels are in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.369246",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "FLA levels are induced by GA treatment in tension wood for OE ARK2 and the wild type",
+        "last_seen": "2025-10-05T07:29:10.369246",
+        "obo_id": "CUSTOM:44dff5e2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "FLA transcript levels show ARK2-dependent differential expression in response to GA treatment in tension wood and opposite wood",
+      "id": "CUSTOM:84903c1a",
+      "label": "FLA transcript le...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.363689",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "FLA transcript levels show ARK2-dependent differential expression in response to GA treatment in tension wood and opposite wood",
+        "last_seen": "2025-10-05T07:29:10.363689",
+        "obo_id": "CUSTOM:84903c1a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "FLA transcript levels are lower in the tension wood of miRNA ARK2 than the wild type or OE ARK2",
+      "id": "CUSTOM:3e9c53a1",
+      "label": "FLA transcript le...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.357242",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "FLA transcript levels are lower in the tension wood of miRNA ARK2 than the wild type or OE ARK2",
+        "last_seen": "2025-10-05T07:29:10.357242",
+        "obo_id": "CUSTOM:3e9c53a1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "FLA transcript levels are highest in tension wood and lowest in opposite wood",
+      "id": "CUSTOM:f08f73bc",
+      "label": "FLA transcript le...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.332559",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "FLA transcript levels are highest in tension wood and lowest in opposite wood",
+        "last_seen": "2025-10-05T07:29:10.332559",
+        "obo_id": "CUSTOM:f08f73bc"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3062",
+      "source": "PMC4682325",
+      "target": "CUSTOM:4707650d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3060",
+      "source": "PMC4682325",
+      "target": "CUSTOM:233beb82",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3058",
+      "source": "PMC4682325",
+      "target": "CUSTOM:4d7c1bdf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3056",
+      "source": "PMC4682325",
+      "target": "CUSTOM:41641451",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3054",
+      "source": "PMC4682325",
+      "target": "CUSTOM:0c12f564",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3052",
+      "source": "PMC4682325",
+      "target": "CUSTOM:58fd492d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3050",
+      "source": "PMC4682325",
+      "target": "CUSTOM:a34be50c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3048",
+      "source": "PMC4682325",
+      "target": "CUSTOM:44dff5e2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3046",
+      "source": "PMC4682325",
+      "target": "CUSTOM:84903c1a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3044",
+      "source": "PMC4682325",
+      "target": "CUSTOM:3e9c53a1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3042",
+      "source": "PMC4682325",
+      "target": "CUSTOM:f08f73bc",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

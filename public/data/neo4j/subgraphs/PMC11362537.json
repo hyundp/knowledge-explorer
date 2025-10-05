@@ -1,0 +1,417 @@
+{
+  "pmcid": "PMC11362537",
+  "nodes": [
+    {
+      "fullLabel": "PMC11362537",
+      "id": "PMC11362537",
+      "label": "PMC11362537",
+      "properties": {
+        "pmcid": "PMC11362537",
+        "first_seen": "2025-10-05T07:29:09.617975",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:09.735266"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Widespread changes to host physiology that could pose a risk to health",
+      "id": "CUSTOM:79d06aee",
+      "label": "Widespread change...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.737583",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Widespread changes to host physiology that could pose a risk to health",
+        "last_seen": "2025-10-05T07:29:09.737583",
+        "obo_id": "CUSTOM:79d06aee"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Glucose and lipid dysregulation",
+      "id": "CUSTOM:ede9df8e",
+      "label": "Glucose and lipid...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.730812",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Glucose and lipid dysregulation",
+        "last_seen": "2025-10-05T07:29:09.730812",
+        "obo_id": "CUSTOM:ede9df8e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Signals, metabolites, and immune factors exchanged across the gut–liver axis",
+      "id": "CUSTOM:1f3087be",
+      "label": "Signals, metaboli...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.723514",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Signals, metabolites, and immune factors exchanged across the gut–liver axis",
+        "last_seen": "2025-10-05T07:29:09.723514",
+        "obo_id": "CUSTOM:1f3087be"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Host gene expression at the gut–microbiome interface affecting barrier function, microbe interactions and bile acid transport in the intestine",
+      "id": "CUSTOM:c5c9c82a",
+      "label": "Host gene express...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.716365",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Host gene expression at the gut–microbiome interface affecting barrier function, microbe interactions and bile acid transport in the intestine",
+        "last_seen": "2025-10-05T07:29:09.716365",
+        "obo_id": "CUSTOM:c5c9c82a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Changes in relative abundance of gut bacteria were consistent across two groups of mice when compared to different Earth control groups at different timepoints and using distinct metagenomic methodologies",
+      "id": "CUSTOM:3b3ea60f",
+      "label": "Changes in relati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.708986",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Changes in relative abundance of gut bacteria were consistent across two groups of mice when compared to different Earth control groups at different timepoints and using distinct metagenomic methodologies",
+        "last_seen": "2025-10-05T07:29:09.708986",
+        "obo_id": "CUSTOM:3b3ea60f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Relative abundance of bacteria linked to bile and fatty acid metabolism in the murine gut microbiome",
+      "id": "CUSTOM:c88e5b33",
+      "label": "Relative abundanc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.701453",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Relative abundance of bacteria linked to bile and fatty acid metabolism in the murine gut microbiome",
+        "last_seen": "2025-10-05T07:29:09.701453",
+        "obo_id": "CUSTOM:c88e5b33"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "spaceflight-associated changes in microbiome species detected",
+      "id": "CUSTOM:eec5c19b",
+      "label": "spaceflight-assoc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.694982",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "spaceflight-associated changes in microbiome species detected",
+        "last_seen": "2025-10-05T07:29:09.694982",
+        "obo_id": "CUSTOM:eec5c19b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "metatranscriptomic analysis of the gut microbiome in this research",
+      "id": "CUSTOM:a2c61368",
+      "label": "metatranscriptomi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.688381",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "metatranscriptomic analysis of the gut microbiome in this research",
+        "last_seen": "2025-10-05T07:29:09.688381",
+        "obo_id": "CUSTOM:a2c61368"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "quantitative profiling of specific deconjugated, dehydroxylated, oxidated, and epimerised bile acids",
+      "id": "CUSTOM:5eeb4e13",
+      "label": "quantitative prof...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.681044",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "quantitative profiling of specific deconjugated, dehydroxylated, oxidated, and epimerised bile acids",
+        "last_seen": "2025-10-05T07:29:09.681044",
+        "obo_id": "CUSTOM:5eeb4e13"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "use of untargeted serum and faecal metabolomics in this research",
+      "id": "CUSTOM:d78c85e3",
+      "label": "use of untargeted...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.674239",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "use of untargeted serum and faecal metabolomics in this research",
+        "last_seen": "2025-10-05T07:29:09.674239",
+        "obo_id": "CUSTOM:d78c85e3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "complementarity of multiomic integration (metagenomic and host transcriptomic data)",
+      "id": "CUSTOM:27a628ed",
+      "label": "complementarity o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.667238",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "complementarity of multiomic integration (metagenomic and host transcriptomic data)",
+        "last_seen": "2025-10-05T07:29:09.667238",
+        "obo_id": "CUSTOM:27a628ed"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "use of truly independent cohorts of mice (ISS cohort duration)",
+      "id": "CUSTOM:e7c3b4ee",
+      "label": "use of truly inde...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.660161",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "use of truly independent cohorts of mice (ISS cohort duration)",
+        "last_seen": "2025-10-05T07:29:09.660161",
+        "obo_id": "CUSTOM:e7c3b4ee"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "use of truly independent cohorts of mice",
+      "id": "CUSTOM:2fd08466",
+      "label": "use of truly inde...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.652993",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "use of truly independent cohorts of mice",
+        "last_seen": "2025-10-05T07:29:09.652993",
+        "obo_id": "CUSTOM:2fd08466"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "detection of important microbiome associations (particularly low abundance bacteria)",
+      "id": "CUSTOM:32b65b35",
+      "label": "detection of impo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.646434",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "detection of important microbiome associations (particularly low abundance bacteria)",
+        "last_seen": "2025-10-05T07:29:09.646434",
+        "obo_id": "CUSTOM:32b65b35"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "statistical power",
+      "id": "CUSTOM:60f754ef",
+      "label": "statistical power",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.640062",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "statistical power",
+        "last_seen": "2025-10-05T07:29:09.640062",
+        "obo_id": "CUSTOM:60f754ef"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "confidence in spaceflight-associated changes in microbiome species due to commonalities between LAR and ISS mice groups and use of distinct metagenomic methodologies",
+      "id": "CUSTOM:283ea793",
+      "label": "confidence in spa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.633128",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "confidence in spaceflight-associated changes in microbiome species due to commonalities between LAR and ISS mice groups and use of distinct metagenomic methodologies",
+        "last_seen": "2025-10-05T07:29:09.633128",
+        "obo_id": "CUSTOM:283ea793"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "assessment of inter cage variation",
+      "id": "CUSTOM:3abea9bd",
+      "label": "assessment of int...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.626651",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "assessment of inter cage variation",
+        "last_seen": "2025-10-05T07:29:09.626651",
+        "obo_id": "CUSTOM:3abea9bd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "experimental replication in space biological studies compared to model studies using mice on Earth",
+      "id": "CUSTOM:c543a704",
+      "label": "experimental repl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.620212",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "experimental replication in space biological studies compared to model studies using mice on Earth",
+        "last_seen": "2025-10-05T07:29:09.620212",
+        "obo_id": "CUSTOM:c543a704"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2892",
+      "source": "PMC11362537",
+      "target": "CUSTOM:79d06aee",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2890",
+      "source": "PMC11362537",
+      "target": "CUSTOM:ede9df8e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2888",
+      "source": "PMC11362537",
+      "target": "CUSTOM:1f3087be",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2886",
+      "source": "PMC11362537",
+      "target": "CUSTOM:c5c9c82a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2884",
+      "source": "PMC11362537",
+      "target": "CUSTOM:3b3ea60f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2882",
+      "source": "PMC11362537",
+      "target": "CUSTOM:c88e5b33",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2880",
+      "source": "PMC11362537",
+      "target": "CUSTOM:eec5c19b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2878",
+      "source": "PMC11362537",
+      "target": "CUSTOM:a2c61368",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2876",
+      "source": "PMC11362537",
+      "target": "CUSTOM:5eeb4e13",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2874",
+      "source": "PMC11362537",
+      "target": "CUSTOM:d78c85e3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2872",
+      "source": "PMC11362537",
+      "target": "CUSTOM:27a628ed",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2870",
+      "source": "PMC11362537",
+      "target": "CUSTOM:e7c3b4ee",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2868",
+      "source": "PMC11362537",
+      "target": "CUSTOM:2fd08466",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2866",
+      "source": "PMC11362537",
+      "target": "CUSTOM:32b65b35",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2864",
+      "source": "PMC11362537",
+      "target": "CUSTOM:60f754ef",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2862",
+      "source": "PMC11362537",
+      "target": "CUSTOM:283ea793",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2860",
+      "source": "PMC11362537",
+      "target": "CUSTOM:3abea9bd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2858",
+      "source": "PMC11362537",
+      "target": "CUSTOM:c543a704",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 19,
+  "num_edges": 18
+}

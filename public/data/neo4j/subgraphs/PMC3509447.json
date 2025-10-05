@@ -1,0 +1,307 @@
+{
+  "pmcid": "PMC3509447",
+  "nodes": [
+    {
+      "fullLabel": "PMC3509447",
+      "id": "PMC3509447",
+      "label": "PMC3509447",
+      "properties": {
+        "pmcid": "PMC3509447",
+        "first_seen": "2025-10-05T07:29:04.616082",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.667550"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Pup survival is decreased in the hypergravity environment",
+      "id": "CUSTOM:4e38d72f",
+      "label": "Pup survival is d...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.670177",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pup survival is decreased in the hypergravity environment",
+        "last_seen": "2025-10-05T07:29:04.670177",
+        "obo_id": "CUSTOM:4e38d72f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Milk quantity is reduced in the hypergravity environment",
+      "id": "CUSTOM:1942cac5",
+      "label": "Milk quantity is ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.663348",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Milk quantity is reduced in the hypergravity environment",
+        "last_seen": "2025-10-05T07:29:04.663348",
+        "obo_id": "CUSTOM:1942cac5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Milk quality is reduced in the hypergravity environment",
+      "id": "CUSTOM:ded5e220",
+      "label": "Milk quality is r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.659113",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Milk quality is reduced in the hypergravity environment",
+        "last_seen": "2025-10-05T07:29:04.659113",
+        "obo_id": "CUSTOM:ded5e220"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Changes in circadian clocks affect output of multiple organs",
+      "id": "CUSTOM:ed787a88",
+      "label": "Changes in circad...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.654670",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Changes in circadian clocks affect output of multiple organs",
+        "last_seen": "2025-10-05T07:29:04.654670",
+        "obo_id": "CUSTOM:ed787a88"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Hypergravity induces alterations in homeorhetic adaptations to lactation, including changes in dam metabolic capacity and behavior, via impact on circadian clocks",
+      "id": "CUSTOM:6a308752",
+      "label": "Hypergravity indu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.650660",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Hypergravity induces alterations in homeorhetic adaptations to lactation, including changes in dam metabolic capacity and behavior, via impact on circadian clocks",
+        "last_seen": "2025-10-05T07:29:04.650660",
+        "obo_id": "CUSTOM:6a308752"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Circadian system coordinates the animal's physiology and metabolome to photoperiod length, including seasonal changes in milk quality and quantity",
+      "id": "CUSTOM:c7f26d49",
+      "label": "Circadian system ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.646036",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Circadian system coordinates the animal's physiology and metabolome to photoperiod length, including seasonal changes in milk quality and quantity",
+        "last_seen": "2025-10-05T07:29:04.646036",
+        "obo_id": "CUSTOM:c7f26d49"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Photoperiodic information is received and integrated across the circadian system",
+      "id": "CUSTOM:648f8904",
+      "label": "Photoperiodic inf...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.642042",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Photoperiodic information is received and integrated across the circadian system",
+        "last_seen": "2025-10-05T07:29:04.642042",
+        "obo_id": "CUSTOM:648f8904"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Photoperiod affects energy balance, reproduction and lactation",
+      "id": "CUSTOM:eedb704f",
+      "label": "Photoperiod affec...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.637900",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Photoperiod affects energy balance, reproduction and lactation",
+        "last_seen": "2025-10-05T07:29:04.637900",
+        "obo_id": "CUSTOM:eedb704f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Homeorhetic adaptations to lactation are affected by physiological and environmental factors",
+      "id": "CUSTOM:db26352d",
+      "label": "Homeorhetic adapt...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.633565",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Homeorhetic adaptations to lactation are affected by physiological and environmental factors",
+        "last_seen": "2025-10-05T07:29:04.633565",
+        "obo_id": "CUSTOM:db26352d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Circadian system importance in coordinating metabolic and hormonal changes needed to initiate and sustain lactation",
+      "id": "CUSTOM:17f51f31",
+      "label": "Circadian system ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.629503",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Circadian system importance in coordinating metabolic and hormonal changes needed to initiate and sustain lactation",
+        "last_seen": "2025-10-05T07:29:04.629503",
+        "obo_id": "CUSTOM:17f51f31"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Coordination of changes in molecular clocks among multiple tissues during the transition from pregnancy to lactation",
+      "id": "CUSTOM:374eb3b6",
+      "label": "Coordination of c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.625423",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Coordination of changes in molecular clocks among multiple tissues during the transition from pregnancy to lactation",
+        "last_seen": "2025-10-05T07:29:04.625423",
+        "obo_id": "CUSTOM:374eb3b6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Requirement for coordinated adjustments in physiology and metabolism during the transition from pregnancy to lactation to support milk production",
+      "id": "CUSTOM:10d33457",
+      "label": "Requirement for c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.621709",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Requirement for coordinated adjustments in physiology and metabolism during the transition from pregnancy to lactation to support milk production",
+        "last_seen": "2025-10-05T07:29:04.621709",
+        "obo_id": "CUSTOM:10d33457"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability to anticipate periodic environmental changes and to adapt physiology",
+      "id": "CUSTOM:e7a3fb87",
+      "label": "Ability to antici...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.617731",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability to anticipate periodic environmental changes and to adapt physiology",
+        "last_seen": "2025-10-05T07:29:04.617731",
+        "obo_id": "CUSTOM:e7a3fb87"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1346",
+      "source": "PMC3509447",
+      "target": "CUSTOM:4e38d72f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1344",
+      "source": "PMC3509447",
+      "target": "CUSTOM:1942cac5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1342",
+      "source": "PMC3509447",
+      "target": "CUSTOM:ded5e220",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1340",
+      "source": "PMC3509447",
+      "target": "CUSTOM:ed787a88",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1338",
+      "source": "PMC3509447",
+      "target": "CUSTOM:6a308752",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1336",
+      "source": "PMC3509447",
+      "target": "CUSTOM:c7f26d49",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1334",
+      "source": "PMC3509447",
+      "target": "CUSTOM:648f8904",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1332",
+      "source": "PMC3509447",
+      "target": "CUSTOM:eedb704f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1330",
+      "source": "PMC3509447",
+      "target": "CUSTOM:db26352d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1328",
+      "source": "PMC3509447",
+      "target": "CUSTOM:17f51f31",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1326",
+      "source": "PMC3509447",
+      "target": "CUSTOM:374eb3b6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1324",
+      "source": "PMC3509447",
+      "target": "CUSTOM:10d33457",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1322",
+      "source": "PMC3509447",
+      "target": "CUSTOM:e7a3fb87",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 14,
+  "num_edges": 13
+}

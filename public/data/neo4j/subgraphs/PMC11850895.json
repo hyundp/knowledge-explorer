@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC11850895",
+  "nodes": [
+    {
+      "fullLabel": "PMC11850895",
+      "id": "PMC11850895",
+      "label": "PMC11850895",
+      "properties": {
+        "pmcid": "PMC11850895",
+        "first_seen": "2025-10-05T07:29:12.564656",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:12.642171"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "TGGs (Ricca's factor) dependence for triggering systemic defense response",
+      "id": "CUSTOM:b1413345",
+      "label": "TGGs (Ricca's fac...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.644783",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "TGGs (Ricca's factor) dependence for triggering systemic defense response",
+        "last_seen": "2025-10-05T07:29:12.644783",
+        "obo_id": "CUSTOM:b1413345"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Glu-initiated systemic calcium-based defense signaling dependency on GLR proteins",
+      "id": "CUSTOM:d29cedb8",
+      "label": "Glu-initiated sys...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.638403",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Glu-initiated systemic calcium-based defense signaling dependency on GLR proteins",
+        "last_seen": "2025-10-05T07:29:12.638403",
+        "obo_id": "CUSTOM:d29cedb8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of genes responsive to oxidative stress in systemic leaf tissues following GSH treatment",
+      "id": "CUSTOM:6f2ba3ce",
+      "label": "Expression of gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.632260",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of genes responsive to oxidative stress in systemic leaf tissues following GSH treatment",
+        "last_seen": "2025-10-05T07:29:12.632260",
+        "obo_id": "CUSTOM:6f2ba3ce"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of genes responsive to ethylene and salicylic acid in systemic leaf tissues after GSH treatment",
+      "id": "CUSTOM:b5a358cb",
+      "label": "Expression of gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.625837",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of genes responsive to ethylene and salicylic acid in systemic leaf tissues after GSH treatment",
+        "last_seen": "2025-10-05T07:29:12.625837",
+        "obo_id": "CUSTOM:b5a358cb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expression of genes associated with JA signaling in systemic leaf tissues after GSH treatment",
+      "id": "CUSTOM:a9cd44f3",
+      "label": "Expression of gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.619678",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expression of genes associated with JA signaling in systemic leaf tissues after GSH treatment",
+        "last_seen": "2025-10-05T07:29:12.619678",
+        "obo_id": "CUSTOM:a9cd44f3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Pattern of wounding-induced systemic [Ca2+]cyt transmission",
+      "id": "CUSTOM:35f18037",
+      "label": "Pattern of woundi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.612084",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pattern of wounding-induced systemic [Ca2+]cyt transmission",
+        "last_seen": "2025-10-05T07:29:12.612084",
+        "obo_id": "CUSTOM:35f18037"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Pattern of systemic [Ca2+]cyt transmission induced by Glu",
+      "id": "CUSTOM:993aae33",
+      "label": "Pattern of system...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.605548",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pattern of systemic [Ca2+]cyt transmission induced by Glu",
+        "last_seen": "2025-10-05T07:29:12.605548",
+        "obo_id": "CUSTOM:993aae33"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Pattern of systemic [Ca2+]cyt transmission induced by GSH",
+      "id": "CUSTOM:3a2f27d8",
+      "label": "Pattern of system...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.598685",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pattern of systemic [Ca2+]cyt transmission induced by GSH",
+        "last_seen": "2025-10-05T07:29:12.598685",
+        "obo_id": "CUSTOM:3a2f27d8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Activation of JA biosynthesis in distal organs after GSH treatment",
+      "id": "CUSTOM:8502dd8c",
+      "label": "Activation of JA ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.592505",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Activation of JA biosynthesis in distal organs after GSH treatment",
+        "last_seen": "2025-10-05T07:29:12.592505",
+        "obo_id": "CUSTOM:8502dd8c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "GSH-triggered long distance calcium-based defense signaling",
+      "id": "CUSTOM:05fa16d8",
+      "label": "GSH-triggered lon...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.583691",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "GSH-triggered long distance calcium-based defense signaling",
+        "last_seen": "2025-10-05T07:29:12.583691",
+        "obo_id": "CUSTOM:05fa16d8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Plant defense signaling events in a GSH deficient mutant",
+      "id": "CUSTOM:4d92e4b1",
+      "label": "Plant defense sig...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.566771",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Plant defense signaling events in a GSH deficient mutant",
+        "last_seen": "2025-10-05T07:29:12.566771",
+        "obo_id": "CUSTOM:4d92e4b1"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3608",
+      "source": "PMC11850895",
+      "target": "CUSTOM:b1413345",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3606",
+      "source": "PMC11850895",
+      "target": "CUSTOM:d29cedb8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3604",
+      "source": "PMC11850895",
+      "target": "CUSTOM:6f2ba3ce",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3602",
+      "source": "PMC11850895",
+      "target": "CUSTOM:b5a358cb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3600",
+      "source": "PMC11850895",
+      "target": "CUSTOM:a9cd44f3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3598",
+      "source": "PMC11850895",
+      "target": "CUSTOM:35f18037",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3596",
+      "source": "PMC11850895",
+      "target": "CUSTOM:993aae33",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3594",
+      "source": "PMC11850895",
+      "target": "CUSTOM:3a2f27d8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3592",
+      "source": "PMC11850895",
+      "target": "CUSTOM:8502dd8c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3590",
+      "source": "PMC11850895",
+      "target": "CUSTOM:05fa16d8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3588",
+      "source": "PMC11850895",
+      "target": "CUSTOM:4d92e4b1",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

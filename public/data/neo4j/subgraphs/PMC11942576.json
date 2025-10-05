@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC11942576",
+  "nodes": [
+    {
+      "fullLabel": "PMC11942576",
+      "id": "PMC11942576",
+      "label": "PMC11942576",
+      "properties": {
+        "pmcid": "PMC11942576",
+        "first_seen": "2025-10-05T07:29:13.003621",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:13.084704"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Potential contribution of BnPERK09A1 and BnPERK09C1 to resistance improvement of Brassicaceae crops",
+      "id": "CUSTOM:2200691a",
+      "label": "Potential contrib...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.087456",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential contribution of BnPERK09A1 and BnPERK09C1 to resistance improvement of Brassicaceae crops",
+        "last_seen": "2025-10-05T07:29:13.087456",
+        "obo_id": "CUSTOM:2200691a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Putative role of BnPERK09A1 and BnPERK09C1 in signaling networks",
+      "id": "CUSTOM:d5f55952",
+      "label": "Putative role of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.078861",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Putative role of BnPERK09A1 and BnPERK09C1 in signaling networks",
+        "last_seen": "2025-10-05T07:29:13.078861",
+        "obo_id": "CUSTOM:d5f55952"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Identification of BnPERK09A1 and BnPERK09C1 as potential targets for disease management strategies",
+      "id": "CUSTOM:8898f935",
+      "label": "Identification of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.072264",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Identification of BnPERK09A1 and BnPERK09C1 as potential targets for disease management strategies",
+        "last_seen": "2025-10-05T07:29:13.072264",
+        "obo_id": "CUSTOM:8898f935"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Significance of BnPERK09A1 and BnPERK09C1 in plant immunity",
+      "id": "CUSTOM:475561be",
+      "label": "Significance of B...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.065001",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Significance of BnPERK09A1 and BnPERK09C1 in plant immunity",
+        "last_seen": "2025-10-05T07:29:13.065001",
+        "obo_id": "CUSTOM:475561be"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Potential involvement of BnPERK09A1 and BnPERK09C1 in clubroot disease response",
+      "id": "CUSTOM:fda7857a",
+      "label": "Potential involve...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.055031",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential involvement of BnPERK09A1 and BnPERK09C1 in clubroot disease response",
+        "last_seen": "2025-10-05T07:29:13.055031",
+        "obo_id": "CUSTOM:fda7857a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Transcriptional level of BnPERK09A1 and BnPERK09C1 upon P. brassicae infection",
+      "id": "CUSTOM:18d918a3",
+      "label": "Transcriptional l...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.045749",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Transcriptional level of BnPERK09A1 and BnPERK09C1 upon P. brassicae infection",
+        "last_seen": "2025-10-05T07:29:13.045749",
+        "obo_id": "CUSTOM:18d918a3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Functional roles of the BnPERK gene family in defense against pathogens",
+      "id": "CUSTOM:0060b4d3",
+      "label": "Functional roles ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.036983",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Functional roles of the BnPERK gene family in defense against pathogens",
+        "last_seen": "2025-10-05T07:29:13.036983",
+        "obo_id": "CUSTOM:0060b4d3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Functional roles of the BnPERK gene family in stress responses",
+      "id": "CUSTOM:f0e4412a",
+      "label": "Functional roles ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.029007",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Functional roles of the BnPERK gene family in stress responses",
+        "last_seen": "2025-10-05T07:29:13.029007",
+        "obo_id": "CUSTOM:f0e4412a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Functional roles of the BnPERK gene family in growth regulation",
+      "id": "CUSTOM:12115e69",
+      "label": "Functional roles ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.020806",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Functional roles of the BnPERK gene family in growth regulation",
+        "last_seen": "2025-10-05T07:29:13.020806",
+        "obo_id": "CUSTOM:12115e69"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Structural diversity of the BnPERK gene family",
+      "id": "CUSTOM:73d4a272",
+      "label": "Structural divers...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.014435",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Structural diversity of the BnPERK gene family",
+        "last_seen": "2025-10-05T07:29:13.014435",
+        "obo_id": "CUSTOM:73d4a272"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Evolutionary dynamics of the BnPERK gene family",
+      "id": "CUSTOM:d36da5ba",
+      "label": "Evolutionary dyna...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.007046",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Evolutionary dynamics of the BnPERK gene family",
+        "last_seen": "2025-10-05T07:29:13.007046",
+        "obo_id": "CUSTOM:d36da5ba"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3710",
+      "source": "PMC11942576",
+      "target": "CUSTOM:2200691a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3708",
+      "source": "PMC11942576",
+      "target": "CUSTOM:d5f55952",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3706",
+      "source": "PMC11942576",
+      "target": "CUSTOM:8898f935",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3704",
+      "source": "PMC11942576",
+      "target": "CUSTOM:475561be",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3702",
+      "source": "PMC11942576",
+      "target": "CUSTOM:fda7857a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3700",
+      "source": "PMC11942576",
+      "target": "CUSTOM:18d918a3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3698",
+      "source": "PMC11942576",
+      "target": "CUSTOM:0060b4d3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3696",
+      "source": "PMC11942576",
+      "target": "CUSTOM:f0e4412a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3694",
+      "source": "PMC11942576",
+      "target": "CUSTOM:12115e69",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3692",
+      "source": "PMC11942576",
+      "target": "CUSTOM:73d4a272",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3690",
+      "source": "PMC11942576",
+      "target": "CUSTOM:d36da5ba",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

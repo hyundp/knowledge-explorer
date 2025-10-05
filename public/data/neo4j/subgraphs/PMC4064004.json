@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC4064004",
+  "nodes": [
+    {
+      "fullLabel": "PMC4064004",
+      "id": "PMC4064004",
+      "label": "PMC4064004",
+      "properties": {
+        "pmcid": "PMC4064004",
+        "first_seen": "2025-10-05T07:29:03.870471",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.896171"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "UPR branches likely work in concert with other signalling networks that regulate membrane traffic",
+      "id": "CUSTOM:91705706",
+      "label": "UPR branches like...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.897898",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "UPR branches likely work in concert with other signalling networks that regulate membrane traffic",
+        "last_seen": "2025-10-05T07:29:03.897898",
+        "obo_id": "CUSTOM:91705706"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Multiple branches of the UPR exist in animal and plant cells",
+      "id": "CUSTOM:dcfcb4bd",
+      "label": "Multiple branches...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.892582",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Multiple branches of the UPR exist in animal and plant cells",
+        "last_seen": "2025-10-05T07:29:03.892582",
+        "obo_id": "CUSTOM:dcfcb4bd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "The unfolded protein response (UPR) coordinates protein and lipid biosynthetic rates in response to environmental conditions",
+      "id": "CUSTOM:3d2622ed",
+      "label": "The unfolded prot...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.886863",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "The unfolded protein response (UPR) coordinates protein and lipid biosynthetic rates in response to environmental conditions",
+        "last_seen": "2025-10-05T07:29:03.886863",
+        "obo_id": "CUSTOM:3d2622ed"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Developmental and environmental changes alter the profile of protein and lipid cargos",
+      "id": "CUSTOM:54208c37",
+      "label": "Developmental and...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.881790",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Developmental and environmental changes alter the profile of protein and lipid cargos",
+        "last_seen": "2025-10-05T07:29:03.881790",
+        "obo_id": "CUSTOM:54208c37"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Molecular basis for observed membrane structures and dynamics is tightly coupled with function",
+      "id": "CUSTOM:516cfcf9",
+      "label": "Molecular basis f...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.875978",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Molecular basis for observed membrane structures and dynamics is tightly coupled with function",
+        "last_seen": "2025-10-05T07:29:03.875978",
+        "obo_id": "CUSTOM:516cfcf9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Correlation between cellular structure and function",
+      "id": "CUSTOM:70e84359",
+      "label": "Correlation betwe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.871936",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Correlation between cellular structure and function",
+        "last_seen": "2025-10-05T07:29:03.871936",
+        "obo_id": "CUSTOM:70e84359"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1078",
+      "source": "PMC4064004",
+      "target": "CUSTOM:91705706",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1076",
+      "source": "PMC4064004",
+      "target": "CUSTOM:dcfcb4bd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1074",
+      "source": "PMC4064004",
+      "target": "CUSTOM:3d2622ed",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1072",
+      "source": "PMC4064004",
+      "target": "CUSTOM:54208c37",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1070",
+      "source": "PMC4064004",
+      "target": "CUSTOM:516cfcf9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1068",
+      "source": "PMC4064004",
+      "target": "CUSTOM:70e84359",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

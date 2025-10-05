@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC5955502",
+  "nodes": [
+    {
+      "fullLabel": "PMC5955502",
+      "id": "PMC5955502",
+      "label": "PMC5955502",
+      "properties": {
+        "pmcid": "PMC5955502",
+        "first_seen": "2025-10-05T07:29:01.331396",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.344571"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "mRNA content of cytosine demethylase Tet2",
+      "id": "CUSTOM:4ce4778a",
+      "label": "mRNA content of c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.346070",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mRNA content of cytosine demethylase Tet2",
+        "last_seen": "2025-10-05T07:29:01.346070",
+        "obo_id": "CUSTOM:4ce4778a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mRNA contents of DNA methylases, cytosine demethylases Tet1 and Tet3, histone acetylase and histone deacetylase",
+      "id": "CUSTOM:f8ab05b3",
+      "label": "mRNA contents of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.341870",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mRNA contents of DNA methylases, cytosine demethylases Tet1 and Tet3, histone acetylase and histone deacetylase",
+        "last_seen": "2025-10-05T07:29:01.341870",
+        "obo_id": "CUSTOM:f8ab05b3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mRNA content (genes encoding cytoskeletal proteins)",
+      "id": "CUSTOM:1e41237f",
+      "label": "mRNA content (gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.337542",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mRNA content (genes encoding cytoskeletal proteins)",
+        "last_seen": "2025-10-05T07:29:01.337542",
+        "obo_id": "CUSTOM:1e41237f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cytoskeletal protein contents",
+      "id": "CUSTOM:3b854eb1",
+      "label": "cytoskeletal prot...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.332870",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cytoskeletal protein contents",
+        "last_seen": "2025-10-05T07:29:01.332870",
+        "obo_id": "CUSTOM:3b854eb1"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "212",
+      "source": "PMC5955502",
+      "target": "CUSTOM:4ce4778a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "210",
+      "source": "PMC5955502",
+      "target": "CUSTOM:f8ab05b3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "208",
+      "source": "PMC5955502",
+      "target": "CUSTOM:1e41237f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "206",
+      "source": "PMC5955502",
+      "target": "CUSTOM:3b854eb1",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

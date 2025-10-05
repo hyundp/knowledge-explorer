@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC3545801",
+  "nodes": [
+    {
+      "fullLabel": "PMC3545801",
+      "id": "PMC3545801",
+      "label": "PMC3545801",
+      "properties": {
+        "pmcid": "PMC3545801",
+        "first_seen": "2025-10-05T07:29:05.789659",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.811995"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Long-term survival of Carnobacterium isolates in permanently frozen environments",
+      "id": "CUSTOM:eff0b8b0",
+      "label": "Long-term surviva...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.813750",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Long-term survival of Carnobacterium isolates in permanently frozen environments",
+        "last_seen": "2025-10-05T07:29:05.813750",
+        "obo_id": "CUSTOM:eff0b8b0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Occurrence of Carnobacterium species in permanently cold environments",
+      "id": "CUSTOM:9627ddfd",
+      "label": "Occurrence of Car...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.808495",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Occurrence of Carnobacterium species in permanently cold environments",
+        "last_seen": "2025-10-05T07:29:05.808495",
+        "obo_id": "CUSTOM:9627ddfd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability of specific Carnobacterium species to grow under cold, low pressure conditions (inferred from isolation from refrigerated vacuum packed meats)",
+      "id": "CUSTOM:4be160d1",
+      "label": "Ability of specif...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.802212",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability of specific Carnobacterium species to grow under cold, low pressure conditions (inferred from isolation from refrigerated vacuum packed meats)",
+        "last_seen": "2025-10-05T07:29:05.802212",
+        "obo_id": "CUSTOM:4be160d1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Taxonomic identity of all isolates obtained from this set of experiments",
+      "id": "CUSTOM:cae6f344",
+      "label": "Taxonomic identit...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.796003",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Taxonomic identity of all isolates obtained from this set of experiments",
+        "last_seen": "2025-10-05T07:29:05.796003",
+        "obo_id": "CUSTOM:cae6f344"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Growth capability under low temperature, low pressure, anoxic CO2-dominated atmosphere",
+      "id": "CUSTOM:108245c2",
+      "label": "Growth capability...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.791338",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Growth capability under low temperature, low pressure, anoxic CO2-dominated atmosphere",
+        "last_seen": "2025-10-05T07:29:05.791338",
+        "obo_id": "CUSTOM:108245c2"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1706",
+      "source": "PMC3545801",
+      "target": "CUSTOM:eff0b8b0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1704",
+      "source": "PMC3545801",
+      "target": "CUSTOM:9627ddfd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1702",
+      "source": "PMC3545801",
+      "target": "CUSTOM:4be160d1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1700",
+      "source": "PMC3545801",
+      "target": "CUSTOM:cae6f344",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1698",
+      "source": "PMC3545801",
+      "target": "CUSTOM:108245c2",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

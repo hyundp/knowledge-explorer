@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC7076552",
+  "nodes": [
+    {
+      "fullLabel": "PMC7076552",
+      "id": "PMC7076552",
+      "label": "PMC7076552",
+      "properties": {
+        "pmcid": "PMC7076552",
+        "first_seen": "2025-10-05T07:29:03.214312",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.231091"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "TOAST architecture is biological kingdom agnostic and is being extended via orthologous matrix mapping to facilitate data exploration across multiple biological systems analyzed in spaceflight",
+      "id": "CUSTOM:7f3a7baa",
+      "label": "TOAST architectur...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.233387",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "TOAST architecture is biological kingdom agnostic and is being extended via orthologous matrix mapping to facilitate data exploration across multiple biological systems analyzed in spaceflight",
+        "last_seen": "2025-10-05T07:29:03.233387",
+        "obo_id": "CUSTOM:7f3a7baa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "TOAST provides a tool to aid the plant biology community",
+      "id": "CUSTOM:18f4a7d5",
+      "label": "TOAST provides a ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.227711",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "TOAST provides a tool to aid the plant biology community",
+        "last_seen": "2025-10-05T07:29:03.227711",
+        "obo_id": "CUSTOM:18f4a7d5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Availability of an online tutorial for TOAST",
+      "id": "CUSTOM:5e39fdd6",
+      "label": "Availability of a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.223335",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Availability of an online tutorial for TOAST",
+        "last_seen": "2025-10-05T07:29:03.223335",
+        "obo_id": "CUSTOM:5e39fdd6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Public availability of the TOAST database as a web-based environment",
+      "id": "CUSTOM:c2f0a594",
+      "label": "Public availabili...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.219482",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Public availability of the TOAST database as a web-based environment",
+        "last_seen": "2025-10-05T07:29:03.219482",
+        "obo_id": "CUSTOM:c2f0a594"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability to explore the commonalities and differences in the responses of plants to spaceflight and spaceflight related environments",
+      "id": "CUSTOM:bf35fdb7",
+      "label": "Ability to explor...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.215720",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability to explore the commonalities and differences in the responses of plants to spaceflight and spaceflight related environments",
+        "last_seen": "2025-10-05T07:29:03.215720",
+        "obo_id": "CUSTOM:bf35fdb7"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "872",
+      "source": "PMC7076552",
+      "target": "CUSTOM:7f3a7baa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "870",
+      "source": "PMC7076552",
+      "target": "CUSTOM:18f4a7d5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "868",
+      "source": "PMC7076552",
+      "target": "CUSTOM:5e39fdd6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "866",
+      "source": "PMC7076552",
+      "target": "CUSTOM:c2f0a594",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "864",
+      "source": "PMC7076552",
+      "target": "CUSTOM:bf35fdb7",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

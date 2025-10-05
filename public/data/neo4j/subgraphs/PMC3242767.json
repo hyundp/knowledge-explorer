@@ -1,0 +1,329 @@
+{
+  "pmcid": "PMC3242767",
+  "nodes": [
+    {
+      "fullLabel": "PMC3242767",
+      "id": "PMC3242767",
+      "label": "PMC3242767",
+      "properties": {
+        "pmcid": "PMC3242767",
+        "first_seen": "2025-10-05T07:29:10.207981",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:10.307166"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Isolation of environmental fungal genera",
+      "id": "CUSTOM:7b95d253",
+      "label": "Isolation of envi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.308942",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Isolation of environmental fungal genera",
+        "last_seen": "2025-10-05T07:29:10.308942",
+        "obo_id": "CUSTOM:7b95d253"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Isolation of Kocuria kristinae (4 colonies) from an injured left front limb on Sabouraud Dextrose Agar",
+      "id": "CUSTOM:b76839b6",
+      "label": "Isolation of Kocu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.303631",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Isolation of Kocuria kristinae (4 colonies) from an injured left front limb on Sabouraud Dextrose Agar",
+        "last_seen": "2025-10-05T07:29:10.303631",
+        "obo_id": "CUSTOM:b76839b6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Sabouraud Dextrose Agar predominantly yielded fungi (with one exception)",
+      "id": "CUSTOM:7650c958",
+      "label": "Sabouraud Dextros...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.298261",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Sabouraud Dextrose Agar predominantly yielded fungi (with one exception)",
+        "last_seen": "2025-10-05T07:29:10.298261",
+        "obo_id": "CUSTOM:7650c958"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Dominance of Granulicatella adiacens on a blood agar plate from NFWR 139 lower lip",
+      "id": "CUSTOM:efaf9a18",
+      "label": "Dominance of Gran...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.292303",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Dominance of Granulicatella adiacens on a blood agar plate from NFWR 139 lower lip",
+        "last_seen": "2025-10-05T07:29:10.292303",
+        "obo_id": "CUSTOM:efaf9a18"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Isolation of Riemerella anatipestifer only from abnormal/injured animals",
+      "id": "CUSTOM:ab6ff88d",
+      "label": "Isolation of Riem...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.267379",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Isolation of Riemerella anatipestifer only from abnormal/injured animals",
+        "last_seen": "2025-10-05T07:29:10.267379",
+        "obo_id": "CUSTOM:ab6ff88d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Isolation of Stenotrophomonas maltophilia from left front limb",
+      "id": "CUSTOM:8e6adcc0",
+      "label": "Isolation of Sten...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.261257",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Isolation of Stenotrophomonas maltophilia from left front limb",
+        "last_seen": "2025-10-05T07:29:10.261257",
+        "obo_id": "CUSTOM:8e6adcc0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Isolation of Pseudomonas alcaligenes from a right front limb",
+      "id": "CUSTOM:bbd40348",
+      "label": "Isolation of Pseu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.255242",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Isolation of Pseudomonas alcaligenes from a right front limb",
+        "last_seen": "2025-10-05T07:29:10.255242",
+        "obo_id": "CUSTOM:bbd40348"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Isolation of Pseudomonas stutzeri from right back limbs",
+      "id": "CUSTOM:e5bd6bf8",
+      "label": "Isolation of Pseu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.248972",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Isolation of Pseudomonas stutzeri from right back limbs",
+        "last_seen": "2025-10-05T07:29:10.248972",
+        "obo_id": "CUSTOM:e5bd6bf8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Isolation of Pseudomonas aeruginosa from right back limb",
+      "id": "CUSTOM:e6fcfb5a",
+      "label": "Isolation of Pseu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.241242",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Isolation of Pseudomonas aeruginosa from right back limb",
+        "last_seen": "2025-10-05T07:29:10.241242",
+        "obo_id": "CUSTOM:e6fcfb5a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Isolation of Aeromonas hydrophila from an abnormal/injured animal (lower lip)",
+      "id": "CUSTOM:fffff2b9",
+      "label": "Isolation of Aero...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.234829",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Isolation of Aeromonas hydrophila from an abnormal/injured animal (lower lip)",
+        "last_seen": "2025-10-05T07:29:10.234829",
+        "obo_id": "CUSTOM:fffff2b9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Identification of genus Aeromonas",
+      "id": "CUSTOM:101ad2a7",
+      "label": "Identification of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.228586",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Identification of genus Aeromonas",
+        "last_seen": "2025-10-05T07:29:10.228586",
+        "obo_id": "CUSTOM:101ad2a7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Isolation of bacteria from both Gram-positive and Gram-negative groups",
+      "id": "CUSTOM:d512f793",
+      "label": "Isolation of bact...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.222419",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Isolation of bacteria from both Gram-positive and Gram-negative groups",
+        "last_seen": "2025-10-05T07:29:10.222419",
+        "obo_id": "CUSTOM:d512f793"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "No consistent pattern of bacterial colonization between uninjured and abnormal/injured body parts",
+      "id": "CUSTOM:9d4700e3",
+      "label": "No consistent pat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.215515",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "No consistent pattern of bacterial colonization between uninjured and abnormal/injured body parts",
+        "last_seen": "2025-10-05T07:29:10.215515",
+        "obo_id": "CUSTOM:9d4700e3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of common environmental microbial flora on limbs",
+      "id": "CUSTOM:eb8e552f",
+      "label": "Presence of commo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:10.210048",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of common environmental microbial flora on limbs",
+        "last_seen": "2025-10-05T07:29:10.210048",
+        "obo_id": "CUSTOM:eb8e552f"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3040",
+      "source": "PMC3242767",
+      "target": "CUSTOM:7b95d253",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3038",
+      "source": "PMC3242767",
+      "target": "CUSTOM:b76839b6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3036",
+      "source": "PMC3242767",
+      "target": "CUSTOM:7650c958",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3034",
+      "source": "PMC3242767",
+      "target": "CUSTOM:efaf9a18",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3032",
+      "source": "PMC3242767",
+      "target": "CUSTOM:ab6ff88d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3030",
+      "source": "PMC3242767",
+      "target": "CUSTOM:8e6adcc0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3028",
+      "source": "PMC3242767",
+      "target": "CUSTOM:bbd40348",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3026",
+      "source": "PMC3242767",
+      "target": "CUSTOM:e5bd6bf8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3024",
+      "source": "PMC3242767",
+      "target": "CUSTOM:e6fcfb5a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3022",
+      "source": "PMC3242767",
+      "target": "CUSTOM:fffff2b9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3020",
+      "source": "PMC3242767",
+      "target": "CUSTOM:101ad2a7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3018",
+      "source": "PMC3242767",
+      "target": "CUSTOM:d512f793",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3016",
+      "source": "PMC3242767",
+      "target": "CUSTOM:9d4700e3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3014",
+      "source": "PMC3242767",
+      "target": "CUSTOM:eb8e552f",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 15,
+  "num_edges": 14
+}

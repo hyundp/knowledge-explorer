@@ -1,0 +1,659 @@
+{
+  "pmcid": "PMC8044432",
+  "nodes": [
+    {
+      "fullLabel": "PMC8044432",
+      "id": "PMC8044432",
+      "label": "PMC8044432",
+      "properties": {
+        "pmcid": "PMC8044432",
+        "first_seen": "2025-10-05T07:29:07.698446",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:07.888940"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Pipeline cannot compensate for poor library preparation technique or inadequate sample size",
+      "id": "CUSTOM:abeff5af",
+      "label": "Pipeline cannot c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.890848",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pipeline cannot compensate for poor library preparation technique or inadequate sample size",
+        "last_seen": "2025-10-05T07:29:07.890848",
+        "obo_id": "CUSTOM:abeff5af"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Low number of sequenced reads may limit usefulness and accuracy of differentially expressed genes and splice isoform analysis",
+      "id": "CUSTOM:a49bd120",
+      "label": "Low number of seq...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.884307",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Low number of sequenced reads may limit usefulness and accuracy of differentially expressed genes and splice isoform analysis",
+        "last_seen": "2025-10-05T07:29:07.884307",
+        "obo_id": "CUSTOM:a49bd120"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Variations in sample preservation protocol can lead to poor correlation between studies",
+      "id": "CUSTOM:3c3ced31",
+      "label": "Variations in sam...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.876549",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Variations in sample preservation protocol can lead to poor correlation between studies",
+        "last_seen": "2025-10-05T07:29:07.876549",
+        "obo_id": "CUSTOM:3c3ced31"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Use of long reads (ONT) on the ISS for de novo assembly of the Escherichia coli genome",
+      "id": "CUSTOM:3db5c6f7",
+      "label": "Use of long reads...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.870414",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Use of long reads (ONT) on the ISS for de novo assembly of the Escherichia coli genome",
+        "last_seen": "2025-10-05T07:29:07.870414",
+        "obo_id": "CUSTOM:3db5c6f7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Bias in differential gene expression (DGE) expected to decrease eventually with long reads",
+      "id": "CUSTOM:840abeb4",
+      "label": "Bias in different...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.865137",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Bias in differential gene expression (DGE) expected to decrease eventually with long reads",
+        "last_seen": "2025-10-05T07:29:07.865137",
+        "obo_id": "CUSTOM:840abeb4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Potential to identify genes not yet known from reference genomes using long reads",
+      "id": "CUSTOM:ab196147",
+      "label": "Potential to iden...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.859072",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential to identify genes not yet known from reference genomes using long reads",
+        "last_seen": "2025-10-05T07:29:07.859072",
+        "obo_id": "CUSTOM:ab196147"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Mapping speed with long reads",
+      "id": "CUSTOM:650fb60c",
+      "label": "Mapping speed wit...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.853429",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mapping speed with long reads",
+        "last_seen": "2025-10-05T07:29:07.853429",
+        "obo_id": "CUSTOM:650fb60c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ambiguity for genes and isoforms detection with long reads",
+      "id": "CUSTOM:7851a0b2",
+      "label": "Ambiguity for gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.847980",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ambiguity for genes and isoforms detection with long reads",
+        "last_seen": "2025-10-05T07:29:07.847980",
+        "obo_id": "CUSTOM:7851a0b2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Long read throughput and accuracy relative to short reads",
+      "id": "CUSTOM:dc572ff5",
+      "label": "Long read through...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.842189",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Long read throughput and accuracy relative to short reads",
+        "last_seen": "2025-10-05T07:29:07.842189",
+        "obo_id": "CUSTOM:dc572ff5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Long reads currently have a higher base calling error rate",
+      "id": "CUSTOM:0aec3a0d",
+      "label": "Long reads curren...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.836260",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Long reads currently have a higher base calling error rate",
+        "last_seen": "2025-10-05T07:29:07.836260",
+        "obo_id": "CUSTOM:0aec3a0d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Comparing spike-in measurements helps estimate validity of assumption that most genes are not differentially expressed in one direction",
+      "id": "CUSTOM:5d6c8c52",
+      "label": "Comparing spike-i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.829979",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Comparing spike-in measurements helps estimate validity of assumption that most genes are not differentially expressed in one direction",
+        "last_seen": "2025-10-05T07:29:07.829979",
+        "obo_id": "CUSTOM:5d6c8c52"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ERCC spike-in allows evaluation of whether normalization removed systemic bias between libraries",
+      "id": "CUSTOM:60e244ae",
+      "label": "ERCC spike-in all...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.822732",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ERCC spike-in allows evaluation of whether normalization removed systemic bias between libraries",
+        "last_seen": "2025-10-05T07:29:07.822732",
+        "obo_id": "CUSTOM:60e244ae"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Suggested uses of ERCC spike-in by Munro et al.",
+      "id": "CUSTOM:b4a626bf",
+      "label": "Suggested uses of...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.816820",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Suggested uses of ERCC spike-in by Munro et al.",
+        "last_seen": "2025-10-05T07:29:07.816820",
+        "obo_id": "CUSTOM:b4a626bf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Optional use of ERCC normalization in the GeneLab pipeline",
+      "id": "CUSTOM:cd052e19",
+      "label": "Optional use of E...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.811602",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Optional use of ERCC normalization in the GeneLab pipeline",
+        "last_seen": "2025-10-05T07:29:07.811602",
+        "obo_id": "CUSTOM:cd052e19"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Composition of ERCC RNA spike-in mix",
+      "id": "CUSTOM:c3017436",
+      "label": "Composition of ER...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.806681",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Composition of ERCC RNA spike-in mix",
+        "last_seen": "2025-10-05T07:29:07.806681",
+        "obo_id": "CUSTOM:c3017436"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Processing of RNA-seq datasets without biological replicates (pipeline stops before DESeq2)",
+      "id": "CUSTOM:9ce329c2",
+      "label": "Processing of RNA...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.798037",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Processing of RNA-seq datasets without biological replicates (pipeline stops before DESeq2)",
+        "last_seen": "2025-10-05T07:29:07.798037",
+        "obo_id": "CUSTOM:9ce329c2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "False discovery rate (FDR) minimized by increased number of replicates",
+      "id": "CUSTOM:02f44177",
+      "label": "False discovery r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.793239",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "False discovery rate (FDR) minimized by increased number of replicates",
+        "last_seen": "2025-10-05T07:29:07.793239",
+        "obo_id": "CUSTOM:02f44177"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Requirement for biological replicates for DESeq2 statistical methods",
+      "id": "CUSTOM:b99d7c57",
+      "label": "Requirement for b...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.788218",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Requirement for biological replicates for DESeq2 statistical methods",
+        "last_seen": "2025-10-05T07:29:07.788218",
+        "obo_id": "CUSTOM:b99d7c57"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Gene ontology (GO) term enrichment differences between spaceflight (FLT) and ground control (GC) liver samples",
+      "id": "CUSTOM:cf72d5a2",
+      "label": "Gene ontology (GO...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.782877",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Gene ontology (GO) term enrichment differences between spaceflight (FLT) and ground control (GC) liver samples",
+        "last_seen": "2025-10-05T07:29:07.782877",
+        "obo_id": "CUSTOM:cf72d5a2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Differentially expressed genes (top 30) between spaceflight (FLT) and ground control (GC) liver samples",
+      "id": "CUSTOM:6017ff3e",
+      "label": "Differentially ex...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.776107",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Differentially expressed genes (top 30) between spaceflight (FLT) and ground control (GC) liver samples",
+        "last_seen": "2025-10-05T07:29:07.776107",
+        "obo_id": "CUSTOM:6017ff3e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Global gene expression visualization (PCA) between spaceflight (FLT) and ground control (GC) liver samples",
+      "id": "CUSTOM:04c46eb7",
+      "label": "Global gene expre...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.751522",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Global gene expression visualization (PCA) between spaceflight (FLT) and ground control (GC) liver samples",
+        "last_seen": "2025-10-05T07:29:07.751522",
+        "obo_id": "CUSTOM:04c46eb7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "concentration of group B ERCC genes between mix1 and mix2",
+      "id": "CUSTOM:bfb4da84",
+      "label": "concentration of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.744959",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "concentration of group B ERCC genes between mix1 and mix2",
+        "last_seen": "2025-10-05T07:29:07.744959",
+        "obo_id": "CUSTOM:bfb4da84"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "potential skewing of data during DESeq2 normalization when low-count genes are retained",
+      "id": "CUSTOM:c0d73a7e",
+      "label": "potential skewing...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.738918",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "potential skewing of data during DESeq2 normalization when low-count genes are retained",
+        "last_seen": "2025-10-05T07:29:07.738918",
+        "obo_id": "CUSTOM:c0d73a7e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "overall performance of the STAR aligner relative to other RNA-seq alignment tools for the indicated criteria",
+      "id": "CUSTOM:8acaf746",
+      "label": "overall performan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.732914",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "overall performance of the STAR aligner relative to other RNA-seq alignment tools for the indicated criteria",
+        "last_seen": "2025-10-05T07:29:07.732914",
+        "obo_id": "CUSTOM:8acaf746"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "accuracy of quantification for low abundant and small RNAs when using alignment-free tools",
+      "id": "CUSTOM:6290ac9c",
+      "label": "accuracy of quant...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.726156",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "accuracy of quantification for low abundant and small RNAs when using alignment-free tools",
+        "last_seen": "2025-10-05T07:29:07.726156",
+        "obo_id": "CUSTOM:6290ac9c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "accounting for reads that map to multiple transcripts and distinguishing gene isoforms",
+      "id": "CUSTOM:152b34b0",
+      "label": "accounting for re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.720157",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "accounting for reads that map to multiple transcripts and distinguishing gene isoforms",
+        "last_seen": "2025-10-05T07:29:07.720157",
+        "obo_id": "CUSTOM:152b34b0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "detection and quantification of splice sites and splice isoforms",
+      "id": "CUSTOM:c71b46fd",
+      "label": "detection and qua...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.713845",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "detection and quantification of splice sites and splice isoforms",
+        "last_seen": "2025-10-05T07:29:07.713845",
+        "obo_id": "CUSTOM:c71b46fd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "reads that become too short after trimming",
+      "id": "CUSTOM:112b9843",
+      "label": "reads that become...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.707177",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "reads that become too short after trimming",
+        "last_seen": "2025-10-05T07:29:07.707177",
+        "obo_id": "CUSTOM:112b9843"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "sequencing adapter and low quality bases in reads",
+      "id": "CUSTOM:5dd73852",
+      "label": "sequencing adapte...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.700478",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "sequencing adapter and low quality bases in reads",
+        "last_seen": "2025-10-05T07:29:07.700478",
+        "obo_id": "CUSTOM:5dd73852"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2366",
+      "source": "PMC8044432",
+      "target": "CUSTOM:abeff5af",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2364",
+      "source": "PMC8044432",
+      "target": "CUSTOM:a49bd120",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2362",
+      "source": "PMC8044432",
+      "target": "CUSTOM:3c3ced31",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2360",
+      "source": "PMC8044432",
+      "target": "CUSTOM:3db5c6f7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2358",
+      "source": "PMC8044432",
+      "target": "CUSTOM:840abeb4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2356",
+      "source": "PMC8044432",
+      "target": "CUSTOM:ab196147",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2354",
+      "source": "PMC8044432",
+      "target": "CUSTOM:650fb60c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2352",
+      "source": "PMC8044432",
+      "target": "CUSTOM:7851a0b2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2350",
+      "source": "PMC8044432",
+      "target": "CUSTOM:dc572ff5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2348",
+      "source": "PMC8044432",
+      "target": "CUSTOM:0aec3a0d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2346",
+      "source": "PMC8044432",
+      "target": "CUSTOM:5d6c8c52",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2344",
+      "source": "PMC8044432",
+      "target": "CUSTOM:60e244ae",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2342",
+      "source": "PMC8044432",
+      "target": "CUSTOM:b4a626bf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2340",
+      "source": "PMC8044432",
+      "target": "CUSTOM:cd052e19",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2338",
+      "source": "PMC8044432",
+      "target": "CUSTOM:c3017436",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2336",
+      "source": "PMC8044432",
+      "target": "CUSTOM:9ce329c2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2334",
+      "source": "PMC8044432",
+      "target": "CUSTOM:02f44177",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2332",
+      "source": "PMC8044432",
+      "target": "CUSTOM:b99d7c57",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2330",
+      "source": "PMC8044432",
+      "target": "CUSTOM:cf72d5a2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2328",
+      "source": "PMC8044432",
+      "target": "CUSTOM:6017ff3e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2326",
+      "source": "PMC8044432",
+      "target": "CUSTOM:04c46eb7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2324",
+      "source": "PMC8044432",
+      "target": "CUSTOM:bfb4da84",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2322",
+      "source": "PMC8044432",
+      "target": "CUSTOM:c0d73a7e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2320",
+      "source": "PMC8044432",
+      "target": "CUSTOM:8acaf746",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2318",
+      "source": "PMC8044432",
+      "target": "CUSTOM:6290ac9c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2316",
+      "source": "PMC8044432",
+      "target": "CUSTOM:152b34b0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2314",
+      "source": "PMC8044432",
+      "target": "CUSTOM:c71b46fd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2312",
+      "source": "PMC8044432",
+      "target": "CUSTOM:112b9843",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2310",
+      "source": "PMC8044432",
+      "target": "CUSTOM:5dd73852",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 30,
+  "num_edges": 29
+}

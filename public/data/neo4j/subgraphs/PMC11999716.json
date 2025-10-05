@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC11999716",
+  "nodes": [
+    {
+      "fullLabel": "PMC11999716",
+      "id": "PMC11999716",
+      "label": "PMC11999716",
+      "properties": {
+        "pmcid": "PMC11999716",
+        "first_seen": "2025-10-05T07:29:05.860170",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.880861"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Microbes serve as a genetic catalog of bioremediation functions",
+      "id": "CUSTOM:6faad47f",
+      "label": "Microbes serve as...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.882464",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microbes serve as a genetic catalog of bioremediation functions",
+        "last_seen": "2025-10-05T07:29:05.882464",
+        "obo_id": "CUSTOM:6faad47f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Microbial production of novel secondary metabolites (SMs)",
+      "id": "CUSTOM:ee28d238",
+      "label": "Microbial product...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.877730",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microbial production of novel secondary metabolites (SMs)",
+        "last_seen": "2025-10-05T07:29:05.877730",
+        "obo_id": "CUSTOM:ee28d238"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Microbial capability to remediate environmental contaminants",
+      "id": "CUSTOM:3cf93312",
+      "label": "Microbial capabil...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.872663",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microbial capability to remediate environmental contaminants",
+        "last_seen": "2025-10-05T07:29:05.872663",
+        "obo_id": "CUSTOM:3cf93312"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Microbial evolution/adaptation to survive harsh conditions",
+      "id": "CUSTOM:41f3808f",
+      "label": "Microbial evoluti...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.866953",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microbial evolution/adaptation to survive harsh conditions",
+        "last_seen": "2025-10-05T07:29:05.866953",
+        "obo_id": "CUSTOM:41f3808f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Microbial thriving in the Gowanus Canal environment",
+      "id": "CUSTOM:abcd4532",
+      "label": "Microbial thrivin...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.861850",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microbial thriving in the Gowanus Canal environment",
+        "last_seen": "2025-10-05T07:29:05.861850",
+        "obo_id": "CUSTOM:abcd4532"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1724",
+      "source": "PMC11999716",
+      "target": "CUSTOM:6faad47f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1722",
+      "source": "PMC11999716",
+      "target": "CUSTOM:ee28d238",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1720",
+      "source": "PMC11999716",
+      "target": "CUSTOM:3cf93312",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1718",
+      "source": "PMC11999716",
+      "target": "CUSTOM:41f3808f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1716",
+      "source": "PMC11999716",
+      "target": "CUSTOM:abcd4532",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

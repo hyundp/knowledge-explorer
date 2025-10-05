@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC9105288",
+  "nodes": [
+    {
+      "fullLabel": "PMC9105288",
+      "id": "PMC9105288",
+      "label": "PMC9105288",
+      "properties": {
+        "pmcid": "PMC9105288",
+        "first_seen": "2025-10-05T07:29:03.343482",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.362575"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "spatial variation in transcription of auxin related genes throughout the curvature with greatest polarity at the most concave and convex positions",
+      "id": "CUSTOM:590e604c",
+      "label": "spatial variation...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.365151",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "spatial variation in transcription of auxin related genes throughout the curvature with greatest polarity at the most concave and convex positions",
+        "last_seen": "2025-10-05T07:29:03.365151",
+        "obo_id": "CUSTOM:590e604c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "expression trend for auxin related genes in positively gravitropic hypocotyl curvature reverses when hypocotyls begin to develop negative gravitropism",
+      "id": "CUSTOM:8ff0fc0a",
+      "label": "expression trend ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.358131",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "expression trend for auxin related genes in positively gravitropic hypocotyl curvature reverses when hypocotyls begin to develop negative gravitropism",
+        "last_seen": "2025-10-05T07:29:03.358131",
+        "obo_id": "CUSTOM:8ff0fc0a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "genes involved in downward or upward hypocotyl curvature are the same as genes involved in root curvature",
+      "id": "CUSTOM:66e9ec3a",
+      "label": "genes involved in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.350902",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "genes involved in downward or upward hypocotyl curvature are the same as genes involved in root curvature",
+        "last_seen": "2025-10-05T07:29:03.350902",
+        "obo_id": "CUSTOM:66e9ec3a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "basal hypocotyl curvature depends on auxin-mediated process",
+      "id": "CUSTOM:1e3ea4d9",
+      "label": "basal hypocotyl c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.345633",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "basal hypocotyl curvature depends on auxin-mediated process",
+        "last_seen": "2025-10-05T07:29:03.345633",
+        "obo_id": "CUSTOM:1e3ea4d9"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "914",
+      "source": "PMC9105288",
+      "target": "CUSTOM:590e604c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "912",
+      "source": "PMC9105288",
+      "target": "CUSTOM:8ff0fc0a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "910",
+      "source": "PMC9105288",
+      "target": "CUSTOM:66e9ec3a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "908",
+      "source": "PMC9105288",
+      "target": "CUSTOM:1e3ea4d9",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

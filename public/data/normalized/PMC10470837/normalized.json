@@ -1,0 +1,32 @@
+{
+  "pmcid": "PMC10470837",
+  "title": "Reviewing the state of biosensors and lab on a  chip technologies: opportunities for extreme environments and space exploration",
+  "authors": [
+    "Stefano Cinti",
+    "Sima Singh",
+    "Giovanni Covone",
+    "Luca Tonietti",
+    "Annarita Ricciardelli",
+    "Angelina Cordone",
+    "Roberta Iacono",
+    "Arianna Mazzoli",
+    "Marco Moracci",
+    "Alessandra Rotundi",
+    "Donato Giovannelli"
+  ],
+  "year": "2023",
+  "journal": "Frontiers in Microbiology",
+  "doi": "10.3389/fmicb.2023.1215529",
+  "sections": {
+    "abstract": "The space race is entering a new era of exploration, in which the number of robotic and human missions to various places in our solar system is rapidly increasing. Despite the recent advances in propulsion and life support technologies, there is a growing need to perform analytical measurements and laboratory experiments across diverse domains of science, while keeping low payload requirements. In this context, lab on a chip nanobiosensors appear to be an emerging technology capable of revolutionizing space exploration, given their low footprint, high accuracy, and low payload requirements. To date, only some approaches for monitoring astronaut health in spacecraft environments have been reported. Although non invasive molecular diagnostics, like lab on a chip technology, are expected to improve the quality of long term space missions, their application to monitor microbiological and environmental variables is rarely reported, even for analogous extreme environments on Earth. The possibility of evaluating the occurrence of unknown or unexpected species, identifying redox gradients relevant to microbial metabolism, or testing for specific possible biosignatures, will play a key role in the future of space microbiology. In this review, we will examine the current and potential roles of lab on a chip technology in space exploration and in extreme environment investigation, reporting what has been tested so far, and clarifying the direction toward which the newly developed technologies of portable lab on a chip sensors are heading for exploration in extreme environments and in space.\n\nKeywords:biosensors, point of care, lab on chip, space exploration, extreme environment",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "One of the main goals of space research is to extend the human experience to the farthest reaches of space to discover, explore, and exploit uncharted regions of space. However, life in space continues to bring new insights into human physiology and psychology that may lead to the failure of current detection systems (Krishen, 2009). Radiation, plasma, atomic oxygen, outgassing, and contamination can drastically limit the life of a space flight and seriously affect the success of a project. Accurate, precise, efficient, and cost effective health monitoring is consistently important. Biosensor systems are reported to be good analyzers for chemical substance measurements (Haney et al., 2020). However, the combination of many harsh conditions creates significant difficulties for the development of suitable instruments. Lightness, compressibility, self healing, radiation, micrometeoroids, and orbital debris resistance would be all desirable features in sensors design. In this perspective, LoC based sensors represent the best choice among the finest detection systems able to detect and respond to harsh situations. They can be optical fibers, nanosensors, or vibration sensors in combination with artificial intelligence and telemetry. Microfluidic technology is a good example and the best way to accelerate processes in science and industry today, and it will soon transform the entire industry (Krishen, 2009;Hessel et al., 2020).\n\nIn this review, currently used systems for detection of analytes in extreme environments and space exploration were discussed, suggesting PoC and LoC approaches represent the best choice. They ensure accurate and continuous monitoring of the analytes, without sacrificing selectivity or sensitivity. However, new advances in the fields of engineering, nanomaterials and electronics can improve durability, reversibility, sensitivity, and selectivity of the analytical devices, supporting the development of next generation systems suitable for harsh environment investigation and space exploration."
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:06:01.767523",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10470837/"
+  }
+}

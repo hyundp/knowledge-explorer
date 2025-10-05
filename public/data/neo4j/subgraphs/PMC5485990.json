@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC5485990",
+  "nodes": [
+    {
+      "fullLabel": "PMC5485990",
+      "id": "PMC5485990",
+      "label": "PMC5485990",
+      "properties": {
+        "pmcid": "PMC5485990",
+        "first_seen": "2025-10-05T07:29:15.894100",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:15.942505"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "NF B inhibition and microgravity-induced bone loss (proposed countermeasure)",
+      "id": "CUSTOM:357e43fe",
+      "label": "NF B inhibition a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.944828",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NF B inhibition and microgravity-induced bone loss (proposed countermeasure)",
+        "last_seen": "2025-10-05T07:29:15.944828",
+        "obo_id": "CUSTOM:357e43fe"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Muscle loss under simulated microgravity in NF B-deficient mice (vs WT)",
+      "id": "CUSTOM:270913de",
+      "label": "Muscle loss under...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.938025",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Muscle loss under simulated microgravity in NF B-deficient mice (vs WT)",
+        "last_seen": "2025-10-05T07:29:15.938025",
+        "obo_id": "CUSTOM:270913de"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Bone loss under simulated microgravity in NF B-deficient mice (vs WT)",
+      "id": "CUSTOM:d57f3cbc",
+      "label": "Bone loss under s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.931462",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Bone loss under simulated microgravity in NF B-deficient mice (vs WT)",
+        "last_seen": "2025-10-05T07:29:15.931462",
+        "obo_id": "CUSTOM:d57f3cbc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Overall health impact related to altered NF B activities",
+      "id": "CUSTOM:6494e8d5",
+      "label": "Overall health im...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.924669",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Overall health impact related to altered NF B activities",
+        "last_seen": "2025-10-05T07:29:15.924669",
+        "obo_id": "CUSTOM:6494e8d5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "T cell activation",
+      "id": "CUSTOM:c005dc0e",
+      "label": "T cell activation",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.917738",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "T cell activation",
+        "last_seen": "2025-10-05T07:29:15.917738",
+        "obo_id": "CUSTOM:c005dc0e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NFKBIA expression",
+      "id": "CUSTOM:7cec2232",
+      "label": "NFKBIA expression",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.911295",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NFKBIA expression",
+        "last_seen": "2025-10-05T07:29:15.911295",
+        "obo_id": "CUSTOM:7cec2232"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NF B activation in response to stress",
+      "id": "CUSTOM:552babaa",
+      "label": "NF B activation i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.903954",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NF B activation in response to stress",
+        "last_seen": "2025-10-05T07:29:15.903954",
+        "obo_id": "CUSTOM:552babaa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NF B pathway alteration",
+      "id": "CUSTOM:0785a180",
+      "label": "NF B pathway alte...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.896775",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NF B pathway alteration",
+        "last_seen": "2025-10-05T07:29:15.896775",
+        "obo_id": "CUSTOM:0785a180"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4386",
+      "source": "PMC5485990",
+      "target": "CUSTOM:357e43fe",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4384",
+      "source": "PMC5485990",
+      "target": "CUSTOM:270913de",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4382",
+      "source": "PMC5485990",
+      "target": "CUSTOM:d57f3cbc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4380",
+      "source": "PMC5485990",
+      "target": "CUSTOM:6494e8d5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4378",
+      "source": "PMC5485990",
+      "target": "CUSTOM:c005dc0e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4376",
+      "source": "PMC5485990",
+      "target": "CUSTOM:7cec2232",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4374",
+      "source": "PMC5485990",
+      "target": "CUSTOM:552babaa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4372",
+      "source": "PMC5485990",
+      "target": "CUSTOM:0785a180",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

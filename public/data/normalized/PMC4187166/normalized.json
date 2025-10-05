@@ -1,0 +1,24 @@
+{
+  "pmcid": "PMC4187166",
+  "title": "Host Microbe Interactions in Microgravity: Assessment and Implications",
+  "authors": [
+    "Jamie S Foster",
+    "Raymond M Wheeler",
+    "Regine Pamphile"
+  ],
+  "year": "2014",
+  "journal": "Life : Open Access Journal",
+  "doi": "10.3390/life4020250",
+  "sections": {
+    "abstract": "Spaceflight imposes several unique stresses on biological life that together can have a profound impact on the homeostasis between eukaryotes and their associated microbes. One such stressor, microgravity, has been shown to alter host microbe interactions at the genetic and physiological levels. Recent sequencing of the microbiomes associated with plants and animals have shown that these interactions are essential for maintaining host health through the regulation of several metabolic and immune responses. Disruptions to various environmental parameters or community characteristics may impact the resiliency of the microbiome, thus potentially driving host microbe associations towards disease. In this review, we discuss our current understanding of host microbe interactions in microgravity and assess the impact of this unique environmental stress on the normal physiological and genetic responses of both pathogenic and mutualistic associations. As humans move beyond our biosphere and undergo longer duration space flights, it will be essential to more fully understand microbial fitness in microgravity conditions in order to maintain a healthy homeostasis between humans, plants and their respective microbiomes.\n\nKeywords:host microbe interactions, microgravity, microbiome, space flight",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:02:00.539406",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4187166/"
+  }
+}

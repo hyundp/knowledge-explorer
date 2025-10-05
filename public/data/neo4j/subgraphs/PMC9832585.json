@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC9832585",
+  "nodes": [
+    {
+      "fullLabel": "PMC9832585",
+      "id": "PMC9832585",
+      "label": "PMC9832585",
+      "properties": {
+        "pmcid": "PMC9832585",
+        "first_seen": "2025-10-05T07:29:01.138227",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.159709"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Advances made by NASA and their funded investigators can help NIH address radiotherapy complications and protection of civilians from unintended radiation exposures",
+      "id": "CUSTOM:ce78bf47",
+      "label": "Advances made by ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.161054",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Advances made by NASA and their funded investigators can help NIH address radiotherapy complications and protection of civilians from unintended radiation exposures",
+        "last_seen": "2025-10-05T07:29:01.161054",
+        "obo_id": "CUSTOM:ce78bf47"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Continued collaboration between organizations developing approaches to address radiation induced injuries will ensure that promising products are studied across agencies' mission-specific requirements and that human health will be addressed by NASA for future long term space flights",
+      "id": "CUSTOM:b4e3b12e",
+      "label": "Continued collabo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.157288",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Continued collaboration between organizations developing approaches to address radiation induced injuries will ensure that promising products are studied across agencies' mission-specific requirements and that human health will be addressed by NASA for future long term space flights",
+        "last_seen": "2025-10-05T07:29:01.157288",
+        "obo_id": "CUSTOM:b4e3b12e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Diverse tissue-specific cancer risk rankings exist across sex and race, including sex-specific organ risks",
+      "id": "CUSTOM:8c23b2b0",
+      "label": "Diverse tissue-sp...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.153309",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Diverse tissue-specific cancer risk rankings exist across sex and race, including sex-specific organ risks",
+        "last_seen": "2025-10-05T07:29:01.153309",
+        "obo_id": "CUSTOM:8c23b2b0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Members of the general population will be exposed to space radiation during commercial suborbital and low Earth orbit flights (despite shorter flight times limiting exposures)",
+      "id": "CUSTOM:b85e388c",
+      "label": "Members of the ge...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.148893",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Members of the general population will be exposed to space radiation during commercial suborbital and low Earth orbit flights (despite shorter flight times limiting exposures)",
+        "last_seen": "2025-10-05T07:29:01.148893",
+        "obo_id": "CUSTOM:b85e388c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Coordination between funding agencies and scientists has enabled the advancement of many approaches that could be useful for both NIH and NASA needs",
+      "id": "CUSTOM:87e24280",
+      "label": "Coordination betw...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.144374",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Coordination between funding agencies and scientists has enabled the advancement of many approaches that could be useful for both NIH and NASA needs",
+        "last_seen": "2025-10-05T07:29:01.144374",
+        "obo_id": "CUSTOM:87e24280"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Existence of terrestrial based radiation injury prevention products that could be used to address the health needs of humans in space and vice versa",
+      "id": "CUSTOM:33c1aef1",
+      "label": "Existence of terr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.139557",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Existence of terrestrial based radiation injury prevention products that could be used to address the health needs of humans in space and vice versa",
+        "last_seen": "2025-10-05T07:29:01.139557",
+        "obo_id": "CUSTOM:33c1aef1"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "156",
+      "source": "PMC9832585",
+      "target": "CUSTOM:ce78bf47",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "154",
+      "source": "PMC9832585",
+      "target": "CUSTOM:b4e3b12e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "152",
+      "source": "PMC9832585",
+      "target": "CUSTOM:8c23b2b0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "150",
+      "source": "PMC9832585",
+      "target": "CUSTOM:b85e388c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "148",
+      "source": "PMC9832585",
+      "target": "CUSTOM:87e24280",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "146",
+      "source": "PMC9832585",
+      "target": "CUSTOM:33c1aef1",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

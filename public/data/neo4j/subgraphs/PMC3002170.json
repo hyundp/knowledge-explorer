@@ -1,0 +1,65 @@
+{
+  "pmcid": "PMC3002170",
+  "nodes": [
+    {
+      "fullLabel": "PMC3002170",
+      "id": "PMC3002170",
+      "label": "PMC3002170",
+      "properties": {
+        "pmcid": "PMC3002170",
+        "first_seen": "2025-10-05T07:29:13.508144",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:13.526308"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "COX 2 gene expression",
+      "id": "CUSTOM:3ef4ae1e",
+      "label": "COX 2 gene expres...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.528472",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "COX 2 gene expression",
+        "last_seen": "2025-10-05T07:29:13.528472",
+        "obo_id": "CUSTOM:3ef4ae1e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "IGF 1 gene expression",
+      "id": "CUSTOM:fa4e72c2",
+      "label": "IGF 1 gene expres...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.521827",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "IGF 1 gene expression",
+        "last_seen": "2025-10-05T07:29:13.521827",
+        "obo_id": "CUSTOM:fa4e72c2"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3828",
+      "source": "PMC3002170",
+      "target": "CUSTOM:3ef4ae1e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3826",
+      "source": "PMC3002170",
+      "target": "CUSTOM:fa4e72c2",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 3,
+  "num_edges": 2
+}

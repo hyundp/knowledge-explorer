@@ -1,0 +1,43 @@
+{
+  "pmcid": "PMC10264680",
+  "nodes": [
+    {
+      "fullLabel": "PMC10264680",
+      "id": "PMC10264680",
+      "label": "PMC10264680",
+      "properties": {
+        "pmcid": "PMC10264680",
+        "first_seen": "2025-10-05T07:29:03.318005",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.318005"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Dataset provides new insights for the identification of novel cargo proteins of the exocyst complex",
+      "id": "CUSTOM:bd54cbf3",
+      "label": "Dataset provides ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.319917",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Dataset provides new insights for the identification of novel cargo proteins of the exocyst complex",
+        "last_seen": "2025-10-05T07:29:03.319917",
+        "obo_id": "CUSTOM:bd54cbf3"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "900",
+      "source": "PMC10264680",
+      "target": "CUSTOM:bd54cbf3",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 2,
+  "num_edges": 1
+}

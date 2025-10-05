@@ -1,0 +1,329 @@
+{
+  "pmcid": "PMC9784906",
+  "nodes": [
+    {
+      "fullLabel": "PMC9784906",
+      "id": "PMC9784906",
+      "label": "PMC9784906",
+      "properties": {
+        "pmcid": "PMC9784906",
+        "first_seen": "2025-10-05T07:29:04.138846",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.209482"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "lipid handling in adipose tissue",
+      "id": "CUSTOM:e954c6b0",
+      "label": "lipid handling in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.211270",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "lipid handling in adipose tissue",
+        "last_seen": "2025-10-05T07:29:04.211270",
+        "obo_id": "CUSTOM:e954c6b0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "systemic insulin response",
+      "id": "CUSTOM:0eca0a50",
+      "label": "systemic insulin ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.206048",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "systemic insulin response",
+        "last_seen": "2025-10-05T07:29:04.206048",
+        "obo_id": "CUSTOM:0eca0a50"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "tissue inflammation and metabolic phenotype after deficiency of soluble mannose receptor",
+      "id": "CUSTOM:6845340a",
+      "label": "tissue inflammati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.198982",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "tissue inflammation and metabolic phenotype after deficiency of soluble mannose receptor",
+        "last_seen": "2025-10-05T07:29:04.198982",
+        "obo_id": "CUSTOM:6845340a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Mrc1 expression in medullary sinusoidal endothelial cells following onset of diabetes mellitus",
+      "id": "CUSTOM:259dc6bd",
+      "label": "Mrc1 expression i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.192766",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Mrc1 expression in medullary sinusoidal endothelial cells following onset of diabetes mellitus",
+        "last_seen": "2025-10-05T07:29:04.192766",
+        "obo_id": "CUSTOM:259dc6bd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "hematopoietic stem cell (HSC) differentiation and release",
+      "id": "CUSTOM:9450ac7a",
+      "label": "hematopoietic ste...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.186011",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "hematopoietic stem cell (HSC) differentiation and release",
+        "last_seen": "2025-10-05T07:29:04.186011",
+        "obo_id": "CUSTOM:9450ac7a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "severity/progression of obesity (obesity development)",
+      "id": "CUSTOM:30bf9c2e",
+      "label": "severity/progress...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.179249",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "severity/progression of obesity (obesity development)",
+        "last_seen": "2025-10-05T07:29:04.179249",
+        "obo_id": "CUSTOM:30bf9c2e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "myeloid cell infiltration in liver",
+      "id": "CUSTOM:d650c966",
+      "label": "myeloid cell infi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.173106",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "myeloid cell infiltration in liver",
+        "last_seen": "2025-10-05T07:29:04.173106",
+        "obo_id": "CUSTOM:d650c966"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "myeloid cell infiltration in visceral adipose tissue",
+      "id": "CUSTOM:028315f9",
+      "label": "myeloid cell infi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.167190",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "myeloid cell infiltration in visceral adipose tissue",
+        "last_seen": "2025-10-05T07:29:04.167190",
+        "obo_id": "CUSTOM:028315f9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "plasma pathways related to leukocyte migration and tissue infiltration",
+      "id": "CUSTOM:fd9c8b97",
+      "label": "plasma pathways r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.163054",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "plasma pathways related to leukocyte migration and tissue infiltration",
+        "last_seen": "2025-10-05T07:29:04.163054",
+        "obo_id": "CUSTOM:fd9c8b97"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "adipocyte presence in bone marrow (adipogenesis in BM)",
+      "id": "CUSTOM:1cfef82a",
+      "label": "adipocyte presenc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.158388",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "adipocyte presence in bone marrow (adipogenesis in BM)",
+        "last_seen": "2025-10-05T07:29:04.158388",
+        "obo_id": "CUSTOM:1cfef82a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "myeloid cell production (myelopoiesis)",
+      "id": "CUSTOM:d27d6042",
+      "label": "myeloid cell prod...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.154347",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "myeloid cell production (myelopoiesis)",
+        "last_seen": "2025-10-05T07:29:04.154347",
+        "obo_id": "CUSTOM:d27d6042"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "circulating pro inflammatory CCR2+ monocyte levels",
+      "id": "CUSTOM:f83d55fb",
+      "label": "circulating pro i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.149600",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "circulating pro inflammatory CCR2+ monocyte levels",
+        "last_seen": "2025-10-05T07:29:04.149600",
+        "obo_id": "CUSTOM:f83d55fb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "circulating neutrophil levels",
+      "id": "CUSTOM:19076d90",
+      "label": "circulating neutr...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.145454",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "circulating neutrophil levels",
+        "last_seen": "2025-10-05T07:29:04.145454",
+        "obo_id": "CUSTOM:19076d90"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "inflammation (tissue/systemic)",
+      "id": "CUSTOM:0852e96a",
+      "label": "inflammation (tis...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.140593",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "inflammation (tissue/systemic)",
+        "last_seen": "2025-10-05T07:29:04.140593",
+        "obo_id": "CUSTOM:0852e96a"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1202",
+      "source": "PMC9784906",
+      "target": "CUSTOM:e954c6b0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1200",
+      "source": "PMC9784906",
+      "target": "CUSTOM:0eca0a50",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1198",
+      "source": "PMC9784906",
+      "target": "CUSTOM:6845340a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1196",
+      "source": "PMC9784906",
+      "target": "CUSTOM:259dc6bd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1194",
+      "source": "PMC9784906",
+      "target": "CUSTOM:9450ac7a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1192",
+      "source": "PMC9784906",
+      "target": "CUSTOM:30bf9c2e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1190",
+      "source": "PMC9784906",
+      "target": "CUSTOM:d650c966",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1188",
+      "source": "PMC9784906",
+      "target": "CUSTOM:028315f9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1186",
+      "source": "PMC9784906",
+      "target": "CUSTOM:fd9c8b97",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1184",
+      "source": "PMC9784906",
+      "target": "CUSTOM:1cfef82a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1182",
+      "source": "PMC9784906",
+      "target": "CUSTOM:d27d6042",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1180",
+      "source": "PMC9784906",
+      "target": "CUSTOM:f83d55fb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1178",
+      "source": "PMC9784906",
+      "target": "CUSTOM:19076d90",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1176",
+      "source": "PMC9784906",
+      "target": "CUSTOM:0852e96a",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 15,
+  "num_edges": 14
+}

@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC9108708",
+  "nodes": [
+    {
+      "fullLabel": "PMC9108708",
+      "id": "PMC9108708",
+      "label": "PMC9108708",
+      "properties": {
+        "pmcid": "PMC9108708",
+        "first_seen": "2025-10-05T07:29:15.949649",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:16.027515"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "disease events reverberate across the body's cells and organs",
+      "id": "CUSTOM:0ea56e38",
+      "label": "disease events re...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.029837",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "disease events reverberate across the body's cells and organs",
+        "last_seen": "2025-10-05T07:29:16.029837",
+        "obo_id": "CUSTOM:0ea56e38"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "emission of signaling molecules",
+      "id": "CUSTOM:0c779647",
+      "label": "emission of signa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.021908",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "emission of signaling molecules",
+        "last_seen": "2025-10-05T07:29:16.021908",
+        "obo_id": "CUSTOM:0c779647"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "emission of new viral particles",
+      "id": "CUSTOM:63300b3c",
+      "label": "emission of new v...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.014862",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "emission of new viral particles",
+        "last_seen": "2025-10-05T07:29:16.014862",
+        "obo_id": "CUSTOM:63300b3c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "host cell shifted from original physiology into a SARS CoV 2 replication system",
+      "id": "CUSTOM:87f61887",
+      "label": "host cell shifted...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:16.006837",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "host cell shifted from original physiology into a SARS CoV 2 replication system",
+        "last_seen": "2025-10-05T07:29:16.006837",
+        "obo_id": "CUSTOM:87f61887"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "remodeling of multiple intracellular networks (transcription, metabolism, signal transduction)",
+      "id": "CUSTOM:0d5b228a",
+      "label": "remodeling of mul...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.997757",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "remodeling of multiple intracellular networks (transcription, metabolism, signal transduction)",
+        "last_seen": "2025-10-05T07:29:15.997757",
+        "obo_id": "CUSTOM:0d5b228a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cellular metabolic adaptations differ by context (cell type, genotype, environmental influences)",
+      "id": "CUSTOM:b7ab6623",
+      "label": "cellular metaboli...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.988816",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cellular metabolic adaptations differ by context (cell type, genotype, environmental influences)",
+        "last_seen": "2025-10-05T07:29:15.988816",
+        "obo_id": "CUSTOM:b7ab6623"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "COVID 19 is pleiotropic",
+      "id": "CUSTOM:621ba288",
+      "label": "COVID 19 is pleio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.981560",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "COVID 19 is pleiotropic",
+        "last_seen": "2025-10-05T07:29:15.981560",
+        "obo_id": "CUSTOM:621ba288"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "loss of life",
+      "id": "CUSTOM:a15328d6",
+      "label": "loss of life",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.973657",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "loss of life",
+        "last_seen": "2025-10-05T07:29:15.973657",
+        "obo_id": "CUSTOM:a15328d6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "morbidities",
+      "id": "CUSTOM:7210625b",
+      "label": "morbidities",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.965086",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "morbidities",
+        "last_seen": "2025-10-05T07:29:15.965086",
+        "obo_id": "CUSTOM:7210625b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "economic crises",
+      "id": "CUSTOM:3f4be998",
+      "label": "economic crises",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.958602",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "economic crises",
+        "last_seen": "2025-10-05T07:29:15.958602",
+        "obo_id": "CUSTOM:3f4be998"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "loss of incomes",
+      "id": "CUSTOM:79e436e3",
+      "label": "loss of incomes",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.951964",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "loss of incomes",
+        "last_seen": "2025-10-05T07:29:15.951964",
+        "obo_id": "CUSTOM:79e436e3"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4408",
+      "source": "PMC9108708",
+      "target": "CUSTOM:0ea56e38",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4406",
+      "source": "PMC9108708",
+      "target": "CUSTOM:0c779647",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4404",
+      "source": "PMC9108708",
+      "target": "CUSTOM:63300b3c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4402",
+      "source": "PMC9108708",
+      "target": "CUSTOM:87f61887",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4400",
+      "source": "PMC9108708",
+      "target": "CUSTOM:0d5b228a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4398",
+      "source": "PMC9108708",
+      "target": "CUSTOM:b7ab6623",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4396",
+      "source": "PMC9108708",
+      "target": "CUSTOM:621ba288",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4394",
+      "source": "PMC9108708",
+      "target": "CUSTOM:a15328d6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4392",
+      "source": "PMC9108708",
+      "target": "CUSTOM:7210625b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4390",
+      "source": "PMC9108708",
+      "target": "CUSTOM:3f4be998",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4388",
+      "source": "PMC9108708",
+      "target": "CUSTOM:79e436e3",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

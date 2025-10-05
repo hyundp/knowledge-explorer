@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC11324864",
+  "nodes": [
+    {
+      "fullLabel": "PMC11324864",
+      "id": "PMC11324864",
+      "label": "PMC11324864",
+      "properties": {
+        "pmcid": "PMC11324864",
+        "first_seen": "2025-10-05T07:29:03.791989",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.845923"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Alteration of multiple pathways central to NK function in primary human NK cells after exposure to suG",
+      "id": "CUSTOM:24b7a3db",
+      "label": "Alteration of mul...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.867603",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Alteration of multiple pathways central to NK function in primary human NK cells after exposure to suG",
+        "last_seen": "2025-10-05T07:29:03.867603",
+        "obo_id": "CUSTOM:24b7a3db"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Development of human T ALL in NSG mice repopulated with GCR-exposed human HSC (prior observation)",
+      "id": "CUSTOM:02fc4caa",
+      "label": "Development of hu...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.842300",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Development of human T ALL in NSG mice repopulated with GCR-exposed human HSC (prior observation)",
+        "last_seen": "2025-10-05T07:29:03.842300",
+        "obo_id": "CUSTOM:02fc4caa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Generation of robust numbers of human NK cells in immunodeficient mice repopulated with human HSC",
+      "id": "CUSTOM:3a07be9b",
+      "label": "Generation of rob...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.837203",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Generation of robust numbers of human NK cells in immunodeficient mice repopulated with human HSC",
+        "last_seen": "2025-10-05T07:29:03.837203",
+        "obo_id": "CUSTOM:3a07be9b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Potential change in astronaut risk of hematological malignancy (e.g., T ALL) from combined exposure",
+      "id": "CUSTOM:cc9308dd",
+      "label": "Potential change ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.831634",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential change in astronaut risk of hematological malignancy (e.g., T ALL) from combined exposure",
+        "last_seen": "2025-10-05T07:29:03.831634",
+        "obo_id": "CUSTOM:cc9308dd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NK cell killing of K 562 cells when cytotoxicity assays are performed under continuous suG vs. the standard protocol",
+      "id": "CUSTOM:c617c35f",
+      "label": "NK cell killing o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.826547",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NK cell killing of K 562 cells when cytotoxicity assays are performed under continuous suG vs. the standard protocol",
+        "last_seen": "2025-10-05T07:29:03.826547",
+        "obo_id": "CUSTOM:c617c35f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NK cell killing of MOLT 4 (T ALL) cells when cytotoxicity assays are performed under continuous suG vs. the standard protocol",
+      "id": "CUSTOM:0eb21262",
+      "label": "NK cell killing o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.821857",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NK cell killing of MOLT 4 (T ALL) cells when cytotoxicity assays are performed under continuous suG vs. the standard protocol",
+        "last_seen": "2025-10-05T07:29:03.821857",
+        "obo_id": "CUSTOM:0eb21262"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cytotoxicity of NK cells against hematological tumor cell lines (K 562 and MOLT 4)",
+      "id": "CUSTOM:5d6dd38e",
+      "label": "Cytotoxicity of N...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.817042",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cytotoxicity of NK cells against hematological tumor cell lines (K 562 and MOLT 4)",
+        "last_seen": "2025-10-05T07:29:03.817042",
+        "obo_id": "CUSTOM:5d6dd38e"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1066",
+      "source": "PMC11324864",
+      "target": "CUSTOM:24b7a3db",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1064",
+      "source": "PMC11324864",
+      "target": "CUSTOM:02fc4caa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1062",
+      "source": "PMC11324864",
+      "target": "CUSTOM:3a07be9b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1060",
+      "source": "PMC11324864",
+      "target": "CUSTOM:cc9308dd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1058",
+      "source": "PMC11324864",
+      "target": "CUSTOM:c617c35f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1056",
+      "source": "PMC11324864",
+      "target": "CUSTOM:0eb21262",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1054",
+      "source": "PMC11324864",
+      "target": "CUSTOM:5d6dd38e",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

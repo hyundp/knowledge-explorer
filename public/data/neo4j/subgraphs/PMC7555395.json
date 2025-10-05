@@ -1,0 +1,109 @@
+{
+  "pmcid": "PMC7555395",
+  "nodes": [
+    {
+      "fullLabel": "PMC7555395",
+      "id": "PMC7555395",
+      "label": "PMC7555395",
+      "properties": {
+        "pmcid": "PMC7555395",
+        "first_seen": "2025-10-05T07:29:02.996686",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.014520"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "occurrence of complex chromosomal aberrations (complex CA)",
+      "id": "CUSTOM:2c9383ba",
+      "label": "occurrence of com...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.016776",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "occurrence of complex chromosomal aberrations (complex CA)",
+        "last_seen": "2025-10-05T07:29:03.016776",
+        "obo_id": "CUSTOM:2c9383ba"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "frequency of complex type of chromosomal aberrations (complex CA)",
+      "id": "CUSTOM:c812e281",
+      "label": "frequency of comp...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.010883",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "frequency of complex type of chromosomal aberrations (complex CA)",
+        "last_seen": "2025-10-05T07:29:03.010883",
+        "obo_id": "CUSTOM:c812e281"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "astronauts' potential risk for cancer and other debilitating health conditions due to GCR (as estimated from experiments)",
+      "id": "CUSTOM:560e4234",
+      "label": "astronauts' poten...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.005964",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "astronauts' potential risk for cancer and other debilitating health conditions due to GCR (as estimated from experiments)",
+        "last_seen": "2025-10-05T07:29:03.005964",
+        "obo_id": "CUSTOM:560e4234"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "incidence of chromosomal aberrations (CA)",
+      "id": "CUSTOM:c099521b",
+      "label": "incidence of chro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.998664",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "incidence of chromosomal aberrations (CA)",
+        "last_seen": "2025-10-05T07:29:02.998664",
+        "obo_id": "CUSTOM:c099521b"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "788",
+      "source": "PMC7555395",
+      "target": "CUSTOM:2c9383ba",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "786",
+      "source": "PMC7555395",
+      "target": "CUSTOM:c812e281",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "784",
+      "source": "PMC7555395",
+      "target": "CUSTOM:560e4234",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "782",
+      "source": "PMC7555395",
+      "target": "CUSTOM:c099521b",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 5,
+  "num_edges": 4
+}

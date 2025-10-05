@@ -1,0 +1,285 @@
+{
+  "pmcid": "PMC8024390",
+  "nodes": [
+    {
+      "fullLabel": "PMC8024390",
+      "id": "PMC8024390",
+      "label": "PMC8024390",
+      "properties": {
+        "pmcid": "PMC8024390",
+        "first_seen": "2025-10-05T07:29:05.885811",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:05.945996"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Cell wall remodeling is an underlying theme of the physiological adaptation of plants to the spaceflight environment",
+      "id": "CUSTOM:806ec06b",
+      "label": "Cell wall remodel...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.947795",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cell wall remodeling is an underlying theme of the physiological adaptation of plants to the spaceflight environment",
+        "last_seen": "2025-10-05T07:29:05.947795",
+        "obo_id": "CUSTOM:806ec06b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Genotype (physiological state) can have a dramatic effect on the expression profile of genes needed for spaceflight adaptation",
+      "id": "CUSTOM:d386c088",
+      "label": "Genotype (physiol...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.942751",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Genotype (physiological state) can have a dramatic effect on the expression profile of genes needed for spaceflight adaptation",
+        "last_seen": "2025-10-05T07:29:05.942751",
+        "obo_id": "CUSTOM:d386c088"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Arg1 has a function in spaceflight adaptation in differentiated cells within intact plants",
+      "id": "CUSTOM:138d1895",
+      "label": "Arg1 has a functi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.936299",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Arg1 has a function in spaceflight adaptation in differentiated cells within intact plants",
+        "last_seen": "2025-10-05T07:29:05.936299",
+        "obo_id": "CUSTOM:138d1895"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ARG1 role relates to association with the endomembrane system and mediation of proper localization/targeting or activity of proteins at the plasma membrane or organelles of the secretory pathway",
+      "id": "CUSTOM:64e3c56d",
+      "label": "ARG1 role relates...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.928091",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ARG1 role relates to association with the endomembrane system and mediation of proper localization/targeting or activity of proteins at the plasma membrane or organelles of the secretory pathway",
+        "last_seen": "2025-10-05T07:29:05.928091",
+        "obo_id": "CUSTOM:64e3c56d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Arg1 has a major role in spaceflight adaptation of cultured cells, perhaps through gravity sensing",
+      "id": "CUSTOM:7d69222b",
+      "label": "Arg1 has a major ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.922761",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Arg1 has a major role in spaceflight adaptation of cultured cells, perhaps through gravity sensing",
+        "last_seen": "2025-10-05T07:29:05.922761",
+        "obo_id": "CUSTOM:7d69222b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Genes whose activity is required for spaceflight adaptation but whose expression levels need not be changed from that which occurs on the ground",
+      "id": "CUSTOM:be5c0abf",
+      "label": "Genes whose activ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.917347",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Genes whose activity is required for spaceflight adaptation but whose expression levels need not be changed from that which occurs on the ground",
+        "last_seen": "2025-10-05T07:29:05.917347",
+        "obo_id": "CUSTOM:be5c0abf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "gene expression related to cell wall remodeling (both up- and down-regulated)",
+      "id": "CUSTOM:71a6e500",
+      "label": "gene expression r...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.912058",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "gene expression related to cell wall remodeling (both up- and down-regulated)",
+        "last_seen": "2025-10-05T07:29:05.912058",
+        "obo_id": "CUSTOM:71a6e500"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "expression of genes associated with pathogen response, wounding, and cell wall remodeling",
+      "id": "CUSTOM:12062b31",
+      "label": "expression of gen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.906653",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "expression of genes associated with pathogen response, wounding, and cell wall remodeling",
+        "last_seen": "2025-10-05T07:29:05.906653",
+        "obo_id": "CUSTOM:12062b31"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "expression of heat shock genes",
+      "id": "CUSTOM:22ac6f38",
+      "label": "expression of hea...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.901575",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "expression of heat shock genes",
+        "last_seen": "2025-10-05T07:29:05.901575",
+        "obo_id": "CUSTOM:22ac6f38"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "root gravitropism (gravitropic response)",
+      "id": "CUSTOM:24889d52",
+      "label": "root gravitropism...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.896445",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "root gravitropism (gravitropic response)",
+        "last_seen": "2025-10-05T07:29:05.896445",
+        "obo_id": "CUSTOM:24889d52"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "auxin accumulation in root tips",
+      "id": "CUSTOM:dc1fe5c0",
+      "label": "auxin accumulatio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.891978",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "auxin accumulation in root tips",
+        "last_seen": "2025-10-05T07:29:05.891978",
+        "obo_id": "CUSTOM:dc1fe5c0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "expression level of POL (At2g46920) and SGR7 (At4g37650)",
+      "id": "CUSTOM:e02c5879",
+      "label": "expression level ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:05.887464",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "expression level of POL (At2g46920) and SGR7 (At4g37650)",
+        "last_seen": "2025-10-05T07:29:05.887464",
+        "obo_id": "CUSTOM:e02c5879"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1748",
+      "source": "PMC8024390",
+      "target": "CUSTOM:806ec06b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1746",
+      "source": "PMC8024390",
+      "target": "CUSTOM:d386c088",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1744",
+      "source": "PMC8024390",
+      "target": "CUSTOM:138d1895",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1742",
+      "source": "PMC8024390",
+      "target": "CUSTOM:64e3c56d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1740",
+      "source": "PMC8024390",
+      "target": "CUSTOM:7d69222b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1738",
+      "source": "PMC8024390",
+      "target": "CUSTOM:be5c0abf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1736",
+      "source": "PMC8024390",
+      "target": "CUSTOM:71a6e500",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1734",
+      "source": "PMC8024390",
+      "target": "CUSTOM:12062b31",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1732",
+      "source": "PMC8024390",
+      "target": "CUSTOM:22ac6f38",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1730",
+      "source": "PMC8024390",
+      "target": "CUSTOM:24889d52",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1728",
+      "source": "PMC8024390",
+      "target": "CUSTOM:dc1fe5c0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1726",
+      "source": "PMC8024390",
+      "target": "CUSTOM:e02c5879",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 13,
+  "num_edges": 12
+}

@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC5387210",
+  "nodes": [
+    {
+      "fullLabel": "PMC5387210",
+      "id": "PMC5387210",
+      "label": "PMC5387210",
+      "properties": {
+        "pmcid": "PMC5387210",
+        "first_seen": "2025-10-05T07:29:03.675981",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.684553"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "association/link between TNO1, auxin dependent processes, and MT associated processes",
+      "id": "CUSTOM:8f22bfc8",
+      "label": "association/link ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.686080",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "association/link between TNO1, auxin dependent processes, and MT associated processes",
+        "last_seen": "2025-10-05T07:29:03.686080",
+        "obo_id": "CUSTOM:8f22bfc8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "root movement aided by endogenous factors",
+      "id": "CUSTOM:4139fc40",
+      "label": "root movement aid...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.682128",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "root movement aided by endogenous factors",
+        "last_seen": "2025-10-05T07:29:03.682128",
+        "obo_id": "CUSTOM:4139fc40"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "root skewing on the surface of impenetrable media",
+      "id": "CUSTOM:e3b56321",
+      "label": "root skewing on t...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.677592",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "root skewing on the surface of impenetrable media",
+        "last_seen": "2025-10-05T07:29:03.677592",
+        "obo_id": "CUSTOM:e3b56321"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1012",
+      "source": "PMC5387210",
+      "target": "CUSTOM:8f22bfc8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1010",
+      "source": "PMC5387210",
+      "target": "CUSTOM:4139fc40",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1008",
+      "source": "PMC5387210",
+      "target": "CUSTOM:e3b56321",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

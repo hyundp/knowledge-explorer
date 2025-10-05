@@ -1,0 +1,29 @@
+{
+  "pmcid": "PMC8086211",
+  "title": "Draft Genome Sequences of Various Bacterial Phyla Isolated from the International Space Station",
+  "authors": [
+    "Anna C Simpson",
+    "Camilla Urbaniak",
+    "Nitin K Singh",
+    "Jason M Wood",
+    "Marilyne Debieu",
+    "Niamh B O'Hara",
+    "Christopher E Mason",
+    "Kasthuri Venkateswaran"
+  ],
+  "year": "2021",
+  "journal": "Microbiology Resource Announcements",
+  "doi": "10.1128/MRA.00214 21",
+  "sections": {
+    "abstract": "Whole genome sequences were generated from 96 bacterial strains of 14 species that were isolated from International Space Station surfaces during the Microbial Tracking 2 study. Continued characterization of this closed habitat's microbiome enables tracking of the spread and evolution of secondary pathogens, which is vital for astronaut health.",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:07:58.656961",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8086211/"
+  }
+}

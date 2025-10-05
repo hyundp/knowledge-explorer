@@ -1,0 +1,241 @@
+{
+  "pmcid": "PMC5933128",
+  "nodes": [
+    {
+      "fullLabel": "PMC5933128",
+      "id": "PMC5933128",
+      "label": "PMC5933128",
+      "properties": {
+        "pmcid": "PMC5933128",
+        "first_seen": "2025-10-05T07:29:15.769531",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:15.835146"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "partial blockage of the phenylalanine biosynthetic pathway (ADT modulation)",
+      "id": "CUSTOM:64723a19",
+      "label": "partial blockage ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.837598",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "partial blockage of the phenylalanine biosynthetic pathway (ADT modulation)",
+        "last_seen": "2025-10-05T07:29:15.837598",
+        "obo_id": "CUSTOM:64723a19"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "levels of apocarotenoids",
+      "id": "CUSTOM:4668725d",
+      "label": "levels of apocaro...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.830264",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "levels of apocarotenoids",
+        "last_seen": "2025-10-05T07:29:15.830264",
+        "obo_id": "CUSTOM:4668725d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "levels of putative galactolipids",
+      "id": "CUSTOM:54261004",
+      "label": "levels of putativ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.823108",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "levels of putative galactolipids",
+        "last_seen": "2025-10-05T07:29:15.823108",
+        "obo_id": "CUSTOM:54261004"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "phenolic glucoside contents",
+      "id": "CUSTOM:840fa518",
+      "label": "phenolic glucosid...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.814318",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "phenolic glucoside contents",
+        "last_seen": "2025-10-05T07:29:15.814318",
+        "obo_id": "CUSTOM:840fa518"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "glucosinolate contents",
+      "id": "CUSTOM:b8472984",
+      "label": "glucosinolate con...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.807210",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "glucosinolate contents",
+        "last_seen": "2025-10-05T07:29:15.807210",
+        "obo_id": "CUSTOM:b8472984"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "contents of phenylpropanoid-derived metabolites (flavonoids, lignans, glucosinolates)",
+      "id": "CUSTOM:3679c875",
+      "label": "contents of pheny...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.800041",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "contents of phenylpropanoid-derived metabolites (flavonoids, lignans, glucosinolates)",
+        "last_seen": "2025-10-05T07:29:15.800041",
+        "obo_id": "CUSTOM:3679c875"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "recycling of ADP + Pi",
+      "id": "CUSTOM:bbeb8264",
+      "label": "recycling of ADP ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.791727",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "recycling of ADP + Pi",
+        "last_seen": "2025-10-05T07:29:15.791727",
+        "obo_id": "CUSTOM:bbeb8264"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "metabolism through phenylalanine (Phe)",
+      "id": "CUSTOM:5a41d74b",
+      "label": "metabolism throug...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.783981",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "metabolism through phenylalanine (Phe)",
+        "last_seen": "2025-10-05T07:29:15.783981",
+        "obo_id": "CUSTOM:5a41d74b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "photosynthetic energy conversion",
+      "id": "CUSTOM:e8572f78",
+      "label": "photosynthetic en...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.777743",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "photosynthetic energy conversion",
+        "last_seen": "2025-10-05T07:29:15.777743",
+        "obo_id": "CUSTOM:e8572f78"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "photosynthetic and growth performance in ADT knockouts",
+      "id": "CUSTOM:28878a02",
+      "label": "photosynthetic an...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:15.771594",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "photosynthetic and growth performance in ADT knockouts",
+        "last_seen": "2025-10-05T07:29:15.771594",
+        "obo_id": "CUSTOM:28878a02"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4358",
+      "source": "PMC5933128",
+      "target": "CUSTOM:64723a19",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4356",
+      "source": "PMC5933128",
+      "target": "CUSTOM:4668725d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4354",
+      "source": "PMC5933128",
+      "target": "CUSTOM:54261004",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4352",
+      "source": "PMC5933128",
+      "target": "CUSTOM:840fa518",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4350",
+      "source": "PMC5933128",
+      "target": "CUSTOM:b8472984",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4348",
+      "source": "PMC5933128",
+      "target": "CUSTOM:3679c875",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4346",
+      "source": "PMC5933128",
+      "target": "CUSTOM:bbeb8264",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4344",
+      "source": "PMC5933128",
+      "target": "CUSTOM:5a41d74b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4342",
+      "source": "PMC5933128",
+      "target": "CUSTOM:e8572f78",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4340",
+      "source": "PMC5933128",
+      "target": "CUSTOM:28878a02",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 11,
+  "num_edges": 10
+}

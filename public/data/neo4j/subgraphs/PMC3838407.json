@@ -1,0 +1,241 @@
+{
+  "pmcid": "PMC3838407",
+  "nodes": [
+    {
+      "fullLabel": "PMC3838407",
+      "id": "PMC3838407",
+      "label": "PMC3838407",
+      "properties": {
+        "pmcid": "PMC3838407",
+        "first_seen": "2025-10-05T07:29:09.545499",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:09.611432"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Potential of the method to complement electrophysiological experiments for rapid compound screening, establishing drug candidates, and predicting receptor subtype class",
+      "id": "CUSTOM:56611065",
+      "label": "Potential of the ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.613611",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential of the method to complement electrophysiological experiments for rapid compound screening, establishing drug candidates, and predicting receptor subtype class",
+        "last_seen": "2025-10-05T07:29:09.613611",
+        "obo_id": "CUSTOM:56611065"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Expansion of phenotypic characterization tools by the multi-parameter extraction method in drug-based microfluidic devices",
+      "id": "CUSTOM:5206a119",
+      "label": "Expansion of phen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.606909",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Expansion of phenotypic characterization tools by the multi-parameter extraction method in drug-based microfluidic devices",
+        "last_seen": "2025-10-05T07:29:09.606909",
+        "obo_id": "CUSTOM:5206a119"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Potency of tribendimidine in causing irreversible paralysis relative to pyrantel or levamisole",
+      "id": "CUSTOM:944a2173",
+      "label": "Potency of triben...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.599509",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potency of tribendimidine in causing irreversible paralysis relative to pyrantel or levamisole",
+        "last_seen": "2025-10-05T07:29:09.599509",
+        "obo_id": "CUSTOM:944a2173"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Similarity of action between pyrantel and levamisole",
+      "id": "CUSTOM:2f5ed1c5",
+      "label": "Similarity of act...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.591875",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Similarity of action between pyrantel and levamisole",
+        "last_seen": "2025-10-05T07:29:09.591875",
+        "obo_id": "CUSTOM:2f5ed1c5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Putative targeting of a different nAChR receptor subtype by methyridine compared to the other three anthelmintics",
+      "id": "CUSTOM:688579e6",
+      "label": "Putative targetin...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.585122",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Putative targeting of a different nAChR receptor subtype by methyridine compared to the other three anthelmintics",
+        "last_seen": "2025-10-05T07:29:09.585122",
+        "obo_id": "CUSTOM:688579e6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Movement type induced by methyridine (swimming-like) versus normal crawling in other drugs",
+      "id": "CUSTOM:84f9d4d0",
+      "label": "Movement type ind...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.577813",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Movement type induced by methyridine (swimming-like) versus normal crawling in other drugs",
+        "last_seen": "2025-10-05T07:29:09.577813",
+        "obo_id": "CUSTOM:84f9d4d0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Number of active periods before permanent immobilization under tribendimidine compared to pyrantel or levamisole",
+      "id": "CUSTOM:b1877a60",
+      "label": "Number of active ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.570357",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Number of active periods before permanent immobilization under tribendimidine compared to pyrantel or levamisole",
+        "last_seen": "2025-10-05T07:29:09.570357",
+        "obo_id": "CUSTOM:b1877a60"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Immobilization effectiveness of pyrantel relative to levamisole",
+      "id": "CUSTOM:086312c7",
+      "label": "Immobilization ef...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.562644",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Immobilization effectiveness of pyrantel relative to levamisole",
+        "last_seen": "2025-10-05T07:29:09.562644",
+        "obo_id": "CUSTOM:086312c7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Use of multiple behavioral parameters (e.g., curls per second, types of paralyzation, mode frequency, number/duration of active/immobilization periods)",
+      "id": "CUSTOM:a9d94a5b",
+      "label": "Use of multiple b...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.554993",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Use of multiple behavioral parameters (e.g., curls per second, types of paralyzation, mode frequency, number/duration of active/immobilization periods)",
+        "last_seen": "2025-10-05T07:29:09.554993",
+        "obo_id": "CUSTOM:a9d94a5b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability of a single parameter to capture overall drug effects",
+      "id": "CUSTOM:f23697f6",
+      "label": "Ability of a sing...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:09.547940",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability of a single parameter to capture overall drug effects",
+        "last_seen": "2025-10-05T07:29:09.547940",
+        "obo_id": "CUSTOM:f23697f6"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2856",
+      "source": "PMC3838407",
+      "target": "CUSTOM:56611065",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2854",
+      "source": "PMC3838407",
+      "target": "CUSTOM:5206a119",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2852",
+      "source": "PMC3838407",
+      "target": "CUSTOM:944a2173",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2850",
+      "source": "PMC3838407",
+      "target": "CUSTOM:2f5ed1c5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2848",
+      "source": "PMC3838407",
+      "target": "CUSTOM:688579e6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2846",
+      "source": "PMC3838407",
+      "target": "CUSTOM:84f9d4d0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2844",
+      "source": "PMC3838407",
+      "target": "CUSTOM:b1877a60",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2842",
+      "source": "PMC3838407",
+      "target": "CUSTOM:086312c7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2840",
+      "source": "PMC3838407",
+      "target": "CUSTOM:a9d94a5b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2838",
+      "source": "PMC3838407",
+      "target": "CUSTOM:f23697f6",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 11,
+  "num_edges": 10
+}

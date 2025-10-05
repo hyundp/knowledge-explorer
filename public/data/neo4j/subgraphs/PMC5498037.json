@@ -1,0 +1,65 @@
+{
+  "pmcid": "PMC5498037",
+  "nodes": [
+    {
+      "fullLabel": "PMC5498037",
+      "id": "PMC5498037",
+      "label": "PMC5498037",
+      "properties": {
+        "pmcid": "PMC5498037",
+        "first_seen": "2025-10-05T07:29:06.253026",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.258589"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "statistical power / sample size for characterization of early and late effects",
+      "id": "CUSTOM:78d3952b",
+      "label": "statistical power...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.260342",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "statistical power / sample size for characterization of early and late effects",
+        "last_seen": "2025-10-05T07:29:06.260342",
+        "obo_id": "CUSTOM:78d3952b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cardiac recovery from hindlimb unloading (HU) with simultaneous low dose rate gamma radiation",
+      "id": "CUSTOM:3ebec6f3",
+      "label": "cardiac recovery ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.254838",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cardiac recovery from hindlimb unloading (HU) with simultaneous low dose rate gamma radiation",
+        "last_seen": "2025-10-05T07:29:06.254838",
+        "obo_id": "CUSTOM:3ebec6f3"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1858",
+      "source": "PMC5498037",
+      "target": "CUSTOM:78d3952b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1856",
+      "source": "PMC5498037",
+      "target": "CUSTOM:3ebec6f3",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 3,
+  "num_edges": 2
+}

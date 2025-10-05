@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC7996555",
+  "nodes": [
+    {
+      "fullLabel": "PMC7996555",
+      "id": "PMC7996555",
+      "label": "PMC7996555",
+      "properties": {
+        "pmcid": "PMC7996555",
+        "first_seen": "2025-10-05T07:29:04.302532",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.332123"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Root skewing phenomenon",
+      "id": "CUSTOM:9b8d74d0",
+      "label": "Root skewing phen...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.333775",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Root skewing phenomenon",
+        "last_seen": "2025-10-05T07:29:04.333775",
+        "obo_id": "CUSTOM:9b8d74d0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cellular expansion",
+      "id": "CUSTOM:a07c85ca",
+      "label": "Cellular expansion",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.329093",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cellular expansion",
+        "last_seen": "2025-10-05T07:29:04.329093",
+        "obo_id": "CUSTOM:a07c85ca"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Cell wall extensibility",
+      "id": "CUSTOM:691a3bb0",
+      "label": "Cell wall extensi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.324416",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Cell wall extensibility",
+        "last_seen": "2025-10-05T07:29:04.324416",
+        "obo_id": "CUSTOM:691a3bb0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Detection of xyloglucan endo trans glycosylase/hydrolases (XTHs) that mediate elongation growth",
+      "id": "CUSTOM:ae8848ee",
+      "label": "Detection of xylo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.319866",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Detection of xyloglucan endo trans glycosylase/hydrolases (XTHs) that mediate elongation growth",
+        "last_seen": "2025-10-05T07:29:04.319866",
+        "obo_id": "CUSTOM:ae8848ee"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Hub genes with higher transcriptional activity involved in the cell wall response",
+      "id": "CUSTOM:78c8738d",
+      "label": "Hub genes with hi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.315957",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Hub genes with higher transcriptional activity involved in the cell wall response",
+        "last_seen": "2025-10-05T07:29:04.315957",
+        "obo_id": "CUSTOM:78c8738d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Spectral gap of GRN (WS ecotype in spaceflight)",
+      "id": "CUSTOM:b63f35f8",
+      "label": "Spectral gap of G...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.312495",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Spectral gap of GRN (WS ecotype in spaceflight)",
+        "last_seen": "2025-10-05T07:29:04.312495",
+        "obo_id": "CUSTOM:b63f35f8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Hub genes regulated significantly different (spaceflight microgravity vs terrestrial gene expressions)",
+      "id": "CUSTOM:2f7c9726",
+      "label": "Hub genes regulat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.308194",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Hub genes regulated significantly different (spaceflight microgravity vs terrestrial gene expressions)",
+        "last_seen": "2025-10-05T07:29:04.308194",
+        "obo_id": "CUSTOM:2f7c9726"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Genes with higher transcription",
+      "id": "CUSTOM:f4c878e8",
+      "label": "Genes with higher...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.304360",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Genes with higher transcription",
+        "last_seen": "2025-10-05T07:29:04.304360",
+        "obo_id": "CUSTOM:f4c878e8"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1242",
+      "source": "PMC7996555",
+      "target": "CUSTOM:9b8d74d0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1240",
+      "source": "PMC7996555",
+      "target": "CUSTOM:a07c85ca",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1238",
+      "source": "PMC7996555",
+      "target": "CUSTOM:691a3bb0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1236",
+      "source": "PMC7996555",
+      "target": "CUSTOM:ae8848ee",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1234",
+      "source": "PMC7996555",
+      "target": "CUSTOM:78c8738d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1232",
+      "source": "PMC7996555",
+      "target": "CUSTOM:b63f35f8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1230",
+      "source": "PMC7996555",
+      "target": "CUSTOM:2f7c9726",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1228",
+      "source": "PMC7996555",
+      "target": "CUSTOM:f4c878e8",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

@@ -1,0 +1,43 @@
+{
+  "pmcid": "PMC8220224",
+  "nodes": [
+    {
+      "fullLabel": "PMC8220224",
+      "id": "PMC8220224",
+      "label": "PMC8220224",
+      "properties": {
+        "pmcid": "PMC8220224",
+        "first_seen": "2025-10-05T07:29:08.952253",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.952253"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "coordinated response at the transcriptome and methylome levels",
+      "id": "CUSTOM:9d794427",
+      "label": "coordinated respo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.955080",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "coordinated response at the transcriptome and methylome levels",
+        "last_seen": "2025-10-05T07:29:08.955080",
+        "obo_id": "CUSTOM:9d794427"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2678",
+      "source": "PMC8220224",
+      "target": "CUSTOM:9d794427",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 2,
+  "num_edges": 1
+}

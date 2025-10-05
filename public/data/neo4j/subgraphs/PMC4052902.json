@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC4052902",
+  "nodes": [
+    {
+      "fullLabel": "PMC4052902",
+      "id": "PMC4052902",
+      "label": "PMC4052902",
+      "properties": {
+        "pmcid": "PMC4052902",
+        "first_seen": "2025-10-05T07:29:07.019663",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:07.082614"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Interpretation: InsP5ptase plants are affected in either sensing the mobile signal and/or in the synthesis of SA at the systemic site",
+      "id": "CUSTOM:7a5abc06",
+      "label": "Interpretation: I...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.084978",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Interpretation: InsP5ptase plants are affected in either sensing the mobile signal and/or in the synthesis of SA at the systemic site",
+        "last_seen": "2025-10-05T07:29:07.084978",
+        "obo_id": "CUSTOM:7a5abc06"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Response to exogenous application of salicylic acid (SA) was normal in InsP5ptase plants",
+      "id": "CUSTOM:ec220a2d",
+      "label": "Response to exoge...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.078636",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Response to exogenous application of salicylic acid (SA) was normal in InsP5ptase plants",
+        "last_seen": "2025-10-05T07:29:07.078636",
+        "obo_id": "CUSTOM:ec220a2d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "InsP5ptase plants showed diminished PR1 gene expression in response to exudates from either wild type or transgenic plants",
+      "id": "CUSTOM:a63b346a",
+      "label": "InsP5ptase plants...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.073092",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "InsP5ptase plants showed diminished PR1 gene expression in response to exudates from either wild type or transgenic plants",
+        "last_seen": "2025-10-05T07:29:07.073092",
+        "obo_id": "CUSTOM:a63b346a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Exudates from InsP5ptase plants induced PR1 gene expression in wild type plants equally effectively as exudates from wild type plants",
+      "id": "CUSTOM:2439f510",
+      "label": "Exudates from Ins...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.067308",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Exudates from InsP5ptase plants induced PR1 gene expression in wild type plants equally effectively as exudates from wild type plants",
+        "last_seen": "2025-10-05T07:29:07.067308",
+        "obo_id": "CUSTOM:2439f510"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Some genes were either not induced or showed delayed expression in distal leaves of InsP5ptase plants compared to wild type after local inoculation with PstDC3000+avrRpt2",
+      "id": "CUSTOM:5815dac0",
+      "label": "Some genes were e...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.060560",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Some genes were either not induced or showed delayed expression in distal leaves of InsP5ptase plants compared to wild type after local inoculation with PstDC3000+avrRpt2",
+        "last_seen": "2025-10-05T07:29:07.060560",
+        "obo_id": "CUSTOM:5815dac0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "RT PCR on systemic leaves confirmed qRT PCR results for PR1 and PAD4 expression",
+      "id": "CUSTOM:d3be187d",
+      "label": "RT PCR on systemi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.054022",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "RT PCR on systemic leaves confirmed qRT PCR results for PR1 and PAD4 expression",
+        "last_seen": "2025-10-05T07:29:07.054022",
+        "obo_id": "CUSTOM:d3be187d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Specific genes NHL10, RLK1, PAD4, and NIMIN2 were among the genes showing altered induction and are implicated in SAR and SA-mediated signaling",
+      "id": "CUSTOM:64ae7872",
+      "label": "Specific genes NH...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.047647",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Specific genes NHL10, RLK1, PAD4, and NIMIN2 were among the genes showing altered induction and are implicated in SAR and SA-mediated signaling",
+        "last_seen": "2025-10-05T07:29:07.047647",
+        "obo_id": "CUSTOM:64ae7872"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Six of the 14 differentially expressed genes exhibited reduced and delayed induction in the transgenic plants",
+      "id": "CUSTOM:415e8b5a",
+      "label": "Six of the 14 dif...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.041968",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Six of the 14 differentially expressed genes exhibited reduced and delayed induction in the transgenic plants",
+        "last_seen": "2025-10-05T07:29:07.041968",
+        "obo_id": "CUSTOM:415e8b5a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Eight of the 14 differentially expressed genes had low basal expression in the transgenic plants",
+      "id": "CUSTOM:f7b869c6",
+      "label": "Eight of the 14 d...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.035691",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Eight of the 14 differentially expressed genes had low basal expression in the transgenic plants",
+        "last_seen": "2025-10-05T07:29:07.035691",
+        "obo_id": "CUSTOM:f7b869c6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Subset of genes involved in systemic acquired resistance (SAR) showed altered expression in timing and extent in InsP5ptase plants",
+      "id": "CUSTOM:0bea2f0b",
+      "label": "Subset of genes i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.028727",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Subset of genes involved in systemic acquired resistance (SAR) showed altered expression in timing and extent in InsP5ptase plants",
+        "last_seen": "2025-10-05T07:29:07.028727",
+        "obo_id": "CUSTOM:0bea2f0b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Fourteen genes were differentially expressed between wild type and two transgenic plant lines",
+      "id": "CUSTOM:93648ee0",
+      "label": "Fourteen genes we...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:07.022065",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Fourteen genes were differentially expressed between wild type and two transgenic plant lines",
+        "last_seen": "2025-10-05T07:29:07.022065",
+        "obo_id": "CUSTOM:93648ee0"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2120",
+      "source": "PMC4052902",
+      "target": "CUSTOM:7a5abc06",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2118",
+      "source": "PMC4052902",
+      "target": "CUSTOM:ec220a2d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2116",
+      "source": "PMC4052902",
+      "target": "CUSTOM:a63b346a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2114",
+      "source": "PMC4052902",
+      "target": "CUSTOM:2439f510",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2112",
+      "source": "PMC4052902",
+      "target": "CUSTOM:5815dac0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2110",
+      "source": "PMC4052902",
+      "target": "CUSTOM:d3be187d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2108",
+      "source": "PMC4052902",
+      "target": "CUSTOM:64ae7872",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2106",
+      "source": "PMC4052902",
+      "target": "CUSTOM:415e8b5a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2104",
+      "source": "PMC4052902",
+      "target": "CUSTOM:f7b869c6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2102",
+      "source": "PMC4052902",
+      "target": "CUSTOM:0bea2f0b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2100",
+      "source": "PMC4052902",
+      "target": "CUSTOM:93648ee0",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

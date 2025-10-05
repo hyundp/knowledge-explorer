@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC9146534",
+  "nodes": [
+    {
+      "fullLabel": "PMC9146534",
+      "id": "PMC9146534",
+      "label": "PMC9146534",
+      "properties": {
+        "pmcid": "PMC9146534",
+        "first_seen": "2025-10-05T07:29:12.379715",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:12.411806"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "duration of exposure of cells to high shear stress",
+      "id": "CUSTOM:904512e4",
+      "label": "duration of expos...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.413873",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "duration of exposure of cells to high shear stress",
+        "last_seen": "2025-10-05T07:29:12.413873",
+        "obo_id": "CUSTOM:904512e4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "urine flow rate",
+      "id": "CUSTOM:bff48837",
+      "label": "urine flow rate",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.407557",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "urine flow rate",
+        "last_seen": "2025-10-05T07:29:12.407557",
+        "obo_id": "CUSTOM:bff48837"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "renal tubular cell damage by IOCM compared to LOCM",
+      "id": "CUSTOM:f5a9994d",
+      "label": "renal tubular cel...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.400945",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "renal tubular cell damage by IOCM compared to LOCM",
+        "last_seen": "2025-10-05T07:29:12.400945",
+        "obo_id": "CUSTOM:f5a9994d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "cytotoxicity of LOCM relative to IOCM",
+      "id": "CUSTOM:d963c3a5",
+      "label": "cytotoxicity of L...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.394776",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "cytotoxicity of LOCM relative to IOCM",
+        "last_seen": "2025-10-05T07:29:12.394776",
+        "obo_id": "CUSTOM:d963c3a5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "viscosity-induced nephrotoxicity",
+      "id": "CUSTOM:3799a7db",
+      "label": "viscosity-induced...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.388663",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "viscosity-induced nephrotoxicity",
+        "last_seen": "2025-10-05T07:29:12.388663",
+        "obo_id": "CUSTOM:3799a7db"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "CIN model reflected in vivo situations",
+      "id": "CUSTOM:141af6e9",
+      "label": "CIN model reflect...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.382351",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CIN model reflected in vivo situations",
+        "last_seen": "2025-10-05T07:29:12.382351",
+        "obo_id": "CUSTOM:141af6e9"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3562",
+      "source": "PMC9146534",
+      "target": "CUSTOM:904512e4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3560",
+      "source": "PMC9146534",
+      "target": "CUSTOM:bff48837",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3558",
+      "source": "PMC9146534",
+      "target": "CUSTOM:f5a9994d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3556",
+      "source": "PMC9146534",
+      "target": "CUSTOM:d963c3a5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3554",
+      "source": "PMC9146534",
+      "target": "CUSTOM:3799a7db",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3552",
+      "source": "PMC9146534",
+      "target": "CUSTOM:141af6e9",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

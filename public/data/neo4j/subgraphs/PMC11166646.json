@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC11166646",
+  "nodes": [
+    {
+      "fullLabel": "PMC11166646",
+      "id": "PMC11166646",
+      "label": "PMC11166646",
+      "properties": {
+        "pmcid": "PMC11166646",
+        "first_seen": "2025-10-05T07:29:02.841102",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.937901"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "disease terms included space-related health risks: muscle atrophy and impairments to the visual, cardiovascular, and neurological systems",
+      "id": "CUSTOM:871aa34f",
+      "label": "disease terms inc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.940274",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "disease terms included space-related health risks: muscle atrophy and impairments to the visual, cardiovascular, and neurological systems",
+        "last_seen": "2025-10-05T07:29:02.940274",
+        "obo_id": "CUSTOM:871aa34f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "presence of common disease-related molecular changes specifically associated with the microgravity factor of spaceflight",
+      "id": "CUSTOM:285c523e",
+      "label": "presence of commo...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.933546",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "presence of common disease-related molecular changes specifically associated with the microgravity factor of spaceflight",
+        "last_seen": "2025-10-05T07:29:02.933546",
+        "obo_id": "CUSTOM:285c523e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "overlap of disease terms between mouse GC vs MG DRRs and human analysis (general spaceflight-linked)",
+      "id": "CUSTOM:8ac49171",
+      "label": "overlap of diseas...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.926077",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "overlap of disease terms between mouse GC vs MG DRRs and human analysis (general spaceflight-linked)",
+        "last_seen": "2025-10-05T07:29:02.926077",
+        "obo_id": "CUSTOM:8ac49171"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "overlap of disease terms between mouse AG vs MG DRRs and human analysis (gravity-linked)",
+      "id": "CUSTOM:e494d796",
+      "label": "overlap of diseas...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.920017",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "overlap of disease terms between mouse AG vs MG DRRs and human analysis (gravity-linked)",
+        "last_seen": "2025-10-05T07:29:02.920017",
+        "obo_id": "CUSTOM:e494d796"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "overlap of mouse-derived homologs with human cfRNA DRRs",
+      "id": "CUSTOM:575b3214",
+      "label": "overlap of mouse-...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.880262",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "overlap of mouse-derived homologs with human cfRNA DRRs",
+        "last_seen": "2025-10-05T07:29:02.880262",
+        "obo_id": "CUSTOM:575b3214"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mouse cfRNA DRRs converted to human homologs",
+      "id": "CUSTOM:c927e1df",
+      "label": "mouse cfRNA DRRs ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.848224",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mouse cfRNA DRRs converted to human homologs",
+        "last_seen": "2025-10-05T07:29:02.848224",
+        "obo_id": "CUSTOM:c927e1df"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "localized pain and infection rates (from comparison of blood sampling to more invasive methods)",
+      "id": "CUSTOM:14eb7101",
+      "label": "localized pain an...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.842971",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "localized pain and infection rates (from comparison of blood sampling to more invasive methods)",
+        "last_seen": "2025-10-05T07:29:02.842971",
+        "obo_id": "CUSTOM:14eb7101"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "762",
+      "source": "PMC11166646",
+      "target": "CUSTOM:871aa34f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "760",
+      "source": "PMC11166646",
+      "target": "CUSTOM:285c523e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "758",
+      "source": "PMC11166646",
+      "target": "CUSTOM:8ac49171",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "756",
+      "source": "PMC11166646",
+      "target": "CUSTOM:e494d796",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "754",
+      "source": "PMC11166646",
+      "target": "CUSTOM:575b3214",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "752",
+      "source": "PMC11166646",
+      "target": "CUSTOM:c927e1df",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "750",
+      "source": "PMC11166646",
+      "target": "CUSTOM:14eb7101",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

@@ -1,0 +1,241 @@
+{
+  "pmcid": "PMC8896891",
+  "nodes": [
+    {
+      "fullLabel": "PMC8896891",
+      "id": "PMC8896891",
+      "label": "PMC8896891",
+      "properties": {
+        "pmcid": "PMC8896891",
+        "first_seen": "2025-10-05T07:29:13.996271",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:14.060000"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Experimental insights into inertial flow of dilute suspensions in sudden expansions relevant to microfluidic flow focusing for cell separation by size or deformability",
+      "id": "CUSTOM:dd224c87",
+      "label": "Experimental insi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.062185",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Experimental insights into inertial flow of dilute suspensions in sudden expansions relevant to microfluidic flow focusing for cell separation by size or deformability",
+        "last_seen": "2025-10-05T07:29:14.062185",
+        "obo_id": "CUSTOM:dd224c87"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Increased separation efficiency by trapping cells into micro vortices based on cell size",
+      "id": "CUSTOM:db580324",
+      "label": "Increased separat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.054993",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Increased separation efficiency by trapping cells into micro vortices based on cell size",
+        "last_seen": "2025-10-05T07:29:14.054993",
+        "obo_id": "CUSTOM:db580324"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Provision of shear rate thresholds for inertial focusing of cells into the expansions",
+      "id": "CUSTOM:598141d0",
+      "label": "Provision of shea...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.046360",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Provision of shear rate thresholds for inertial focusing of cells into the expansions",
+        "last_seen": "2025-10-05T07:29:14.046360",
+        "obo_id": "CUSTOM:598141d0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Alteration of local composition of cellular components and local shear rates, influencing all three vertices of Virchow's triad implicated in mural or device related thrombosis",
+      "id": "CUSTOM:06fbb1da",
+      "label": "Alteration of loc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.039617",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Alteration of local composition of cellular components and local shear rates, influencing all three vertices of Virchow's triad implicated in mural or device related thrombosis",
+        "last_seen": "2025-10-05T07:29:14.039617",
+        "obo_id": "CUSTOM:06fbb1da"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Reversal of shear rate directions on the vessel walls",
+      "id": "CUSTOM:79b530a3",
+      "label": "Reversal of shear...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.032403",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Reversal of shear rate directions on the vessel walls",
+        "last_seen": "2025-10-05T07:29:14.032403",
+        "obo_id": "CUSTOM:79b530a3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Stasis on the vessel walls",
+      "id": "CUSTOM:aed8aebd",
+      "label": "Stasis on the ves...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.024980",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Stasis on the vessel walls",
+        "last_seen": "2025-10-05T07:29:14.024980",
+        "obo_id": "CUSTOM:aed8aebd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Regions with RBCs that are trapped in infinite limit cycles",
+      "id": "CUSTOM:b0640137",
+      "label": "Regions with RBCs...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.018180",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Regions with RBCs that are trapped in infinite limit cycles",
+        "last_seen": "2025-10-05T07:29:14.018180",
+        "obo_id": "CUSTOM:b0640137"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Small recirculating flow regions that do not contain RBCs",
+      "id": "CUSTOM:25fef931",
+      "label": "Small recirculati...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.010925",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Small recirculating flow regions that do not contain RBCs",
+        "last_seen": "2025-10-05T07:29:14.010925",
+        "obo_id": "CUSTOM:25fef931"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Shear rates determine whether RBC trajectories follow fluid streamlines into microchannel pockets",
+      "id": "CUSTOM:f81070ab",
+      "label": "Shear rates deter...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.004738",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Shear rates determine whether RBC trajectories follow fluid streamlines into microchannel pockets",
+        "last_seen": "2025-10-05T07:29:14.004738",
+        "obo_id": "CUSTOM:f81070ab"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Anomalous local RBC distribution different from feed or bulk hematocrit",
+      "id": "CUSTOM:db92c685",
+      "label": "Anomalous local R...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.998338",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Anomalous local RBC distribution different from feed or bulk hematocrit",
+        "last_seen": "2025-10-05T07:29:13.998338",
+        "obo_id": "CUSTOM:db92c685"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3974",
+      "source": "PMC8896891",
+      "target": "CUSTOM:dd224c87",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3972",
+      "source": "PMC8896891",
+      "target": "CUSTOM:db580324",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3970",
+      "source": "PMC8896891",
+      "target": "CUSTOM:598141d0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3968",
+      "source": "PMC8896891",
+      "target": "CUSTOM:06fbb1da",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3966",
+      "source": "PMC8896891",
+      "target": "CUSTOM:79b530a3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3964",
+      "source": "PMC8896891",
+      "target": "CUSTOM:aed8aebd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3962",
+      "source": "PMC8896891",
+      "target": "CUSTOM:b0640137",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3960",
+      "source": "PMC8896891",
+      "target": "CUSTOM:25fef931",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3958",
+      "source": "PMC8896891",
+      "target": "CUSTOM:f81070ab",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3956",
+      "source": "PMC8896891",
+      "target": "CUSTOM:db92c685",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 11,
+  "num_edges": 10
+}

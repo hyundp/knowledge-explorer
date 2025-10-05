@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC9031868",
+  "nodes": [
+    {
+      "fullLabel": "PMC9031868",
+      "id": "PMC9031868",
+      "label": "PMC9031868",
+      "properties": {
+        "pmcid": "PMC9031868",
+        "first_seen": "2025-10-05T07:29:14.815126",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:14.893706"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Need for additional studies to explore astronaut microbiome stability/disruption and interactions with host and spacecraft environment",
+      "id": "CUSTOM:e7cf17b1",
+      "label": "Need for addition...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.896298",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Need for additional studies to explore astronaut microbiome stability/disruption and interactions with host and spacecraft environment",
+        "last_seen": "2025-10-05T07:29:14.896298",
+        "obo_id": "CUSTOM:e7cf17b1"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Microbiome can alter effectiveness of pharmaceuticals in the astronaut medical toolkit",
+      "id": "CUSTOM:6fd6a59c",
+      "label": "Microbiome can al...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.887615",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microbiome can alter effectiveness of pharmaceuticals in the astronaut medical toolkit",
+        "last_seen": "2025-10-05T07:29:14.887615",
+        "obo_id": "CUSTOM:6fd6a59c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Gender differences are important to consider when designing countermeasures for missions",
+      "id": "CUSTOM:ae79dc04",
+      "label": "Gender difference...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.880662",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Gender differences are important to consider when designing countermeasures for missions",
+        "last_seen": "2025-10-05T07:29:14.880662",
+        "obo_id": "CUSTOM:ae79dc04"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Links between spaceflight, bone loss, and the microbiome",
+      "id": "CUSTOM:ff3c104c",
+      "label": "Links between spa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.873589",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Links between spaceflight, bone loss, and the microbiome",
+        "last_seen": "2025-10-05T07:29:14.873589",
+        "obo_id": "CUSTOM:ff3c104c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Microbiome state (balanced or in dysbiosis) is associated with crew adverse medical events during missions",
+      "id": "CUSTOM:e824da5d",
+      "label": "Microbiome state ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.866713",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Microbiome state (balanced or in dysbiosis) is associated with crew adverse medical events during missions",
+        "last_seen": "2025-10-05T07:29:14.866713",
+        "obo_id": "CUSTOM:e824da5d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Balanced microbiome helps maintain astronaut health in orbit",
+      "id": "CUSTOM:29f7ed06",
+      "label": "Balanced microbio...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.859922",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Balanced microbiome helps maintain astronaut health in orbit",
+        "last_seen": "2025-10-05T07:29:14.859922",
+        "obo_id": "CUSTOM:29f7ed06"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Human microbiome modulates health and disease",
+      "id": "CUSTOM:a3e42d1b",
+      "label": "Human microbiome ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.853147",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Human microbiome modulates health and disease",
+        "last_seen": "2025-10-05T07:29:14.853147",
+        "obo_id": "CUSTOM:a3e42d1b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Duration of a mission to Mars",
+      "id": "CUSTOM:7e2dfcbe",
+      "label": "Duration of a mis...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.845730",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Duration of a mission to Mars",
+        "last_seen": "2025-10-05T07:29:14.845730",
+        "obo_id": "CUSTOM:7e2dfcbe"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Distance of Moon missions relative to the International Space Station",
+      "id": "CUSTOM:cb8452c1",
+      "label": "Distance of Moon ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:14.836596",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Distance of Moon missions relative to the International Space Station",
+        "last_seen": "2025-10-05T07:29:14.836596",
+        "obo_id": "CUSTOM:cb8452c1"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "4148",
+      "source": "PMC9031868",
+      "target": "CUSTOM:e7cf17b1",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4146",
+      "source": "PMC9031868",
+      "target": "CUSTOM:6fd6a59c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4144",
+      "source": "PMC9031868",
+      "target": "CUSTOM:ae79dc04",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4142",
+      "source": "PMC9031868",
+      "target": "CUSTOM:ff3c104c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4140",
+      "source": "PMC9031868",
+      "target": "CUSTOM:e824da5d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4138",
+      "source": "PMC9031868",
+      "target": "CUSTOM:29f7ed06",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4136",
+      "source": "PMC9031868",
+      "target": "CUSTOM:a3e42d1b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4134",
+      "source": "PMC9031868",
+      "target": "CUSTOM:7e2dfcbe",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "4132",
+      "source": "PMC9031868",
+      "target": "CUSTOM:cb8452c1",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

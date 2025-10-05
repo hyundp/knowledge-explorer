@@ -1,0 +1,13 @@
+{
+  "node_counts": {
+    "Finding": 2315,
+    "Phenotype": 2315,
+    "Paper": 267
+  },
+  "relationship_counts": {
+    "REPORTS": 2315,
+    "AFFECTS": 2315
+  },
+  "total_nodes": 4897,
+  "total_relationships": 4630
+}

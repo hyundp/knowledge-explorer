@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC6343501",
+  "nodes": [
+    {
+      "fullLabel": "PMC6343501",
+      "id": "PMC6343501",
+      "label": "PMC6343501",
+      "properties": {
+        "pmcid": "PMC6343501",
+        "first_seen": "2025-10-05T07:29:02.944909",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.991757"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "fracture resistance of the enthesis (overall)",
+      "id": "CUSTOM:400ee28c",
+      "label": "fracture resistan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.993507",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "fracture resistance of the enthesis (overall)",
+        "last_seen": "2025-10-05T07:29:02.993507",
+        "obo_id": "CUSTOM:400ee28c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mineral carbonate content",
+      "id": "CUSTOM:d16dec02",
+      "label": "mineral carbonate...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.988960",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mineral carbonate content",
+        "last_seen": "2025-10-05T07:29:02.988960",
+        "obo_id": "CUSTOM:d16dec02"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "crystallite size",
+      "id": "CUSTOM:1333784b",
+      "label": "crystallite size",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.984165",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "crystallite size",
+        "last_seen": "2025-10-05T07:29:02.984165",
+        "obo_id": "CUSTOM:1333784b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "crystal alignment",
+      "id": "CUSTOM:1811f7d4",
+      "label": "crystal alignment",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.979094",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "crystal alignment",
+        "last_seen": "2025-10-05T07:29:02.979094",
+        "obo_id": "CUSTOM:1811f7d4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "crystal size",
+      "id": "CUSTOM:2286d588",
+      "label": "crystal size",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.973213",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "crystal size",
+        "last_seen": "2025-10-05T07:29:02.973213",
+        "obo_id": "CUSTOM:2286d588"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "trabecular spacing",
+      "id": "CUSTOM:6b967dce",
+      "label": "trabecular spacing",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.964987",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "trabecular spacing",
+        "last_seen": "2025-10-05T07:29:02.964987",
+        "obo_id": "CUSTOM:6b967dce"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "trabecular thickness",
+      "id": "CUSTOM:c27e1bd6",
+      "label": "trabecular thickness",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.958653",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "trabecular thickness",
+        "last_seen": "2025-10-05T07:29:02.958653",
+        "obo_id": "CUSTOM:c27e1bd6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "trabecular bone volume (humeral head)",
+      "id": "CUSTOM:136f1975",
+      "label": "trabecular bone v...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.953739",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "trabecular bone volume (humeral head)",
+        "last_seen": "2025-10-05T07:29:02.953739",
+        "obo_id": "CUSTOM:136f1975"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "extent of failure of the enthesis (failure area)",
+      "id": "CUSTOM:8e365a55",
+      "label": "extent of failure...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.948144",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "extent of failure of the enthesis (failure area)",
+        "last_seen": "2025-10-05T07:29:02.948144",
+        "obo_id": "CUSTOM:8e365a55"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "780",
+      "source": "PMC6343501",
+      "target": "CUSTOM:400ee28c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "778",
+      "source": "PMC6343501",
+      "target": "CUSTOM:d16dec02",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "776",
+      "source": "PMC6343501",
+      "target": "CUSTOM:1333784b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "774",
+      "source": "PMC6343501",
+      "target": "CUSTOM:1811f7d4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "772",
+      "source": "PMC6343501",
+      "target": "CUSTOM:2286d588",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "770",
+      "source": "PMC6343501",
+      "target": "CUSTOM:6b967dce",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "768",
+      "source": "PMC6343501",
+      "target": "CUSTOM:c27e1bd6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "766",
+      "source": "PMC6343501",
+      "target": "CUSTOM:136f1975",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "764",
+      "source": "PMC6343501",
+      "target": "CUSTOM:8e365a55",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

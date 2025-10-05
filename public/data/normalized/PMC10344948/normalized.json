@@ -1,0 +1,28 @@
+{
+  "pmcid": "PMC10344948",
+  "title": "Caenorhabditis elegans in microgravity: An omics perspective",
+  "authors": [
+    "Amanda Scott",
+    "Craig RG Willis",
+    "Masafumi Muratani",
+    "Atsushi Higashitani",
+    "Timothy Etheridge",
+    "Nathaniel J Szewczyk",
+    "Colleen S Deane"
+  ],
+  "year": "2023",
+  "journal": "iScience",
+  "doi": "10.1016/j.isci.2023.107189",
+  "sections": {
+    "abstract": "The application of omics to studyCaenorhabditis elegans(C. elegans) in the context of spaceflight is increasing, illuminating the wide ranging biological impacts of spaceflight on physiology. In this review, we highlight the application of omics, including transcriptomics, genomics, proteomics, multi omics, and integrated omics in the study of spaceflownC.elegans, and discuss the impact, use, and future direction of this branch of research. We highlight the variety of molecular alterations that occur in response to spaceflight, most notably changes in metabolic and neuromuscular gene regulation. These transcriptional features are reproducible and evident across many spaceflown species (e.g., mice and astronauts), supporting the use ofC.elegansas a model organism to study spaceflight physiology with translational capital. Integrating tissue specific, spatial, and multi omics approaches, which quantitatively link molecular responses to phenotypic adaptations, will facilitate the identification of candidate regulatory molecules for therapeutic intervention and thus represents the next frontiers inC.elegansspace omics research.\n\nSubject areas:Omics, Model organism, Space sciences",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "C.elegansrepresents a cheap and feasible organism to study the mechanisms regulating phenotypic adaptations in response to microgravity. We highlight that the application of omics analysis to spaceflight research has identified many ways thatC.elegansrespond to microgravity, at the level of the transcriptome, proteome, and epigenome. Notably, microgravity elicits transcriptional responses with microgravity robustly regulating genes related to muscle locomotion and metabolism (Figure1). Similarly, proteomic changes in microgravity represent robust declines in cytoskeletal and metabolic proteins, which may underpin the pathophysiological phenotype associated with microgravity, particularly muscle decline. Importantly, these major transcriptional signatures are reproducible despite substantial differences in culturing conditions. Future work should consider using emerging omics approaches, such as multi omics and spatial transcriptomics, to unravel tissue specific spatiotemporal responses to microgravity inC.elegans. Where possible, such experiments should adopt, or at least consider, consortium devised omics related working pipelines in order to standardize experimental design, such as those developed by the International Standards for Space Omics Processing. In turn, this will facilitate future comparative omics investigations, thus extracting as much insight as possible from rare space omics experiments. This will lead to the identification of the fundamental mechanisms regulating (mal)adaptations to microgravity, benefiting health while in space and on Earth (e.g., aging, diabetes)."
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:06:33.061375",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10344948/"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC6251167",
+  "nodes": [
+    {
+      "fullLabel": "PMC6251167",
+      "id": "PMC6251167",
+      "label": "PMC6251167",
+      "properties": {
+        "pmcid": "PMC6251167",
+        "first_seen": "2025-10-05T07:29:01.578837",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.598814"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Recommendation to utilize Nanopore sequencing directly in microgravity for function and taxonomic classification",
+      "id": "CUSTOM:1ae2fa74",
+      "label": "Recommendation to...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.600463",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Recommendation to utilize Nanopore sequencing directly in microgravity for function and taxonomic classification",
+        "last_seen": "2025-10-05T07:29:01.600463",
+        "obo_id": "CUSTOM:1ae2fa74"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Utility of whole genome sequencing (WGS) to monitor transmission routes of opportunistic pathogen bacteria",
+      "id": "CUSTOM:d1d2feb5",
+      "label": "Utility of whole ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.595655",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Utility of whole genome sequencing (WGS) to monitor transmission routes of opportunistic pathogen bacteria",
+        "last_seen": "2025-10-05T07:29:01.595655",
+        "obo_id": "CUSTOM:d1d2feb5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Transit time and route may impact bacterial response or physiological traits",
+      "id": "CUSTOM:b1101a29",
+      "label": "Transit time and ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.591355",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Transit time and route may impact bacterial response or physiological traits",
+        "last_seen": "2025-10-05T07:29:01.591355",
+        "obo_id": "CUSTOM:b1101a29"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Presence of potential antimicrobial resistance (AMR) gene markers in ISS strains",
+      "id": "CUSTOM:1314e73f",
+      "label": "Presence of poten...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.586465",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Presence of potential antimicrobial resistance (AMR) gene markers in ISS strains",
+        "last_seen": "2025-10-05T07:29:01.586465",
+        "obo_id": "CUSTOM:1314e73f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Potential pathogenicity of ISS Enterobacter strains to humans",
+      "id": "CUSTOM:3266eb42",
+      "label": "Potential pathoge...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.581752",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Potential pathogenicity of ISS Enterobacter strains to humans",
+        "last_seen": "2025-10-05T07:29:01.581752",
+        "obo_id": "CUSTOM:3266eb42"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "302",
+      "source": "PMC6251167",
+      "target": "CUSTOM:1ae2fa74",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "300",
+      "source": "PMC6251167",
+      "target": "CUSTOM:d1d2feb5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "298",
+      "source": "PMC6251167",
+      "target": "CUSTOM:b1101a29",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "296",
+      "source": "PMC6251167",
+      "target": "CUSTOM:1314e73f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "294",
+      "source": "PMC6251167",
+      "target": "CUSTOM:3266eb42",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

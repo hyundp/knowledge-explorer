@@ -1,0 +1,24 @@
+{
+  "pmcid": "PMC5470433",
+  "title": "Data for characterization of SALK_084889, a T DNA insertion line of Arabidopsis thaliana",
+  "authors": [
+    "Mingqi Zhou",
+    "Anna Lisa Paul",
+    "Robert J Ferl"
+  ],
+  "year": "2017",
+  "journal": "Data in Brief",
+  "doi": "10.1016/j.dib.2017.05.047",
+  "sections": {
+    "abstract": "In this article we report the identification of T DNA (transfer DNA) insertion sites within two different gene regions in the genome of an Arabidopsis mutant line, SALK_084889. The T DNA positions are in the 3 UTR (untranslated region) of DREB2A (Dehydration responsive element binding protein 2A) (AT5G05410) and promoter of LOX1 (Lipoxygenase 1) (AT1G55020) as determined by DNA PCR and sanger sequencing. The expression levels of DREB2A and LOX1 were also analyzed using quantitative realtime PCR (qPCR) in SALK_084889 and wild type Arabidopsis (Col, Columbia). Further, the comparison of drought and heat tolerance between Col and SALK_084889 were conducted by stress treatments. The present data indicate that in SALK_084889, the expression of DREB2A is not downregulated under normal growth conditions but can be affected only in roots under drought treatment, while LOX1 is significantly downregulated in both roots and shoots under all tested conditions. These data are original and have not been published elsewhere.\n\nKeywords:Arabidopsis, DREB2A, LOX1, SALK_084889, T DNA",
+    "methods": "Arabidopsis seeds of wild tyoe (Col) and SALK_084889 were obtained from Arabidopsis Biological Resource Center. SALK_084889 was reported as a T DNA insertion line ofDREB2A(AT5G05410) gene[1]. For identification of T DNA insertion sites, Col and SALK_084889 seeds were grown in soil at 22 degreesC under constant light condition. Eight randomly selected SALK_084889 seedlings were subjected to DNA PCR to confirm all seeds are homozygous. ForDREB2A, the gene specific primers DREB2A F and DREB2A R were used to amplify wild type allele band while LBb1.3 and DREB2A R primers were used to amplify T DNA band. ForLOX1, the gene specific primers LOX1 F and LOX1 R were used to amplify wild type allele band while LBb1.3 and LOX1 R primers were used to amplify T DNA band. The amplicons of T DNA bands ofDREB2AandLOX1were purified by subjected to sanger sequencing and the alignment of sequences was performed using Vector NTI v10.0 program (InforMax Inc). For Expression analysis, Col and SALK_084889 seeds were grown in 0.5x MS media (2.2g of MS basal salts (Sigma), 5g of Sucrose, 0.5g of MES, and 1mL of 1,000x Gamborg vitamins (Sigma) per liter at pH 5.75) at 22 degreesC under constant light condition. The 14 day old plants were harvested from MS plates and directly preserved in RNALater (Ambion)[2]. For drought treatment, harvested Arabidopsis plants were dehydrated on Whatman 3mm paper (Whatman) at 22 degreesC and 60% humidity under dim light for 2h[3]prior to fixation in RNALater. For RNA extraction, root and shoot tissues were dissected in RNALater solution and then total RNA was isolated using the Qiagen RNAeasy kit (Qiagen). Quantitative realtime PCR was performed using Fast SYBR Green Master Mix (Thermo Fisher) and 2 Ctmethod was employed to calculate the relative expression levels ofDREB2A and LOX1. Three replicates were used for each sample andUBQ11(AT4G05050) gene was used as the internal control. For drought and heat tolerance determination of SALK_084889, Col and SALK_084889 seeds were grown in soil at 22 degreesC under constant light condition. For drought test, the 10 day old plants were transferred to pre dried soil and withhold water for 4 days prior to recovery by watering for 7days[4]. For heat test, the 7 day old plants were pre incubated in 37 degreesC for 1h and then treated at 49 degreesC for 1h prior to recovery in 22 degreesC for 2 days[5]. Survival rates and phenotypes of Col and SALK_084889 plants were recorded. Studentst test was used for statistical analysis.",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:01:53.000927",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5470433/"
+  }
+}

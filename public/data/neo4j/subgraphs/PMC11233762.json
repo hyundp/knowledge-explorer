@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC11233762",
+  "nodes": [
+    {
+      "fullLabel": "PMC11233762",
+      "id": "PMC11233762",
+      "label": "PMC11233762",
+      "properties": {
+        "pmcid": "PMC11233762",
+        "first_seen": "2025-10-05T07:29:06.268407",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.316642"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Salivary amylase secretion via vesicular transport and exocytosis mediated by Rap/Rab signaling and Vamp8 at apical side of acinar cells",
+      "id": "CUSTOM:b4b68c97",
+      "label": "Salivary amylase ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.318752",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Salivary amylase secretion via vesicular transport and exocytosis mediated by Rap/Rab signaling and Vamp8 at apical side of acinar cells",
+        "last_seen": "2025-10-05T07:29:06.318752",
+        "obo_id": "CUSTOM:b4b68c97"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Vamp8 protein localization and vesicle membrane docking at apical side of acinar cells",
+      "id": "CUSTOM:3a5c0f8f",
+      "label": "Vamp8 protein loc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.312540",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Vamp8 protein localization and vesicle membrane docking at apical side of acinar cells",
+        "last_seen": "2025-10-05T07:29:06.312540",
+        "obo_id": "CUSTOM:3a5c0f8f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mRNA expression of mechanosensitive ion channels (TRP, Piezo, ASIC)",
+      "id": "CUSTOM:a00f2052",
+      "label": "mRNA expression o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.305026",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mRNA expression of mechanosensitive ion channels (TRP, Piezo, ASIC)",
+        "last_seen": "2025-10-05T07:29:06.305026",
+        "obo_id": "CUSTOM:a00f2052"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mRNAs associated with ionic transport coupled with ATP synthesis or hydrolysis",
+      "id": "CUSTOM:737e00fd",
+      "label": "mRNAs associated ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.298592",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mRNAs associated with ionic transport coupled with ATP synthesis or hydrolysis",
+        "last_seen": "2025-10-05T07:29:06.298592",
+        "obo_id": "CUSTOM:737e00fd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mRNAs involved in oxidative phosphorylation",
+      "id": "CUSTOM:5c1edf47",
+      "label": "mRNAs involved in...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.290650",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mRNAs involved in oxidative phosphorylation",
+        "last_seen": "2025-10-05T07:29:06.290650",
+        "obo_id": "CUSTOM:5c1edf47"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mRNA expression of receptors for noradrenaline (upstream salivary secretion system)",
+      "id": "CUSTOM:7c0baf7c",
+      "label": "mRNA expression o...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.282953",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mRNA expression of receptors for noradrenaline (upstream salivary secretion system)",
+        "last_seen": "2025-10-05T07:29:06.282953",
+        "obo_id": "CUSTOM:7c0baf7c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Vamp8 and small G protein (Rap1, Rab2a, Rab10, Rab27) mRNA expression in submandibular glands",
+      "id": "CUSTOM:86d4b577",
+      "label": "Vamp8 and small G...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.276796",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Vamp8 and small G protein (Rap1, Rab2a, Rab10, Rab27) mRNA expression in submandibular glands",
+        "last_seen": "2025-10-05T07:29:06.276796",
+        "obo_id": "CUSTOM:86d4b577"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Amy1 mRNA expression in submandibular glands",
+      "id": "CUSTOM:9602d5d5",
+      "label": "Amy1 mRNA express...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.270644",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Amy1 mRNA expression in submandibular glands",
+        "last_seen": "2025-10-05T07:29:06.270644",
+        "obo_id": "CUSTOM:9602d5d5"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1874",
+      "source": "PMC11233762",
+      "target": "CUSTOM:b4b68c97",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1872",
+      "source": "PMC11233762",
+      "target": "CUSTOM:3a5c0f8f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1870",
+      "source": "PMC11233762",
+      "target": "CUSTOM:a00f2052",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1868",
+      "source": "PMC11233762",
+      "target": "CUSTOM:737e00fd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1866",
+      "source": "PMC11233762",
+      "target": "CUSTOM:5c1edf47",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1864",
+      "source": "PMC11233762",
+      "target": "CUSTOM:7c0baf7c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1862",
+      "source": "PMC11233762",
+      "target": "CUSTOM:86d4b577",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1860",
+      "source": "PMC11233762",
+      "target": "CUSTOM:9602d5d5",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

@@ -1,0 +1,28 @@
+{
+  "pmcid": "PMC7595942",
+  "title": "Draft Genome Sequences of Bacillaceae Strains Isolated from the International Space Station",
+  "authors": [
+    "Robert Daudu",
+    "Nitin K Singh",
+    "Jason M Wood",
+    "Marilyne Debieu",
+    "Niamh B O'Hara",
+    "Christopher E Mason",
+    "Kasthuri Venkateswaran"
+  ],
+  "year": "2020",
+  "journal": "Microbiology Resource Announcements",
+  "doi": "10.1128/MRA.00701 20",
+  "sections": {
+    "abstract": "The draft genome sequences of 29 bacterial isolates belonging to the familyBacillaceaewere collected from the International Space Station, assembled, and identified. Further analysis of these sequences will enable us to understand their roles for space and biotechnological applications.",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:07:50.579087",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7595942/"
+  }
+}

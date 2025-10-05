@@ -1,0 +1,43 @@
+{
+  "pmcid": "PMC9583032",
+  "nodes": [
+    {
+      "fullLabel": "PMC9583032",
+      "id": "PMC9583032",
+      "label": "PMC9583032",
+      "properties": {
+        "pmcid": "PMC9583032",
+        "first_seen": "2025-10-05T07:29:13.255636",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:13.255636"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "physiological deconditioning",
+      "id": "CUSTOM:9bfce008",
+      "label": "physiological dec...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.258255",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "physiological deconditioning",
+        "last_seen": "2025-10-05T07:29:13.258255",
+        "obo_id": "CUSTOM:9bfce008"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3756",
+      "source": "PMC9583032",
+      "target": "CUSTOM:9bfce008",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 2,
+  "num_edges": 1
+}

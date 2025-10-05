@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC3901686",
+  "nodes": [
+    {
+      "fullLabel": "PMC3901686",
+      "id": "PMC3901686",
+      "label": "PMC3901686",
+      "properties": {
+        "pmcid": "PMC3901686",
+        "first_seen": "2025-10-05T07:29:06.538962",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:06.563664"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "deleterious physiological consequences of spaceflight, including immune consequences",
+      "id": "CUSTOM:95681080",
+      "label": "deleterious physi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.565406",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "deleterious physiological consequences of spaceflight, including immune consequences",
+        "last_seen": "2025-10-05T07:29:06.565406",
+        "obo_id": "CUSTOM:95681080"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "normal immune function (response to changes in gravity)",
+      "id": "CUSTOM:81b8b806",
+      "label": "normal immune fun...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.560568",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "normal immune function (response to changes in gravity)",
+        "last_seen": "2025-10-05T07:29:06.560568",
+        "obo_id": "CUSTOM:81b8b806"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "expression of a few antimicrobial genes",
+      "id": "CUSTOM:e0c1600a",
+      "label": "expression of a f...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.555451",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "expression of a few antimicrobial genes",
+        "last_seen": "2025-10-05T07:29:06.555451",
+        "obo_id": "CUSTOM:e0c1600a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "phagocytosis",
+      "id": "CUSTOM:2e10031d",
+      "label": "phagocytosis",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.550337",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "phagocytosis",
+        "last_seen": "2025-10-05T07:29:06.550337",
+        "obo_id": "CUSTOM:2e10031d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "phagocytosis",
+      "id": "CUSTOM:04dadd02",
+      "label": "phagocytosis",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.545574",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "phagocytosis",
+        "last_seen": "2025-10-05T07:29:06.545574",
+        "obo_id": "CUSTOM:04dadd02"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "expression of individual Drosophila genes in uninfected flies",
+      "id": "CUSTOM:f9679329",
+      "label": "expression of ind...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:06.540514",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "expression of individual Drosophila genes in uninfected flies",
+        "last_seen": "2025-10-05T07:29:06.540514",
+        "obo_id": "CUSTOM:f9679329"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1946",
+      "source": "PMC3901686",
+      "target": "CUSTOM:95681080",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1944",
+      "source": "PMC3901686",
+      "target": "CUSTOM:81b8b806",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1942",
+      "source": "PMC3901686",
+      "target": "CUSTOM:e0c1600a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1940",
+      "source": "PMC3901686",
+      "target": "CUSTOM:2e10031d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1938",
+      "source": "PMC3901686",
+      "target": "CUSTOM:04dadd02",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1936",
+      "source": "PMC3901686",
+      "target": "CUSTOM:f9679329",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

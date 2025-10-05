@@ -1,0 +1,219 @@
+{
+  "pmcid": "PMC11166943",
+  "nodes": [
+    {
+      "fullLabel": "PMC11166943",
+      "id": "PMC11166943",
+      "label": "PMC11166943",
+      "properties": {
+        "pmcid": "PMC11166943",
+        "first_seen": "2025-10-05T07:29:01.532939",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:01.570841"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "ethical, cultural, and legal challenges related to human space omics",
+      "id": "CUSTOM:d57efbc9",
+      "label": "ethical, cultural...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.572588",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ethical, cultural, and legal challenges related to human space omics",
+        "last_seen": "2025-10-05T07:29:01.572588",
+        "obo_id": "CUSTOM:d57efbc9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "improvement of safety measures for future space travelers catalyzed by human space omics",
+      "id": "CUSTOM:3630e416",
+      "label": "improvement of sa...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.567902",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "improvement of safety measures for future space travelers catalyzed by human space omics",
+        "last_seen": "2025-10-05T07:29:01.567902",
+        "obo_id": "CUSTOM:3630e416"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "availability of a cell space atlas as an open access global reference for basic space life science research",
+      "id": "CUSTOM:7c305413",
+      "label": "availability of a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.563178",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "availability of a cell space atlas as an open access global reference for basic space life science research",
+        "last_seen": "2025-10-05T07:29:01.563178",
+        "obo_id": "CUSTOM:7c305413"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "creation of a Human Cell Space Atlas",
+      "id": "CUSTOM:e8196fdc",
+      "label": "creation of a Hum...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.558147",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "creation of a Human Cell Space Atlas",
+        "last_seen": "2025-10-05T07:29:01.558147",
+        "obo_id": "CUSTOM:e8196fdc"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "precision space healthcare enabled by routine standardized omics during spaceflight",
+      "id": "CUSTOM:eed705fd",
+      "label": "precision space h...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.553324",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "precision space healthcare enabled by routine standardized omics during spaceflight",
+        "last_seen": "2025-10-05T07:29:01.553324",
+        "obo_id": "CUSTOM:eed705fd"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "use of high resolution omics to construct the Human Cell Atlas by international consortiums",
+      "id": "CUSTOM:9a436551",
+      "label": "use of high resol...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.549587",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "use of high resolution omics to construct the Human Cell Atlas by international consortiums",
+        "last_seen": "2025-10-05T07:29:01.549587",
+        "obo_id": "CUSTOM:9a436551"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "prevalence of precision healthcare on Earth",
+      "id": "CUSTOM:09eb5aaa",
+      "label": "prevalence of pre...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.545084",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "prevalence of precision healthcare on Earth",
+        "last_seen": "2025-10-05T07:29:01.545084",
+        "obo_id": "CUSTOM:09eb5aaa"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "incorporation of molecular omics into spaceflight nutrition, wellness, and telehealth",
+      "id": "CUSTOM:9a92232b",
+      "label": "incorporation of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.539152",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "incorporation of molecular omics into spaceflight nutrition, wellness, and telehealth",
+        "last_seen": "2025-10-05T07:29:01.539152",
+        "obo_id": "CUSTOM:9a92232b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "resupply and evacuation capability",
+      "id": "CUSTOM:262522c2",
+      "label": "resupply and evac...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:01.534983",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "resupply and evacuation capability",
+        "last_seen": "2025-10-05T07:29:01.534983",
+        "obo_id": "CUSTOM:262522c2"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "292",
+      "source": "PMC11166943",
+      "target": "CUSTOM:d57efbc9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "290",
+      "source": "PMC11166943",
+      "target": "CUSTOM:3630e416",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "288",
+      "source": "PMC11166943",
+      "target": "CUSTOM:7c305413",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "286",
+      "source": "PMC11166943",
+      "target": "CUSTOM:e8196fdc",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "284",
+      "source": "PMC11166943",
+      "target": "CUSTOM:eed705fd",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "282",
+      "source": "PMC11166943",
+      "target": "CUSTOM:9a436551",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "280",
+      "source": "PMC11166943",
+      "target": "CUSTOM:09eb5aaa",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "278",
+      "source": "PMC11166943",
+      "target": "CUSTOM:9a92232b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "276",
+      "source": "PMC11166943",
+      "target": "CUSTOM:262522c2",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 10,
+  "num_edges": 9
+}

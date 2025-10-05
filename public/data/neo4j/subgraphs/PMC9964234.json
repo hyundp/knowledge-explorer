@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC9964234",
+  "nodes": [
+    {
+      "fullLabel": "PMC9964234",
+      "id": "PMC9964234",
+      "label": "PMC9964234",
+      "properties": {
+        "pmcid": "PMC9964234",
+        "first_seen": "2025-10-05T07:29:13.729179",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:13.796483"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "generalizability of the proposed strategy to other research fields",
+      "id": "CUSTOM:7fd55a0a",
+      "label": "generalizability ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.798456",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "generalizability of the proposed strategy to other research fields",
+        "last_seen": "2025-10-05T07:29:13.798456",
+        "obo_id": "CUSTOM:7fd55a0a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "scope of the proposed assay relative to comprehensive monitoring",
+      "id": "CUSTOM:aeeada5e",
+      "label": "scope of the prop...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.792131",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "scope of the proposed assay relative to comprehensive monitoring",
+        "last_seen": "2025-10-05T07:29:13.792131",
+        "obo_id": "CUSTOM:aeeada5e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "need for further validation in simulated microgravity",
+      "id": "CUSTOM:03edb383",
+      "label": "need for further ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.785981",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "need for further validation in simulated microgravity",
+        "last_seen": "2025-10-05T07:29:13.785981",
+        "obo_id": "CUSTOM:03edb383"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "development of a shortlist of genes for a rapid monitoring assay",
+      "id": "CUSTOM:a6f4032e",
+      "label": "development of a ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.779121",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "development of a shortlist of genes for a rapid monitoring assay",
+        "last_seen": "2025-10-05T07:29:13.779121",
+        "obo_id": "CUSTOM:a6f4032e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "use of microarray dataset E-GEOD-74708",
+      "id": "CUSTOM:23234064",
+      "label": "use of microarray...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.772041",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "use of microarray dataset E-GEOD-74708",
+        "last_seen": "2025-10-05T07:29:13.772041",
+        "obo_id": "CUSTOM:23234064"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "female astronaut representation in dataset",
+      "id": "CUSTOM:54880fbe",
+      "label": "female astronaut ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.764092",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "female astronaut representation in dataset",
+        "last_seen": "2025-10-05T07:29:13.764092",
+        "obo_id": "CUSTOM:54880fbe"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "astronaut sample size",
+      "id": "CUSTOM:ad2fa992",
+      "label": "astronaut sample ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.756109",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "astronaut sample size",
+        "last_seen": "2025-10-05T07:29:13.756109",
+        "obo_id": "CUSTOM:ad2fa992"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3896",
+      "source": "PMC9964234",
+      "target": "CUSTOM:7fd55a0a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3894",
+      "source": "PMC9964234",
+      "target": "CUSTOM:aeeada5e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3892",
+      "source": "PMC9964234",
+      "target": "CUSTOM:03edb383",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3890",
+      "source": "PMC9964234",
+      "target": "CUSTOM:a6f4032e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3888",
+      "source": "PMC9964234",
+      "target": "CUSTOM:23234064",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3886",
+      "source": "PMC9964234",
+      "target": "CUSTOM:54880fbe",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3884",
+      "source": "PMC9964234",
+      "target": "CUSTOM:ad2fa992",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

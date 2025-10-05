@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC4624184",
+  "nodes": [
+    {
+      "fullLabel": "PMC4624184",
+      "id": "PMC4624184",
+      "label": "PMC4624184",
+      "properties": {
+        "pmcid": "PMC4624184",
+        "first_seen": "2025-10-05T07:29:03.689504",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:03.713564"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Similarity between the relative distribution of viable cells and the distribution when all (dead and viable) cells are considered",
+      "id": "CUSTOM:2c7193f0",
+      "label": "Similarity betwee...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.715604",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Similarity between the relative distribution of viable cells and the distribution when all (dead and viable) cells are considered",
+        "last_seen": "2025-10-05T07:29:03.715604",
+        "obo_id": "CUSTOM:2c7193f0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ability to identify areas with problematic exposure to viable organisms using viable cell studies with PMA",
+      "id": "CUSTOM:c6e315f2",
+      "label": "Ability to identi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.710482",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ability to identify areas with problematic exposure to viable organisms using viable cell studies with PMA",
+        "last_seen": "2025-10-05T07:29:03.710482",
+        "obo_id": "CUSTOM:c6e315f2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Bacterial diversity in samples after PMA treatment",
+      "id": "CUSTOM:8de3f171",
+      "label": "Bacterial diversi...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.705938",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Bacterial diversity in samples after PMA treatment",
+        "last_seen": "2025-10-05T07:29:03.705938",
+        "obo_id": "CUSTOM:8de3f171"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Accuracy of estimating viable microbial population when coupling PMA treatment with NGS sequencing",
+      "id": "CUSTOM:9cfb337a",
+      "label": "Accuracy of estim...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.701426",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Accuracy of estimating viable microbial population when coupling PMA treatment with NGS sequencing",
+        "last_seen": "2025-10-05T07:29:03.701426",
+        "obo_id": "CUSTOM:9cfb337a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Abundance of human-associated organisms in Earth-based cleanrooms relative to the ISS",
+      "id": "CUSTOM:0b1e1e28",
+      "label": "Abundance of huma...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.696426",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Abundance of human-associated organisms in Earth-based cleanrooms relative to the ISS",
+        "last_seen": "2025-10-05T07:29:03.696426",
+        "obo_id": "CUSTOM:0b1e1e28"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Prevalence of Actinobacteria in the ISS environment compared to JPL cleanrooms",
+      "id": "CUSTOM:6d6cee54",
+      "label": "Prevalence of Act...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:03.691150",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Prevalence of Actinobacteria in the ISS environment compared to JPL cleanrooms",
+        "last_seen": "2025-10-05T07:29:03.691150",
+        "obo_id": "CUSTOM:6d6cee54"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1024",
+      "source": "PMC4624184",
+      "target": "CUSTOM:2c7193f0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1022",
+      "source": "PMC4624184",
+      "target": "CUSTOM:c6e315f2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1020",
+      "source": "PMC4624184",
+      "target": "CUSTOM:8de3f171",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1018",
+      "source": "PMC4624184",
+      "target": "CUSTOM:9cfb337a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1016",
+      "source": "PMC4624184",
+      "target": "CUSTOM:0b1e1e28",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1014",
+      "source": "PMC4624184",
+      "target": "CUSTOM:6d6cee54",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}

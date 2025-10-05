@@ -1,0 +1,40 @@
+{
+  "pmcid": "PMC7733874",
+  "title": "A New Era for Space Life Science: International Standards for Space Omics Processing",
+  "authors": [
+    "Lindsay Rutter",
+    "Richard Barker",
+    "Daniela Bezdan",
+    "Henry Cope",
+    "Sylvain V Costes",
+    "Lovorka Degoricija",
+    "Kathleen M Fisch",
+    "Mariano I Gabitto",
+    "Samrawit Gebre",
+    "Stefania Giacomello",
+    "Simon Gilroy",
+    "Stefan J Green",
+    "Christopher E Mason",
+    "Sigrid S Reinsch",
+    "Nathaniel J Szewczyk",
+    "Deanne M Taylor",
+    "Jonathan M Galazka",
+    "Raul Herranz",
+    "Masafumi Muratani"
+  ],
+  "year": "2020",
+  "journal": "Patterns",
+  "doi": "10.1016/j.patter.2020.100148",
+  "sections": {
+    "abstract": "Space agencies have announced plans for human missions to the Moon to prepare for Mars. However, the space environment presents stressors that include radiation, microgravity, and isolation. Understanding how these factors affect biology is crucial for safe and effective crewed space exploration. There is a need to develop countermeasures, to adapt plants and microbes for nutrient sources and bioregenerative life support, and to limit pathogen infection. Scientists across the world are conducting space omics experiments on model organisms and, more recently, on humans. Optimal extraction of actionable scientific discoveries from these precious datasets will only occur at the collective level with improved standardization. To address this shortcoming, we established ISSOP (International Standards for Space Omics Processing), an international consortium of scientists who aim to enhance standard guidelines between space biologists at a global level. Here we introduce our consortium and share past lessons learned and future challenges related to spaceflight omics.\n\nKeywords:space biology, omics, metadata, standardization, ESA, JAXA, NASA, GeneLab, ISSOP, Twins study",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:01:16.709161",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7733874/"
+  }
+}

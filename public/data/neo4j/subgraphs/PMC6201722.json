@@ -1,0 +1,197 @@
+{
+  "pmcid": "PMC6201722",
+  "nodes": [
+    {
+      "fullLabel": "PMC6201722",
+      "id": "PMC6201722",
+      "label": "PMC6201722",
+      "properties": {
+        "pmcid": "PMC6201722",
+        "first_seen": "2025-10-05T07:29:13.204314",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:13.249584"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "potential use of SINDVI as a high-throughput screening technique for identification of mutant phenotypes",
+      "id": "CUSTOM:9ea24512",
+      "label": "potential use of ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.251518",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "potential use of SINDVI as a high-throughput screening technique for identification of mutant phenotypes",
+        "last_seen": "2025-10-05T07:29:13.251518",
+        "obo_id": "CUSTOM:9ea24512"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "supply of precise blue and NIR light for SINDVI imaging",
+      "id": "CUSTOM:cb9b8733",
+      "label": "supply of precise...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.245884",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "supply of precise blue and NIR light for SINDVI imaging",
+        "last_seen": "2025-10-05T07:29:13.245884",
+        "obo_id": "CUSTOM:cb9b8733"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "implementation barriers within a laboratory setting or greenhouse facilities",
+      "id": "CUSTOM:66a5c55d",
+      "label": "implementation ba...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.239866",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "implementation barriers within a laboratory setting or greenhouse facilities",
+        "last_seen": "2025-10-05T07:29:13.239866",
+        "obo_id": "CUSTOM:66a5c55d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "dollar cost of implementing an SINDVI imaging system",
+      "id": "CUSTOM:24d7526b",
+      "label": "dollar cost of im...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.233743",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "dollar cost of implementing an SINDVI imaging system",
+        "last_seen": "2025-10-05T07:29:13.233743",
+        "obo_id": "CUSTOM:24d7526b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "SINDVI response curve characterized for salt- and ammonium nitrate-stressed samples",
+      "id": "CUSTOM:28eda402",
+      "label": "SINDVI response c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.227342",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "SINDVI response curve characterized for salt- and ammonium nitrate-stressed samples",
+        "last_seen": "2025-10-05T07:29:13.227342",
+        "obo_id": "CUSTOM:28eda402"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "detection of stress",
+      "id": "CUSTOM:413d5c1e",
+      "label": "detection of stress",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.220818",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "detection of stress",
+        "last_seen": "2025-10-05T07:29:13.220818",
+        "obo_id": "CUSTOM:413d5c1e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "detection of stress",
+      "id": "CUSTOM:a96c137e",
+      "label": "detection of stress",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.214313",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "detection of stress",
+        "last_seen": "2025-10-05T07:29:13.214313",
+        "obo_id": "CUSTOM:a96c137e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "detection of plant stress before it is apparent to the human eye",
+      "id": "CUSTOM:3de451d7",
+      "label": "detection of plan...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:13.206486",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "detection of plant stress before it is apparent to the human eye",
+        "last_seen": "2025-10-05T07:29:13.206486",
+        "obo_id": "CUSTOM:3de451d7"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3754",
+      "source": "PMC6201722",
+      "target": "CUSTOM:9ea24512",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3752",
+      "source": "PMC6201722",
+      "target": "CUSTOM:cb9b8733",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3750",
+      "source": "PMC6201722",
+      "target": "CUSTOM:66a5c55d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3748",
+      "source": "PMC6201722",
+      "target": "CUSTOM:24d7526b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3746",
+      "source": "PMC6201722",
+      "target": "CUSTOM:28eda402",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3744",
+      "source": "PMC6201722",
+      "target": "CUSTOM:413d5c1e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3742",
+      "source": "PMC6201722",
+      "target": "CUSTOM:a96c137e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3740",
+      "source": "PMC6201722",
+      "target": "CUSTOM:3de451d7",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 9,
+  "num_edges": 8
+}

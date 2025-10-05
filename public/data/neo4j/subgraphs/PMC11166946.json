@@ -1,0 +1,175 @@
+{
+  "pmcid": "PMC11166946",
+  "nodes": [
+    {
+      "fullLabel": "PMC11166946",
+      "id": "PMC11166946",
+      "label": "PMC11166946",
+      "properties": {
+        "pmcid": "PMC11166946",
+        "first_seen": "2025-10-05T07:29:12.673535",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:12.718720"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "gene expression levels associated with growth, development, and survival for cardiac progenitors",
+      "id": "CUSTOM:7590de69",
+      "label": "gene expression l...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.721267",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "gene expression levels associated with growth, development, and survival for cardiac progenitors",
+        "last_seen": "2025-10-05T07:29:12.721267",
+        "obo_id": "CUSTOM:7590de69"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "folate metabolism",
+      "id": "CUSTOM:175c2750",
+      "label": "folate metabolism",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.713502",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "folate metabolism",
+        "last_seen": "2025-10-05T07:29:12.713502",
+        "obo_id": "CUSTOM:175c2750"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "pentose phosphate pathway in carbohydrate metabolism",
+      "id": "CUSTOM:0f3be278",
+      "label": "pentose phosphate...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.705549",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "pentose phosphate pathway in carbohydrate metabolism",
+        "last_seen": "2025-10-05T07:29:12.705549",
+        "obo_id": "CUSTOM:0f3be278"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "glutathione metabolism",
+      "id": "CUSTOM:8c5c7013",
+      "label": "glutathione metab...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.698710",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "glutathione metabolism",
+        "last_seen": "2025-10-05T07:29:12.698710",
+        "obo_id": "CUSTOM:8c5c7013"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Coenzyme A (CoA) synthesis",
+      "id": "CUSTOM:3cd82896",
+      "label": "Coenzyme A (CoA) ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.691122",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Coenzyme A (CoA) synthesis",
+        "last_seen": "2025-10-05T07:29:12.691122",
+        "obo_id": "CUSTOM:3cd82896"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "nucleotide interconversion",
+      "id": "CUSTOM:f67b31f0",
+      "label": "nucleotide interc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.682798",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "nucleotide interconversion",
+        "last_seen": "2025-10-05T07:29:12.682798",
+        "obo_id": "CUSTOM:f67b31f0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "galactose metabolism",
+      "id": "CUSTOM:64aef809",
+      "label": "galactose metabolism",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:12.675999",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "galactose metabolism",
+        "last_seen": "2025-10-05T07:29:12.675999",
+        "obo_id": "CUSTOM:64aef809"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3630",
+      "source": "PMC11166946",
+      "target": "CUSTOM:7590de69",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3628",
+      "source": "PMC11166946",
+      "target": "CUSTOM:175c2750",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3626",
+      "source": "PMC11166946",
+      "target": "CUSTOM:0f3be278",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3624",
+      "source": "PMC11166946",
+      "target": "CUSTOM:8c5c7013",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3622",
+      "source": "PMC11166946",
+      "target": "CUSTOM:3cd82896",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3620",
+      "source": "PMC11166946",
+      "target": "CUSTOM:f67b31f0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "3618",
+      "source": "PMC11166946",
+      "target": "CUSTOM:64aef809",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 8,
+  "num_edges": 7
+}

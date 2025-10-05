@@ -1,0 +1,36 @@
+{
+  "pmcid": "PMC11166943",
+  "title": "Astronaut omics and the impact of space on the human body at scale",
+  "authors": [
+    "Lindsay A Rutter",
+    "Henry Cope",
+    "Matthew J MacKay",
+    "Ral Herranz",
+    "Saswati Das",
+    "Sergey A Ponomarev",
+    "Sylvain V Costes",
+    "Amber M Paul",
+    "Richard Barker",
+    "Deanne M Taylor",
+    "Daniela Bezdan",
+    "Nathaniel J Szewczyk",
+    "Masafumi Muratani",
+    "Christopher E Mason",
+    "Stefania Giacomello"
+  ],
+  "year": "2024",
+  "journal": "Nature Communications",
+  "doi": "10.1038/s41467 024 47237 0",
+  "sections": {
+    "abstract": "Future multi year crewed planetary missions will motivate advances in aerospace nutrition and telehealth. On Earth, the Human Cell Atlas project aims to spatially map all cell types in the human body. Here, we propose that a parallel Human Cell Space Atlas could serve as an openly available, global resource for space life science research. As humanity becomes increasingly spacefaring, high resolution omics on orbit could permit an advent of precision spaceflight healthcare. Alongside the scientific potential, we consider the complex ethical, cultural, and legal challenges intrinsic to the human space omics discipline, and how philosophical frameworks may benefit from international perspectives.\n\nSubject terms:Gene expression, Medical genomics, Molecular medicine",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": "In the coming years, humans may venture into space for unprecedented durations and distances outside of the Earth's radioprotective magnetosphere. Resupply and evacuation would be precluded in some cases, calling for a modernized spaceflight nutrition, wellness, and telehealth field that would likely incorporate molecular omics. Precision healthcare is becoming more commonplace for populations on Earth, where international consortiums are using high resolution omics to construct the Human Cell Atlas. It seems probable that as increasingly large and diverse populations enter space, the purposeful implementation of routine standardized omics with consenting participants during spaceflight could similarly permit precision space healthcare and a Human Cell Space Atlas. The cell space atlas could serve as an open access, global reference for basic space life science research. While human space omics could catalyze critical improvement of safety measures for future space travelers, numerous ethical, cultural, and legal challenges would need to be carefully surmounted from global viewpoints. This manuscript provided examples of both the potential healthcare benefits and the ethical complexities that will likely be inherent to the human space omics discipline as a means to encourage anticipatory discussions amongst international ethicists, philosophers, scientists, and the public community."
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:04:21.569179",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166943/"
+  }
+}

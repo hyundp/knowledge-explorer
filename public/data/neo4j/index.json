@@ -1,0 +1,11 @@
+{
+  "exported_at": "2025-10-05T18:56:41.151843",
+  "files": {
+    "graph_overview": "graph_overview.json",
+    "papers": "papers.json",
+    "consensus": "consensus.json",
+    "statistics": "statistics.json",
+    "subgraphs": "subgraphs/"
+  },
+  "description": "Static Neo4j data export for Vercel deployment"
+}

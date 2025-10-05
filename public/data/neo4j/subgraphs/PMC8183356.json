@@ -1,0 +1,395 @@
+{
+  "pmcid": "PMC8183356",
+  "nodes": [
+    {
+      "fullLabel": "PMC8183356",
+      "id": "PMC8183356",
+      "label": "PMC8183356",
+      "properties": {
+        "pmcid": "PMC8183356",
+        "first_seen": "2025-10-05T07:29:08.514292",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:08.616909"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "loss of MuSC contributing to muscle regeneration impairment in chronic injuries caused by lack of dystrophin",
+      "id": "CUSTOM:0736980a",
+      "label": "loss of MuSC cont...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.619619",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "loss of MuSC contributing to muscle regeneration impairment in chronic injuries caused by lack of dystrophin",
+        "last_seen": "2025-10-05T07:29:08.619619",
+        "obo_id": "CUSTOM:0736980a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "MuSC numbers over time in IKK2CA MuSC and mdx/IKK2CA MuSC mice after repetitive injuries",
+      "id": "CUSTOM:761342b4",
+      "label": "MuSC numbers over...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.611002",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "MuSC numbers over time in IKK2CA MuSC and mdx/IKK2CA MuSC mice after repetitive injuries",
+        "last_seen": "2025-10-05T07:29:08.611002",
+        "obo_id": "CUSTOM:761342b4"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "MuSC numbers in mdx muscles and DMD patients (prior studies)",
+      "id": "CUSTOM:48073631",
+      "label": "MuSC numbers in m...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.604466",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "MuSC numbers in mdx muscles and DMD patients (prior studies)",
+        "last_seen": "2025-10-05T07:29:08.604466",
+        "obo_id": "CUSTOM:48073631"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "DNA damage on telomeres in MuSCs from dystrophic subjects",
+      "id": "CUSTOM:27d55cdf",
+      "label": "DNA damage on tel...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.598436",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "DNA damage on telomeres in MuSCs from dystrophic subjects",
+        "last_seen": "2025-10-05T07:29:08.598436",
+        "obo_id": "CUSTOM:27d55cdf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ku80 regulation/dysregulation in MuSCs (NF-κB dependent)",
+      "id": "CUSTOM:19d0e57b",
+      "label": "Ku80 regulation/d...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.592967",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ku80 regulation/dysregulation in MuSCs (NF-κB dependent)",
+        "last_seen": "2025-10-05T07:29:08.592967",
+        "obo_id": "CUSTOM:19d0e57b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "proliferation levels in MuSCs during NF-κB driven telomere shortening",
+      "id": "CUSTOM:3aea3c76",
+      "label": "proliferation lev...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.586954",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "proliferation levels in MuSCs during NF-κB driven telomere shortening",
+        "last_seen": "2025-10-05T07:29:08.586954",
+        "obo_id": "CUSTOM:3aea3c76"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "regeneration of skeletal muscle",
+      "id": "CUSTOM:377123a0",
+      "label": "regeneration of s...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.580750",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "regeneration of skeletal muscle",
+        "last_seen": "2025-10-05T07:29:08.580750",
+        "obo_id": "CUSTOM:377123a0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "telomere shortening driven by persistent MuSC-specific NF-κB activation in injured muscles",
+      "id": "CUSTOM:14a6487d",
+      "label": "telomere shorteni...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.574351",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "telomere shortening driven by persistent MuSC-specific NF-κB activation in injured muscles",
+        "last_seen": "2025-10-05T07:29:08.574351",
+        "obo_id": "CUSTOM:14a6487d"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "NF-κB signaling in MuSCs in dystrophic models",
+      "id": "CUSTOM:c38ba192",
+      "label": "NF-κB signaling i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.567222",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "NF-κB signaling in MuSCs in dystrophic models",
+        "last_seen": "2025-10-05T07:29:08.567222",
+        "obo_id": "CUSTOM:c38ba192"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "telomere length in stem cells under chronic injury conditions",
+      "id": "CUSTOM:ea9c3fda",
+      "label": "telomere length i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.561630",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "telomere length in stem cells under chronic injury conditions",
+        "last_seen": "2025-10-05T07:29:08.561630",
+        "obo_id": "CUSTOM:ea9c3fda"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "MuSC dysfunction in dystrophy",
+      "id": "CUSTOM:1f7f598a",
+      "label": "MuSC dysfunction ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.554973",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "MuSC dysfunction in dystrophy",
+        "last_seen": "2025-10-05T07:29:08.554973",
+        "obo_id": "CUSTOM:1f7f598a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "telomere dysfunction-induced foci (TIFs) number in MuSCs",
+      "id": "CUSTOM:4bd007b2",
+      "label": "telomere dysfunct...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.548364",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "telomere dysfunction-induced foci (TIFs) number in MuSCs",
+        "last_seen": "2025-10-05T07:29:08.548364",
+        "obo_id": "CUSTOM:4bd007b2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "DNA damage levels in MuSCs",
+      "id": "CUSTOM:814cd16e",
+      "label": "DNA damage levels...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.542659",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "DNA damage levels in MuSCs",
+        "last_seen": "2025-10-05T07:29:08.542659",
+        "obo_id": "CUSTOM:814cd16e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "telomere length in MuSCs",
+      "id": "CUSTOM:15e6697a",
+      "label": "telomere length i...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.536285",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "telomere length in MuSCs",
+        "last_seen": "2025-10-05T07:29:08.536285",
+        "obo_id": "CUSTOM:15e6697a"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Ku80 protein levels in MuSCs",
+      "id": "CUSTOM:0ffa4378",
+      "label": "Ku80 protein leve...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.529422",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Ku80 protein levels in MuSCs",
+        "last_seen": "2025-10-05T07:29:08.529422",
+        "obo_id": "CUSTOM:0ffa4378"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "nuclear localization / nuclear accumulation of phospho p65 (p-p65)",
+      "id": "CUSTOM:399e98ac",
+      "label": "nuclear localizat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.521981",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "nuclear localization / nuclear accumulation of phospho p65 (p-p65)",
+        "last_seen": "2025-10-05T07:29:08.521981",
+        "obo_id": "CUSTOM:399e98ac"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "phospho p65 (p-p65) protein levels in MuSCs",
+      "id": "CUSTOM:1da4da3c",
+      "label": "phospho p65 (p-p6...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:08.516385",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "phospho p65 (p-p65) protein levels in MuSCs",
+        "last_seen": "2025-10-05T07:29:08.516385",
+        "obo_id": "CUSTOM:1da4da3c"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "2590",
+      "source": "PMC8183356",
+      "target": "CUSTOM:0736980a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2588",
+      "source": "PMC8183356",
+      "target": "CUSTOM:761342b4",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2586",
+      "source": "PMC8183356",
+      "target": "CUSTOM:48073631",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2584",
+      "source": "PMC8183356",
+      "target": "CUSTOM:27d55cdf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2582",
+      "source": "PMC8183356",
+      "target": "CUSTOM:19d0e57b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2580",
+      "source": "PMC8183356",
+      "target": "CUSTOM:3aea3c76",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2578",
+      "source": "PMC8183356",
+      "target": "CUSTOM:377123a0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2576",
+      "source": "PMC8183356",
+      "target": "CUSTOM:14a6487d",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2574",
+      "source": "PMC8183356",
+      "target": "CUSTOM:c38ba192",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2572",
+      "source": "PMC8183356",
+      "target": "CUSTOM:ea9c3fda",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2570",
+      "source": "PMC8183356",
+      "target": "CUSTOM:1f7f598a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2568",
+      "source": "PMC8183356",
+      "target": "CUSTOM:4bd007b2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2566",
+      "source": "PMC8183356",
+      "target": "CUSTOM:814cd16e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2564",
+      "source": "PMC8183356",
+      "target": "CUSTOM:15e6697a",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2562",
+      "source": "PMC8183356",
+      "target": "CUSTOM:0ffa4378",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2560",
+      "source": "PMC8183356",
+      "target": "CUSTOM:399e98ac",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "2558",
+      "source": "PMC8183356",
+      "target": "CUSTOM:1da4da3c",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 18,
+  "num_edges": 17
+}

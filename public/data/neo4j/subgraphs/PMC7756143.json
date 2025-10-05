@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC7756143",
+  "nodes": [
+    {
+      "fullLabel": "PMC7756143",
+      "id": "PMC7756143",
+      "label": "PMC7756143",
+      "properties": {
+        "pmcid": "PMC7756143",
+        "first_seen": "2025-10-05T07:29:02.627334",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:02.643501"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Impact of euthanasia methods evaluated on gene expression in select tissues",
+      "id": "CUSTOM:36cbe59c",
+      "label": "Impact of euthana...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.645016",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Impact of euthanasia methods evaluated on gene expression in select tissues",
+        "last_seen": "2025-10-05T07:29:02.645016",
+        "obo_id": "CUSTOM:36cbe59c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Number of DEGs and enriched GO terms among liver and quadriceps samples when comparing different euthanasia methods",
+      "id": "CUSTOM:f077af48",
+      "label": "Number of DEGs an...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.641298",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Number of DEGs and enriched GO terms among liver and quadriceps samples when comparing different euthanasia methods",
+        "last_seen": "2025-10-05T07:29:02.641298",
+        "obo_id": "CUSTOM:f077af48"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Global gene expression differences in liver and quadriceps samples dissected from mice euthanized with different methods",
+      "id": "CUSTOM:92ef6cfe",
+      "label": "Global gene expre...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.637387",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Global gene expression differences in liver and quadriceps samples dissected from mice euthanized with different methods",
+        "last_seen": "2025-10-05T07:29:02.637387",
+        "obo_id": "CUSTOM:92ef6cfe"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Number of differentially expressed genes (DEGs) when carcass is cut into thirds and preserved in RNAlater compared with immediate dissection followed by tissue preservation in LN2 or RNAlater",
+      "id": "CUSTOM:fbcb96e0",
+      "label": "Number of differe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.633360",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Number of differentially expressed genes (DEGs) when carcass is cut into thirds and preserved in RNAlater compared with immediate dissection followed by tissue preservation in LN2 or RNAlater",
+        "last_seen": "2025-10-05T07:29:02.633360",
+        "obo_id": "CUSTOM:fbcb96e0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Number of differentially expressed genes (DEGs) in carcass versus immediate samples",
+      "id": "CUSTOM:087cb8e1",
+      "label": "Number of differe...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:02.628770",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Number of differentially expressed genes (DEGs) in carcass versus immediate samples",
+        "last_seen": "2025-10-05T07:29:02.628770",
+        "obo_id": "CUSTOM:087cb8e1"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "662",
+      "source": "PMC7756143",
+      "target": "CUSTOM:36cbe59c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "660",
+      "source": "PMC7756143",
+      "target": "CUSTOM:f077af48",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "658",
+      "source": "PMC7756143",
+      "target": "CUSTOM:92ef6cfe",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "656",
+      "source": "PMC7756143",
+      "target": "CUSTOM:fbcb96e0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "654",
+      "source": "PMC7756143",
+      "target": "CUSTOM:087cb8e1",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 6,
+  "num_edges": 5
+}

@@ -1,0 +1,23 @@
+{
+  "pmcid": "PMC8450295",
+  "title": "Telomere length assessments of muscle stem cells in rodent and human skeletal muscle sections",
+  "authors": [
+    "Elisia D Tichy",
+    "Foteini Mourkioti"
+  ],
+  "year": "2021",
+  "journal": "STAR Protocols",
+  "doi": "10.1016/j.xpro.2021.100830",
+  "sections": {
+    "abstract": "Measurements of telomere length in skeletal muscle stem cells (MuSCs), a rare cell population within muscles, provide insights into cellular dysfunction in diseased conditions. Here, we describe a protocol (cryosectionmusclequantitativefluorescentinsituhybridization) using skeletal muscle cryosections for assessments of telomere length in MuSCs, in their native environment. Using a free software, telomere length measurements are assessed on a single cell level. We also provide methodology to perform data analyses in several ways.\n\nFor complete details on the use and execution of this protocol, please refer toTichy etal. (2021).\n\nSubject areas:Cell Biology, Cell isolation, Cell based Assays, In Situ Hybridization, Microscopy, Stem Cells",
+    "methods": "",
+    "results": "",
+    "discussion": "",
+    "conclusion": ""
+  },
+  "provenance": {
+    "source_type": "html",
+    "fetched_at": "2025 10 04T03:04:39.549425",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8450295/"
+  }
+}

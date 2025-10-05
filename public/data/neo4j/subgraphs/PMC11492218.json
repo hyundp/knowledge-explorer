@@ -1,0 +1,263 @@
+{
+  "pmcid": "PMC11492218",
+  "nodes": [
+    {
+      "fullLabel": "PMC11492218",
+      "id": "PMC11492218",
+      "label": "PMC11492218",
+      "properties": {
+        "pmcid": "PMC11492218",
+        "first_seen": "2025-10-05T07:29:04.711265",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.783119"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "impact on patients' hemodynamics",
+      "id": "CUSTOM:d9a8a048",
+      "label": "impact on patient...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.784909",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "impact on patients' hemodynamics",
+        "last_seen": "2025-10-05T07:29:04.784909",
+        "obo_id": "CUSTOM:d9a8a048"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "surgical field clarity",
+      "id": "CUSTOM:d99db83f",
+      "label": "surgical field cl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.780228",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "surgical field clarity",
+        "last_seen": "2025-10-05T07:29:04.780228",
+        "obo_id": "CUSTOM:d99db83f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "recommended epinephrine concentration range to minimize hemodynamic impact",
+      "id": "CUSTOM:3e1b9e82",
+      "label": "recommended epine...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.775340",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "recommended epinephrine concentration range to minimize hemodynamic impact",
+        "last_seen": "2025-10-05T07:29:04.775340",
+        "obo_id": "CUSTOM:3e1b9e82"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "evidence for myocardial ischemia following epinephrine injection",
+      "id": "CUSTOM:ef335c4c",
+      "label": "evidence for myoc...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.771140",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "evidence for myocardial ischemia following epinephrine injection",
+        "last_seen": "2025-10-05T07:29:04.771140",
+        "obo_id": "CUSTOM:ef335c4c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ST segment changes (ECG)",
+      "id": "CUSTOM:e12df560",
+      "label": "ST segment change...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.766943",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ST segment changes (ECG)",
+        "last_seen": "2025-10-05T07:29:04.766943",
+        "obo_id": "CUSTOM:e12df560"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "temporal pattern of heart rate and blood pressure (double wave peak)",
+      "id": "CUSTOM:57c41b04",
+      "label": "temporal pattern ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.762679",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "temporal pattern of heart rate and blood pressure (double wave peak)",
+        "last_seen": "2025-10-05T07:29:04.762679",
+        "obo_id": "CUSTOM:57c41b04"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "heart rate and blood pressure (HR, MAP, SBP, DBP) at 30 minutes",
+      "id": "CUSTOM:43ff9872",
+      "label": "heart rate and bl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.758133",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "heart rate and blood pressure (HR, MAP, SBP, DBP) at 30 minutes",
+        "last_seen": "2025-10-05T07:29:04.758133",
+        "obo_id": "CUSTOM:43ff9872"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "heart rate and blood pressure (HR, MAP, SBP, DBP) at 30 minutes",
+      "id": "CUSTOM:d80784bf",
+      "label": "heart rate and bl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.751029",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "heart rate and blood pressure (HR, MAP, SBP, DBP) at 30 minutes",
+        "last_seen": "2025-10-05T07:29:04.751029",
+        "obo_id": "CUSTOM:d80784bf"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "heart rate and blood pressure (HR, MAP, SBP, DBP)",
+      "id": "CUSTOM:897a1fa6",
+      "label": "heart rate and bl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.745844",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "heart rate and blood pressure (HR, MAP, SBP, DBP)",
+        "last_seen": "2025-10-05T07:29:04.745844",
+        "obo_id": "CUSTOM:897a1fa6"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "tympanic membrane flap flipping time",
+      "id": "CUSTOM:875c1b2f",
+      "label": "tympanic membrane...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.719808",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "tympanic membrane flap flipping time",
+        "last_seen": "2025-10-05T07:29:04.719808",
+        "obo_id": "CUSTOM:875c1b2f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "surgical field clarity grade",
+      "id": "CUSTOM:faf63e1e",
+      "label": "surgical field cl...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.713146",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "surgical field clarity grade",
+        "last_seen": "2025-10-05T07:29:04.713146",
+        "obo_id": "CUSTOM:faf63e1e"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1380",
+      "source": "PMC11492218",
+      "target": "CUSTOM:d9a8a048",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1378",
+      "source": "PMC11492218",
+      "target": "CUSTOM:d99db83f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1376",
+      "source": "PMC11492218",
+      "target": "CUSTOM:3e1b9e82",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1374",
+      "source": "PMC11492218",
+      "target": "CUSTOM:ef335c4c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1372",
+      "source": "PMC11492218",
+      "target": "CUSTOM:e12df560",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1370",
+      "source": "PMC11492218",
+      "target": "CUSTOM:57c41b04",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1368",
+      "source": "PMC11492218",
+      "target": "CUSTOM:43ff9872",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1366",
+      "source": "PMC11492218",
+      "target": "CUSTOM:d80784bf",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1364",
+      "source": "PMC11492218",
+      "target": "CUSTOM:897a1fa6",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1362",
+      "source": "PMC11492218",
+      "target": "CUSTOM:875c1b2f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1360",
+      "source": "PMC11492218",
+      "target": "CUSTOM:faf63e1e",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 12,
+  "num_edges": 11
+}

@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC11022651",
+  "nodes": [
+    {
+      "fullLabel": "PMC11022651",
+      "id": "PMC11022651",
+      "label": "PMC11022651",
+      "properties": {
+        "pmcid": "PMC11022651",
+        "first_seen": "2025-10-05T07:29:00.927256",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:00.949630"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "CHIP sequencing data available as a reference point for studying the early development of CHIP in astronauts",
+      "id": "CUSTOM:0a44f83f",
+      "label": "CHIP sequencing d...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.951304",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "CHIP sequencing data available as a reference point for studying the early development of CHIP in astronauts",
+        "last_seen": "2025-10-05T07:29:00.951304",
+        "obo_id": "CUSTOM:0a44f83f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "immune cell gene expression adapting to spaceflight and persisting after return to Earth",
+      "id": "CUSTOM:6e885a10",
+      "label": "immune cell gene ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.945714",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "immune cell gene expression adapting to spaceflight and persisting after return to Earth",
+        "last_seen": "2025-10-05T07:29:00.945714",
+        "obo_id": "CUSTOM:6e885a10"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "telomere dynamics adapting to spaceflight and persisting after return to Earth",
+      "id": "CUSTOM:7d59be63",
+      "label": "telomere dynamics...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.940658",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "telomere dynamics adapting to spaceflight and persisting after return to Earth",
+        "last_seen": "2025-10-05T07:29:00.940658",
+        "obo_id": "CUSTOM:7d59be63"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "92",
+      "source": "PMC11022651",
+      "target": "CUSTOM:0a44f83f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "90",
+      "source": "PMC11022651",
+      "target": "CUSTOM:6e885a10",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "88",
+      "source": "PMC11022651",
+      "target": "CUSTOM:7d59be63",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 4,
+  "num_edges": 3
+}

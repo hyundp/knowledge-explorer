@@ -1,0 +1,725 @@
+{
+  "pmcid": "PMC4494396",
+  "nodes": [
+    {
+      "fullLabel": "PMC4494396",
+      "id": "PMC4494396",
+      "label": "PMC4494396",
+      "properties": {
+        "pmcid": "PMC4494396",
+        "first_seen": "2025-10-05T07:29:00.494292",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:00.807695"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Understanding the sequence of events in the Earth crust provides insight into the causes of unusual pre-earthquake animal behavior",
+      "id": "CUSTOM:063d2980",
+      "label": "Understanding the...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.809182",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Understanding the sequence of events in the Earth crust provides insight into the causes of unusual pre-earthquake animal behavior",
+        "last_seen": "2025-10-05T07:29:00.809182",
+        "obo_id": "CUSTOM:063d2980"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Charge carriers arriving at the water-air interface oxidize the water and possibly organic compounds dissolved in the water, producing potentially hazardous toxins",
+      "id": "CUSTOM:394b3148",
+      "label": "Charge carriers a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.804320",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Charge carriers arriving at the water-air interface oxidize the water and possibly organic compounds dissolved in the water, producing potentially hazardous toxins",
+        "last_seen": "2025-10-05T07:29:00.804320",
+        "obo_id": "CUSTOM:394b3148"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Positive airborne ions produce pronounced and generally detrimental physiological effects",
+      "id": "CUSTOM:7d47a6c7",
+      "label": "Positive airborne...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.799301",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Positive airborne ions produce pronounced and generally detrimental physiological effects",
+        "last_seen": "2025-10-05T07:29:00.799301",
+        "obo_id": "CUSTOM:7d47a6c7"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Charge carriers arriving at the ground-air interface ionize the air, producing exclusively positive airborne ions under certain conditions",
+      "id": "CUSTOM:64c71358",
+      "label": "Charge carriers a...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.794395",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Charge carriers arriving at the ground-air interface ionize the air, producing exclusively positive airborne ions under certain conditions",
+        "last_seen": "2025-10-05T07:29:00.794395",
+        "obo_id": "CUSTOM:64c71358"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "ULF and ELF waves interact with living organisms and interfere with fundamental biochemical reactions at the cellular level",
+      "id": "CUSTOM:05d6b4d2",
+      "label": "ULF and ELF waves...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.790037",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "ULF and ELF waves interact with living organisms and interfere with fundamental biochemical reactions at the cellular level",
+        "last_seen": "2025-10-05T07:29:00.790037",
+        "obo_id": "CUSTOM:05d6b4d2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Generation of electromagnetic waves (ULF/ELF) by the charge carriers; ULF/ELF portion can be transmitted through rocks",
+      "id": "CUSTOM:9d304cf3",
+      "label": "Generation of ele...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.784956",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Generation of electromagnetic waves (ULF/ELF) by the charge carriers; ULF/ELF portion can be transmitted through rocks",
+        "last_seen": "2025-10-05T07:29:00.784956",
+        "obo_id": "CUSTOM:9d304cf3"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Electronic charge carriers spread out of the stressed rock volume into surrounding rocks, traveling fast and far",
+      "id": "CUSTOM:be349d96",
+      "label": "Electronic charge...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.779914",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Electronic charge carriers spread out of the stressed rock volume into surrounding rocks, traveling fast and far",
+        "last_seen": "2025-10-05T07:29:00.779914",
+        "obo_id": "CUSTOM:be349d96"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Activation of electronic charge carriers in stressed rock",
+      "id": "CUSTOM:aba35ebb",
+      "label": "Activation of ele...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.775180",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Activation of electronic charge carriers in stressed rock",
+        "last_seen": "2025-10-05T07:29:00.775180",
+        "obo_id": "CUSTOM:aba35ebb"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "A previously unknown or overlooked physical process takes place in rocks subjected to large stresses deep below in the Earth crust before major earthquakes",
+      "id": "CUSTOM:35928341",
+      "label": "A previously unkn...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.770827",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "A previously unknown or overlooked physical process takes place in rocks subjected to large stresses deep below in the Earth crust before major earthquakes",
+        "last_seen": "2025-10-05T07:29:00.770827",
+        "obo_id": "CUSTOM:35928341"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "animal responses to a range of different physical and chemical stimuli arising directly or indirectly from stress activation of h• charge carriers",
+      "id": "CUSTOM:5f86e54b",
+      "label": "animal responses ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.766436",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "animal responses to a range of different physical and chemical stimuli arising directly or indirectly from stress activation of h• charge carriers",
+        "last_seen": "2025-10-05T07:29:00.766436",
+        "obo_id": "CUSTOM:5f86e54b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "oxidative damage and genome sequence variation (non-random mutation) between generations caused by ubiquitous environmental factors leaking electrons through the ETC",
+      "id": "CUSTOM:5dc0a22e",
+      "label": "oxidative damage ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.761222",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "oxidative damage and genome sequence variation (non-random mutation) between generations caused by ubiquitous environmental factors leaking electrons through the ETC",
+        "last_seen": "2025-10-05T07:29:00.761222",
+        "obo_id": "CUSTOM:5dc0a22e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "oxidative stress in living organisms due to ULF and ELF waves coupling to and modulating the electron transport chain (ETC), transferring energy that exceeds buffering capacity against free radicals",
+      "id": "CUSTOM:9bc4dfee",
+      "label": "oxidative stress ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.756143",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "oxidative stress in living organisms due to ULF and ELF waves coupling to and modulating the electron transport chain (ETC), transferring energy that exceeds buffering capacity against free radicals",
+        "last_seen": "2025-10-05T07:29:00.756143",
+        "obo_id": "CUSTOM:9bc4dfee"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "oxidation of H2O to H2O2 at the ground-water interface by highly oxidizing O radicals associated with h•",
+      "id": "CUSTOM:63a6159e",
+      "label": "oxidation of H2O ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.750999",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "oxidation of H2O to H2O2 at the ground-water interface by highly oxidizing O radicals associated with h•",
+        "last_seen": "2025-10-05T07:29:00.750999",
+        "obo_id": "CUSTOM:63a6159e"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "air ionization and corona discharges upon arrival of h• at the ground-air interface",
+      "id": "CUSTOM:2da8dcb0",
+      "label": "air ionization an...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.744178",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "air ionization and corona discharges upon arrival of h• at the ground-air interface",
+        "last_seen": "2025-10-05T07:29:00.744178",
+        "obo_id": "CUSTOM:2da8dcb0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "generation of ULF and ELF electromagnetic radiation during propagation of h• through the Earth crust",
+      "id": "CUSTOM:2bc45637",
+      "label": "generation of ULF...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.738640",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "generation of ULF and ELF electromagnetic radiation during propagation of h• through the Earth crust",
+        "last_seen": "2025-10-05T07:29:00.738640",
+        "obo_id": "CUSTOM:2bc45637"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "mobility and spreading of h• charge carriers out of the stressed rock volume into surrounding less stressed or unstressed rocks",
+      "id": "CUSTOM:a6a63de2",
+      "label": "mobility and spre...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.730231",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "mobility and spreading of h• charge carriers out of the stressed rock volume into surrounding less stressed or unstressed rocks",
+        "last_seen": "2025-10-05T07:29:00.730231",
+        "obo_id": "CUSTOM:a6a63de2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "occurrence of stress-activation of h• charge carriers during every episode of waxing stress regardless of whether rocks rupture catastrophically",
+      "id": "CUSTOM:335b1009",
+      "label": "occurrence of str...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.724891",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "occurrence of stress-activation of h• charge carriers during every episode of waxing stress regardless of whether rocks rupture catastrophically",
+        "last_seen": "2025-10-05T07:29:00.724891",
+        "obo_id": "CUSTOM:335b1009"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "activation of positive hole (h•) charge carriers in rocks during build up of stress before catastrophic rupture",
+      "id": "CUSTOM:d80cf039",
+      "label": "activation of pos...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.719125",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "activation of positive hole (h•) charge carriers in rocks during build up of stress before catastrophic rupture",
+        "last_seen": "2025-10-05T07:29:00.719125",
+        "obo_id": "CUSTOM:d80cf039"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "animals display behaviors indicative of earthquake-related environmental disturbances that are unobservable by physical and chemical sensor systems available to earthquake scientists",
+      "id": "CUSTOM:f5761ba2",
+      "label": "animals display b...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.701274",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "animals display behaviors indicative of earthquake-related environmental disturbances that are unobservable by physical and chemical sensor systems available to earthquake scientists",
+        "last_seen": "2025-10-05T07:29:00.701274",
+        "obo_id": "CUSTOM:f5761ba2"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "rapid behavioral response (early warning) in some animal species prior to onset of strong shaking",
+      "id": "CUSTOM:0d0e1f4c",
+      "label": "rapid behavioral ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.695448",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "rapid behavioral response (early warning) in some animal species prior to onset of strong shaking",
+        "last_seen": "2025-10-05T07:29:00.695448",
+        "obo_id": "CUSTOM:0d0e1f4c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "animal behavioral response to small earthquakes (foreshocks)",
+      "id": "CUSTOM:efbd2d1b",
+      "label": "animal behavioral...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.662457",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "animal behavioral response to small earthquakes (foreshocks)",
+        "last_seen": "2025-10-05T07:29:00.662457",
+        "obo_id": "CUSTOM:efbd2d1b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Animal responses to a range of physical and chemical stimuli arising directly or indirectly from the stress activation of h charge carriers",
+      "id": "CUSTOM:9c50f44b",
+      "label": "Animal responses ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.655098",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Animal responses to a range of physical and chemical stimuli arising directly or indirectly from the stress activation of h charge carriers",
+        "last_seen": "2025-10-05T07:29:00.655098",
+        "obo_id": "CUSTOM:9c50f44b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Oxidative damage and genome sequence variation (non-random mutation) between generations caused by leaking electrons from ubiquitous environmental factors acting through the ETC",
+      "id": "CUSTOM:083c16e5",
+      "label": "Oxidative damage ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.648150",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Oxidative damage and genome sequence variation (non-random mutation) between generations caused by leaking electrons from ubiquitous environmental factors acting through the ETC",
+        "last_seen": "2025-10-05T07:29:00.648150",
+        "obo_id": "CUSTOM:083c16e5"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Oxidative stress in living organisms caused by ULF and ELF waves coupling to the electron transport chain (ETC), transferring energy that exceeds buffering capacity against free radicals",
+      "id": "CUSTOM:825c2b8c",
+      "label": "Oxidative stress ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.629250",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Oxidative stress in living organisms caused by ULF and ELF waves coupling to the electron transport chain (ETC), transferring energy that exceeds buffering capacity against free radicals",
+        "last_seen": "2025-10-05T07:29:00.629250",
+        "obo_id": "CUSTOM:825c2b8c"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Oxidation of H2O to H2O2 (production of hydrogen peroxide) at the ground-water interface by h acting as highly oxidizing O radicals",
+      "id": "CUSTOM:286678b0",
+      "label": "Oxidation of H2O ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.623772",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Oxidation of H2O to H2O2 (production of hydrogen peroxide) at the ground-water interface by h acting as highly oxidizing O radicals",
+        "last_seen": "2025-10-05T07:29:00.623772",
+        "obo_id": "CUSTOM:286678b0"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Air ionization and corona discharges at the ground-air interface caused by arrival of h charge carriers",
+      "id": "CUSTOM:c20593ac",
+      "label": "Air ionization an...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.619688",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Air ionization and corona discharges at the ground-air interface caused by arrival of h charge carriers",
+        "last_seen": "2025-10-05T07:29:00.619688",
+        "obo_id": "CUSTOM:c20593ac"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Generation of ULF and ELF electromagnetic radiation during propagation of h charge carriers through the Earth's crust",
+      "id": "CUSTOM:a01cfbb9",
+      "label": "Generation of ULF...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.615031",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Generation of ULF and ELF electromagnetic radiation during propagation of h charge carriers through the Earth's crust",
+        "last_seen": "2025-10-05T07:29:00.615031",
+        "obo_id": "CUSTOM:a01cfbb9"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Spread / propagation of positive hole charge carriers (h) out of stressed rock volumes into surrounding less stressed or unstressed rocks",
+      "id": "CUSTOM:418f0381",
+      "label": "Spread / propagat...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.610137",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Spread / propagation of positive hole charge carriers (h) out of stressed rock volumes into surrounding less stressed or unstressed rocks",
+        "last_seen": "2025-10-05T07:29:00.610137",
+        "obo_id": "CUSTOM:418f0381"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Activation of positive hole charge carriers (h) in rocks during the build up of stress in the Earth's crust (pre-earthquake)",
+      "id": "CUSTOM:d6e3c276",
+      "label": "Activation of pos...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.604486",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Activation of positive hole charge carriers (h) in rocks during the build up of stress in the Earth's crust (pre-earthquake)",
+        "last_seen": "2025-10-05T07:29:00.604486",
+        "obo_id": "CUSTOM:d6e3c276"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Pre-earthquake behavioral responses in the few seconds prior to strong shaking (putative 'early warning' systems)",
+      "id": "CUSTOM:4293616f",
+      "label": "Pre-earthquake be...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.587979",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Pre-earthquake behavioral responses in the few seconds prior to strong shaking (putative 'early warning' systems)",
+        "last_seen": "2025-10-05T07:29:00.587979",
+        "obo_id": "CUSTOM:4293616f"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Behavioral responses to signals that animals can feel, such as small earthquakes that might be foreshocks",
+      "id": "CUSTOM:301caaff",
+      "label": "Behavioral respon...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.570530",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Behavioral responses to signals that animals can feel, such as small earthquakes that might be foreshocks",
+        "last_seen": "2025-10-05T07:29:00.570530",
+        "obo_id": "CUSTOM:301caaff"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Animal behaviors indicative of earthquake-related environmental disturbances that are unobservable by physical and chemical sensor systems",
+      "id": "CUSTOM:7a9f04f0",
+      "label": "Animal behaviors ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:00.530554",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Animal behaviors indicative of earthquake-related environmental disturbances that are unobservable by physical and chemical sensor systems",
+        "last_seen": "2025-10-05T07:29:00.530554",
+        "obo_id": "CUSTOM:7a9f04f0"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "74",
+      "source": "PMC4494396",
+      "target": "CUSTOM:063d2980",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "72",
+      "source": "PMC4494396",
+      "target": "CUSTOM:394b3148",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "70",
+      "source": "PMC4494396",
+      "target": "CUSTOM:7d47a6c7",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "68",
+      "source": "PMC4494396",
+      "target": "CUSTOM:64c71358",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "66",
+      "source": "PMC4494396",
+      "target": "CUSTOM:05d6b4d2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "64",
+      "source": "PMC4494396",
+      "target": "CUSTOM:9d304cf3",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "62",
+      "source": "PMC4494396",
+      "target": "CUSTOM:be349d96",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "60",
+      "source": "PMC4494396",
+      "target": "CUSTOM:aba35ebb",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "58",
+      "source": "PMC4494396",
+      "target": "CUSTOM:35928341",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "56",
+      "source": "PMC4494396",
+      "target": "CUSTOM:5f86e54b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "54",
+      "source": "PMC4494396",
+      "target": "CUSTOM:5dc0a22e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "52",
+      "source": "PMC4494396",
+      "target": "CUSTOM:9bc4dfee",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "50",
+      "source": "PMC4494396",
+      "target": "CUSTOM:63a6159e",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "48",
+      "source": "PMC4494396",
+      "target": "CUSTOM:2da8dcb0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "46",
+      "source": "PMC4494396",
+      "target": "CUSTOM:2bc45637",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "44",
+      "source": "PMC4494396",
+      "target": "CUSTOM:a6a63de2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "42",
+      "source": "PMC4494396",
+      "target": "CUSTOM:335b1009",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "40",
+      "source": "PMC4494396",
+      "target": "CUSTOM:d80cf039",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "38",
+      "source": "PMC4494396",
+      "target": "CUSTOM:f5761ba2",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "36",
+      "source": "PMC4494396",
+      "target": "CUSTOM:0d0e1f4c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "34",
+      "source": "PMC4494396",
+      "target": "CUSTOM:efbd2d1b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "32",
+      "source": "PMC4494396",
+      "target": "CUSTOM:9c50f44b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "30",
+      "source": "PMC4494396",
+      "target": "CUSTOM:083c16e5",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "28",
+      "source": "PMC4494396",
+      "target": "CUSTOM:825c2b8c",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "26",
+      "source": "PMC4494396",
+      "target": "CUSTOM:286678b0",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "24",
+      "source": "PMC4494396",
+      "target": "CUSTOM:c20593ac",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "22",
+      "source": "PMC4494396",
+      "target": "CUSTOM:a01cfbb9",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "20",
+      "source": "PMC4494396",
+      "target": "CUSTOM:418f0381",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "18",
+      "source": "PMC4494396",
+      "target": "CUSTOM:d6e3c276",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "16",
+      "source": "PMC4494396",
+      "target": "CUSTOM:4293616f",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "14",
+      "source": "PMC4494396",
+      "target": "CUSTOM:301caaff",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "12",
+      "source": "PMC4494396",
+      "target": "CUSTOM:7a9f04f0",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 33,
+  "num_edges": 32
+}

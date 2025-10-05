@@ -1,0 +1,153 @@
+{
+  "pmcid": "PMC11166968",
+  "nodes": [
+    {
+      "fullLabel": "PMC11166968",
+      "id": "PMC11166968",
+      "label": "PMC11166968",
+      "properties": {
+        "pmcid": "PMC11166968",
+        "first_seen": "2025-10-05T07:29:04.674727",
+        "authors": [],
+        "last_seen": "2025-10-05T07:29:04.705532"
+      },
+      "type": "Paper"
+    },
+    {
+      "fullLabel": "Earlier and better implementation of guidelines improves chances that space travel can be performed safely and optimally",
+      "id": "CUSTOM:defa3b15",
+      "label": "Earlier and bette...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.707817",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Earlier and better implementation of guidelines improves chances that space travel can be performed safely and optimally",
+        "last_seen": "2025-10-05T07:29:04.707817",
+        "obo_id": "CUSTOM:defa3b15"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Increased complexity in crafting guidelines due to non universal terminology and diversity of spaceflight endeavors",
+      "id": "CUSTOM:5138a18b",
+      "label": "Increased complex...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.701116",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Increased complexity in crafting guidelines due to non universal terminology and diversity of spaceflight endeavors",
+        "last_seen": "2025-10-05T07:29:04.701116",
+        "obo_id": "CUSTOM:5138a18b"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Regulatory difference: non-governmental outfits are not bound by the same rules as governmental entities",
+      "id": "CUSTOM:fcd74651",
+      "label": "Regulatory differ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.694528",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Regulatory difference: non-governmental outfits are not bound by the same rules as governmental entities",
+        "last_seen": "2025-10-05T07:29:04.694528",
+        "obo_id": "CUSTOM:fcd74651"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Need for unified ethical guidelines to safeguard human well being during selection, research, and decision making in space",
+      "id": "CUSTOM:9ffbd656",
+      "label": "Need for unified ...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.688661",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Need for unified ethical guidelines to safeguard human well being during selection, research, and decision making in space",
+        "last_seen": "2025-10-05T07:29:04.688661",
+        "obo_id": "CUSTOM:9ffbd656"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Burden/need to ensure future space travel is safe and ethical",
+      "id": "CUSTOM:5775dee8",
+      "label": "Burden/need to en...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.682731",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Burden/need to ensure future space travel is safe and ethical",
+        "last_seen": "2025-10-05T07:29:04.682731",
+        "obo_id": "CUSTOM:5775dee8"
+      },
+      "type": "Phenotype"
+    },
+    {
+      "fullLabel": "Availability of commercial/private and civilian spaceflights (e.g., Inspiration4 and the Polaris missions)",
+      "id": "CUSTOM:3a516e92",
+      "label": "Availability of c...",
+      "properties": {
+        "first_seen": "2025-10-05T07:29:04.676963",
+        "source_count": 1,
+        "source_obo": "CUSTOM",
+        "synonyms": [],
+        "label": "Availability of commercial/private and civilian spaceflights (e.g., Inspiration4 and the Polaris missions)",
+        "last_seen": "2025-10-05T07:29:04.676963",
+        "obo_id": "CUSTOM:3a516e92"
+      },
+      "type": "Phenotype"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1358",
+      "source": "PMC11166968",
+      "target": "CUSTOM:defa3b15",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1356",
+      "source": "PMC11166968",
+      "target": "CUSTOM:5138a18b",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1354",
+      "source": "PMC11166968",
+      "target": "CUSTOM:fcd74651",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1352",
+      "source": "PMC11166968",
+      "target": "CUSTOM:9ffbd656",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1350",
+      "source": "PMC11166968",
+      "target": "CUSTOM:5775dee8",
+      "properties": {},
+      "type": "REPORTS"
+    },
+    {
+      "id": "1348",
+      "source": "PMC11166968",
+      "target": "CUSTOM:3a516e92",
+      "properties": {},
+      "type": "REPORTS"
+    }
+  ],
+  "num_nodes": 7,
+  "num_edges": 6
+}
