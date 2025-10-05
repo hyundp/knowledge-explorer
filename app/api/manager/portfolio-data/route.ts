@@ -1,39 +1,23 @@
 import { NextResponse } from 'next/server';
 import { Portfolio, PortfoliosData } from '@/lib/types';
-import fs from 'fs/promises';
-import path from 'path';
 
-const PORTFOLIOS_FILE = path.join(process.cwd(), 'data', 'portfolios.json');
-
-// Ensure data directory exists
-async function ensureDataDir() {
-  const dir = path.dirname(PORTFOLIOS_FILE);
-  try {
-    await fs.access(dir);
-  } catch {
-    await fs.mkdir(dir, { recursive: true });
-  }
-}
+// In-memory storage for serverless environments (data will be lost on restart)
+// For production, use a database like Vercel KV, Postgres, or MongoDB
+let portfoliosStore: PortfoliosData = { portfolios: [] };
 
 // Read all portfolios
 async function readPortfolios(): Promise<PortfoliosData> {
-  try {
-    const data = await fs.readFile(PORTFOLIOS_FILE, 'utf-8');
-    return JSON.parse(data);
-  } catch {
-    return { portfolios: [] };
-  }
+  return portfoliosStore;
 }
 
 // Write all portfolios
 async function writePortfolios(data: PortfoliosData): Promise<void> {
-  await fs.writeFile(PORTFOLIOS_FILE, JSON.stringify(data, null, 2), 'utf-8');
+  portfoliosStore = data;
 }
 
 // GET: Retrieve all portfolios
-export async function GET(request: Request) {
+export async function GET() {
   try {
-    await ensureDataDir();
     const portfoliosData = await readPortfolios();
     return NextResponse.json(portfoliosData);
   } catch (error) {
@@ -49,7 +33,6 @@ export async function GET(request: Request) {
 // POST: Create or update a portfolio
 export async function POST(request: Request) {
   try {
-    await ensureDataDir();
     const body = await request.json();
     const { portfolioId, name, description, papers } = body;
 
@@ -124,7 +107,6 @@ export async function POST(request: Request) {
 // DELETE: Delete a portfolio
 export async function DELETE(request: Request) {
   try {
-    await ensureDataDir();
     const { searchParams } = new URL(request.url);
     const portfolioId = searchParams.get('id');
 

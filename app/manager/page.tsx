@@ -87,27 +87,40 @@ export default function ManagerDashboard() {
       try {
         // Load all papers
         const papersRes = await fetch('/api/papers');
+        if (!papersRes.ok) {
+          throw new Error(`Failed to fetch papers: ${papersRes.status}`);
+        }
         const papers: Paper[] = await papersRes.json();
 
         // Load portfolios
         const portfoliosRes = await fetch('/api/manager/portfolio-data');
+        if (!portfoliosRes.ok) {
+          throw new Error(`Failed to fetch portfolios: ${portfoliosRes.status}`);
+        }
         const portfoliosData: PortfoliosData = await portfoliosRes.json();
 
         // Load gap ROI data for recommendations
         const roiRes = await fetch('/api/manager/gap-roi');
+        if (!roiRes.ok) {
+          throw new Error(`Failed to fetch gap-roi: ${roiRes.status}`);
+        }
         const roiData: GapROIResponse = await roiRes.json();
 
-        setAllPapers(papers);
-        setPortfolios(portfoliosData.portfolios);
-        setGapROIData(roiData);
+        setAllPapers(papers || []);
+        setPortfolios(portfoliosData?.portfolios || []);
+        setGapROIData(roiData || { gaps: [], metadata: { totalGaps: 0, avgROI: 0, highPriorityCount: 0 } });
 
         // Set first portfolio as current if exists
-        if (portfoliosData.portfolios.length > 0) {
+        if (portfoliosData?.portfolios && portfoliosData.portfolios.length > 0) {
           setCurrentPortfolio(portfoliosData.portfolios[0]);
           setPortfolioPapers(portfoliosData.portfolios[0].papers);
         }
       } catch (error) {
         console.error('Error loading manager data:', error);
+        // Set default empty states to prevent undefined errors
+        setAllPapers([]);
+        setPortfolios([]);
+        setGapROIData({ gaps: [], metadata: { totalGaps: 0, avgROI: 0, highPriorityCount: 0 } });
       } finally {
         setLoading(false);
       }
