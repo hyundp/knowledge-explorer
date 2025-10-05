@@ -1,203 +1,306 @@
-# Space Bio KG - Web Development (Standalone)
+# Space Biology Knowledge Explorer
 
-This is a standalone version of the Space Biology Knowledge Graph web application that includes both frontend and backend components.
+A Next.js web application for exploring space biology research through an interactive knowledge graph, gap analysis, and consensus findings.
 
-## Features
+**🚀 Optimized for Vercel deployment with static data (28MB total)**
 
-### 1. Main Hub
-- AI-powered RAG search across 608 papers
-- Browse papers with metadata
-- Paper detail drawer with full content
+## ✨ Features
 
-### 2. Gap Finder
+### 1. Home Dashboard
+- Browse 572 space biology research papers
+- Search and filter papers by metadata
+- View paper details with full abstracts and methods
+
+### 2. Knowledge Graph Explorer
+- Interactive network visualization of 2,582 nodes and 2,315 edges
+- Paper → Phenotype relationships with direct connections
+- **Node labels**: 30 characters max on graph, full text in details panel
+- Click nodes to view complete information
+- Search papers by PMCID
+- Load more functionality (7 papers at a time, max 50)
+
+### 3. Gap Finder
 - Interactive heatmap showing research coverage
-- Filter by organism, tissue, exposure type, and duration
-- Identify under-researched areas
+- Filter by organism, tissue, exposure type, and study duration
+- Identify under-researched areas in space biology
 
-### 3. Knowledge Graph Explorer
-- Interactive network graph using Cytoscape.js
-- Explore relationships between papers, phenotypes, organisms, and tissues
-- Click nodes to view details
+### 4. Consensus Analysis
+- Statistical analysis of phenotype findings across studies
+- Effect size visualization
+- Identify agreement and conflicts in research
 
-### 4. Consensus & Conflict Analysis
-- Forest plot visualization of effect sizes
-- Statistical analysis of phenotype findings
-- Identify outlier studies
+### 5. Research Insights
+- AI-generated insights from space biology literature
+- Trend analysis and key findings
 
-## Tech Stack
+### 6. Mission Architect
+- Plan research missions based on data gaps
+- Priority-based recommendations
 
-- **Framework**: Next.js 15 with App Router
+### 7. Research Manager
+- Portfolio management for research projects
+- ROI analysis for research investments
+
+## 🛠 Tech Stack
+
+- **Framework**: Next.js 15 with App Router & Turbopack
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **UI Components**: Custom components based on Radix UI
-- **Visualizations**: Cytoscape.js for knowledge graphs
-- **State**: React hooks
+- **UI Components**: Radix UI
+- **Graph Visualization**: Cytoscape.js with Cola layout
+- **Data**: Static JSON files (no database required)
 
-## Prerequisites
+## 📦 Data Structure
 
-- Python 3.10+
+All data is stored in `public/data/` (28MB total):
+
+```
+public/data/
+├── normalized/          # 22MB - 572 papers in JSON format
+│   └── PMC*/           # One folder per paper
+│       └── normalized.json
+├── neo4j/              # 3.5MB - Knowledge graph data
+│   ├── graph_overview.json  # Full graph (2,582 nodes, 2,315 edges)
+│   ├── papers.json          # Paper metadata (267 papers)
+│   ├── statistics.json      # Graph statistics
+│   └── subgraphs/          # 267 individual paper subgraphs
+└── external/           # 3.3MB - External content
+    ├── news.ndjson
+    ├── explainers.ndjson
+    └── newsletters.ndjson
+```
+
+## 🚀 Quick Start
+
+### Prerequisites
+
 - Node.js 18+
-- Neo4j database (running on localhost:7687)
+- npm or yarn
 
-## Setup
-
-### 1. Install Python Dependencies
+### Installation
 
 ```bash
-python3.10 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
-
-### 2. Install Node.js Dependencies
-
-```bash
+# Install dependencies
 npm install
-```
 
-### 3. Configure Environment Variables
-
-Edit `.env.backend` to configure:
-- Neo4j connection settings
-- API settings
-- Data paths
-
-Edit `.env.local` to configure:
-- FastAPI backend URL (default: http://localhost:8000)
-
-## Running the Application
-
-### Option 1: Use the Startup Script (Recommended)
-
-```bash
-./start.sh
-```
-
-This will start both:
-- FastAPI backend on port 8000
-- Next.js frontend on available port (check logs/nextjs.log)
-
-Press `Ctrl+C` to stop all services.
-
-### Option 2: Manual Start
-
-**Terminal 1 - FastAPI Backend:**
-```bash
-source venv/bin/activate
-python -m uvicorn api.main:app --host 0.0.0.0 --port 8000
-```
-
-**Terminal 2 - Next.js Frontend:**
-```bash
+# Run development server
 npm run dev
 ```
 
-## Directory Structure
+The application will be available at http://localhost:3000
 
-```
-web_dev/
-├── api/                    # FastAPI backend
-├── kg/                     # Knowledge graph utilities
-├── data/                   # Data files (embeddings, FAISS index)
-├── cache/                  # Cache files
-├── venv/                   # Python virtual environment
-├── app/                    # Next.js frontend application
-├── components/             # React components
-├── lib/                    # Utility libraries
-├── logs/                   # Application logs
-├── requirements.txt        # Python dependencies
-├── .env.backend           # Backend environment variables
-├── .env.local             # Frontend environment variables
-├── start.sh               # Startup script
-└── README.md              # This file
+### Build for Production
+
+```bash
+# Build the application
+npm run build
+
+# Start production server
+npm start
 ```
 
-## API Endpoints
+## 📁 Project Structure
 
-### FastAPI Backend (http://localhost:8000)
+```
+knowledge-explorer/
+├── app/                    # Next.js App Router pages
+│   ├── page.tsx           # Home page (Scientist view)
+│   ├── kg-explorer/       # Knowledge Graph Explorer
+│   ├── gap-finder/        # Research Gap Analysis
+│   ├── consensus/         # Consensus Findings
+│   ├── insights/          # Research Insights
+│   ├── architect/         # Mission Architect
+│   ├── manager/           # Research Manager
+│   └── api/               # API routes
+│       ├── papers/        # Paper data APIs
+│       ├── parameters/    # Filter parameters
+│       ├── consensus/     # Consensus analysis
+│       ├── gap-finder/    # Gap analysis
+│       ├── insights/      # AI insights
+│       └── manager/       # Portfolio management
+├── components/            # React components
+│   ├── KnowledgeGraph.tsx # Cytoscape graph component
+│   └── ui/               # UI components (buttons, cards, etc.)
+├── lib/                  # Utilities and helpers
+│   ├── api/             # API client functions
+│   │   ├── static.ts    # Static data loader for KG
+│   │   ├── data.ts      # Paper data loader
+│   │   └── parameters.ts # Parameter extraction
+│   └── types.ts         # TypeScript type definitions
+├── public/
+│   └── data/            # Static data files (28MB)
+└── package.json
+```
 
-- `GET /health` - Health check
-- `GET /search?q=<query>` - Semantic search
-- `GET /answer?q=<question>` - Question answering with RAG
-- `GET /papers/{pmcid}` - Get paper details
-- `GET /kg/graph` - Get knowledge graph (overview)
-- `GET /kg/graph?center_node=<pmcid>` - Get subgraph centered on a paper
-- `GET /kg/gap` - Find research gaps
-- `GET /kg/consensus` - Get consensus findings
+## 🌐 Deployment
 
-### Next.js Frontend
+### Vercel (Recommended)
 
-- `/` - Home page
-- `/architect` - Mission Planner
-- `/kg-explorer` - Knowledge Graph Explorer
-- `/api/kg/graph` - Proxy to FastAPI /kg/graph
-- `/api/papers/[pmcid]` - Proxy to FastAPI /papers/{pmcid}
+This application is optimized for Vercel deployment:
 
-## Key Features
+1. **Push to GitHub**:
+```bash
+git add .
+git commit -m "Deploy to Vercel"
+git push origin main
+```
 
-### Knowledge Graph Explorer
-- Interactive graph visualization using Cytoscape.js
-- Search papers by PMCID
-- Direct Paper → Phenotype connections (Finding nodes hidden)
-- Truncated labels (Phenotype: 20 chars, others: 40 chars)
-- Hover tooltips for full labels
-- Node size: 120px × 120px
+2. **Deploy to Vercel**:
+   - Go to [vercel.com](https://vercel.com)
+   - Import your GitHub repository
+   - Framework preset: Next.js (auto-detected)
+   - Click "Deploy"
 
-### Mission Planner
-- View consensus phenotype findings
-- Priority-based display
+**Size**: ~30MB total (fits in Vercel free tier 100MB limit)
 
-## Logs
+### Environment Variables
 
-- `logs/fastapi.log` - FastAPI backend logs
-- `logs/nextjs.log` - Next.js frontend logs
+No environment variables required! All data is static and included in the build.
 
-## Troubleshooting
+## 📊 API Routes
 
-### FastAPI won't start
-- Check Neo4j is running: `docker ps | grep neo4j` or `systemctl status neo4j`
-- Check port 8000 is available: `lsof -i :8000`
-- Check logs: `cat logs/fastapi.log`
+### Papers
+- `GET /api/papers` - List all papers (572 papers)
+- `GET /api/papers?query=<text>` - Search papers by text
+- `GET /api/papers/[pmcid]` - Get specific paper details
 
-### Next.js won't start
-- Check port 3000 is available: `lsof -i :3000`
-- Check logs: `cat logs/nextjs.log`
-- Try clearing cache: `rm -rf .next`
+### Knowledge Graph
+- Static data loaded from `/data/neo4j/graph_overview.json`
+- Client-side filtering and loading
 
-### Graph not loading
-- Verify FastAPI is running: `curl http://localhost:8000/health`
-- Check Neo4j connection in `.env.backend`
-- Check browser console for errors
+### Parameters
+- `GET /api/parameters` - Get available filter options
+  - Organisms (17 types)
+  - Tissues (19 types)
+  - Exposures (8 types)
+  - Study types (8 types)
+  - Missions (5 types)
+  - Durations (4 categories)
 
-## Design System
+### Analysis
+- `GET /api/consensus` - Consensus phenotype findings
+- `GET /api/gap-finder?type=<exposure|organism|tissue>` - Gap analysis
+- `GET /api/insights` - Research insights
+- `GET /api/external` - External content (news, explainers)
 
-### Colors
-- **Background**: Deep charcoal (#0f172a)
-- **Card**: Slate (#1e293b)
-- **Primary**: Teal (#14b8a6)
-- **Secondary**: Orange (#f97316)
-- **Accent**: Cyan (#22d3ee)
+### Manager APIs
+- `GET /api/manager/portfolio-data` - Research portfolios
+- `GET /api/manager/gap-roi` - ROI analysis for gaps
+- `GET /api/manager/coverage-priority` - Coverage priorities
+- `GET /api/manager/redundancy` - Redundancy analysis
+
+## 🎨 Design System
+
+### Colors (Space Theme)
+- **Background**: Deep space black (`#0B0E13`)
+- **Primary**: Earth Blue (`#00B4D8`)
+- **Accent**: Solar Gold (`#FFB703`)
+- **Text**: Lunar Gray (`#E5E5E5`)
 
 ### Typography
 - **Font**: Geist Sans
-- **Monospace**: Geist Mono
+- **Monospace**: Space Mono
 
 ### Components
-- Rounded corners: 0.75rem
-- Card padding: 1.5rem
-- Soft shadows with 10% opacity
+- Rounded corners with glow effects
+- Glass-morphism cards
+- Smooth animations and transitions
 
-## Documentation
+## 🔧 Development
 
-See `/docs/front/` for detailed documentation:
-- `IMPLEMENTATION_PLAN.md` - Complete implementation guide
-- `DATA_SCHEMAS.md` - Data structure and API specifications
-- `README.md` - Quick reference
+### Scripts
 
-## Development Notes
+```bash
+npm run dev      # Start development server with Turbopack
+npm run build    # Build for production
+npm start        # Start production server
+npm run lint     # Run ESLint
+```
 
-- All views are fully functional with realistic mock data
-- Data structures match exact backend schema from task.md
-- Dark mode is the default theme
-- Responsive design for desktop and tablet
-- Accessible with keyboard navigation
+### Adding New Data
+
+1. **Papers**: Add to `public/data/normalized/PMC*/normalized.json`
+2. **Knowledge Graph**: Update `public/data/neo4j/graph_overview.json`
+3. **External Content**: Add to `public/data/external/*.ndjson`
+
+### Modifying the Knowledge Graph
+
+The Knowledge Graph uses static data from `public/data/neo4j/`:
+- Edit `graph_overview.json` to modify the full graph
+- Edit `subgraphs/PMC*.json` to modify individual paper graphs
+- Rebuild to apply changes
+
+## 📝 Key Features Details
+
+### Knowledge Graph Explorer
+- **Initial Load**: 7 Paper nodes + all connected Phenotypes (~60-80 nodes)
+- **Load More**: Adds 7 papers at a time (max 50)
+- **Label Display**: 30 chars on nodes, full text in details panel
+- **Tooltips**: Hover over nodes to see full labels
+- **Search**: Find papers by PMCID
+- **Layout**: Cola force-directed layout with optimized spacing
+
+### Gap Finder
+- **Heatmap**: Shows research coverage across parameters
+- **Filters**: Multi-select for organisms, tissues, exposures
+- **Gaps**: Highlights under-researched combinations
+- **Priority Levels**: High/Medium/Low priority gaps
+
+### Consensus Analysis
+- **Effect Sizes**: Standardized mean differences
+- **Confidence Intervals**: 95% CI for each study
+- **Agreement Score**: Percentage of studies agreeing on direction
+- **Outlier Detection**: Studies with conflicting findings
+
+## 🐛 Troubleshooting
+
+### Build Issues
+
+**Problem**: Build fails with module not found
+```bash
+# Clear cache and rebuild
+rm -rf .next node_modules
+npm install
+npm run build
+```
+
+**Problem**: Out of memory during build
+```bash
+# Increase Node.js memory
+export NODE_OPTIONS="--max-old-space-size=4096"
+npm run build
+```
+
+### Runtime Issues
+
+**Problem**: Papers not loading
+- Check `public/data/normalized/` exists
+- Verify file permissions: `chmod -R 755 public/data`
+
+**Problem**: Knowledge graph not rendering
+- Check browser console for errors
+- Verify `public/data/neo4j/graph_overview.json` exists
+- Clear browser cache
+
+**Problem**: Slow performance
+- Reduce initial node limit in KG Explorer
+- Use production build (`npm run build && npm start`)
+
+## 📚 Additional Documentation
+
+- `DEPLOYMENT_CHECKLIST.md` - Complete deployment guide
+- `BACKEND_DEPLOYMENT.md` - Backend server setup (optional)
+- `VERCEL_STATIC_DEPLOYMENT.md` - Static deployment guide
+- `ENHANCEMENTS.md` - Feature roadmap
+
+## 📄 License
+
+This project is for research and educational purposes.
+
+## 🤝 Contributing
+
+This is a research project. For questions or contributions, please open an issue.
+
+---
+
+**Built with ❤️ for space biology research**
