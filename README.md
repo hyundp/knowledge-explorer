@@ -288,8 +288,6 @@ npm run build
 
 ## 📚 Additional Documentation
 
-- `DEPLOYMENT_CHECKLIST.md` - Complete deployment guide
-- `BACKEND_DEPLOYMENT.md` - Backend server setup (optional)
 - `VERCEL_STATIC_DEPLOYMENT.md` - Static deployment guide
 - `ENHANCEMENTS.md` - Feature roadmap
 
